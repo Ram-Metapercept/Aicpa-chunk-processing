@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-26d73d27-9d7c-af04-8a37-7bf01635ecde" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Revenues</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.125" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.125</b> <xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_background.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-24cb739a-e826-fed0-f896-e2735ececaba/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.33">Paragraphs 5.6.33–5.6.61</xref> of chapter 5 of AICPA Audit and
+                        Accounting Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as
+                        published in 2022) contain the related revenue recognition implementation
+                        issue for brokers and dealers in securities applying FASB ASC 606 (see <xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.136">paragraph 5.136</xref> of this chapter). This content is presented in
+                        the “Revenue Streams” section under the heading “<xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_underwriting_revenues.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4a47ef8f-2644-b9d7-21e0-1238069d8496">Underwriting Revenues</xref>.”</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

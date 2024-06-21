@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-85bd7465-bd6c-5519-b6a3-6a84b3450b3f" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">SEC Rule 506 of Regulation D and SEC Rule 144A</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.97" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.97</b> In July 2013, the SEC amended Rule 506 of
+                    Regulation D and Rule 144A under the Securities Act of 1933 to implement Section
+                    201(a) of the Jumpstart Our Business Startups Act. The amendment to SEC Rule 506
+                    permits an issuer to engage in general solicitation or general advertising in
+                    offering and selling securities pursuant to SEC Rule 506, provided that all
+                    purchasers of the securities are accredited investors and the issuer takes
+                    reasonable steps to verify that such purchasers are accredited investors. The
+                    amendment to SEC Rule 506 also included a nonexclusive list of methods that
+                    issuers may use to satisfy the verification requirement for purchasers who are
+                    natural persons. The amendment to SEC Rule 144A provides that securities may be
+                    offered pursuant to SEC Rule 144A to persons other than qualified institutional
+                    buyers, provided that the securities are sold only to persons that the seller
+                    and any person acting on behalf of the seller reasonably believe are qualified
+                    institutional buyers. Form D was also amended to require issuers to indicate
+                    whether they are relying on the provision that permits general solicitation or
+                    general advertising in a SEC Rule 506 offering.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.98" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.98</b> To implement Section 926 of the Dodd-Frank
+                    Act, the SEC amended SEC Rule 506 to disqualify issuers and other market
+                    participants from relying on SEC Rule 506 if "felons and other ‘bad actors’" are
+                    participating in the SEC Rule 506 offering. Paragraph (d) of SEC Rule 506
+                    provides guidance on the bad actor disqualification.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_UUID-f0ee3559-7174-3a00-a68b-539be7eaa52d" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Guidance Considered in This Edition</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">This edition of the guide has been revised by the AICPA staff to include certain
+                changes necessary due to the issuance of relevant guidance since the guide was
+                originally issued, and other revisions as deemed appropriate. Relevant guidance
+                issued through August 1, 2023, has been considered in the development of this
+                edition of the guide. However, this guide does not include all accounting,
+                reporting, regulatory, and other requirements applicable to a broker-dealer. This
+                guide is intended to be used in conjunction with all applicable sources of relevant
+                guidance.</p>
+      <p class="- topic/p ">Relevant guidance that is issued and effective for public entities on or before
+                August 1, 2023, is incorporated directly in the text of this guide.</p>
+      <p class="- topic/p ">Relevant guidance issued but not yet effective for public entities as of August 1,
+                2023, but becoming effective for public entities on or before December 31, 2023, is
+                also presented directly in the text of the guide, but it is shaded gray and
+                accompanied by a footnote indicating the effective date of the new guidance. The
+                distinct presentation of this content is intended to aid the reader in
+                differentiating content that may not yet be effective for the reader’s purposes (as
+                part of the guide’s “dual guidance” treatment of applicable new guidance).</p>
+      <p class="- topic/p ">Relevant guidance issued but not yet effective for public entities as of August 1,
+                2023, and not becoming effective until after December 31, 2023, is referenced in a
+                “guidance update” box; that is, a box that contains summary information on the
+                guidance issued but not yet effective for public entities.</p>
+      <p class="- topic/p ">In updating this guide, all relevant guidance issued up to and including the
+                following was considered, but not necessarily incorporated, as determined based on
+                applicability:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">FASB Accounting Standards Update (ASU) No. 2023-03, <i class="+ topic/ph hi-d/i ">Presentation
+                            of Financial Statements (Topic 205), Income Statement — Reporting
+                            Comprehensive Income (Topic 220), Distinguishing Liabilities from Equity
+                            (Topic 480), Equity (Topic 505), and Compensation — Stock Compensation
+                            (Topic 718): Amendments to SEC Paragraphs Pursuant to SEC Staff
+                            Accounting Bulletin No. 120, SEC Staff Announcement at the March 24,
+                            2022 EITF Meeting, and Staff Accounting Bulletin Topic 6.B, Accounting
+                            Series Release 280 — General Revision of Regulation S-X: Income or Loss
+                            Applicable to Common Stock (SEC Update)</i>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">SEC Release Nos. 33-11216; 34-97989, <i class="+ topic/ph hi-d/i ">Cybersecurity Risk
+                            Management, Strategy, Governance, and Incident
+                        Disclosure</i>
+            </p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Users of this guide should consider guidance issued subsequent to these items to
+                determine their effect, if any, on entities and engagements covered by this guide.
+                In determining the applicability of recently issued guidance, its effective date
+                should also be considered.</p>
+      <p class="- topic/p ">The changes made to this edition of the guide are identified in <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd_appB/aag-brd_appB.dita#UUID-f00ecd52-ce5d-3487-cd64-1cf423c456c9">appendix B</xref>, "Schedule of Changes Made to the Text From the Previous
+                Edition." The changes do not include all those that might be considered necessary if
+                the guide had been subjected to a comprehensive review and revision.</p>
+      <p class="- topic/p ">PCAOB quoted content is from PCAOB Auditing Standards and PCAOB <i class="+ topic/ph hi-d/i ">Staff Audit Practice Alerts</i>, ©2003–2023, Public Company
+                Accounting Oversight Board. All rights reserved. Used by permission.</p>
+      <p class="- topic/p ">FASB quoted content is from the FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                    Codification</i> ©2023, Financial Accounting Foundation. All rights
+                reserved. Used by permission.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

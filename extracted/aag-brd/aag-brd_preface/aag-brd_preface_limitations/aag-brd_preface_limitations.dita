@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_UUID-1d296039-232d-4dd4-bb85-1334c5b9f8a8" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Limitations and Relationships to Other Authoritative
+                Literature</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">The guide is intended to highlight significant matters and establish general
+                guidance. It is not intended to provide a comprehensive discussion of all possible
+                matters of significance related to broker-dealers.</p>
+      <p class="- topic/p ">Consulting the accounting and financial reporting sections of the guide is not a
+                replacement for a careful reading of specified authoritative literature. Internal
+                controls over financial reporting are discussed in the context of operational
+                controls commonly found at broker-dealers. Although they may correspond to controls
+                that are subject to procedures performed in an audit engagement performed in
+                accordance with PCAOB standards, internal controls over financial reporting are not
+                presented in that context and are not intended to address the considerations of such
+                engagements.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

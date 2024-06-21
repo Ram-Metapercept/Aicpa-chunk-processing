@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-ff52118a-3a0b-047b-070f-6f7a1a20f74d" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Background</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.111" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.111</b> Managed accounts or other pooled investment
+                                vehicles (collectively, "funds") enter into agreements with
+                                distributors to distribute (that is, sell) shares to investors.
+                                    <ph class="- topic/ph ">
+            <fn callout="5" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev-fn5" class="- topic/fn ">
+               <p class="- topic/p ">Such funds can have varying strategies (for example,
+                                        investment-grade bonds, emerging market, high-yield, and
+                                        distressed, among others).</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-rev5_background3.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-ff52118a-3a0b-047b-070f-6f7a1a20f74d/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev-fn5"/>
+         </ph>There are different ways distributors may be compensated
+                                for the same service. Fees may be paid up front, over time (for
+                                example, 12b-1 fees) on the basis of a contractual rate applied to
+                                the monthly or quarterly market value of the fund (that is, net
+                                asset value [NAV]), upon investor exit from the fund (that is, a
+                                contingent deferred sales charge [CDSC]), or as a combination
+                                thereof. <ph class="- topic/ph ">
+            <fn callout="6" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev-fn6" class="- topic/fn ">
+               <p class="- topic/p ">For example, 12b-1 fees may be combined with contingent
+                                        deferred sales charge (CDSC) fees that decline over
+                                        time.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-rev5_background3.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-ff52118a-3a0b-047b-070f-6f7a1a20f74d/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev-fn6"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.112" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.112</b> Up-front, ongoing, and CDSC fees are
+                                discussed later as "distribution fees."</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.113" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.113</b> Distributors may incur costs such as
+                                commission charges for the performance of sales or distribution
+                                services by sales representatives (their employees) or third-party
+                                distributors on their behalf.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

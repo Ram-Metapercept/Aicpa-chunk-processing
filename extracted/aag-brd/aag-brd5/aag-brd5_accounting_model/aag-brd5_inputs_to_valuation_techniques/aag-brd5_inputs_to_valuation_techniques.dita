@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-896b7304-bd47-d2b1-de83-248f2d3be2d0" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Inputs to Valuation Techniques</title>
+   <body class="- topic/body ">
+      <note type="important" class="- topic/note ">
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Update 5-1 <i class="+ topic/ph hi-d/i ">Accounting and Reporting</i>: Equity
+                        Securities Subject to Contractual Sale Restrictions</b>
+         </p>
+         <p class="- topic/p ">FASB Accounting Standards Update (ASU) No. 2022-03, <i class="+ topic/ph hi-d/i ">Fair Value
+                            Measurement (Topic 820): Fair Value Measurement of Equity Securities
+                            Subject to Contractual Sale Restrictions</i>, issued in June
+                        2022, is effective for public business entities for fiscal years beginning
+                        after December 15, 2023, and interim periods within those fiscal years. For
+                        other entities, this ASU is effective for fiscal years beginning after
+                        December 15, 2024, and interim periods within those fiscal years. Early
+                        adoption is permitted for both interim and annual financial
+                        statements.</p>
+         <p class="- topic/p ">The amendments in this ASU generally should be applied prospectively with
+                        any adjustments from the adoption recognized in earnings and disclosed on
+                        the adoption date. However, <i class="+ topic/ph hi-d/i ">investment companies</i>, as
+                        defined under FASB ASC 946, <i class="+ topic/ph hi-d/i ">Financial Services — Investment
+                            Companies</i>, should apply the amendments to only investments in
+                        equity securities subject to contractual sale restrictions executed or
+                        modified on or after the adoption date.</p>
+         <p class="- topic/p ">ASU No. 2022-03 clarifies that a contractual restriction on the sale of an
+                        equity security (1) is not considered part of the unit of account of the
+                        equity security and not considered when measuring fair value and (2) cannot
+                        be recognized and measured as a separate unit of account. This ASU also
+                        requires certain disclosures for equity securities subject to contractual
+                        sale restrictions.</p>
+         <p class="- topic/p ">This edition of the guide has not been updated to reflect changes as a
+                        result of this ASU; however, the section that follows will be updated in a
+                        future edition. Readers are encouraged to consult the full text of the ASU
+                        on FASB’s website at <xref scope="external" format="html" class="- topic/xref " href="https://www.fasb.org">www.fasb.org</xref>.</p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.15</b> FASB ASC
+                    820-10-35-36 notes that valuation techniques used to measure fair value should
+                    maximize the use of relevant observable inputs and minimize the use of
+                    unobservable inputs. Markets in which inputs might be observable for some assets
+                    and liabilities (for example, financial instruments) include, for example,
+                    exchange markets, dealer markets, brokered markets, and principal-to-principal
+                    markets.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.16</b> A reporting
+                    entity should select inputs that are consistent with the characteristics of the
+                    asset or liability that market participants would take into account in a
+                    transaction for the asset or liability. In some cases, those characteristics
+                    result in the application of an adjustment, such as a premium or discount (for
+                    example, a control premium or noncontrolling interest discount). However, a fair
+                    value measurement should not incorporate a premium or discount that is
+                    inconsistent with the unit of account in the guidance that requires or permits
+                    the fair value measurement. Premiums or discounts that reflect size as a
+                    characteristic of the reporting entity’s holding (blockage factor) rather than
+                    as a characteristic of the asset or liability (for example, a control premium
+                    when measuring the fair value of a controlling interest) are not permitted in a
+                    fair value measurement. In all cases, if there is a quoted price in an active
+                    market (that is, a level 1 input) for an asset or a liability, a reporting
+                    entity should use that quoted price without adjustment when measuring fair
+                    value, except as specified in FASB ASC 820-10-35-41C.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

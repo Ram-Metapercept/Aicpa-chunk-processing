@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">SEC Rule 15c3-3, “Customer Protection — Reserves and Custody of
+                    Securities”</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.11</b> The Customer
+                    Protection Rule is designed to accomplish the following purposes:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">To ensure that customers’ funds held by broker-dealers, including
+                            funds derived through the lending, hypothecation, and other permissible
+                            uses of customers’ securities, are used in specific areas of the
+                            broker-dealers’ business related to serving its customers, or otherwise
+                            deposited into a reserve account</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To require brokerage firms promptly to obtain and thereafter maintain
+                            possession or control of all fully paid securities and excess-margin
+                            securities carried for the accounts of customers</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To effectuate a separation of the brokerage operation from that of
+                            dealer activities such as underwriting and trading</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To ensure that broker-dealers keep more current records. In this
+                            regard, the rule requires daily determination that securities which need
+                            to be protected are in adequate control locations and frequent
+                            computations of the customer reserve requirement</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To move the entire securities industry into a more efficient mode of
+                            operation prohibiting customer securities from being kept in
+                            unacceptable locations</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To require broker-dealers to operate conservatively by way of limiting
+                            the expansion of their business through the use of customers’
+                            funds</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To continue the program of improving broker-dealer financial
+                            responsibility</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.12</b> Those objectives
+                    are accomplished through the two main sections of the rule that provide for
+                        (<i class="+ topic/ph hi-d/i ">a</i>) the requirement that the
+                    broker-dealer obtain and maintain possession or control of fully paid and
+                    excess-margin customer securities and (<i class="+ topic/ph hi-d/i ">b</i>) the
+                    reserve formula computations and the maintenance of a "Special Reserve Bank
+                    Account for the Exclusive Benefit of Customers" and/or “Special Reserve Bank
+                    Account for Brokers and Dealers.”</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.13</b> Due to their
+                    emphasis on safeguarding customer assets, regulators have consistently taken a
+                    stringent enforcement approach to SEC Rule 15c3-3, closely scrutinizing any
+                    apparent differences between broker-dealer practices occurring at the
+                    computation date and those occurring on a day-to-day basis. Stringent
+                    enforcement has included significant fines, public censure, and the banning of
+                    officers from the security business for periods of time. Accordingly,
+                    broker-dealers often retain an additional amount, or "cushion," in the reserve
+                    accounts.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.14</b> The term
+                        <i class="+ topic/ph hi-d/i ">PAB account</i>, as defined in SEC Rule 15c3-3(a)(16), is a
+                    proprietary securities account of a broker or dealer (which includes a foreign
+                    broker or dealer, or foreign bank acting as a broker or dealer) other than a
+                    delivery-versus-payment account or a receipt-versus-payment account and does not
+                    include an account that has been subordinated to the claims of creditors of the
+                    carrying broker or dealer.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.15</b> Under the
+                    financial responsibility rules, there is no requirement that PAB account owners
+                    (for example, introducing broker-dealers) obtain a written agreement from the
+                    carrying firm indicating that it will perform the PAB reserve computation to
+                    receive allowable asset treatment under SEC Rule 15c3-1 for proprietary assets
+                    held at a carrying broker. SEC Rule 15c3-3 requires the carrying firm to perform
+                    the PAB reserve computation, if applicable. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd6/aag-brd6_financial_statements_and_schedules/aag-brd6_financial_statements_and_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-c1b420e1-5f7a-64d9-dd15-ae46cbfe5889/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6_exhibit_9">exhibit 6-9</xref> of chapter 6, "Financial Statement Presentation and
+                    Classification," of this guide for illustrative examples of the supplementary
+                    information required to be filed with the financial statements.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.16</b> The restrictions
+                    on the use of customers' funds and securities and the requirement that
+                    securities be brought promptly under physical possession or control are designed
+                    to protect customer assets in the event that a broker-dealer is liquidated. SEC
+                    Rule 15c3-3 also acts as a control over the unwarranted expansion of a
+                    broker-dealer's business by prohibiting the use of customers' funds and
+                    customer-derived funds in other aspects of the broker-dealer's business, such as
+                    underwriting, trading, and travel and entertainment.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.17</b> SEC Rule 15c3-3
+                    offers further customer protection by requiring, under certain circumstances, a
+                    broker-dealer to increase the amount of its cash and/or qualified securities
+                    reserve on deposit under the formula computation as a result of undelivered
+                    securities (fails and short sales) related to customer positions, aged
+                    receivables, security positions that cannot be located or verified, and
+                    unresolved security and money differences. Reserve requirement increases related
+                    to the latter two conditions are intended to spur improvements in operational
+                    practices and controls.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.18</b> Under SEC Rule
+                    15c3-3, the term <i class="+ topic/ph hi-d/i ">customer</i> is defined as any
+                    person from whom, or on whose behalf, a broker-dealer has received, has
+                    acquired, or holds funds or securities for the account of that person. It does
+                    not include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Broker-dealers</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Municipal securities dealer or a government securities broker or
+                            government securities dealer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">General partner, managing member of a limited liability company, or
+                            director or principal officer of the broker or dealer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A counterparty who has delivered collateral to an over-the-counter
+                            (OTC) derivatives dealer who registers with the SEC under a limited
+                            regulatory structure, as discussed in <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_otc_derivatives_dealers/aag-brd3_otc_derivatives_dealers.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-97c6b4d1-22de-59ec-ecb1-4d1022554230/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393063665660">paragraph 3.186</xref> of this chapter, pursuant to a transaction
+                            in an eligible OTC derivative instrument, or pursuant to the OTC
+                            derivatives dealer's cash management securities activities or ancillary
+                            portfolio management securities activities, and who has received certain
+                            prominent written notices from the OTC derivatives dealer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Any person, to the extent they have a claim on property or funds that
+                            by contract, agreement or understanding, or law are part of the capital
+                            or subordinated debt of the broker-dealer</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.19" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.19</b> The following
+                    broker-dealer accounts are also considered customer accounts:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">An omnibus account in compliance with Regulation T</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A special custody account for the exclusive benefit of customers in
+                            compliance with SEC Rule 15c3-3(c)(7)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A special custody account for accommodation transfers for the
+                            exclusive benefit of customers in compliance with SEC Rule
+                            15c3-3(c)(7)</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.20" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.20</b> <i class="+ topic/ph hi-d/i ">Possession or control</i>. The SEC requires
+                    broker-dealers carrying accounts of customers and PAB to promptly obtain and
+                    thereafter maintain the physical possession or control of fully paid-for
+                    securities and excess-margin securities carried for the account of customers and
+                    PAB, as applicable. <i class="+ topic/ph hi-d/i ">Fully paid-for securities</i>
+                    are defined to include all securities carried for the account of a customer in a
+                        <i class="+ topic/ph hi-d/i ">cash account</i>, as defined in Regulation T,
+                    as well as certain securities within the meaning of Regulation T held in a
+                    customer margin account.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.21</b> The rule defines
+                        <i class="+ topic/ph hi-d/i ">excess-margin securities</i> as those
+                    customer securities carried in a customer's general or special accounts
+                    (referred to in SEC Rule 15c3-3 as margin accounts), as defined in Regulation T,
+                    having a market value <ph class="- topic/ph ">
+            <fn callout="11" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393027407826" class="- topic/fn ">
+               <p class="- topic/p ">The terms <i class="+ topic/ph hi-d/i ">market value</i> and
+                                <i class="+ topic/ph hi-d/i ">mark-to-market</i> are used within
+                            this chapter as operational terms; accordingly, in practice they may not
+                            necessarily be synonymous to the terms <i class="+ topic/ph hi-d/i ">fair
+                                value</i> and <i class="+ topic/ph hi-d/i ">subsequently measured
+                                at fair value</i>, which are used within the financial
+                            statements in accordance with FASB Accounting Standards Update No.
+                            2012-04, <i class="+ topic/ph hi-d/i ">Technical Corrections and
+                                Improvements</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393027407826"/>
+         </ph> in excess of 140% of the total of the debit balances in the
+                    customer's account(s) where the net debit balance is determined by combining
+                    both debt and credit balances in all of a customer’s security accounts.
+                        <ph class="- topic/ph ">
+            <fn callout="12" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393070991752" class="- topic/fn ">
+               <p class="- topic/p ">See FINRA SEA Rule 15c3-3 and Related Interpretations, available at
+                                <xref scope="external" format="html" class="- topic/xref " href="https://www.finra.org/rules-guidance/guidance/interpretations-financial-operational-rules/sea-rule-15c3-3-and-related-interpretations">https://www.finra.org/rules-guidance/guidance/interpretations-financial-operational-rules/sea-rule-15c3-3-and-related-interpretations</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393070991752"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.22</b> There are two
+                    exceptions to the possession or control requirements as found in SEC Rule
+                    15c3-3:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">A temporary business lag between the time when a security is required
+                            to be in the possession or control of the broker-dealer and the time it
+                            is taken into physical possession or control is one exception. The
+                            broker-dealer must show it is making a timely and good-faith effort to
+                            establish prompt physical possession or control.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer borrows from its customers fully paid or
+                            excess-margin securities that it is required to have in possession or
+                            control and enters into a written securities borrowing agreement with
+                            the customer setting forth the compensation for the securities
+                            borrowing, the rights or liabilities of the parties, and the identity of
+                            the securities borrowed at the time of the borrowing. The agreement
+                            should also specify that upon the execution or at least by the close of
+                            the business day of the securities borrowing, the broker-dealer is to
+                            provide the customer with certain qualified collateral at least equal to
+                            the market value of the securities borrowed and must mark the securities
+                            borrowed to the market not less than daily. The agreement should also
+                            contain a prominent notice that the provisions of the Securities
+                            Investor Protection Act of 1970 may not protect the customer with
+                            respect to the securities loaned.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.23</b> <i class="+ topic/ph hi-d/i ">Possession or control requirements</i>. The
+                    broker-dealer should perform the following procedures daily to comply with the
+                    rule's possession or control requirements:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Determine which customer securities are fully paid for or are excess
+                            margin.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Identify which fully paid and excess-margin securities are in physical
+                            possession or control.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Take appropriate action to obtain proper possession or control of
+                            fully paid or excess-margin securities not already in physical
+                            possession or control.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.24" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.24</b> For cash
+                    accounts, the broker-dealer should specifically identify customer payments to
+                    security purchases and segregate securities when the securities have been paid
+                    for.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.25</b> The time at
+                    which instructions (lockups) should be issued to the cashiering function to
+                    acquire possession or control on the purchase of securities by customers is on
+                    or before the business day following the settlement date or the business day
+                    following the actual date of receipt of payment, whichever is later.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.26</b> The time at
+                    which instructions (releases) may be issued to the cashiering function to
+                    release from possession or control on sales of securities by customers is not
+                    earlier than the morning of business on settlement date minus one business day,
+                    which is deemed to allow adequate time for processing securities for pending
+                    deliveries. Such securities cannot be used for securities loans or bank
+                    loans.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.27</b> Most
+                    broker-dealers have fully automated the task of determining segregation
+                    requirements. These systems determine the quantity of fully paid or
+                    excess-margin securities in each customer's account as of the close of business
+                    each day. These systems generally use memo fields on the stock record to
+                    indicate the amount of securities that should be segregated.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.28</b> The
+                    broker-dealer should determine, by customer, the amount of each security that
+                    should be segregated. The broker-dealer should then determine the total
+                    securities to be segregated. Securities are considered to be under the control
+                    of the broker-dealer if they are held</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">in the custody or control of a clearing corporation or
+                            depository.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">in the custody or control of a bank (as defined in Section 3(a)(6) of
+                            the 1934 Act), provided that the delivery of such securities does not
+                            require payment, and the bank acknowledges in writing that it, or
+                            another party through it, cannot impose a lien or claim on such
+                            securities. See item (<i class="+ topic/ph hi-d/i ">c</i>) regarding
+                            foreign depositories because it may apply to U.S.-based banks holding
+                            customer foreign securities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">in the custody of a foreign depository, foreign clearing agency, or
+                            foreign custodian bank designated as a satisfactory control location for
+                            securities by the SEC. This may be problematic due to the use by the
+                            designated domestic or foreign custodian of subcustodians, over which
+                            the former has no control. Therefore, among other conditions, the
+                            broker-dealer is required to apply to the SEC for foreign securities
+                            held in foreign depositories to be considered a good control
+                            location.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">in transfer for less than 40 calendar days or, if beyond 40 days,
+                            confirmed in writing as being in transfer (the securities are the
+                            subject of bona fide items of transfer).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">in transit for five business days or less between the offices of a
+                            broker-dealer (for example, between the main and branch offices).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">in a special omnibus account carried for the account of any customer
+                            by another broker-dealer and carried in the name of the broker-dealer in
+                            compliance with Regulation T (such securities are considered in control
+                            to the extent the broker-dealer has instructed the carrying
+                            broker-dealer to maintain physical possession or control of them free of
+                            any charge, lien, or other claim in favor of the carrying firm).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">in a location designated by the SEC upon application from the
+                            broker-dealer as adequate for the protection of customer
+                            securities.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.29</b> Some common
+                    examples of fully paid or excess-margin securities that are not considered to be
+                    in a broker-dealer's physical possession or control include the
+                    following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Securities collateralizing bank loans</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Securities loaned to other broker-dealers</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Securities failed to receive</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Stock dividend receivables, stock splits or receivables</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.30</b> <i class="+ topic/ph hi-d/i ">Special reserve bank account for the exclusive benefit of
+                        customers and PAB accounts and notification of banks</i>. As required
+                    by SEC Rule 15c3-3, every broker-dealer, unless otherwise exempt, should
+                    maintain a "Special Reserve Bank Account for the Exclusive Benefit of Customers"
+                    (Customer Reserve Bank Account) and a "Special Reserve Bank Account for Brokers
+                    and Dealers" (PAB Reserve Bank Account) separate from all other bank accounts of
+                    the broker-dealer. A broker-dealer required to maintain a Customer Reserve Bank
+                    Account and PAB Reserve Bank Account or who maintains a Special Account for the
+                    Exclusive Benefit of Customers under paragraph (k)(2)(i) of Rule 15c3-3 (Special
+                    Account) must obtain and preserve a written notification from each bank with
+                    which it maintains a Customer Reserve Bank Account, a PAB Reserve Bank Account,
+                    or a Special Account that the bank was informed that all cash and/or qualified
+                    securities deposited therein are being held by the bank for the exclusive
+                    benefit of the customers and account holders of the broker-dealer in accordance
+                    with the regulations of the SEC, and are being kept separate from any other
+                    accounts maintained by the broker-dealer with the bank. The broker-dealer must
+                    also have a written contract with the bank which provides that the cash and/or
+                    qualified securities will at no time be used directly or indirectly as security
+                    for a loan to the broker-dealer by the bank and will not be subject to any
+                    right, charge, security interest, lien or claim of any kind in favor of the bank
+                    or any person claiming through the bank. In the reserve bank accounts, the
+                    broker-dealer should at all times maintain, through deposits made therein, cash
+                    or qualified securities, or both, in an amount not less than the amount computed
+                    under the rule's reserve formula. Rule 15c3 prohibits the broker-dealer from
+                    maintaining cash deposits in the reserve accounts if the bank is affiliated and
+                    limits the amount of cash that can be deposited in nonaffiliated bank accounts
+                    to 15% of the nonaffiliated bank’s equity capital as reported by the
+                    nonaffiliated bank in its most recent Consolidated Reports of Condition and
+                    Income (Call Report) or any successor form the nonaffiliated bank is required to
+                    file by its appropriate Federal banking agency. <ph class="- topic/ph ">
+            <fn callout="13" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393027758602" class="- topic/fn ">
+               <p class="- topic/p ">See the no-action letter dated February 26, 2014, from SEC Division of
+                            Trading and Markets to FINRA regarding broker-dealers holding cash in a
+                            reserve account at a non-affiliated U.S. branch of a foreign bank under
+                            Rule 15c3-3. The letter is available at <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/divisions/marketreg/mr-noaction/2014/finra-022614-15c3.pdf">www.sec.gov/divisions/marketreg/mr-noaction/2014/finra-022614-15c3.pdf</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393027758602"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.31</b> <i class="+ topic/ph hi-d/i ">Reserve formula computations</i>. Exhibit A of SEC Rule
+                    15c3-3 provides a detailed formula for determining the customer and PAB reserve
+                    bank account requirements. The rule requires the reserve to be calculated as the
+                    excess of customer-related credits over customer-related debits. The formula is
+                    intended to limit the broker-dealer's use of customer funds and encompasses
+                    receivables from and payables to customers, as well as transactions that involve
+                    customer securities. The computation is limited solely to customer-related
+                    debits and credits, with a few exceptions and adjustments (such as aged
+                    differences and receivables). In the “Notes Regarding The PAB Reserve Bank
+                    Account Computation” section of SEC Rule 15c3-3, a specific note is included
+                    which indicates that broker-dealers should use the formula prescribed in exhibit
+                    A of that rule for computing the PAB reserve requirement by substituting the
+                    term “PAB accounts” where references to “accounts,” “customer accounts,” or
+                    “customers” appear.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.32</b> In addition, SEC
+                    Rule 15c3-3 stipulates the designated times for performing the computations. The
+                    time frames may need to be adjusted when the broker-dealer is located outside of
+                    the time zone that its normal home office (main headquarter) is in. See
+                    Interpretation No. 99-5 issued from the SEC to the New York Stock Exchange
+                    (NYSE) in May 1999. The designated times are as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">For broker-dealers required to make weekly computations, the
+                            computations should be made as of each week's end and at month's end
+                            (that is, the last business day of the week or month), with necessary
+                            deposits made no later than one hour after the opening of banks on the
+                            second business day after the computation date. The computation is not
+                            required for the week's end following a computation at month's
+                            end.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monthly computations should be made only if the broker-dealer does not
+                            have aggregate indebtedness in excess of 800% of net capital and has
+                            less than $1 million in customer credits. Deposits are also due no later
+                            than 1 hour after the opening of banks on the second business day after
+                            the computation date.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.33</b> In conjunction
+                    with its annual year-end reporting, a broker-dealer that does not file an
+                    exemption report (as discussed in the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc">Exemption Reports</xref>” section of this chapter) is required to make
+                    certain assertions, in a compliance report, regarding Internal Controls Over
+                    Compliance related to the possession or control requirements and Internal
+                    Controls Over Compliance and specific compliance with the reserve elements of
+                    the Customer Protection Rule. The broker-dealer’s auditor is required to perform
+                    an examination of the assertions in the compliance report, following PCAOB
+                    standards, and issue a report based on that examination. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_filings_concurrent_with_the/aag-brd3_compliance_or_exemption_report/aag-brd3_compliance_or_exemption_report.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-ccbd6894-6572-12b2-66b9-709b7a0d3cb1/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393056658188">paragraph 3.156</xref> of this chapter for further discussion. <ph class="- topic/ph ">
+            <fn callout="14" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393028170972" class="- topic/fn ">
+               <p class="- topic/p ">As discussed in <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393044773698">footnote 39</xref>, broker-dealer financial statements that are
+                            filed with the SEC must be certified by a PCAOB registered public
+                            accounting firm. The term <i class="+ topic/ph hi-d/i ">independent
+                                auditor</i>, as used in this guide, assumes the firm is
+                            registered with the PCAOB, as required. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.122">paragraph 3.122</xref> of this chapter for additional information
+                            regarding independence of the accountant.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393028170972"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.34" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.34</b> <i class="+ topic/ph hi-d/i ">Bank sweep products</i>. Broker-dealers that carry
+                    customer accounts may offer bank sweep programs as a means to place customer
+                    funds in an account subject to Federal Deposit Insurance Corporation (FDIC)
+                    coverage while earning interest on those funds.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.35" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.35</b> In a <i class="+ topic/ph hi-d/i ">sweep program</i>, customer funds are transferred out
+                    of a broker-dealer customer account to a money market fund or an
+                    interest-bearing account for the customer at a bank often affiliated with the
+                    broker-dealer. Broker-dealers that offer sweep programs in which customer funds
+                    leave the broker-dealer and are held for any period of time by a party other
+                    than the bank must address critical issues relating to customer protection and
+                    net capital requirements. Customer credit balances that leave the broker-dealer
+                    and are not immediately reinvested in an FDIC-protected account may be deemed to
+                    be included as a credit in the computation of SEC Rule 15c3-3 (customer
+                    reserve). In addition, any receivable on the broker-dealer’s books resulting
+                    from a sweep may be deemed to be a nonallowable asset in the computation of SEC
+                    Rule 15c3-1 (net capital). <ph class="- topic/ph ">
+            <fn callout="15" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393028649550" class="- topic/fn ">
+               <p class="- topic/p ">On May 15, 2020, the SEC Division of Trading and Markets issued a
+                            no-action letter concerning the treatment of certain receivables under
+                            Rule 15c3-1. The no-action letter was issued in response to a request
+                            from the Capital Steering Committee of the Securities Industry and
+                            Financial Markets Association (SIFMA) for assurances that the SEC staff
+                            of the Division of Trading and Markets would not recommend enforcement
+                            action to the SEC under Rule 15c3-1 of the 1934 Act if broker-dealers
+                            treat certain receivables resulting from bank sweep programs as
+                            allowable assets, as set forth more fully in SIFMA’s letter dated May
+                            15, 2020. The implications to Rules 15c3-1 and 15c3-3 are dependent on
+                            the conditions described within the letter.</p>
+               <p class="- topic/p ">    Readers are encouraged to read the no-action letter in its
+                            entirety, which is available at <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/divisions/marketreg/mr-noaction/2020/sifma-15c3-051520.pdf">https://www.sec.gov/divisions/marketreg/mr-noaction/2020/sifma-15c3-051520.pdf</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393028649550"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.36" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.36</b> The financial
+                    responsibility rules require written affirmative consent from customers and
+                    certain required disclosures to those customers who participate in sweep
+                    programs. Refer to SEC Release No. 34-70072, <i class="+ topic/ph hi-d/i ">Financial
+                        Responsibility Rules for Broker-Dealers,</i> for further information
+                    on amendments to SEC Rule 15c3-3 related to the use of sweep programs.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.37" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.37</b> <i class="+ topic/ph hi-d/i ">Broker-dealers claiming exemption from SEC Rule
+                        15c3-3</i>. Certain broker-dealers operate completely pursuant to the
+                    exemptive provisions of Rule 15c3-3. In doing so, the broker-dealer is not
+                    required to comply with the remaining provisions of that rule, such as
+                    computations of amounts required to be on deposit in the "Special Reserve Bank
+                    Account for the Exclusive Benefits of Its Customers," possession or control
+                    requirements, and the related recordkeeping. The detailed requirements to be met
+                    to qualify for this exemption are described in paragraph (k) of Rule 15c3-3 and
+                    need to be considered in connection with the rule in its entirety. <ph class="- topic/ph ">
+            <fn callout="16" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393028703430" class="- topic/fn ">
+               <p class="- topic/p ">The SEC Division of Trading and Markets prepared responses to
+                            questions about certain provisions of the broker-dealer financial
+                            responsibility rules during the COVID-19 pandemic. The FAQ is available
+                            at <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/tm/faq-covid-19-broker-dealer-financial-responsibility-rules">https://www.sec.gov/tm/faq-covid-19-broker-dealer-financial-responsibility-rules</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393028703430"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.38" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.38</b> There may be
+                    circumstances in which a broker-dealer has not held customer securities or funds
+                    during the fiscal year but does not fit into one of the exemptive provisions of
+                    SEC Rule 15c3-3. These scenarios require an evaluation of the facts and
+                    circumstances to determine the compliance requirements of SEC Rule 15c3-3 and
+                    the annual reporting requirements pursuant to SEC Rule 17a-5. See the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc">Exemption Reports</xref>” section of this chapter.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.39</b> In conjunction
+                    with its annual year-end reporting, a broker-dealer that files an exemption
+                    report (as discussed in the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc">Exemption Reports</xref>” section of this chapter), is required to make
+                    certain assertions, in an exemption report, regarding its claim of exemption
+                    and/or relevant business activities (as applicable) and any instances of
+                    identified exceptions based on its claim and/or business activities. The
+                    broker-dealer’s auditor is required to perform a review of the assertions in the
+                    exemption report, following PCAOB standards, and issue a report based on that
+                    review. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_filings_concurrent_with_the/aag-brd3_compliance_or_exemption_report/aag-brd3_compliance_or_exemption_report.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-ccbd6894-6572-12b2-66b9-709b7a0d3cb1/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393056658188">paragraph 3.156</xref> of this chapter for further discussion. <ph class="- topic/ph ">
+            <fn callout="17" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393071103414" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_3/aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393028170972">footnote 14</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393071103414"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.40" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.40</b> In reporting on
+                    a broker-dealer exempt from SEC Rule 15c3-3, accompanying the annual financial
+                    statements, the supplemental schedule titled “Computation of Net Capital Under
+                    Rule 15c3-1” and other schedules from Part II or Part IIA of Form X-17A-5 are
+                    included in accordance with SEC Rule 17a-5, as applicable.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.41" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.41</b> <i class="+ topic/ph hi-d/i ">Notification requirements</i>. All broker-dealers are
+                    required to make certain notifications to the regulators if instances of
+                    noncompliance exist. In addition, a carrying broker-dealer is required to make a
+                    notification to the regulators if a material weakness (as defined by SEC Rule
+                    17a-5) exists. A <i class="+ topic/ph hi-d/i ">material weakness</i>
+         <ph class="- topic/ph ">
+            <fn callout="18" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393029319798" class="- topic/fn ">
+               <p class="- topic/p ">A <i class="+ topic/ph hi-d/i ">material weakness</i>, as defined in
+                            SEC Rule 17a-5, is a deficiency, or a combination of deficiencies, in
+                            Internal Control Over Compliance such that there is a reasonable
+                            possibility that noncompliance with SEC Rule 15c3-1, SEC Rule
+                            15c3-3(p)(3), or SEC Rule 15c3-3(e) will not be prevented or detected on
+                            a timely basis or that noncompliance to a material extent with SEC Rule
+                            15c3-3, except for paragraph (e), SEC Rule 15c3-3(p), except for
+                            paragraph (p)(3), SEC Rule 17a-13, or any Account Statement Rule will
+                            not be prevented or detected on a timely basis. The aforementioned
+                            definition is separate and distinct from the definition of <i class="+ topic/ph hi-d/i ">material weakness</i> in internal control over
+                            financial reports (as in PCAOB <xref format="dita" class="- topic/xref " href="../../../../ps-pcaob/auditing_reorganized/as_general_auditing_standards/as_1300/as_1305/as_1305.dita#UUID-dcb432dd-4f43-4854-a058-735f99713ffa">AS 1305</xref>, <i class="+ topic/ph hi-d/i ">Communications About
+                                Control Deficiencies in an Audit of Financial
+                            Statements</i>). <unknown id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_N661755d19461b" class="- topic/unknown ">AS 1305</unknown>
+               </p>
+               <p class="- topic/p ">    All AS sections can be found in <xref format="dita" class="- topic/xref " href="../../../../ps-pcaob.dita#UUID-31f351fd-04cd-2975-d7ef-2e4f833a3071">
+                     <i class="+ topic/ph hi-d/i ">PCAOB Standards and Related
+                                    Rules</i>
+                  </xref>. <unknown id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_N661755d1979b0" class="- topic/unknown ">PCAOB Standards and Related
+                            Rules</unknown>
+               </p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393029319798"/>
+         </ph> is defined with respect to the compliance report; therefore,
+                    notification requirements to regulatory bodies regarding material weaknesses
+                    apply only to carrying broker-dealers. <ph class="- topic/ph ">
+            <fn callout="19" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393071193850" class="- topic/fn ">
+               <p class="- topic/p ">See footnote 45 of SEC Release No. 34-70073, Broker-Dealer Reports,
+                            which states that a “material weakness is defined for purposes of the
+                            compliance report and, therefore, the notification of a material
+                            weakness only can occur in the context of the audit of a broker-dealer
+                            that files a compliance report.”</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393071193850"/>
+         </ph> If, during the course of the audit, the auditor determines that the
+                    broker-dealer is not in compliance with SEC Rule 15c3-3 or that a material
+                    weakness (as defined by SEC Rule 17a-5) exists, the auditor should immediately
+                    consider the notification requirements under SEC Rules 17a-5(h) and 17a-11
+                    pertaining to noncompliance or material weakness (as defined by SEC Rule 17a-5).
+                    See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_compliance_report/aag-brd3_compliance_report.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-f0a43c41-3cdb-6956-21b0-76cd8f0c5094/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.110">paragraph 3.110</xref> of this chapter for further discussion. Carrying and
+                    clearing brokers also should consider the notification requirements in FINRA
+                    Rule 4120.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-bfbc5051-a782-54c5-4386-aa8a18c6e11b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Bank Loan Financing</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.154" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.154</b> The day-to-day
+                    financing needs of a broker-dealer are provided by the treasurer's department,
+                    which may negotiate short-term loans from banks or other parties.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.155" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.155</b> A separate
+                    record is generally maintained for each such loan, usually indicating the
+                    following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The bank's name</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The type of loan (that is, firm, customer, or noncustomer, depending
+                            on the collateral pledged)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The loan amount</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The interest rate</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The quantity, description, and market value of securities used as
+                            collateral for the loan</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.156" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.156</b> A separate
+                    file for securities used as collateral may be maintained in certain systems. The
+                    loan records are the supporting details of the general ledger and the security
+                    positions shown on the stock record as bank loan collateral.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.157" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.157</b> From the
+                    reports indicating the collateral loan securities are being recalled from the
+                    bank, or additional securities are being sent to the bank, either in
+                    substitution for securities recalled or as additional collateral, entries are
+                    prepared and entered on the stock record. Separate accounts are generally
+                    maintained in the general ledger for each loan, with separate positions
+                    maintained in the stock record for the securities collateralizing each loan.
+                    Broker-dealers are required to differentiate their bank loans as either firm,
+                    customer or nonfirm, or noncustomer as provided in SEC Rules 8c-1 and 15c2-1.
+                    This distinction is also required in determining collateral requirements
+                    pursuant to federal regulations and determining amounts to report in the reserve
+                    formula, as required by SEC Rule 15c3-3. Securities used to collateralize bank
+                    loans of customers cannot be fully paid for or excess-margin securities because
+                    such securities are required to be segregated by the broker-dealer.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

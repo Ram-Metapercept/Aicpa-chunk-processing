@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Chapter 3 — Regulatory Considerations</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Regulatory Considerations <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-aag-brd3-fn1" class="- topic/fn ">
+               <p class="- topic/p ">Guidance in this chapter should not replace a full understanding of the rules
+                    and interpretations issued by all applicable regulatory agencies. Also see <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd1/aag-brd1_business_activities/aag-brd1_other_activities/aag-brd_digital_assets/aag-brd_digital_assets.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_section-idm4562300012777633928911862119/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_para-idm53392893422670">paragraph 1.149</xref> of this guide, which discusses the evolving
+                    regulatory landscape for digital assets.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-aag-brd3-fn1"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.01</b> Pursuant to the
+            Securities Exchange Act of 1934 (the 1934 Act), the SEC developed a comprehensive system
+            to regulate broker-dealers and the securities industry in general.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.02</b> The audit and reporting
+            requirements for securities broker-dealers are regulated by SEC Rule 17a-5 under the
+            1934 Act. Such requirements for broker-dealers that are also commodities brokers, known
+            as CFTC-registered futures commission merchants (FCMs) or CFTC-registered introducing
+            brokers (IBs) are regulated by Regulations 1.10 and 1.16 of the Commodity Exchange Act,
+            whereas the requirements for registered broker-dealers in U.S. government securities are
+            regulated by Section 405.2 of the regulations pursuant to Section 15C of the 1934 Act.
+            Those rules are listed in the “<xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_rules_applicable_to_broker_dealers/aag-brd3_commodities_brokers/aag-brd3_commodities_brokers.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-8b6d33b5-9558-0d0f-66dc-611c2dae099e">Commodities Brokers</xref>” section of this chapter.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.03</b> The Dodd-Frank Wall
+            Street Reform and Consumer Protection Act (Dodd-Frank Act), signed into law on July 21,
+            2010, called for a number of regulatory changes related to the securities
+            industry.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.04</b> One of the provisions of
+            this act amended the Sarbanes-Oxley Act of 2002 (SOX) to give the PCAOB full oversight
+            authority over audits of broker-dealers registered with the SEC, including nonissuer
+            broker-dealers. <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393024798508" class="- topic/fn ">
+               <p class="- topic/p ">As discussed in the <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd_preface/aag-brd_preface.dita#UUID-3022d2d5-d163-3012-b64d-aafce1684168">preface</xref> to this guide, AICPA issued Technical Question &amp; Answer
+                    section 7100.16, which is specific to brokers, dealers, and futures commission
+                    merchants. It states that both issuer and nonissuer broker-dealers registered
+                    with the SEC are considered public business entities (PBEs). Therefore, both
+                    issuer and nonissuer broker-dealers registered with the SEC would follow
+                    effective dates for PBEs when implementing new pronouncements.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393024798508"/>
+         </ph> The Dodd-Frank Act included a provision that audits of broker-dealers
+            registered with the SEC, including nonissuer broker-dealers, be performed in accordance
+            with PCAOB auditing standards. The SEC finalized amendments to SEC Rule 17a-5, through
+            Release No. 34-70073, <i class="+ topic/ph hi-d/i ">Broker-Dealer Reports</i>, on July
+            30, 2013, which require PCAOB auditing and attestation standards be applied to the
+            annual reporting for broker-dealers registered with the SEC effective for fiscal
+            year-ends on or after June 1, 2014. <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393025267232" class="- topic/fn ">
+               <p class="- topic/p ">For further information, see Frequently Asked Questions Concerning the
+                    Amendments to Certain Broker-Dealer Financial Responsibility Rules, and
+                    Frequently Asked Questions Concerning the July 30, 2013 Amendments to the
+                    Broker-Dealer Financial Reporting Rule. Both are available on the SEC staff’s
+                    “List of Frequently Asked Questions” at <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/divisions/marketreg/mrfaq">https://www.sec.gov/divisions/marketreg/mrfaq</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393025267232"/>
+         </ph> Before undertaking the audit of a broker-dealer in securities, the auditor
+            obtains an understanding of regulatory factors. This generally includes reading the
+            applicable standards and rules to have an understanding of the prescribed scope of the
+            audit and the related reporting requirements.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

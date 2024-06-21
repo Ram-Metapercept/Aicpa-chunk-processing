@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-a2ea9973-2284-4d7b-9195-92913df5462b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Identify Separate Performance Obligations</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.117" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.117</b> Services promised in a selling or
+                                distribution contract generally include (1) the sale of fund
+                                interests, (2) marketing services, and (3) other shareholder
+                                services. Marketing services may include development, formulation,
+                                and implementation of marketing and promotional activities and
+                                preparation, printing, and distribution of prospectuses and reports.
+                                In some cases, distribution contracts may also include ongoing
+                                shareholder services such as processing of shareholder transactions
+                                and the maintenance of shareholder records. Depending on the
+                                promises within a selling or distribution contract, the distributor
+                                may identify a single performance obligation or multiple performance
+                                obligations.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.118" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.118</b> Each distributor should consider the
+                                specific terms of a given selling or distribution contract and
+                                identify performance obligations as defined in FASB ASC
+                                606-10-25-14. In order to evaluate the performance obligations
+                                included in a selling or distribution contract, the distributor
+                                should identify the goods or services promised to the customer and
+                                evaluate the nature of these promises to the customer. In making
+                                this assessment, consideration may need to be given to the guidance
+                                on combination of contracts in FASB ASC 606-10-25-9 when the
+                                different types of services are contracted separately but at or near
+                                the same time with the customer.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.119" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.119</b> As discussed in FASB ASC 606-10-25-14, a
+                                performance obligation is a promise to transfer to the customer
+                                either</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">a good or service (or a bundle of services) that is
+                                        distinct or</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">a series of distinct goods or services that are
+                                        substantially the same and have the same pattern of transfer
+                                        to the customer.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.120" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.120</b> Each service included in a contract should
+                                be analyzed under paragraphs 19–22 of FASB ASC 606-10-25 to
+                                determine whether it is a distinct service that represents a
+                                performance obligation that should be accounted for
+                                separately.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.121" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.121</b> The nature of the distributor’s overall
+                                promise in the contract is to provide marketing services in
+                                conjunction with the sales of shares. In order to sell shares to
+                                investors, the distributor may develop and formulate marketing
+                                materials related to the fund offering. Generally, the marketing and
+                                selling of the shares are performed by the same distributor where
+                                the distributor is paid only upon a sale of shares with no separate
+                                fee for marketing.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.122" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.122</b> Because the success of selling shares is
+                                highly dependent on the marketing efforts, sales and marketing are
+                                highly interrelated and interdependent on one another because the
+                                sole purpose of marketing is to sell shares. The distributor
+                                integrates marketing and selling services to provide the combined
+                                output of selling the shares for which the customer has contracted.
+                                In other words, the entity is using the services as inputs to
+                                deliver the combined output specified by the customer. Therefore,
+                                FinREC believes both sales and marketing generally would not be
+                                considered separately identifiable based on FASB ASC 606-10-25-19b,
+                                606-10-25-21a, and 606-10-25-21c. However, individual facts and
+                                circumstances of specific agreements and arrangements should be
+                                carefully evaluated.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.123" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.123</b> As noted in <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_identify_separate_performance_obligations3.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-a2ea9973-2284-4d7b-9195-92913df5462b/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.117">paragraph 5.6.117</xref>, a distribution agreement generally
+                                includes (1) the sale of fund interests, (2) marketing services, and
+                                (3) other shareholder services. As noted in <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_identify_separate_performance_obligations3.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-a2ea9973-2284-4d7b-9195-92913df5462b/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.122">paragraph 5.6.122</xref>, FinREC believes that, generally, the
+                                sale and marketing services are combined to make one performance
+                                obligation. Judgment and additional analysis are required when
+                                determining whether shareholder services meet the definition of a
+                                performance obligation that is separately identifiable under FASB
+                                ASC 606-10-25-21. See <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_allocate_the_transaction_price5.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-1a0620ea-5c02-6ae0-47ca-94f6094229f1/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.133">paragraphs 5.6.133</xref> and <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_allocate_the_transaction_price5.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-1a0620ea-5c02-6ae0-47ca-94f6094229f1/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.137">5.6.137</xref>.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

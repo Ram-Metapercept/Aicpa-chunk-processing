@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-e236d5c5-7ddc-3b5a-d05a-75ec99e2523e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">OTC Market</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.36" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.36</b> Many companies have insufficient shares
+                    outstanding, stockholders, or earnings to meet the listing requirements of an
+                    exchange or, for other reasons, choose not to be listed. Securities of these
+                    companies are traded in the OTC market between dealers who make markets acting
+                    as principals or brokers for customers.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.37" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.37</b> The OTC market is not a location; rather,
+                    it is a communications network linking those dealers that make markets in
+                    securities generally not listed on exchanges. The OTC market is regulated by the
+                    Financial Industry Regulatory Authority (FINRA). An offer to buy or sell an
+                    unlisted security is executed by a broker-dealer entering into a transaction
+                    with a customer or another broker-dealer that makes a market in that
+                    security.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.38" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.38</b> The broker-dealer may be an OTC market
+                    maker and act for its own account (dealer as principal) or for the account of a
+                    customer (broker as agent) in a purchase or sale transaction with a customer or
+                    another broker-dealer. Acting as a dealer, no commission is charged; instead,
+                    the broker-dealer realizes a profit or loss based on the spread between the cost
+                    and selling price of the securities. Acting as a broker (agent), a commission is
+                    charged.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.39</b> The market makers publish quotes for
+                    security prices on a bid-and-ask basis (that is, they buy a security at the bid
+                    price and sell it at the ask price). The difference between the price for which
+                    the dealer is willing to purchase (bid for) the security and the price for which
+                    the dealer is willing to sell (ask for) the security is the spread.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.40" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.40</b> Firm price quotations for OTC equity
+                    securities are available from the interdealer quotation systems, such as OTC
+                    Markets Group’s OTC Pink.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

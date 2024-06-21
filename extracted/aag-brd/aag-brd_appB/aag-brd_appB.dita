@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-f00ecd52-ce5d-3487-cd64-1cf423c456c9" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix B — Schedule of Changes Made to the Text From the Previous
+            Edition</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+                informational purposes only</i>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">As of August 1, 2023</b>
+      </p>
+      <p class="- topic/p ">Entries in the following table reflect current numbering, lettering (including that in
+            appendix names), and character designations that resulted from the
+            renumbering/reordering that occurred in the updating of this guide.</p>
+      <table outputclass="ruled" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Reference</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Change</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">General</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Guide content included in "Guidance Update" boxes within the chapters
+                            have been updated to appropriately reflect guidance not yet effective as
+                            of the date of the guide. See the <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd_preface/aag-brd_preface.dita#UUID-3022d2d5-d163-3012-b64d-aafce1684168">preface</xref> of this guide for more explanation.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">General</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">References to "Pending Content" have been updated in accordance with
+                            the FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                                Codification</i>
+                        <sup class="+ topic/ph hi-d/sup ">©</sup> (ASC).</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">General</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Editorial changes, including rephrasing, have been made in this guide
+                            to improve readability, where necessary.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd_preface/aag-brd_preface.dita#UUID-3022d2d5-d163-3012-b64d-aafce1684168">Preface</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised for passage of time.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd1/aag-brd1_clearing_organizations_and_depositories/aag-brd1_clearing_organizations_and_depositories.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-60d6a462-d5bf-6bb5-457c-e6d203bc2274/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.50">Paragraph 1.50</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to reflect issuance of SEC Release No. 34-96930,
+                                <i class="+ topic/ph hi-d/i ">Shortening the Securities Transaction Settlement
+                                Cycle.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd1/aag-brd1_business_activities/aag-brd1_other_activities/aag-brd_digital_assets/aag-brd_digital_assets.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_section-idm4562300012777633928911862119/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.144">Paragraphs 1.144–.148</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of digital assets, not
+                            related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 14 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd1/aag-brd1_business_activities/aag-brd1_other_activities/aag-brd_digital_assets/aag-brd_digital_assets.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_section-idm4562300012777633928911862119/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_para-idm53394250434782">paragraph 1.148</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to provide a link to a practice aid developed by the AICPA
+                            Digital Assets Working Group.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 15 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd1/aag-brd1_business_activities/aag-brd1_other_activities/aag-brd_digital_assets/aag-brd_digital_assets.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_section-idm4562300012777633928911862119/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_para-idm53392893422670">paragraph 1.149</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to provide a link to investor information regarding digital
+                            assets on the FINRA website.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_introduction/aag-brd2_overview/aag-brd2_overview.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-9d106d8a-f9cb-d83e-8c1d-ed4b3c9faa4f/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.02">Paragraphs 2.02</xref>, <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_introduction/aag-brd2_original_entry_journals/aag-brd2_original_entry_journals.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-df61b28c-ee3f-d801-3e68-d8cf1a028bf5/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.05">2.05</xref>, and <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_introduction/aag-brd2_stock_record/aag-brd2_stock_record.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-c21aa55d-08a7-a021-d2f0-84849ad1f3ed/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.08">2.08</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of broker-dealer records, not
+                            related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_introduction/aag-brd2_regulatory_recordkeeping_requirements/aag-brd2_regulatory_recordkeeping_requirements.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-99e40e3a-5fe9-807d-e377-d81a8db6a9ff/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.13">Paragraph 2.13</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added reference to discussion that reflects the issuance of SEC
+                            Release No. 34-96034, <i class="+ topic/ph hi-d/i ">Electronic Recordkeeping Requirements
+                                for Broker-Dealers, Security-Based Swap Dealers, and Major
+                                Security-Based Swap Participants.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_introduction/aag-brd2_trade_date_and_settlement/aag-brd2_trade_date_and_settlement.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-2e0642f9-2668-3ead-206a-f9edfb6f993e/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.17">Paragraph 2.17</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to reflect issuance of SEC Release No. 34-96930,
+                                <i class="+ topic/ph hi-d/i ">Shortening the Securities Transaction
+                            Cycle.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_trade_execution/aag-brd2_customer_trades/aag-brd2_customer_trades.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-2cf74176-5933-5a5b-56bb-e91ca8da530e/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.19">Paragraph 2.19</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised for the passage of time.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 7 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_trade_execution/aag-brd2_customer_trades/aag-brd2_customer_trades.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-2cf74176-5933-5a5b-56bb-e91ca8da530e/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.41">paragraph 2.41</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to reflect issuance of amendments to FINRA Rule 2231,
+                                <i class="+ topic/ph hi-d/i ">Customer Account Statements</i>.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_regulatory/aag-brd2_regulatory.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-26db4230-e121-2c60-2fd8-0952011813d8/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392904202772">Paragraphs 2.166–.167</xref> and <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_regulatory/aag-brd2_regulatory.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-26db4230-e121-2c60-2fd8-0952011813d8/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392903890770">2.169</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to reflect issuance of SEC Release No. 34-96034.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd2/aag-brd2_tax_information_reporting/aag-brd2_tax_information_reporting.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-d26c6b10-f755-9c39-9318-4de2cd46d4de/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392905137528">Paragraph 2.174</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of Form 1099-B, not related
+                            to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 1 in heading of <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2">chapter 3</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added reference related to regulation of digital assets.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 2 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.04">paragraph 3.04</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the definition of a public
+                            business entity, not related to an issuance of new authoritative
+                            guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 8 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_applicable_rules/aag-brd3_applicable_rules.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-df2dbc83-4ef9-ad59-5db5-91b83c9a9f26/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.07">paragraph 3.07</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to reflect amendments to FINRA Rule 2231.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 9 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_applicable_rules/aag-brd3_applicable_rules.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-df2dbc83-4ef9-ad59-5db5-91b83c9a9f26/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.08">paragraph 3.08</xref> and <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_applicable_rules/aag-brd3_interpretations_of_rules/aag-brd3_interpretations_of_rules.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-3cc678a4-17bc-3262-feff-36a9db017d51/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.09">paragraphs 3.09</xref> and <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_3/aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.11">3.11</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised for the passage of time.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_3/aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.21">Paragraph 3.21</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of excess margin calculation
+                            requirements under FINRA rules, not related to an issuance of new
+                            authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_3/aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.30">Paragraph 3.30</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of special reserve bank
+                            accounts for the exclusive benefit of customers, not related to an
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 19 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_3/aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.41">paragraph 3.41</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to provide further understanding of notification requirements of
+                            material weaknesses for broker-dealers, not related to an issuance of
+                            new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_1/aag-brd3_sec_rule_15c3_1.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-43406f38-e2ed-87d6-6c96-26ce4ae3b40c/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.43">Paragraph 3.43</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the Net Capital Rule, not
+                            related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_1/aag-brd3_sec_rule_15c3_1.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-43406f38-e2ed-87d6-6c96-26ce4ae3b40c/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.50">Paragraph 3.50</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of customer debits includable
+                            in the customer reserve formula under SEC Rule 15c3-1, not related to
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Former paragraph 3.62</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Deleted, see <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_3/aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.41">paragraph 3.41</xref>.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_regulation_t_and_maintenance_margin/aag-brd3_regulation_t_and_maintenance_margin.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-c2a462ca-bf3a-bb8b-9d68-63e71c5a86d7/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.76">Paragraph 3.76</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of maintenance margin
+                            regulations, including cash payment requirements, under Regulation
+                            T.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 28 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_regulation_t_and_maintenance_margin/aag-brd3_regulation_t_and_maintenance_margin.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-c2a462ca-bf3a-bb8b-9d68-63e71c5a86d7/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.77">paragraph 3.77</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to provide a link to Regulation T requirements on the FINRA
+                            website.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 29 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_regulation_t_and_maintenance_margin/aag-brd3_regulation_t_and_maintenance_margin.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-c2a462ca-bf3a-bb8b-9d68-63e71c5a86d7/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.80">paragraph 3.80</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide a link to Rule 4210, <i class="+ topic/ph hi-d/i ">Margin
+                                Requirements</i>, on the FINRA website.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 30 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_account_statement_rules/aag-brd3_account_statement_rules.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-250c9675-02b0-72c6-c3d2-4c5a6b2c64ba/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.81">paragraph 3.81</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to reflect issuance of amendments to FINRA Rule 2231.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_compliance_report/aag-brd3_compliance_report.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-f0a43c41-3cdb-6956-21b0-76cd8f0c5094/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.109">Paragraph 3.109</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provider further understanding of <i class="+ topic/ph hi-d/i ">Internal
+                                Control Over Compliance</i> as defined in Rule 17a-5, not
+                            related to the issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.114">Paragraph 3.114</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised for the passage of time.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.118">Paragraphs 3.118–.119</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the accountant’s
+                            qualification requirements under Regulation S-X and PCAOB rules, not
+                            related to issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.120">Paragraph 3.120</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of information required for
+                            the Statement Regarding Independent Public Accountant Under Rule
+                            17a-5(f)(2), not related to issuance of new authoritative
+                            guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.124">Paragraph 3.124</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of Rule 17a-5(f)(3)
+                            notifications (replacement of accountant), not related to an issuance of
+                            new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_exemption_reports/aag-brd3_exemption_reports.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-abac2f55-e8a1-6e4f-8f9f-c6035c9233bc/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.127">Paragraph 3.127</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the compliance
+                            requirements for dually registered SEC broker-dealers, not related to an
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_reporting_requirements/aag-brd3_reporting_requirements.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-d932f14f-1cb0-1089-b8e4-e7d22636f8c6/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.132">Paragraph 3.132</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of FINRA filing requirements
+                            for the FOCUS Report, not related to an issuance of new authoritative
+                            guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Paragraphs 3.142–.147</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the filing requirements
+                            for the annual audited financial report and supplementary schedules, not
+                            related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 49 in paragraph 3.147</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the conditions for the
+                            30-day filing extension for smaller broker-dealers, not related to the
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 50 in paragraph 3.149</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to provide further understanding of the requirements for
+                            requesting confidential treatment of EDGAR filings, not related to an
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Paragraph 3.150</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the filing requirements of
+                            exchanges, clearing organizations and other entities, not related to an
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_filings_concurrent_with_the/aag-brd3_report_to_state_regulatory/aag-brd3_report_to_state_regulatory.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-7e5fb1a3-c1d8-213e-351a-5426bb79ee9b/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393058744954">Paragraph 3.159</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of filings required by state
+                            regulatory agencies</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_filings_concurrent_with_the/aag-brd3_financial_statements_to_be/aag-brd3_financial_statements_to_be.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-72b346b9-e4fd-4b4d-5237-31c1326b23a5/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393059430204">Paragraphs 3.160–.163</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the requirements for
+                            filing financial statements with the SEC and the self-regulatory
+                            organizations of which the broker-dealer is a member, not related to an
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd3/aag-brd3_other_reports/aag-brd3_reports_on_securities_investor/aag-brd3_reports_on_securities_investor.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-11c6e5d7-6526-c182-2dc4-8e1d81b5d622/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393060493330">Paragraph 3.164</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised for the passage of time.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_introduction/aag-brd4_introduction.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-43a39c42-c1f2-98d1-5912-ed4dfd23f83b/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.01">Paragraph 4.01</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the scope of chapter 4,
+                            not related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_the_control_environment/aag-brd4_the_control_environment.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-5973db18-80d2-37de-e436-ce74f498c9f8/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.09">Paragraph 4.09</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of management’s role in
+                            establishing and maintaining internal control, not related to an
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_risk_assessment/aag-brd4_risk_assessment.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-b3d08003-baaa-6075-2851-0becc8ab545e/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.13">Paragraph 4.13</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of operational risk in
+                            processing broker-dealer transactions, not related to an issuance of new
+                            authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_information_and_communication/aag-brd4_information_and_communication.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-056a5405-1e13-a0a1-b094-d2c32b102ab1/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.23">Paragraph 4.23</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of information and
+                            communication controls, not related to an issuance of new authoritative
+                            guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_information_and_communication/aag-brd4_information_and_communication.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-056a5405-1e13-a0a1-b094-d2c32b102ab1/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.24">Paragraph 4.24</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of information systems, not
+                            related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_information_and_communication/aag-brd4_information_and_communication_control/aag-brd4_information_and_communication_control.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-05680969-7a15-95ed-ba4f-c8c28beef3ec/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.26">Paragraph 4.26</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of application controls, not
+                            related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_information_and_communication/aag-brd4_information_and_communication_control/aag-brd4_information_and_communication_control.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-05680969-7a15-95ed-ba4f-c8c28beef3ec/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.28">Paragraph 4.28</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of general controls, not
+                            related to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_broker_dealer_control_and/aag-brd4_sales_and_compliance/aag-brd4_sales_and_compliance.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-30f24b97-406f-2fa8-f26e-a73ea8f967c7/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.40">Paragraph 4.40</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of control and monitoring
+                            activities for new accounts, not related to an issuance of new
+                            authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_broker_dealer_control_and/aag-brd4_sales_and_compliance/aag-brd4_sales_and_compliance.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-30f24b97-406f-2fa8-f26e-a73ea8f967c7/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.43">Paragraph 4.43</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of control and monitoring
+                            activities related to sales activities, not related to an issuance of
+                            new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_broker_dealer_control_and/aag-brd4_securities_settlement/aag-brd4_securities_settlement.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-8cd3c60b-2579-112d-0dcf-66236d5ff30c/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.47">Paragraph 4.47</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of control and monitoring
+                            activities related to the extension of credit to customers, not related
+                            to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_broker_dealer_control_and/aag-brd4_principal_transactions/aag-brd4_principal_transactions.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-1a419755-bed9-9ad9-66ac-d0cf5c8f0791/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.54">Paragraph 4.54</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of control and monitoring
+                            activities related to underwriting activities, not related to an
+                            issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_broker_dealer_control_and/aag-brd4_commissions/aag-brd4_commissions.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-ca384488-44c5-c41e-c36b-68d0ae2057ba/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.57">Paragraph 4.57</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of control and monitoring
+                            activities related to commissions, not related to an issuance of new
+                            authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd4/aag-brd4_broker_dealer_control_and/aag-brd4_collateralized_financings/aag-brd4_collateralized_financings.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-e1a07fe2-dfd8-f3c2-0af5-d6c4a5ae6a81/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.59">Paragraph 4.59</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of control and monitoring
+                            activities related to repo and reverse repo agreements, not related to
+                            an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd5/aag-brd5_accounting_model/aag-brd5_valuation_techniques/aag-brd5_valuation_techniques.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-e8ddce7f-acb8-ae38-d5ef-5830f94231d9/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.12">Paragraph 5.12</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of valuation techniques under
+                            FASB ASC 820, <i class="+ topic/ph hi-d/i ">Fair Value Measurement</i>, not related
+                            to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 3 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd5/aag-brd5_trade_date_versus_settlement/aag-brd5_proprietary_and_principal_transactions/aag-brd5_proprietary_and_principal_transactions.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-ae6fca95-9a8c-03f9-4fe4-eb529d65531f/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.59">paragraph 5.59</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added to reflect the issuance of SEC Release No. 34-96930,
+                                <i class="+ topic/ph hi-d/i ">Shortening the Securities Transaction
+                            Cycle.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd5/aag-brd5_trade_date_versus_settlement/aag-brd5_proprietary_and_principal_transactions/aag-brd5_proprietary_and_principal_transactions.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-ae6fca95-9a8c-03f9-4fe4-eb529d65531f/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.66">Paragraph 5.66</xref> and footnote 9 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd5/aag-brd5_statement_of_financial_condition/aag-brd5_transfers_of_financial_assets/aag-brd5_transfers_of_financial_assets.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8ee7ee6b-4a9b-86bb-0192-e9491620fe72/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.82">paragraph 5.82</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the impact of customers’
+                            fractional share interests on the financial statements, not related to
+                            an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.135">Paragraph 5.135</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the definition of a public
+                            business entity, not related to an issuance of new authoritative
+                            guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Footnote 1 in <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_introduction/aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.01">paragraph 6.01</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the presentation of
+                            comprehensive income under FASB ASC 220, not related to an issuance of
+                            new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_introduction/aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.03">Paragraph 6.03</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the requirements under SEC
+                            Rule 17a-5(d) for disclosing material differences between net capital
+                            and reserve requirement computations, not related to an issuance of new
+                            authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_financial_statements/aag-brd6_statement_of_changes_in1/aag-brd6_statement_of_changes_in1.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5da8c359-c7a3-e351-f667-28d821ec1a2d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.25">Paragraph 6.25</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the SEC requirement to
+                            provide a statement of changes in subordinated borrowings, not related
+                            to an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_supplementary_schedules/aag-brd6_supplementary_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-de9f9ea0-e463-5b8d-cada-c7ed054b156d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.32">Paragraph 6.32</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the required form and
+                            content of supplementary schedules required to be filed with the audited
+                            financial statements, not related to an issuance of new authoritative
+                            guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_supplementary_schedules/aag-brd6_information_relating_to_possession/aag-brd6_information_relating_to_possession.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-590891cc-87dc-43e1-516c-119bfb37d4c7/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.37">Paragraph 6.37</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the requirements for
+                            disclosure of security positions under SEC Rule 15c3-3, not related to
+                            an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_stattement_of_financial_condition/aag-brd6_deferred_dealer_concessions/aag-brd6_deferred_dealer_concessions.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-6789bb2c-4e85-5811-d341-c86b2f0eba6e/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393211742456">Paragraph 6.77</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of deferred dealer
+                            commissions and concessions, not related to an issuance of new
+                            authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_disclosures/aag-brd6_disclosures_of_certain_significant/aag-brd6_disclosures_of_certain_significant.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-d39c52c5-a413-966a-f81c-9688c2c23d57/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393230932402">Paragraph 6.142</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the types of estimates
+                            often included in broker-dealers' financial statements, not related to
+                            an issuance of new authoritative guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd6/aag-brd6_financial_statements_and_schedules/aag-brd6_financial_statements_and_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-c1b420e1-5f7a-64d9-dd15-ae46cbfe5889/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53394255272532">Paragraph 6.167</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised to provide further understanding of the definition of a public
+                            business entity, not related to an issuance of new authoritative
+                            guidance.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd_appA/aag-brd_appA.dita#UUID-8cbae990-1adf-64a1-478f-c05fb8046eb4">Appendix A</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised for passage of time.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../aag-brd/aag-brd_glossary/aag-brd_glossary.dita#UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b">Glossary</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised for passage of time.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

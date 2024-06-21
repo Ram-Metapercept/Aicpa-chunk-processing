@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-0e475f5e-578f-b26a-c562-cee102cc132e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Control Activities</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.19" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.19</b> <i class="+ topic/ph hi-d/i ">Control activities</i> serve as a mechanism for managing
+                and achieving a broker-dealer’s objectives. Control activities support one or more
+                operations, reporting, and compliance objectives. The principles of control
+                activities are as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization selects and develops control activities that contribute
+                        to the mitigation of risks to the achievement of objectives to acceptable
+                        levels.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization selects and develops general control activities over
+                        technology to support the achievement of objectives.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization deploys control activities through policies that
+                        establish what is expected and procedures that put policies into
+                        action.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.20" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.20</b> Control activities,
+                whether automated or manual, support all the components of internal control and are
+                particularly aligned with the risk assessment component at various organizational
+                and functional levels. Each entity has its own set of objectives and implementation
+                approaches. Each control activity is designed to accomplish a specific control
+                objective for relevant business processes, information technology, and locations
+                where control activities are needed. Control activities need to be designed in a way
+                to ensure that duties are divided and segregated to reduce the risk of error or
+                inappropriate or fraudulent actions. Control activities that directly support the
+                actions to mitigate transaction processing risks usually include the
+                following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Authorizations and approvals</i>. Control
+                        activities intended to reasonably ensure that transactions are valid and
+                        approved before they are executed and recorded.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Verification</i>. Control activities
+                        designed to reasonably ensure that two or more items match with each other
+                        and are consistent with a respective policy.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Physical controls</i>. Control activities
+                        that are designed to protect against unauthorized acquisition, use, or
+                        disposal of assets, including customer-related assets.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Controls over standing data</i>. Control
+                        activities intended to reasonably ensure that master files supporting
+                        business processes (for example, price, positions, and location) are
+                        populated, updated, and maintained.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Reconciliations</i>. Control activities
+                        designed to reasonably ensure that books and records agree with external and
+                        internal records.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Supervisory controls</i>. Control
+                        activities intended to reasonably ensure that other transaction control
+                        activities are being performed completely, accurately, and in accordance
+                        with policies and procedures.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.21</b> The reliability of
+                technology within business processes, including automated controls, depends on the
+                selection, development, and deployment of general control activities over
+                technology, which include control activities over the technology infrastructure,
+                security management, and technology acquisition, development, and maintenance. See
+                    <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd4/aag-brd4_information_and_communication/aag-brd4_information_and_communication_control/aag-brd4_information_and_communication_control.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-05680969-7a15-95ed-ba4f-c8c28beef3ec/UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.26">paragraphs 4.26–.29</xref>.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.22</b> Many of the
+                activities of broker-dealers are unique and require comprehensive policies and
+                procedures. Policies and procedures help to ensure that management directives are
+                carried out and necessary actions are taken to address risks to the achievement of
+                the broker-dealer's objectives. Policies and procedures are communicated either
+                orally or in writing. They establish clear responsibility and accountability of
+                management and personnel for specific control activities. Policies and procedures
+                typically reflect the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Timeliness of a control activity</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Competency and authority of personnel assigned to perform a control
+                        activity</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Applicability of corrective actions based on investigation results</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Periodic reassessment of control activities for continued relevance and
+                        effectiveness</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

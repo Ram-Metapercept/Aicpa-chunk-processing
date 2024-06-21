@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-b3d08003-baaa-6075-2851-0becc8ab545e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Risk Assessment</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.10</b> A broker-dealer's
+                risk assessment for financial reporting purposes is its identification, analysis,
+                and management of risks relevant to the preparation of financial statements that are
+                fairly presented in conformity with GAAP. For example, risk assessment may address
+                how the broker-dealer considers the possibility of unrecorded transactions or
+                identifies and analyzes significant estimates recorded in the financial statements.
+                Risks relevant to reliable financial reporting also relate to specific events or
+                transactions. Risks relevant to financial reporting include external and internal
+                events and circumstances that may occur and adversely affect a broker-dealer's
+                ability to initiate, authorize, record, process, and report financial data
+                consistent with the assertions of management in the financial statements. The
+                purpose of a broker-dealer's risk assessment is to identify, analyze, and manage
+                risks that affect the broker-dealer's objectives. The principles of risk assessment
+                are as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization specifies objectives with sufficient clarity to enable
+                        the identification and assessment of risks relating to objectives.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization identifies risks to the achievement of its objectives
+                        across the entity and analyzes risks as a basis for determining how the
+                        risks should be managed.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization considers the potential for fraud in assessing risks to
+                        the achievement of objectives.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization identifies and assesses changes that could significantly
+                        affect the system of internal control.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.11</b> Once risks are
+                identified, management considers their significance and the likelihood of their
+                occurrence and decides upon actions to manage them. Management may initiate plans,
+                programs, or actions to address specific risks, or they may decide to accept a risk
+                because of cost or other considerations. Risks can arise or change due to
+                circumstances such as the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Changes in operating environment</i>.
+                        Changes in the operating environment can result in changes in competitive
+                        pressures and significantly different risks.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Changes in regulatory environment</i>.
+                        Changes to regulations around net capital, protection of customer assets,
+                        and financial reporting requirements can create new risks related to
+                        internal control over financial reporting and regulatory compliance.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">New personnel</i>. New personnel may have a
+                        different focus on or understanding of internal control.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">New or revamped information systems</i>.
+                        Significant and rapid changes in information systems can change the risk
+                        relating to internal control.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Rapid growth</i>. Significant and rapid
+                        expansion of operations can strain controls and increase the risk of a
+                        breakdown in controls.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">New technology</i>. Incorporating new
+                        technologies into operating processes or information systems may change the
+                        risk associated with internal control.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">New business models, products, or
+                            activities</i>. Entering into business areas or transactions with
+                        which a broker-dealer has little experience may introduce new risks
+                        associated with internal control.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Corporate restructurings</i>.
+                        Restructurings may be accompanied by staff reductions and changes in
+                        supervision and segregation of duties that may change the risk associated
+                        with internal control.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Expanded foreign operations</i>. The
+                        expansion or acquisition of foreign operations carries new and often unique
+                        risks that may affect internal control (for example, additional or changed
+                        risks from foreign currency transactions).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">New accounting pronouncements</i>. Adoption
+                        of new accounting principles or changing accounting principles may affect
+                        risks in preparing financial statements and related disclosures.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Changes in economic conditions</i>. Changes
+                        in economic conditions can increase the risk of manipulation of earnings and
+                        inappropriate management override of internal control.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.12</b> Broker-dealers also
+                devote a significant amount of time and resources toward the identification,
+                quantification, analysis, and control of risk. A broker-dealer's control and
+                monitoring activities are concerned with mitigating business risks and exposures.
+                Risk refers to the likelihood that a loss might occur, whereas exposure refers to an
+                amount (or other element) at risk. The decision to incur business risk rests with
+                the broker-dealer's management. The following is an overview of the major risks and
+                exposures facing a broker-dealer.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.13</b> <i class="+ topic/ph hi-d/i ">Operational risk</i>. Operational risk arises in processing
+                broker-dealer transactions. Exposure can be created by a failure to either process
+                transactions properly or safeguard securities adequately. If operational risk is
+                properly managed, other risks will be mitigated. In viewing operational exposure, it
+                is important to look at the broad exposure within particular accounts, such as
+                suspense accounts, difference accounts, reconciling items (for any accounts), and
+                aged transfers and fails. For instance, within a particular suspense account, the
+                exposure is frequently not the net balance in the account. A more accurate view of
+                exposure is to identify debit-only items (no related security positions),
+                short-fair-value-only items (no related money balance), debit money with long fair
+                value, and credit money with short fair value. By viewing each of those items
+                separately, it is easier to understand the total exposure. Broker-dealers should
+                consider breaks and differences affecting the general ledger and stock record, when
+                applicable, given the impact of each source to financial reporting and
+                compliance.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.14</b> <i class="+ topic/ph hi-d/i ">Credit risk</i>. Credit risk refers to potential losses
+                arising from the failure of another party to perform according to the terms of a
+                contract (counterparty default). Credit risk can be customer- or broker-related or
+                related to financial instrument inventory. The exposure to the broker-dealer is for
+                the amount of extended credit that is not fully collateralized. Therefore, obtaining
+                adequate collateral from the counterparty could help minimize credit risk. An
+                extension of credit can result in any of the following transactions: margin
+                transactions, cash transactions prior to settlement, stock borrows and resale
+                agreements, swaps, futures, forwards, options, and similar items. Broker-dealers
+                will usually have credit committees that set limits for total credit lines,
+                exposure, and collateral requirements for any particular counterparty.
+                Broker-dealers with over $20 million in capital or $1 million of customer credit
+                items must have formally documented policies, procedures, or controls over credit
+                risk.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.15</b> <i class="+ topic/ph hi-d/i ">Market risk</i>. Market risk refers to potential losses
+                from fluctuations in market prices that may make a financial instrument less
+                valuable or more onerous. A change in market price may occur (for example, for
+                interest-bearing financial instruments) because of changes in general interest rates
+                (interest rate risk), changes in the relationship between general and specific
+                market interest rates (an aspect of credit risk), or changes in the rates of
+                exchange between currencies (foreign exchange risk). Broker-dealers may have risk
+                committees that establish trading limits in order to manage market risk.
+                Broker-dealers with more than $20 million in capital or $1 million of customer
+                credit items must have formally documented policies, procedures, or controls over
+                market risk.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.16</b> <i class="+ topic/ph hi-d/i ">Litigation risk</i>. Litigation risk refers to the risk of
+                losses resulting from lawsuits and the cost of defending against such claims.
+                Lawsuits can arise from the various aspects of the broker-dealer's business. Areas
+                of particular concern include underwriting activities, employment matters, and the
+                maintenance of customer accounts. Broker-dealers can help mitigate litigation risk
+                in many ways, including the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establishing policies regarding a code of professional conduct, the
+                        employer's responsibilities, and due diligence and establishing a system to
+                        monitor compliance with such policies</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establishing a compliance function to review the activities of the sales
+                        departments and branch office operations</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.17</b> <i class="+ topic/ph hi-d/i ">Regulatory risk</i>. Regulatory risk refers to potential
+                losses that might arise for failing to comply with applicable statutes, regulations,
+                and rules. Broker-dealers operate in a highly regulated industry that requires close
+                attention to compliance matters. Not only may such matters affect a broker-dealer's
+                reputation and growth, but noncompliance may also lead to fines, limitation on
+                activities the broker-dealer is allowed to carry out, or even the suspension or
+                revocation of the broker-dealer's registration.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.18</b> <i class="+ topic/ph hi-d/i ">Liquidity and funding risk</i>. Liquidity and funding risk
+                refers to a broker-dealer’s ability to secure funding to satisfy its settlement or
+                other obligations. Market and other factors may affect the broker-dealer’s ability
+                to secure funding to satisfy its obligations. Understanding and evaluating this
+                issue, especially in a highly competitive or unstable market, is important in
+                assessing the going-concern assumption. Broker-dealers with over $20 million in
+                capital or $1 million of customer credit items must have formally documented
+                policies, procedures, or controls over liquidity risk.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-1a254568-3fde-d9da-5c9b-924a40dc18e5" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Suspense Accounts</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.97" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.97</b> FASB ASC 940-20-05-8 notes that because of
+                    the number of transactions that take place when trades are cleared for the
+                    broker-dealer or its customers, unreconciled differences and trading errors
+                    occur. A broker-dealer often has several suspense accounts to facilitate the
+                    identification and resolution of differences. Per FASB ASC 940-20-25-6,
+                    unreconciled differences are recorded at the amount of the transaction with an
+                    appropriate valuation account until a determination of the cause of the
+                    differences is made and the differences are resolved. Trading errors are
+                    recorded in the broker-dealer's error suspense account until they are resolved.
+                    FASB ASC 940-20-35-2 further states that the underlying securities are
+                    subsequently measured at fair value, and the gain or loss is recognized in
+                    income.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

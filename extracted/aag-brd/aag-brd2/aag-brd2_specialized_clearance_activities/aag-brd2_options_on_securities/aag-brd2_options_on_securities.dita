@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-ea62663f-aa8a-1211-17db-9fc5aa26a102" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Options on Securities</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.113" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.113</b> The books and
+                    records required to be maintained by a general securities broker-dealer are also
+                    required of an options clearing firm under SEC Rules 17a-3 and 17a-4. An order
+                    ticket is required for each option transaction and should contain all relevant
+                    information, including the type of account (customer, firm, or market maker);
+                    whether the transaction is a put or call; whether it is a purchase or sale; the
+                    underlying trading unit; the exercise price; the expiration date; the premium
+                    per unit; and the purchasing and writing clearing members. In addition, the
+                    clearing firm should maintain a separate P&amp;S blotter and a separate position
+                    record for all option transactions for itself and its customers or market
+                    makers.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.114" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.114</b> Every clearing
+                    broker-dealer is required to furnish the following to its customers:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Confirmations of each trade showing whether it was a purchase or sale,
+                            the underlying trading unit, the exercise price, the expiration month,
+                            the number of option contracts, the premium, the commission, the trade
+                            date, and the settlement date</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monthly statements showing all purchases and sales during the month,
+                            including all commissions, taxes, interest charges and any other special
+                            charges, the ending market value of all long and short positions in the
+                            account, and the general account equity</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.115" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.115</b> Listed option
+                    trades settle on the next business day. OCC member broker-dealers are required
+                    to reconcile all option money and positions on a daily basis. An OCC clearing
+                    broker-dealer can exercise a long options contract by notification to the OCC.
+                    Exercise notices are assigned by the OCC on a random basis to clearing member
+                    firms and are effective the following day. Each assigned clearing member firm is
+                    required to allocate assignment notices to proprietary, customer, and
+                    market-maker short positions by using established set procedures. The allocation
+                    of assignment notices should be either on a random-selection or an
+                    exchange-approved method (usually first-in, first-out basis).</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.116" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.116</b> The OCC issues
+                    a daily position report that lists all option activity and ending positions for
+                    all accounts carried by the OCC member broker-dealer and the net daily pay or
+                    collect amount due to or from the OCC. The OCC also issues a margin report that
+                    shows the OCC margin requirement on the aggregate short option positions and
+                    exercised contracts for each account carried by the OCC member broker-dealer.
+                    Required margin may be paid by cash, check, government securities, common stocks
+                    with a market value as specified by the rules, or an irrevocable letter of
+                    credit issued by an OCC-approved bank or trust company.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.117" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.117</b> All OCC member
+                    broker-dealers that clear market-maker accounts or floor broker accounts are
+                    required to issue an OCC-approved letter of guarantee and a letter of
+                    authorization for floor brokers, and such letters are filed with the appropriate
+                    exchange. A letter of guarantee provides that the issuing clearing member
+                    accepts financial responsibility for all option market-maker transactions
+                    guaranteed by the clearing broker-dealer. A letter of authorization provides
+                    that the clearing broker-dealer accepts responsibility for the clearance of all
+                    option trades by the floor broker.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.118" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.118</b> OCC member
+                    broker-dealers clearing market-maker transactions are required to “haircut” (see
+                    the <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd_glossary/aag-brd_glossary.dita#UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b">glossary</xref> of this guide) the market-maker accounts as required by SEC
+                    Rule 15c3-1(c)(2)(X). Because the carrying broker-dealer guarantees the
+                    market-maker account to the OCC, the carrying broker-dealer is required to
+                    reduce its own net capital by the amount the market-maker's Rule 15c3-1(c)(2)(X)
+                    haircut charges exceed the equity in the account. In addition, SEC Rule 15c3-1
+                    requires that the sum of all market-maker Rule 15c3-1(c)(2)(X) haircut charges
+                    not exceed 1,000% of the carrying broker-dealer's net capital (the 1,000% test)
+                    for any period exceeding three business days. Noncompliance with the 1,000% test
+                    requires regulatory and designated examining authority notification in addition
+                    to prohibitions against withdrawal of equity and the reduction, prepayment, and
+                    repayment of subordinated debt.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

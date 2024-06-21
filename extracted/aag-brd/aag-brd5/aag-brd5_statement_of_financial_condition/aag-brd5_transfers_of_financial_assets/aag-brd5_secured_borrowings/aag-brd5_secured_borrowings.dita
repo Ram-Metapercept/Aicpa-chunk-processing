@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-da0f3fe1-104c-cce5-b8ae-7ff2b4c7f404" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Secured Borrowings</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.89" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.89</b> FASB ASC
+                        860-30 provides guidance related to transfers of financial assets <ph class="- topic/ph ">
+            <fn callout="14" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn14" class="- topic/fn ">
+               <p class="- topic/p ">Some of the items subject to this guidance are financial
+                                instruments. For guidance on matters related broadly to all
+                                financial instruments, including the fair value option, see FASB ASC
+                                825, <i class="+ topic/ph hi-d/i ">Financial
+                                Instruments</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_secured_borrowings.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-da0f3fe1-104c-cce5-b8ae-7ff2b4c7f404/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn14"/>
+         </ph> that are accounted for as secured borrowings with a transfer of
+                        collateral. This guidance applies to transactions in which cash is obtained
+                        in exchange for financial assets with an obligation to enter into an
+                        opposite exchange at a later date, including repurchase agreements, dollar
+                        rolls, and securities lending transactions. FASB ASC 860-30-25-2 notes that
+                        the transferor and transferee should account for a transfer as a secured
+                        borrowing with a pledge of collateral in either of the following
+                        circumstances:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">If a transfer of an entire financial asset, a group of entire
+                                financial assets, or a participating interest in an entire financial
+                                asset does not meet the conditions for a sale in FASB ASC
+                                860-10-40-5</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">If a transfer of a portion of an entire financial asset does not
+                                meet the definition of a <i class="+ topic/ph hi-d/i ">participating
+                                    interest</i>
+            </p>
+         </li>
+      </ul>
+      <p class="- topic/p ">In either of these circumstances, the transferor should continue to report
+                        the transferred financial asset on its statement of financial condition with
+                        no change in the asset’s measurement (for example, its basis of
+                        accounting).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.90" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.90</b> Repurchase
+                        agreements and securities lending transactions are required to be evaluated
+                        under each of the conditions for derecognition in accordance with FASB ASC
+                        860-10-40-5. FASB ASC 860-10-55-51 states that repurchase agreements and
+                        securities lending transactions that do not meet all the conditions in FASB
+                        ASC 860-10-40-5 should be treated as secured borrowings.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.91" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.91</b> Many
+                        repurchase agreements and securities lending transactions are accompanied by
+                        an agreement that both entitles and obligates the transferor to repurchase
+                        or redeem transferred financial assets from the transferee before the
+                        maturity date of the transferred assets which maintains the transferor’s
+                        effective control over those assets under FASB ASC 860-10-40-5(c)(1),
+                        provided that all the conditions in FASB ASC 860-10-40-24 <ph class="- topic/ph ">
+            <fn callout="15" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn15" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_statement_of_financial_condition/aag-brd5_transfers_of_financial_assets/aag-brd5_sale_treatment_of_transferred/aag-brd5_sale_treatment_of_transferred.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-331de13d-a313-0fc9-9d0d-2b096969bd8c/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.87">paragraph 5.87</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_secured_borrowings.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-da0f3fe1-104c-cce5-b8ae-7ff2b4c7f404/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn15"/>
+         </ph> are met. Those transactions should be accounted for as secured
+                        borrowings in which either cash or securities received as collateral that
+                        the holder is permitted, by contract or by custom, to sell or repledge is
+                        considered the amount borrowed. In a securities lending transaction, the
+                        securities loaned are considered pledged as collateral against the cash
+                        borrowed and therefore reclassified as pledged, separately from other assets
+                        not so encumbered, as set forth in FASB ASC 860-30-25-5(a).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.92" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.92</b> Paragraphs
+                        5A and 24A of FASB ASC 860-10-40 state that a repo-to-maturity transaction,
+                        referring to a repurchase of the same (or substantially the same) financial
+                        asset, should be accounted for as a secured borrowing as if the transferor
+                        maintains effective control, notwithstanding the characteristics discussed
+                        in paragraphs 24–24A of FASB ASC 860-10-40.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.93" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.93</b> FASB ASC
+                        860-30-25-5 states that the accounting for noncash collateral by the obligor
+                        (or debtor) and the secured party depends on whether the secured party has
+                        the right to sell or repledge the collateral and whether the debtor has
+                        defaulted. As noted in FASB ASC 860-30-25-4, in certain cases, cash
+                        collateral should be derecognized by the payer (obligor) and recognized by
+                        the recipient (secured party) as proceeds of either a sale or borrowing,
+                        rather than as collateral. FASB ASC 860-30 provides additional guidance on
+                        accounting for collateral.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.94" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.94</b> FASB ASC
+                        860-30-25-8 states that the transferor of securities being loaned accounts
+                        for cash received in the same way whether the transfer is accounted for as a
+                        sale or secured borrowing. Cash collateral or securities received as
+                        collateral that a securities lender is permitted to sell or repledge are the
+                        proceeds of a borrowing secured by them. The cash received should be
+                        recognized as the transferor’s asset — as should investments made with that
+                        cash, even if made by agents or in pools with other securities lenders —
+                        along with the obligation to return the cash. If securities that may be sold
+                        or repledged are received, the transferor of the securities being loaned
+                        accounts for those securities in the same way as it would account for cash
+                        received.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.95" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.95</b> Balances
+                        arising from securities lending transactions that are accounted for as
+                        secured borrowings are reported gross on the statement of financial
+                        condition unless all the criteria for offsetting in FASB ASC 210-20-45-11
+                        are met.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

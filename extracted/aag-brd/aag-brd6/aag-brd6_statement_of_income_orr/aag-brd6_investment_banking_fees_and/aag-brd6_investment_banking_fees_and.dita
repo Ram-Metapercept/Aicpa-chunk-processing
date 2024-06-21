@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-b20da564-3b27-e16c-d57c-57b511dbed07" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Investment Banking Fees and Expenses</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393229420910" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.109</b> <i class="+ topic/ph hi-d/i ">Underwriting
+                        income.</i> Business entities and governmental entities that want to
+                    raise funds through the public sale of securities normally engage securities
+                    broker-dealers to underwrite their securities issues. Underwriting is the act of
+                    distributing a new issue of securities (primary offering) or a large block of
+                    issued securities (secondary offering).</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393229425798" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.110</b> <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_background.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-24cb739a-e826-fed0-f896-e2735ececaba/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.33">Paragraphs 5.6.33–5.6.61</xref> of chapter 5 of AICPA Audit and Accounting
+                    Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as published in
+                    2022) contain the related revenue recognition implementation issue for brokers
+                    and dealers in securities applying FASB ASC 606. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.136">paragraph 5.136</xref> of this guide. This content is presented in the
+                    “Revenue Streams” section under the heading “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_underwriting_revenues.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4a47ef8f-2644-b9d7-21e0-1238069d8496">Underwriting Revenues</xref>.”</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393229432654" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.111</b> <i class="+ topic/ph hi-d/i ">Underwriting
+                        expenses.</i> FASB ASC 940-340-35-3 states that underwriting expenses
+                    deferred under the guidance in FASB ASC 940-340-25-3 should be recognized at the
+                    time the related revenues are recorded. In the event that the transaction is not
+                    completed and the securities are not issued, the entities that have agreed to
+                    participate in the costs associated with the underwriting will write those costs
+                    off to expense. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd6/aag-brd6_financial_statements/aag-brd6_statement_of_income_or/aag-brd6_statement_of_income_or.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-97d96195-f62a-4398-5c4d-02de71105726/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.20">paragraph 6.20</xref> of this chapter.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393229437318" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.112</b> <i class="+ topic/ph hi-d/i ">Advisory
+                        fees.</i> Broker-dealers may offer certain advisory services to
+                    customers (for example, advisory services on particular transactions, such as a
+                    merger or acquisition) in exchange for a fee. These fees are typically specified
+                    in an agreement or mandate letter. Advisory fees should be accounted for using
+                    the five-step revenue recognition model within FASB ASC 606.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393229442644" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.113</b> <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_investment_banking_ma_advisory.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-95272ab7-49cf-a1fe-04f0-80bb3f1edaf5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.78">Paragraphs 5.6.78–5.6.110</xref> of chapter 5 of AICPA Audit and Accounting
+                    Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as published in
+                    2022) contain the related revenue recognition implementation issue for brokers
+                    and dealers in securities applying FASB ASC 606. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.136">paragraph 5.136</xref> of this guide. This content is presented in the
+                    “Revenue Streams” section under the heading “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_investment_banking_ma_advisory.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-95272ab7-49cf-a1fe-04f0-80bb3f1edaf5">Investment Banking M&amp;A Advisory Fees</xref>.”</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393229448492" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.114</b> <i class="+ topic/ph hi-d/i ">Advisory
+                        expenses</i>. A broker-dealer may incur reimbursable expenses in
+                    performing advisory services on behalf of a client. <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_other_related_topics/topics/aag-rev5_costs_associated_with_investment.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4054f862-8dbf-fb98-4d01-355fffc7de35/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.05">Paragraphs 5.7.05–5.7.20</xref> of chapter 5 of AICPA Audit and Accounting
+                    Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as published in
+                    2022) contain the related revenue recognition implementation issue for brokers
+                    and dealers in securities applying FASB ASC 606. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.136">paragraph 5.136</xref> of this guide. This content is presented in the
+                    “Other Related Topics” section under the heading “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_other_related_topics/topics/aag-rev5_costs_associated_with_investment.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4054f862-8dbf-fb98-4d01-355fffc7de35">Costs Associated With Investment Banking Advisory Services</xref>.”</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-77306c25-4d79-05c9-9726-dc73dc73a6c2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Dividends, Interest, and Reorganization</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.50" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.50</b> <i class="+ topic/ph hi-d/i ">Dividends and interest</i>. The dividend department
+                    normally monitors dividends declared by business entities, monitors the
+                    collection (and payment, if the broker-dealer is short) of dividends, records
+                    interest and dividends on securities owned by the firm or its customers, and
+                    credits customer and firm accounts with their dividends and interest. The
+                    following are some of the control and monitoring activities typically associated
+                    with the processing of dividends and interest:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Receiving information regarding dividend declarations, pending coupon
+                            payments, factor changes, and other corporate actions electronically
+                            from independent dividend-reporting services.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Manually reviewing input dividend information separately.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Obtaining information regarding bond interest coupon dates when new
+                            issues are recorded on the securities master file.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Automatically creating (on the record date) a dividend file that
+                            identifies all long and short security positions in each issue for which
+                            a dividend has been declared from an extract of the stock record
+                            (commonly referred to as a <i class="+ topic/ph hi-d/i ">take-off
+                                sheet</i>).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Crediting, through an automated process on the payment date, all
+                            entries to customer, noncustomer, and processing accounts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Recording in the suspense account and having the dividend department
+                            investigate differences between money received and the receivable amount
+                            or between money paid and the payable amount.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Following up with paying agents or depositories holding the firm's and
+                            its customers' securities in street name for payments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Routinely aging receivables and payables and long and short stock
+                            dividends for exposure and for regulatory and escheatment purposes and
+                            reporting them to management.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Agreeing customer elections as recorded in the dividend system or
+                            offline file to supporting documentation, for dividends that may be paid
+                            in either cash or shares at the discretion of the customer.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.51" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.51</b> <i class="+ topic/ph hi-d/i ">Reorganizations</i>. The reorganization department is
+                    responsible for the processing of securities involving corporate
+                    reorganizations, consolidations, subscriptions, and exchanges. Some of the
+                    control and monitoring activities typically associated with reorganization
+                    departments include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Receiving information regarding pending reorganization transactions
+                            electronically from independent reporting services.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Manually reviewing input reorganization information separately.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Controlling physical movements of securities subject to pending
+                            reorganizations by processing them through the appropriate
+                            reorganization accounts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Balancing all reorganization transactions on a security-by-security
+                            basis.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Periodically recording and confirming money receivable or securities
+                            at agents with any differences entered into a suspense account and
+                            investigated.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Informing customers of reorganizations and agreeing customer elections
+                            as recorded in the reorganization system or offline file to supporting
+                            documentation for reorganizations in which a vote, election, or other
+                            matter is at the discretion of the customer.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

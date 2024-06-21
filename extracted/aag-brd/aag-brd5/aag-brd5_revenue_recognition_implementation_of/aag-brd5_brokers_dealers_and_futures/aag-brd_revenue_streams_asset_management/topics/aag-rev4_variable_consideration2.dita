@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-921fef4a-417b-37d0-ac31-f37ff192e867" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Variable Consideration</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.64" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.64</b> In accordance with FASB ASC 606-10-32-5,
+                                    consideration paid for asset management services in the form of
+                                    performance fees is considered variable because it is subject to
+                                    fluctuation with respect to amount (for example, in asset value,
+                                    market performance) or is contingent on a future event during
+                                    the contractual period (for example, meeting a specified
+                                    compound hurdle rate), or both.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.65" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.65</b> FASB ASC 606-10-32-8 requires that the
+                                    amount of variable consideration is estimated using one of the
+                                    following two methods, depending on which method the asset
+                                    manager expects to better predict the amount of consideration to
+                                    which it will be entitled:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The expected value of the contract determined by the
+                                            sum of probability-weighted amounts in a range of
+                                            possible consideration amounts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The most likely amount equal to the single most likely
+                                            amount in a range of possible consideration
+                                            amounts.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.66" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.66</b> In accordance with FASB ASC 606-10-32-9,
+                                    the asset manager should consider all the information
+                                    (historical, current, and forecast) that is reasonably available
+                                    to the entity, including its historical experience with similar
+                                    arrangements in similar jurisdictions to determine the estimate
+                                    of variable consideration. Consideration should be given to the
+                                    accuracy of previously forecasted results and actual fund
+                                    performance to help determine if there is a range of possible
+                                    consideration amounts that could be used to derive the expected
+                                    value (that is, in a probability-weighted estimate) or most
+                                    likely amount to which the entity will be entitled.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

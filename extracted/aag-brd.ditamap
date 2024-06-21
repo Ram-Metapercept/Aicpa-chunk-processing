@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE aicpa-map PUBLIC "-//PWC//DTD DITA AICPA Map//EN" "aicpa-map.dtd">
+<aicpa-map id="UUID-eadce514-abc4-c445-1171-5c783c14abad">
+    <topicref href="aag-brd.dita" format="dita" navtitle="Brokers and Dealers in Securities [AAG-BRD]">
+        <topicref href="aag-brd/aag-brd_preface.ditamap" format="ditamap" navtitle="Preface"/>
+        <topicref href="aag-brd/aag-brd1.ditamap" format="ditamap" navtitle="Chapter 1 — The Securities Industry"/>
+        <topicref href="aag-brd/aag-brd2.ditamap" format="ditamap" navtitle="Chapter 2 — Broker-Dealer Functions, Books, and Records"/>
+        <topicref href="aag-brd/aag-brd3.ditamap" format="ditamap" navtitle="Chapter 3 — Regulatory Considerations"/>
+        <topicref href="aag-brd/aag-brd4.ditamap" format="ditamap" navtitle="Chapter 4 — Internal Control"/>
+        <topicref href="aag-brd/aag-brd5.ditamap" format="ditamap" navtitle="Chapter 5 — Accounting Standards"/>
+        <topicref href="aag-brd/aag-brd6.ditamap" format="ditamap" navtitle="Chapter 6 — Financial Statement Presentation and Classification"/>
+        <topicref href="aag-brd/aag-brd_appA.ditamap" format="ditamap" navtitle="Appendix A — Information Sources" chunk="to-content"/>
+        <topicref href="aag-brd/aag-brd_appB.ditamap" format="ditamap" navtitle="Appendix B — Schedule of Changes Made to the Text From the Previous Edition" chunk="to-content"/>
+        <topicref href="aag-brd/aag-brd_glossary.ditamap" format="ditamap" navtitle="Glossary" chunk="to-content"/>
+    </topicref>
+</aicpa-map>

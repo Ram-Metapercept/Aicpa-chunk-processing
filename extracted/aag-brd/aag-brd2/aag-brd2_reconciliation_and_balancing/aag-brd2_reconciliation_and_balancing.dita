@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-8d7ffb88-4927-9187-45b4-1eb0f03167b4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Reconciliation and Balancing</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.119" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.119</b> Daily cash receipts and disbursements are
+                totaled on the journals or blotters, and the closing balance for each account is
+                determined. A summary of the postings is prepared showing the distribution to the
+                control accounts in the general ledger. The summary is agreed with the totals of the
+                various source documents and with related items in the summaries prepared by the
+                receive and deliver departments. In addition to the settlement and cash journal
+                summaries, broker-dealers may prepare an overall summary of cash transactions
+                processed by the cashier's department. Normally, this cash summary sheet contains
+                numerous descriptive categories and columns to which the cash movements are posted.
+                Entries are compiled by summarizing working documents, including blotters, journals,
+                drafts, and other receipt and disbursement forms.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.120" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.120</b> The securities record department is
+                responsible for monitoring and controlling the recording of all securities movements
+                under the broker-dealer's jurisdiction. The stock record department ensures that
+                longs equal shorts for securities positions and is responsible for correcting all
+                breaks in the securities record, just as the accounting department is responsible
+                for ensuring that debits equal credits for money balances. Uncorrected breaks could
+                cause serious losses to the firm, and accordingly, such items should be monitored,
+                aged, and reported to management daily.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.121" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.121</b> Securities differences may be caused by
+                inaccurate recordkeeping on the part of a broker-dealer, by an out-of-balance
+                condition in the stock record (a stock record break), or by errors in the receipt
+                and delivery of securities. Such differences are normally disclosed through the
+                automated daily balancing of the stock record, periodic counts of securities on
+                hand, and examination or confirmation of items such as transfers and fails.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.122" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.122</b> The broker-dealer must deduct the market
+                value of all short securities differences unresolved after discovery in accordance
+                with the schedule in Rule 15c3-1(c)(2)(v)(A). The broker-dealer may be required to
+                buy in short positions of the firm or of other persons if the shorts allocate to a
+                customer’s long position required for possession or control. See Rule 15c3-3(d)(4).
+                When a security difference is discovered, FINRA Rule 4522 requires the firm to
+                record unresolved differences into a “Difference” account.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

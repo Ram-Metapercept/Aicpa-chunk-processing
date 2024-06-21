@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4f8450d6-63bb-04c7-d2a6-80d9b7ce064c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Application of Fair Value Measurement to Liabilities and Instruments
+                    Classified in a Reporting Entity’s Shareholders’ Equity</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.09</b> Certain
+                    broker-dealer liabilities, such as securities sold but not yet purchased, are
+                    carried at fair value. According to FASB ASC 820-10-35-16, a fair value
+                    measurement assumes that a financial or nonfinancial liability or an instrument
+                    classified in a reporting entity’s shareholders’ equity is transferred to a
+                    market participant at the measurement date. The transfer of a liability or an
+                    instrument classified in a reporting entity’s shareholders’ equity assumes the
+                    following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">A liability would remain outstanding and the market participant
+                            transferee would be required to fulfill the obligation. The liability
+                            would not be settled with the counterparty or otherwise extinguished on
+                            the measurement date.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">An instrument classified in a reporting entity’s shareholders’ equity
+                            would remain outstanding and the market participant transferee would
+                            take on the rights and responsibilities associated with the instrument.
+                            The instrument would not be cancelled or otherwise extinguished at the
+                            measurement date.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.10</b> FASB ASC
+                    820-10-35-16A states that even when there is no observable market to provide
+                    pricing information about the transfer of a liability or an instrument
+                    classified in a reporting entity’s shareholders’ equity (for example, because
+                    contractual or other legal restrictions prevent the transfer of such items),
+                    there might be an observable market for such items if they are held by other
+                    parties as assets (for example, a corporate bond or a call option on a reporting
+                    entity’s shares). In all cases, a reporting entity should maximize the use of
+                    relevant observable inputs and minimize the use of unobservable inputs to meet
+                    the objective of a fair value measurement. See paragraphs 16D–16L of FASB ASC
+                    820-10-35 for additional guidance regarding measuring the fair value of
+                    liabilities and instruments classified in a reporting entity’s shareholders’
+                    equity.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.11</b> Paragraphs
+                    17–18A of FASB ASC 820-10-35 provide that the fair value of a liability reflects
+                    the effect of nonperformance risk. Nonperformance risk includes, but may not be
+                    limited to, a reporting entity’s own credit risk. Nonperformance risk is assumed
+                    to be the same before and after the transfer of the liability. When measuring
+                    the fair value of a liability, a reporting entity should take into account the
+                    effect of its credit risk (credit standing) and any other factors that might
+                    influence the likelihood that the obligation will or will not be fulfilled. See
+                    paragraphs 17–18A of FASB ASC 820-10-35 for additional guidance.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

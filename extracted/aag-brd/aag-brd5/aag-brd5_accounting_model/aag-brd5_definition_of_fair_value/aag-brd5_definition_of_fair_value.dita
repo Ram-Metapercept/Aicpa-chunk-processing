@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4a67e74f-8e38-5d64-e594-18f44719eb73" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Definition of Fair Value</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Definition of <i class="+ topic/ph hi-d/i ">Fair
+                        Value</i>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.06</b> FASB ASC
+                    820-10-20 defines <i class="+ topic/ph hi-d/i ">fair value</i> as the price
+                    that would be received to sell an asset or paid to transfer a liability in an
+                    orderly transaction between market participants at the measurement date. FASB
+                    ASC 820-10-35-5 states that a fair value measurement assumes that the
+                    transaction to sell the asset or transfer the liability takes place either in
+                    the principal market for the asset or liability or, in the absence of a
+                    principal market, in the most advantageous market for the asset or liability.
+                    The FASB ASC Master Glossary defines the <i class="+ topic/ph hi-d/i ">principal
+                        market</i> as the market with the greatest volume and level of
+                    activity for the asset or liability. The reporting entity must have access to
+                    the principal (or most advantageous) market at the measurement date. Because
+                    different entities with different activities may have access to different
+                    markets, the principal or most advantageous market for the same asset or
+                    liability might be different for different entities (and business within those
+                    entities). The principal market (and, thus, market participants) should be
+                    considered from the perspective of the reporting entity, thereby allowing for
+                    differences between and among entities with different activities.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.07</b> FASB ASC
+                    820-10-05-1B notes that fair value is a market-based measurement, not an
+                    entity-specific measurement. For some assets and liabilities, observable market
+                    transactions or market information might be available, but for others, that
+                    information might not be available. However, the objective of a fair value
+                    measurement in both cases is the same — to estimate the price at which an
+                    orderly transaction to sell the asset or transfer the liability would take place
+                    between market participants at the measurement date under current market
+                    conditions (that is, an exit price at the measurement date from the perspective
+                    of a market participant that holds the asset or owes the liability).
+                    Conceptually, entry prices and exit prices are different. However, FASB ASC
+                    820-10-30-3 explains that, in many cases, at initial recognition, the
+                    transaction price will equal fair value (for example, when the transaction takes
+                    place in the market in which the asset would be sold).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.08</b> Paragraphs 9B–9C
+                    of FASB ASC 820-10-35 provide that the price should not be adjusted for
+                    transaction costs. Transaction costs do not include transportation costs. If
+                    location is a characteristic of the asset (for example, for a commodity), the
+                    price should be adjusted for the costs, if any, that would be incurred to
+                    transport the asset from its current location to its principal (or most
+                    advantageous) market.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

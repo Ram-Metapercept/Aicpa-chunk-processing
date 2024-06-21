@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-06d63e5e-29f1-15cf-9e17-d3a04ac0efda" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Broker-Dealers</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.04</b> Pursuant to the
+                Securities Exchange Act of 1934 (1934 Act), the SEC developed a comprehensive system
+                to regulate broker-dealers and the securities industry in general. As a result, most
+                broker-dealers in securities are subject to regulation by the SEC.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.05</b> On July 30, 2013,
+                the SEC amended Rule 17a-5, <i class="+ topic/ph hi-d/i ">Reports to Be Made by Certain
+                    Brokers and Dealers</i>, to require that audits of all broker-dealers'
+                financial statements and supplemental information, as well as the auditor's
+                examination of the compliance report or the auditor's review of the exemption
+                report, be conducted in accordance with PCAOB standards, effective for fiscal years
+                ending on or after June 1, 2014. In conjunction with these changes, the PCAOB issued
+                    <xref format="dita" class="- topic/xref " href="../../../ps-pcaob/auditing_reorganized/as_audit_procedures/as_2700/as_2701/as_2701.dita#UUID-b0351d87-304c-2f75-f6fa-b32f28c24a10">AS 2701</xref>, <i class="+ topic/ph hi-d/i ">Auditing Supplemental Information Accompanying
+                    Audited Financial Statements</i>, <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87-aag-brd1-fn2" class="- topic/fn ">
+               <p class="- topic/p ">All AS sections can be found in <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../ps-pcaob.dita#UUID-31f351fd-04cd-2975-d7ef-2e4f833a3071">PCAOB Standards and Related Rules</xref>
+                     <unknown id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_N661755d1886b3" class="- topic/unknown ">PCAOB Standards and Related
+                            Rules</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd1_brokers_and_dealers.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-06d63e5e-29f1-15cf-9e17-d3a04ac0efda/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87-aag-brd1-fn2"/>
+         </ph> and two attestation standards, <xref format="dita" class="- topic/xref " href="../../../ps-pcaob/attestation/pcaob_pat_attestation_standards/pat_1/pat_1.dita#UUID-d837fd49-1b63-b3b4-f8d0-30207266c40e">Attestation Standard No. 1</xref>, <i class="+ topic/ph hi-d/i ">Examination
+                    Engagements Regarding Compliance Reports of Brokers and Dealers</i>, and
+                    <xref format="dita" class="- topic/xref " href="../../../ps-pcaob/attestation/pcaob_pat_attestation_standards/pat_2/pat_2.dita#UUID-c320c59e-fe1a-4e52-51a1-6d70b4ff5e84">Attestation Standard No. 2</xref>, <i class="+ topic/ph hi-d/i ">Review Engagements
+                    Regarding Exemption Reports of Brokers and Dealers</i>. <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87-aag-brd1-fn3" class="- topic/fn ">
+               <p class="- topic/p ">All PCAOB Attestation Standards can be found in <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../ps-pcaob.dita#UUID-31f351fd-04cd-2975-d7ef-2e4f833a3071">PCAOB Standards and Related Rules</xref>
+                     <unknown id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_N661755d191013" class="- topic/unknown ">PCAOB Standards and Related
+                            Rules</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd1_brokers_and_dealers.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-06d63e5e-29f1-15cf-9e17-d3a04ac0efda/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87-aag-brd1-fn3"/>
+         </ph> Additionally, the PCAOB has modified its existing standards to encompass
+                broker-dealers. <unknown id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_N661755d185788" class="- topic/unknown ">AS 2701</unknown>
+         <unknown id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_N661755d18a72a" class="- topic/unknown ">Attestation Standard No. 1</unknown>
+         <unknown id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_N661755d18de5e" class="- topic/unknown ">Attestation Standard No. 2</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.06</b> Securities
+                broker-dealers perform various functions within the securities industry. Brokers
+                acting as agents facilitate their customers' purchase and sale of securities and
+                related financial instruments and usually charge commissions. Dealers or traders
+                acting as principals buy and sell for their own accounts from and to customers and
+                other dealers. Dealers typically carry an inventory and make a profit or loss on the
+                spread between bid and asked prices, markups from dealer prices, or the speculative
+                profit or loss from market fluctuations. Many firms are known as broker-dealers
+                because they act in both capacities. The range of their activities can extend far
+                beyond those described previously. For example, many broker-dealers provide
+                financial services that include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Underwriting publicly offered securities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assisting in the private placement of securities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Providing investment research and advice</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Developing new financial products, including derivative products</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Providing a source of market liquidity (market makers and designated
+                        market makers) and creating a secondary market for many products</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Providing loans and financings, including equity loans and mortgage
+                        loans</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Providing the means for companies to hedge foreign currency, interest
+                        rate, credit risk, and other risks</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Accommodating international investing, including U.S. investments in
+                        foreign markets and the investment activity of foreign investors in the U.S.
+                        markets</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Extending credit to customers who have bought securities on margin and to
+                        business entities that need financing for mergers, acquisitions, or
+                        leveraged buyouts</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Acting as a depository for securities owned by customers; disbursing to
+                        customers dividends and interest received; and informing customers about
+                        calls, tenders, and other reorganization activities pertaining to their
+                        securities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Serving in an advisory capacity for public and corporate finance
+                        activities (such as mergers and acquisitions and leveraged buyouts) and
+                        providing investment and management advisory services to individual and
+                        institutional investors (for example, mutual funds, insurance companies, and
+                        pensions)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Offering access to cash sweep products (such as money market funds or
+                        FDIC-insured bank deposit programs)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Providing many other financial services (such as credit cards, checking
+                        accounts, and insurance products)</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.07</b> Many types of
+                broker-dealers exist, and they may be distinguished by the range of activities they
+                perform or the geographical area in which they operate. Full-service broker-dealers
+                do not restrict themselves to particular activities or services. Regional
+                broker-dealers are similar but generally concentrate their activities on a specific
+                geographical area. Retail broker-dealers focus on individuals, whereas institutional
+                broker-dealers are primarily concerned with nonnatural persons (for example,
+                corporations). Introducing broker-dealers "introduce" their customers' business — on
+                an omnibus or a fully disclosed basis — to a clearing broker-dealer. Broker-dealers
+                may clear or carry their own customer trades or do so for an introducing broker.
+                Boutiques or specialty firms, in contrast, engage in only one or a few activities,
+                such as leveraged buyouts, arbitrage, direct private placements, mergers and
+                acquisitions, customer discretionary accounts, or industry-specific research.
+                Broker-dealers may also be dually registered as CFTC-registered futures commission
+                merchants, CFTC-registered introducing brokers, or CFTC-registered swap
+                dealers.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

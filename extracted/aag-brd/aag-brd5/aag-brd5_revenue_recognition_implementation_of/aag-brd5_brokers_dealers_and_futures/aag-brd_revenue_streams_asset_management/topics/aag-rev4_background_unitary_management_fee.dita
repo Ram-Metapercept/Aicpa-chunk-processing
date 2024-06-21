@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-6a256bfe-089b-6bd9-7c4a-c576e824d45a" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Background — Unitary Management Fee
+                                    Arrangements</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.48" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.48</b> <i class="+ topic/ph hi-d/i ">Unitary
+                                        investment management fees</i> are generally
+                                    asset-based fees received from certain managed funds, managed
+                                    exchange-traded funds (ETFs), and common collective trust funds
+                                    (CCTFs) for the provision of investment advisory as well as
+                                    management or payment of certain specified other operational
+                                    expenses, or both. As with management fees, the unitary
+                                    management fee is typically calculated as a percentage of gross
+                                    or net assets at a point in time or the average of such assets
+                                    over a given period (such as daily, monthly, or quarterly), and
+                                    the billing terms of the fee (both timing [in arrears or in
+                                    advance] and frequency) are included in a management agreement
+                                    between the asset manager and the customer. The fund or unit
+                                    trust is typically deemed to be the customer under Step 1 of the
+                                    revenue recognition model.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.49" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.49</b> Similar to management fee arrangements,
+                                    in a unitary management fee arrangement, the asset manager is
+                                    appointed as manager with all the powers, duties, and
+                                    discretions exercisable in respect of the management of the fund
+                                    or unit trust. As manager, they are typically responsible for
+                                    ensuring the operation of the fund or unit trust, irrespective
+                                    of who performs the services.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.50" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.50</b> Under unitary management fee agreements,
+                                    investors are aware that a single fee is being charged, the fee
+                                    is paid to the asset manager in its capacity as manager, and the
+                                    fee covers payment for certain operational expenses. Example
+                                    operating services covered by the unitary management fee include
+                                    administrative services such as ongoing record keeping,
+                                    custodianship of assets, transfer agency and registry services,
+                                    regulatory filing, audit and tax advisory services, accounting
+                                    services, printing, information services, and distribution
+                                    services. Investors may be made aware of the identity of some
+                                    appointed third-party service providers for certain delegated
+                                    operating services because that information may be disclosed in
+                                    the prospectus (for example, the administrator or custodian).
+                                    Irrespective of whether the manager performs the operating
+                                    services or delegates them, the services are all performed for
+                                    and provide benefit to the fund or unit trust (that is, the
+                                    customer) consistently over a given time period.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.51" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.51</b> Notably, the same operating services that
+                                    are covered by the unitary management fee are performed on
+                                    behalf of the fund under management fee arrangements. The main
+                                    difference between these two types of arrangements is the entity
+                                    that makes payment for operating expenses (that is, the asset
+                                    manager versus the fund). The primary reason for having two
+                                    types of “payment arrangements” is the fund’s ability to manage
+                                    its cost. Under unitary fee management fee arrangements, the
+                                    onus is on the asset manager to manage operating costs. They are
+                                    responsible for any costs that cannot be covered by the unitary
+                                    fee they receive as payment for managing the fund (that is, by
+                                    the unitary management fee). Comparatively, under management fee
+                                    arrangements, the fund is exposed to cost overruns, subject to
+                                    limitations in the form of expense caps. Depending on facts and
+                                    circumstances related to a given fund, shareholders may prefer
+                                    one arrangement over the other.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.52" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.52</b> Whether the unitary management fee
+                                    revenue should be presented gross or net of the cost of
+                                    outsourced operating services requires an analysis of the
+                                    principal versus agent criteria in paragraphs 36–40 of FASB ASC
+                                    606-10-55. Industry considerations relevant to evaluating
+                                    presentation of unitary management fees are discussed within the
+                                    section “<xref format="dita" class="- topic/xref " href="../../../../../../aag-rev/aag-rev4/aag-rev4_revenue_streams/aag-rev4_asset_management_arrangement_revenue/aag-rev4_asset_management_arrangement_revenue.dita#UUID-5dda6152-7bb5-4414-0515-87dee369dc20_UUID-ba641424-0107-cfd4-158d-328c0f861c43">Asset Management Arrangement Revenue — Gross Versus
+                                        Net</xref>” in paragraphs 4.6.94–4.6.107. <unknown id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_N661755d1b3616" class="- topic/unknown ">Asset Management Arrangement Revenue
+                                        — Gross Versus Net</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.53" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.53</b> The following example for unitary
+                                    management fees is meant to be illustrative, and the actual
+                                    determination of the amount and timing of fees recognized in
+                                    revenue should be based on the facts and circumstances of an
+                                    entity’s specific situation. For purposes of the following
+                                    analysis, assume that entitlement to and amount of the unitary
+                                    management fee do not depend on the performance of the
+                                    investments under management meeting specified investment return
+                                    thresholds and that there is no associated clawback
+                                    provision.</p>
+      <example id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_example-idm4517307469817633902938771224" class="- topic/example ">
+         <title class="- topic/title ">Example 4-6-2 — Unitary Management Fees</title>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Step 1: Identify the Contract With a
+                                            Customer</i>
+         </p>
+         <p class="- topic/p ">Refer to the discussion of this step in preceding <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd_revenue_streams_asset_management/topics/aag-rev4_measuring_progress_toward_complete2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-2ae0fe03-64a7-647a-1bb3-96d64c284503/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_example-idm450069852609923390293785007">example 4-6-1</xref>. The same assessment applies to
+                                        unitary management fee arrangements.</p>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Step 2: Identify the Performance
+                                            Obligations in the Contract</i>
+         </p>
+         <p class="- topic/p ">FinREC believes that a similar assessment to <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd_revenue_streams_asset_management/topics/aag-rev4_measuring_progress_toward_complete2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-2ae0fe03-64a7-647a-1bb3-96d64c284503/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_example-idm450069852609923390293785007">example 4-6-1</xref> for management fees applies to
+                                        unitary management fee arrangements. The main difference is
+                                        that under unitary management fee arrangements, the asset
+                                        manager receives a higher management fee designed to
+                                        encompass the additional costs associated with discharging
+                                        payment to third-party service providers (this is typically
+                                        explained in the fund governing documents). To the extent
+                                        the cost of services provided by a third-party service
+                                        provider exceeds the asset manager’s anticipated amount
+                                        budgeted as part of its unitary management fee, such excess
+                                        is paid out of the asset manager’s assets. In comparison,
+                                        under a management fee contract, the fund typically directly
+                                        pays the operating service costs. Nonetheless, the nature of
+                                        the asset manager’s promise is the same in either instance.
+                                        It is the promise to stand ready or provide a single service
+                                        until the arrangement is terminated by either party or until
+                                        the fund is dissolved, pursuant to contractual terms (also
+                                        see the preceding discussion under management fees). This
+                                        additional service of discharging payment occurs
+                                        concurrently with the traditional investment advisory
+                                        services and has the same pattern of transfer, making the
+                                        accounting evaluation similar to that for management fees
+                                        and consistent with Example 25 in paragraphs 221–225 of FASB
+                                        ASC 606-10-55.</p>
+         <p class="- topic/p ">Some of the operating services over which the asset
+                                        manager is responsible for paying may be performed primarily
+                                        during a particular time or times of the year, for example,
+                                        audit and legal services and regulatory filing services. As
+                                        well, payment for these services may only be made at these
+                                        times. However, there are typically aspects of such services
+                                        that are performed throughout the year, as other asset
+                                        management-related services are performed.</p>
+         <p class="- topic/p ">When evaluating the nature of the promise to the customer,
+                                        FinREC believes that if disclosure in the governing
+                                        documents is made of the amount of the unitary fee
+                                        attributable to each operating service covered by the
+                                        unitary management fee, then this disclosure should not, in
+                                        and of itself, dictate the identification of distinct goods
+                                        or services.</p>
+         <p class="- topic/p ">Because the nature of the asset manager’s promise in a
+                                        unitary fee arrangement is to provide day-to-day management
+                                        of a fund, the promise involves the provision of a number of
+                                        services that collectively represent the complete service
+                                        promised to the customer. Underlying services may include
+                                        investment advisory services, accounting services, preparing
+                                        proxies, printing prospectuses, providing distribution
+                                        services, and custodian and transfer agency services. All of
+                                        these underlying activities could significantly vary within
+                                        a day or from day to day; however, that is not relevant to
+                                        the evaluation of the nature of the promise. In this regard,
+                                        the nature of the contract is to provide integrated fund
+                                        management services, inclusive of investment advisory
+                                        services and certain operating services, as opposed to a
+                                        specific quantity of specified services. Similar to
+                                        management fee arrangements, FinREC believes that it is
+                                        reasonable to conclude that each day of service is
+                                        substantially the same. That is, even if the individual
+                                        activities that comprise the performance obligation vary
+                                        from day to day, the nature of the overall promise is the
+                                        same from day to day. The daily services are those
+                                        activities that are required to satisfy the asset manager’s
+                                        obligation to provide an integrated fund management service.
+                                        FinREC believes that a similar assessment to the preceding
+                                        assessment for management fees applies in these
+                                        instances.</p>
+      </example>
+      <p class="- topic/p ">Refer to the discussion in <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd_revenue_streams_asset_management/topics/aag-rev4_measuring_progress_toward_complete2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-2ae0fe03-64a7-647a-1bb3-96d64c284503/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_example-idm450069852609923390293785007">example 4-6-1</xref> for determining satisfaction of the
+                                    performance obligations, measuring progress toward complete
+                                    satisfaction of a performance obligation, determining the
+                                    transaction price, and allocating the transaction price to
+                                    performance obligations. The same assessment applies to unitary
+                                    management fee arrangements.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

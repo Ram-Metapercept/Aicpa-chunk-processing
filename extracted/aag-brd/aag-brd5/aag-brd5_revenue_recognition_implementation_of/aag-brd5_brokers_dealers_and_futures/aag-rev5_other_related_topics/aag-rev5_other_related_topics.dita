@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-f88a5d75-439b-95c0-7647-62791b982f0b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Other Related Topics</title>
+   <body class="- topic/body ">
+      <p id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.137" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.137</b> The following paragraphs from <xref format="dita" class="- topic/xref " href="../../../../../aag-rev/aag-rev4/aag-rev4.dita#UUID-5dda6152-7bb5-4414-0515-87dee369dc20">chapter 4</xref>, “Asset Management,” of AICPA Audit and Accounting Guide
+                        <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as published in
+                    2022) contain revenue recognition implementation issues that may be relevant for
+                    management of asset management entities in applying FASB ASC 606 and related
+                    interpretations from the TRG. <unknown id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_N661755d1a7235" class="- topic/unknown ">Chapter 4</unknown>
+      </p>
+      <table outputclass="ruled" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5_table2" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row valign="bottom" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <i class="+ topic/ph hi-d/i ">Issue Description</i>
+                        </b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">
+                           <i class="+ topic/ph hi-d/i ">Paragraph Reference</i>
+                        </b>
+                     </p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <ul outputclass="ul none" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Management fee revenue, excluding performance fee
+                                            revenue</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd_revenue_streams_asset_management/topics/aag-rev4_background_management_fees.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-74dade0b-84b6-17c9-ace5-1444412c2c67/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.19">4.6.19–4.6.53</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <ul outputclass="ul none" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Incentive or performance fee revenue, excluding
+                                            incentive-based capital allocations (such as carried
+                                            interest)</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd_revenue_streams_asset_management/topics/aag-rev4_background2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-368d37e7-f12b-9e41-f926-208d04f6deee/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.54">4.6.54–4.6.80</xref>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p class="- topic/p ">The revenue recognition guide contains
+                    additional asset management implementation issues. <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev4-fn1" class="- topic/fn ">
+               <p class="- topic/p ">Readers should refer to individual revenue streams starting with
+                            paragraph 4.6.01 for accounting implementation issues relating to each
+                            step of the revenue recognition model.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-rev5_other_related_topics.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-f88a5d75-439b-95c0-7647-62791b982f0b/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev4-fn1"/>
+         </ph>
+      </p>
+      <note class="- topic/note ">
+         <b class="+ topic/ph hi-d/b ">Notice to Readers</b>
+         <p class="- topic/p ">The AICPA Brokers and Dealers in Securities Revenue Recognition Task Force
+                        identified and developed these accounting implementation issues, and the
+                        AICPA Revenue Recognition Working Group and AICPA FinREC approved them. They
+                        are a source of nonauthoritative accounting guidance for nongovernmental
+                        entities.</p>
+      </note>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-2e0642f9-2668-3ead-206a-f9edfb6f993e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Trade Date and Settlement Date</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.16</b> Prior to
+                    computer automation and processing, broker-dealers recorded securities
+                    transactions in their trial balances and stock records on the date the
+                    securities were due for settlement (settlement date) rather than the date on
+                    which the transaction was initiated (trade date). With the advent of automation,
+                    many firms now record their proprietary transactions on a trade date basis, in
+                    accordance with accounting principles generally accepted in the United States of
+                    America. However, customer records are generally still maintained on a
+                    settlement date basis (see the "<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_trade_date_versus_settlement/aag-brd5_trade_date_versus_settlement.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-afbdb56b-2ecf-9a39-7870-c3d12874e9b8">Trade-Date Versus Settlement-Date Accounting</xref>" section of chapter 5,
+                    “Accounting Standards,” of this guide for further discussion of trade date and
+                    settlement date accounting). During the period between trade date and settlement
+                    date, various operational departments are responsible for clearing or settling
+                    trades.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.17</b> The period
+                    between trade date and settlement date varies depending on the product and
+                    specific transaction. Although any settlement date can be negotiated for any
+                    given purchase or sale, the following table provides a reference for the current
+                    standardized (regular way) settlement dates by product. Effective September 5,
+                    2017, broker-dealers are required to comply with the amendments to SEC Rule
+                    15c6-1(a). The amended rule prohibits a broker-dealer from effecting or entering
+                    into a contract for the purchase or sale of a security that provides for payment
+                    of funds and delivery of securities later than T+2, unless otherwise expressly
+                    agreed to by the parties at the time of the transaction. The amended rule
+                    applies a T+2 settlement cycle to the same securities transactions that were
+                    previously covered by the T+3 settlement cycle. These include transactions for
+                    stocks, bonds, municipal securities, exchange-traded funds, certain mutual
+                    funds, and limited partnerships that trade on an exchange. Effective May 5,
+                    2023, the SEC adopted rules and rule amendments to shorten the standard
+                    settlement cycle for most broker-dealer transactions from T+2 to T+1 with a
+                    compliance date of May 28, 2024. <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-aag-brd2-fn3" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd1/aag-brd1_clearing_organizations_and_depositories/aag-brd1_clearing_organizations_and_depositories.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-60d6a462-d5bf-6bb5-457c-e6d203bc2274/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.50">paragraph 1.50</xref> of this guide.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd2_trade_date_and_settlement.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-2e0642f9-2668-3ead-206a-f9edfb6f993e/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-aag-brd2-fn3"/>
+         </ph>
+      </p>
+      <table outputclass="ruled" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2_table_1" class="- topic/table ">
+         <title class="- topic/title ">Standardized Settlement Dates</title>
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="left" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row valign="bottom" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Product</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Settlement Date</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Equity Securities</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Two business days after trade date</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Corporate Bonds</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Two business days after trade date</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Municipal Bonds</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Two business days after trade date</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Exchange-traded Funds</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Two business days after trade date</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Government Securities</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">One business day after trade date</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Government Agency Securities</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Varies depending on product</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Futures and Commodities</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Same-day settlement</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Listed Options (Chicago Board Options Exchange)</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">One business day after trade date</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Money Market Instruments</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">One business day after trade date</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Mutual Funds</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Varies</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Currency Contract Spot</p>
+                  </entry>
+                  <entry align="left" class="- topic/entry ">
+                     <p class="- topic/p ">Two business days after trade date</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c2" align="left" class="- topic/entry ">
+                     <p class="- topic/p ">The settlement periods herein refer to the U.S. marketplace.
+                                    Settlement dates in other countries vary and may not be
+                                    standardized. Currently, there is an effort to standardize
+                                    global security settlement periods.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.18</b> Trade date
+                    information, which includes proprietary inventory reports used by a
+                    broker-dealer's traders, is normally available in the broker-dealer's internal
+                    reporting systems. In addition, customer information is used daily by the
+                    broker-dealer to determine the amount of margin required for each customer's
+                    account. Trade date information is also important to the operations departments
+                    to assist it in settlement and clearance.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

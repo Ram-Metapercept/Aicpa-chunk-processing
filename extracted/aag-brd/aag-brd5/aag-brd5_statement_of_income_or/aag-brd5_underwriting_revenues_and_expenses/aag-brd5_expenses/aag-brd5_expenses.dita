@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-fcf3c80c-f9cf-d5c7-fa66-993d049621c0" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Expenses</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.126" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.126</b> FASB ASC
+                        940-340-25-3 and 940-340-35-3 state that when the related underwriting
+                        expenses described previously are incurred prior to the actual issuance of
+                        the securities, such expenses are deferred and recognized at the time the
+                        related revenues are recorded. In the event that the transaction is not
+                        completed and the securities are not issued, the entities that have agreed
+                        to participate in the costs associated with the underwriting write those
+                        costs off to expense. <xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_other_related_topics/topics/aag-rev5_principal_versus_agent_costs.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4b40971f-3ff9-39cc-6cfd-98aa32de0e25/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.21">Paragraphs 5.7.21–5.7.32</xref> of chapter 5 of AICPA Audit and
+                        Accounting Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as
+                        published in 2022) contain the related revenue recognition implementation
+                        issue for brokers and dealers in securities applying FASB ASC 606 (see <xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.136">paragraph 5.136</xref> of this chapter). This content is presented in
+                        the “Other Related Topics” section under the heading “<xref format="dita" class="- topic/xref " href="../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_other_related_topics/topics/aag-rev5_principal_versus_agent_costs.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4b40971f-3ff9-39cc-6cfd-98aa32de0e25">Principal Versus Agent: Costs Associated With
+                        Underwriting</xref>.”</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.127" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.127</b> According
+                        to FASB ASC 940-20-35-3, with respect to the underwriting of issues that
+                        trade prior to the settlement date, the broker-dealer should subsequently
+                        measure at fair value any shares that it is firmly committed to purchase but
+                        that have not yet been subscribed to by customers.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

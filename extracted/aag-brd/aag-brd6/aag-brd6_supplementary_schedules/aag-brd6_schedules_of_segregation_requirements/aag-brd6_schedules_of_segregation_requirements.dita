@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-d156cd26-3a42-4318-0777-638e0aaef96e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Schedules of Segregation Requirements and Funds in Segregation for
+                    Customers’ Trading Pursuant to the Commodity Exchange Act</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.39</b> The segregation
+                    schedule shows the computation of the amount of funds that should be segregated
+                    for customers trading on U.S. commodity exchanges and the total funds segregated
+                    by the broker-dealer to meet those requirements. In addition, a secured amount
+                    schedule showing the computation of funds required to be set aside in separate
+                    accounts for customers trading on non-U.S. commodity exchanges and the amount of
+                    funds in such separate accounts should be included in the filing. Lastly, a
+                    cleared swaps amount schedule that shows the computation of cleared swaps
+                    segregation requirements and funds in cleared swaps customer accounts must also
+                    be included in the schedule. A reconciliation is required if material
+                    differences exist between the computations reported on by the independent
+                    auditor and the computations filed previously by the broker-dealer in the
+                    original unaudited FOCUS report. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd6/aag-brd6_supplementary_schedules/aag-brd6_supplementary_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-de9f9ea0-e463-5b8d-cada-c7ed054b156d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.33">paragraph 6.33</xref> of this chapter. If no material differences exist, a
+                    statement to that effect should be made in the schedule(s). CFTC defines
+                    material errors in the Division of Trading and Markets <i class="+ topic/ph hi-d/i ">Financial and Segregation Interpretation No. 4-1</i>. <ph class="- topic/ph ">
+            <fn callout="6" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn6" class="- topic/fn ">
+               <p class="- topic/p ">The Division of Trading and Markets defines a <i class="+ topic/ph hi-d/i ">material error</i> for financial reports as “... a
+                            misstatement of any individual financial statement account balance, i.e.
+                            line item, where the amount of the individual adjustment, if made to the
+                            financial statements, would cause a change of 10 percent or more in
+                            excess net capital or excess segregated funds or where the adjustment,
+                            if made to the financial statements, would cause the firm to fall into
+                            an ‘early warning’ net capital position.” The full text of <i class="+ topic/ph hi-d/i ">Financial and Segregation Interpretation No.
+                                4-1</i> can be found at <xref scope="external" format="html" class="- topic/xref " href="https://www.cftc.gov/sites/default/files/tm/finseginterp_4-1.htm">https://www.cftc.gov/sites/default/files/tm/finseginterp_4-1.htm</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd6_schedules_of_segregation_requirements.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-d156cd26-3a42-4318-0777-638e0aaef96e/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn6"/>
+         </ph> See the illustrative example presented in <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd6/aag-brd6_financial_statements_and_schedules/aag-brd6_financial_statements_and_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-c1b420e1-5f7a-64d9-dd15-ae46cbfe5889/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6_exhibit9_schedule_vi">schedule VI</xref>, “Statement of Cleared Swaps Customer Segregation
+                    Requirements and Funds in Cleared Swaps Customer Accounts Under 4D(f) of the
+                    Commodity Exchange Act,” in exhibit 6-9 of this chapter.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

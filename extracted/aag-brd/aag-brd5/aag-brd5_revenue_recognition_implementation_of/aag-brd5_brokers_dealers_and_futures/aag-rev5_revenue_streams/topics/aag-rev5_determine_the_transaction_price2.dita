@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-43f24ef0-7187-e966-2463-790c64f2e2ee" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Determine the Transaction Price</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.68" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.68</b> When research services are combined with clearing
+                                or execution agreements and accounted for as a single contract, the
+                                transaction price is generally the commission fee defined in the
+                                contract between the broker-dealer and the customer. A typical
+                                transaction price is determined based on the contractually
+                                agreed-upon commission rates multiplied by the quantity of trades
+                                executed or cleared.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.69" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.69</b> A typical clearing or execution contract
+                                generally can be terminated at will by either the broker-dealer or
+                                the customer. FASB ASC 606-10-25-3 explains that when a contract has
+                                no fixed duration and can be terminated or modified by either party
+                                at any time, an entity should apply the guidance in FASB ASC 606 to
+                                the duration of the contract (that is, the contractual period) in
+                                which the parties to the contract (in this case, both parties) have
+                                present enforceable rights and obligations. Further, FASB ASC
+                                606-10-32-4 notes that when determining the transaction price, an
+                                entity shall assume that the goods or services will be transferred
+                                to the customer as promised in accordance with the existing contract
+                                and that the contract will not be cancelled, renewed, or modified.
+                                Therefore, only enforceable claims against the customer should be
+                                included in the determination of the transaction price of a
+                                contract. FinREC believes in many instances, due to at-will
+                                termination rights, entities could consider each executed trade,
+                                together with the associated research services or material right to
+                                such services in a soft-dollar arrangement, to be a separate
+                                contract and the fees associated with such trade to be the
+                                transaction price under FASB ASC 606. The amounts collected under
+                                these contracts are typically not refunded once the contract is
+                                terminated, but this practice may vary by entity. Additional
+                                consideration and analysis may also be required for brokerage
+                                contracts with a specified term (such as one year) or minimum
+                                quantity of trades.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.70" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.70</b> Research services provided by the broker-dealer
+                                may be internally generated or obtained by the broker-dealer from a
+                                third party and transferred to the customer (in which case, they
+                                would be considered a performance obligation) or they may be
+                                services provided by third parties that are paid directly by the
+                                broker-dealer on behalf of the customer (in which case, arranging
+                                for those goods or services to be provided by the third party would
+                                be considered a performance obligation as noted previously). When
+                                the broker-dealer pays third parties on behalf of the customer, the
+                                broker-dealer needs to determine if the broker-dealer is acting as
+                                an agent or a principal (see <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_determine_the_transaction_price2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-43f24ef0-7187-e966-2463-790c64f2e2ee/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.71">paragraphs 5.6.71–5.6.72</xref>).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.71" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.71</b> When a third party is used to provide research
+                                services, the principal versus agent guidance in paragraphs 36–40 of
+                                FASB ASC 606-10-55 should be considered. The broker-dealer may be
+                                considered a principal if it controls the research from the third
+                                party, regardless of whether the research is provided to the
+                                customer directly by the third party or through the broker-dealer. A
+                                broker-dealer should consider the indicators that an entity controls
+                                the research before it is transferred to the customer in FASB ASC
+                                606-10-55-39 in making this assessment. If the broker-dealer
+                                determines that it is acting as the principal, the revenue should be
+                                reported gross of any expenses (for example, the cost of the related
+                                research).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.72" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.72</b> The broker-dealer may be considered an agent if
+                                it does not control the research services before they are
+                                transferred to the customer. In this circumstance, the broker-dealer
+                                should include the net fee it expects to be entitled to for
+                                arranging to have another party provide the research services to the
+                                customer in the transaction price. For example, assume a
+                                broker-dealer acting as an agent pays $40,000 to Bloomberg on behalf
+                                of its customer for the use of a Bloomberg terminal by its customer.
+                                In this example, the broker-dealer would report revenue, if any, for
+                                the difference between the $40,000 paid to Bloomberg and the
+                                transaction price allocated to the research services.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.73" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.73</b> Paragraphs 15–20 of FASB ASC 606-10-32 require
+                                that if the timing of payment agreed to by the broker-dealer and the
+                                customer provides the customer with a significant benefit of
+                                financing the services, the transaction price should be adjusted for
+                                the significant financing component. FASB ASC 606-10-32-17 includes
+                                factors that would indicate that there is not a significant
+                                financing component and, as a result, the transaction price should
+                                not be adjusted. FinREC believes the transaction price in these
+                                arrangements would generally not be adjusted because either (1) a
+                                substantial amount of the consideration promised by the customer is
+                                paid in advance and the timing of the transfer of the goods or
+                                services is at the discretion of the customer (FASB ASC
+                                606-10-32-17a) or (2) the period between when the entity transfers
+                                the research and when the customer pays for it will be one year or
+                                less (which is often the case for soft-dollar arrangements), in
+                                which case the broker-dealer may apply the practical expedient (FASB
+                                ASC 606-10-32-18).</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

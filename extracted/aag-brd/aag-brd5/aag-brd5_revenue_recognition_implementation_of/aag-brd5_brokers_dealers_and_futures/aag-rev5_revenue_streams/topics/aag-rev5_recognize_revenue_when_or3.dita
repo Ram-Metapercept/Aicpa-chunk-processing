@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-6d9212f6-8bb4-9a9c-e1b0-f10891d5eaba" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Recognize Revenue When (or as) the Broker-Dealer Satisfies
+                                a Performance Obligation</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.75" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.75</b> For each performance obligation, the
+                                broker-dealer should determine whether that performance obligation
+                                is satisfied over time. If the criteria listed in FASB ASC
+                                606-10-25-27 for performance obligations satisfied over time are not
+                                met, then the performance obligation is considered to be satisfied
+                                at a point in time.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.76" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.76</b> In regard to the research services performance
+                                obligation, this analysis will vary depending on the nature of the
+                                research services provided. For example, if the broker-dealer
+                                provides ongoing access to a research analyst throughout the
+                                arrangement term, the performance obligation may be satisfied over
+                                time. However, if the broker-dealer provides a fixed number of
+                                analyst reports, the performance obligation may be satisfied at the
+                                point in time that each report is provided.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.77" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.77</b> The broker-dealer should consider the guidance in
+                                FASB ASC 606-10-55-48 to address the impact of nonrefundable amounts
+                                not used by customers ("breakage").</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

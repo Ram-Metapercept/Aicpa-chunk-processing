@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-62e9e76e-d1bc-ca1b-a3a5-203a9c0fbb26" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Present Value Techniques</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.21</b> Paragraphs 5–20
+                    of FASB ASC 820-10-55 describe the use of present value techniques to measure
+                    fair value. Those paragraphs neither prescribe the use of a single specific
+                    present value technique nor limit the use of present value techniques to measure
+                    fair value to the techniques discussed therein. <i class="+ topic/ph hi-d/i ">Present
+                        value</i> (that is, an application of the income approach) is a tool
+                    used to link future amounts to a present amount using a discount rate. A fair
+                    value measurement of an asset or a liability using a present value technique
+                    captures all of the following elements from the perspective of market
+                    participants at the measurement date:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">An estimate of future cash flows for the asset or liability being
+                            measured.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Expectations about possible variations in the amount and timing of the
+                            cash flows representing the uncertainty inherent in the cash
+                            flows.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The time value of money, represented by the rate on risk-free monetary
+                            assets that have maturity dates or durations that coincide with the
+                            period covered by the cash flows and pose neither uncertainty in timing
+                            nor risk of default to the holder (that is, a risk-free interest rate).
+                            For present value computations denominated in nominal U.S. dollars, the
+                            yield curve for U.S. Treasury securities determines the appropriate
+                            risk-free interest rate.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The price for bearing the uncertainty inherent in the cash flows (that
+                            is, a risk premium).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Other factors that market participants would take into account in the
+                            circumstances.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">For a liability, the nonperformance risk relating to that liability,
+                            including the reporting entity’s (obligor’s) own credit risk.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.22</b> FASB ASC
+                    820-10-55-6 provides the general principles that govern any present value
+                    technique, as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Cash flows and discount rates should reflect assumptions that market
+                            participants would use when pricing the asset or liability.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Cash flows and discount rates should take into account only the
+                            factors attributable to the asset or liability being measured.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To avoid double counting or omitting the effects of risk factors,
+                            discount rates should reflect assumptions that are consistent with those
+                            inherent in the cash flows. For example, a discount rate that reflects
+                            the uncertainty in expectations about future defaults is appropriate if
+                            using the contractual cash flows of a loan but is not appropriate if
+                            using a technique that already reflects assumptions about the
+                            uncertainty in future defaults.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assumptions about cash flows and discount rates should be internally
+                            consistent. For example, nominal cash flows (that include the effects of
+                            inflation) should be discounted at a rate that includes the effects of
+                            inflation.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Discount rates should be consistent with the underlying economic
+                            factors of the currency in which the cash flows are denominated.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.23</b> FASB ASC
+                    820-10-55-9 describes how present value techniques differ in how they adjust for
+                    risk and in the type of cash flows they use. For example, the discount rate
+                    adjustment technique uses a risk-adjusted discount rate and contractual,
+                    promised, or most likely cash flows. In contrast, method 1 of the expected
+                    present value technique, described in FASB ASC 820-10-55-15, uses risk-adjusted
+                    expected cash flows and a risk-free rate. Method 2 of the expected present value
+                    technique described in FASB ASC 820-10-55-15, uses expected cash flows that are
+                    not risk adjusted and a discount rate adjusted to include the risk premium that
+                    market participants require. The traditional present value technique and two
+                    methods of expected present value techniques are discussed more fully in FASB
+                    ASC 820-10-55.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.24" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.24</b> This guide
+                    includes guidance about measuring assets and liabilities using traditional
+                    present value techniques. That guidance is not intended to suggest that the
+                    income approach is the only one of the three approaches that is appropriate in
+                    the circumstances, nor is it intended to suggest that the traditional present
+                    value technique described in the guide is preferred over other present value
+                    techniques.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-ceb7389b-69a8-8aa9-cbae-0ad7cde113a7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Custody</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.123" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.123</b> Customers' fully
+                paid and excess-margin securities may be kept at a depository (see the following
+                section, “<xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd2/aag-brd2_custody/aag-brd2_possession_or_control/aag-brd2_possession_or_control.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-46646429-4d41-f85b-32a7-34c8a75997de">Possession or Control</xref>”) or in a vault on the broker-dealer's premises.
+                Securities belonging to customers are recorded on the broker-dealer's records so
+                that the real or beneficial owners (customers) can always be identified. The
+                securities record often provides data concerning customer securities required to be
+                held in segregation or safekeeping, which may be shown on the same securities record
+                by using an additional column or memo entry, thus eliminating the need for a
+                separate listing or summary. Customers' certificates may be registered in the
+                broker-dealer's name (segregation) so that the securities can be delivered quickly.
+                Alternatively, if a customer's certificates are registered in the customer's own
+                name (safekeeping), they are nonnegotiable until a stock power is attached,
+                endorsing a change in the beneficial owner, which would then be signature-guaranteed
+                by attachment of an appropriate medallion.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

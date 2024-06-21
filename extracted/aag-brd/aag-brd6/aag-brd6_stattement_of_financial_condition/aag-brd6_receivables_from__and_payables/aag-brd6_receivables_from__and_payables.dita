@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-6043804b-5d75-dd83-1727-fba21e40c3b8" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Receivables From and Payables to Broker-Dealers, Clearing
+                    Organizations, and Others</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.64" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.64</b> Receivables from
+                    broker-dealers, clearing organizations, and others may include amounts
+                    receivable for securities failed to deliver; amounts receivable from clearing
+                    organizations relating to open transactions, margin deposits used as performance
+                    bonds for open trades, and good-faith funds on deposit regardless of activity;
+                    and commissions and floor-brokerage receivables. Payables to broker-dealers and
+                    clearing organizations include amounts payable for securities failed to receive,
+                    certain deposits received for securities loaned, amounts payable to clearing
+                    organizations on open transactions, and floor-brokerage payables. In addition,
+                    the net receivable or payable arising from unsettled trades would be reflected
+                    in either the receivable or payable line item on the statement of financial
+                    condition.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.65" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.65</b> If a
+                    broker-dealer clears transactions on behalf of correspondents, or has its
+                    transactions cleared through other correspondents, there may be balances in the
+                    omnibus accounts with one or more of the correspondents. Balances included in
+                    this category may be shown separately on the statement of financial condition as
+                    due from or due to correspondent brokers.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.66" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.66</b> If a
+                    broker-dealer provides a trading platform for mutual fund shares, any trades
+                    that are unsettled as of the date of the statement of financial condition should
+                    be reported as receivables and payables for redemptions and purchases,
+                    respectively. These balances may be listed as “Receivables from Mutual Funds” or
+                    “Payable to Mutual Funds” on the statement of financial condition or combined
+                    with another receivable line item, depending on the materiality of the
+                    balances.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.67" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.67</b> A broker-dealer
+                    that provides derivatives clearing services to its customers collects <i class="+ topic/ph hi-d/i ">initial margin</i> (IM), typically in cash or security
+                    form, from its customers and remits such IM to the clearing house (CCP) or
+                    segregates it at a custodian bank. IM generally serves as collateral posted by
+                    the customer, through the broker-dealer clearing member, to establish a trading
+                    relationship with the CCP. The CCP sets a minimum IM requirement for each listed
+                    derivative position based upon the market risk of the derivative. The
+                    broker-dealer clearing member may be further required (for example, under CFTC
+                    Regulation 39.13) to collect IM from customers in an amount that is in excess of
+                    the CCP minimum requirements. The broker-dealer clearing member also may, in its
+                    discretion, impose additional IM requirements on a customer based on such
+                    customer’s specific credit risk profile and current trading positions. This
+                    additional amount may be adjusted periodically to reflect changes in those risk
+                    attributes. IM is returned to the customer when trade positions are liquidated
+                    with the CCP or when the customer terminates its trading the relationship and
+                    closes its account.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.68" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.68</b> The
+                    broker-dealer would assess various factors surrounding control and risk and
+                    rewards over the assets and liabilities to determine whether the broker-dealer
+                    clearing member may have to record on its balance sheet, the cash IM amount
+                    received from the customer as a <i class="+ topic/ph hi-d/i ">due to
+                        customer</i> (<i class="+ topic/ph hi-d/i ">payable</i>) and the
+                    cash IM amount remitted to the CCP or custodian bank as a due from <i class="+ topic/ph hi-d/i ">CCP/bank</i> (<i class="+ topic/ph hi-d/i ">receivable</i>). These factors may include, but are not limited to,
+                    whether (and to what degree) the broker-dealer clearing member</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">retains control over the cash IM (for example, retaining
+                            transformation rights and making permitted investments with the cash
+                            under CFTC Regulation 1.25), or</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">has a right to potential economic benefits earned from the customer’s
+                            cash IM in excess of a market-based fee that is commensurate with the
+                            clearing services it provides, (for example, earns yield on permitted
+                            investments of the cash or does not pass through to customers the
+                            interest received from [or fees assessed by] the CCPs or custodian
+                            bank), or</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">has an obligation for potential economic costs (for example, foreign
+                            exchange risk or payment of negative interest), or guarantees the CCP’s
+                            or custodian bank’s performance to the customer and whether the cash IM
+                            would be subject to customer protection and prioritization as customer
+                            property in the event of the broker-dealer clearing member’s
+                            bankruptcy.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Each broker-dealer clearing member will need to consider their individual
+                    facts and circumstances and the factors considered to be relevant when
+                    evaluating whether cash IM should be recorded on its balance sheet.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.69" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.69</b> <i class="+ topic/ph hi-d/i ">Fail-to-deliver</i>. According to FASB ASC 940-20-25-4,
+                    a broker-dealer that sells securities, either for its own account or a
+                    customer's account, but does not deliver the securities on the settlement date
+                    should record the fail-to-deliver as an asset in the receivable due from
+                    broker-dealers account. FASB ASC 940-20-30-1 states that a fail-to-deliver asset
+                    should be measured initially at the selling price of the security, including any
+                    accrued interest (for example, in the case of a fixed-income security).
+                    Fail-to-deliver assets are collected upon delivery of the securities by the
+                    selling broker-dealer.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.70" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.70</b> <i class="+ topic/ph hi-d/i ">Fail-to-receive.</i> FASB ASC 940-20-25-5 notes that a
+                    broker-dealer that purchases securities, either for its own account or a
+                    customer's account, but does not receive the securities on the settlement date
+                    should record the fail-to-receive as a liability to the selling broker-dealer.
+                    FASB ASC 940-20-30-2 states that a fail-to-receive liability should be measured
+                    initially at the purchase price of the security, including any accrued interest
+                    in the case of a fixed-income security. Fail-to-receive liabilities are paid
+                    when the securities are received by the purchasing broker-dealer.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.71" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.71</b> <i class="+ topic/ph hi-d/i ">Clearing organizations receivables and payables.</i> As
+                    described in <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd1/aag-brd1.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87">chapter 1</xref>, "The Securities Industry," clearing organizations provide
+                    efficient and orderly trade clearance and settlement services for which clearing
+                    broker-dealers pay fees.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.72" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.72</b> All continuous
+                    net settlement (CNS) transactions (see <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd1/aag-brd1.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87">chapter 1</xref> for a description of these transactions) are netted at
+                    each clearing organization to one cash settlement position due to or due from
+                    the broker-dealer. Therefore, if the contract amount of the securities to be
+                    received (purchased) is greater than that to be delivered (sold), the clearing
+                    broker-dealer records a payable to the clearing organization for the net
+                    movement. In practice, many broker-dealers pay or receive payment for their
+                    daily CNS balance at the end of each business day and therefore the outstanding
+                    CNS receivable or payable as of the financial reporting period would be zero,
+                    unless there were fails-to-deliver or fails-to-receive.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

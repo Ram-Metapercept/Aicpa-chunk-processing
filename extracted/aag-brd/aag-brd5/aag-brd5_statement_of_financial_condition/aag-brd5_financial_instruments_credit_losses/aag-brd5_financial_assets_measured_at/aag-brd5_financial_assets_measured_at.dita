@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-954a052e-18bd-454a-eedf-222234115b90" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Financial Assets Measured at Amortized Cost Basis That Are Eligible
+                        for the Collateral Maintenance Provision Practical Expedient</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.73" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.73</b> Broker-dealers enter into a variety of
+                        transactions where the financial asset is measured at amortized cost and may
+                        be eligible for the collateral maintenance provision practical expedient.
+                        These financial assets may include, for example, securities borrowed and
+                        securities purchased under agreements to resell and receivables from
+                        customers. For these types of collateralized transactions, the market value
+                        of the collateral is continuously monitored, with additional collateral
+                        obtained to ensure appropriate levels of collateral are maintained.
+                        Broker-dealers establish policies and procedures for mitigating credit risk
+                        on collateralized transactions, including reviewing and establishing limits
+                        for credit exposure, maintaining collateral, and continually assessing the
+                        creditworthiness of counterparties; credit risk associated with these
+                        activities is minimized by daily monitoring of collateral values and
+                        requiring additional collateral to be deposited as permitted under
+                        contractual provisions. These financial assets are generally eligible for
+                        the collateral maintenance provision practical expedient as described in
+                        FASB ASC 326-20-35-6. The practical expedient may be elected for contracts
+                        when the counterparty is contractually obligated to continue to fully
+                        replenish the collateral to meet the requirements of the contract and it is
+                        reasonably expected that the counterparty will continue to replenish the
+                        collateral.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.74" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.74</b> A broker-dealer should determine if it
+                        is eligible to elect the collateral maintenance provision practical
+                        expedient considering the credit quality of these assets, and the related
+                        need for an allowance for credit losses, based on several factors,
+                        including: (1) the daily revaluation of the underlying collateral used to
+                        secure the customer’s borrowings and collateral, (2) the customer’s
+                        continuing ability to meet additional collateral requests based on decreases
+                        in the market value of the collateral, and (3) its right to sell the
+                        securities collateralizing the borrowings, if additional collateral requests
+                        are not met by the customer or the amounts borrowed are not returned on
+                        demand. Under the collateral maintenance provision practical expedient, the
+                        amortized cost basis is compared with the fair value of collateral at the
+                        reporting date. When the fair value of the collateral is equal to or exceeds
+                        the amortized cost basis of the financial asset, and it is reasonably
+                        expected that the counterparty will continue to replenish the collateral as
+                        necessary to meet the requirements of the contract, the practical expedient
+                        permits that the expectation of nonpayment of the amortized cost basis to be
+                        zero. When the fair value of the collateral is less than the amortized cost
+                        basis of the financial assets, and it is reasonably expected that the
+                        counterparty will continue to replenish the collateral as necessary to meet
+                        the requirements of the contract, an allowance for credit losses is
+                        established for the unsecured amount of the amortized cost basis, if any.
+                        The allowance for credit losses on the financial asset is limited to the
+                        difference between the fair value of the collateral at the reporting date
+                        and the amortized cost basis of the financial assets.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

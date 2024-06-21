@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-a058db6e-bd0f-930f-b871-8f3fc1820864" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Monitoring Activities</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.30</b> <i class="+ topic/ph hi-d/i ">Monitoring</i> is a process that assesses the quality of an
+                entity's internal control performance over time. It involves assessing the design
+                and operation of controls on a timely basis and taking necessary corrective actions.
+                The COSO principles of control monitoring are as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization selects, develops, and performs ongoing and/or separate
+                        evaluations to ascertain whether the components of internal control are
+                        present and functioning.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The organization evaluates and communicates internal control deficiencies
+                        in a timely manner to those parties responsible for taking corrective
+                        action, including senior management and the board of directors, as
+                        appropriate.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.31</b> The frequency with
+                which controls are assessed depends on the significance of the risks being mitigated
+                and the importance of a particular control in reducing the risks. Higher priority
+                risks generally will require more frequent assessment. Similarly, those controls
+                most critical to reducing a given risk will tend to be assessed more often.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.32</b> Ongoing monitoring
+                activities are built into the normal recurring activities of a broker-dealer and
+                include regular management and supervisory activities, comparisons, reconciliations,
+                and other actions personnel take in performing their duties. Managers at divisional
+                and corporate levels are in touch with operations and may question reports that
+                differ significantly from their knowledge of operations. Usually, some combination
+                of ongoing monitoring and separate evaluations will together ensure that internal
+                control maintains its effectiveness over time.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.33</b> In many
+                broker-dealers, internal auditors or personnel performing similar functions
+                contribute to the monitoring of the broker-dealer’s activities through separate
+                evaluations. They regularly provide information about the functioning of internal
+                control, focusing considerable attention on evaluating the design and operation of
+                internal control. They communicate information about strengths and weaknesses and
+                recommendations for improving internal control.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.34" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.34</b> Monitoring
+                activities may include using information from communications from external parties.
+                Customers implicitly corroborate transaction data by paying their amount owed or
+                complaining about their charges. In addition, regulators may communicate with the
+                broker-dealer concerning matters that affect the functioning of internal control
+                (for example, communications regarding examinations by self-regulatory
+                organizations). Also, management may consider communications relating to internal
+                control from external auditors in performing monitoring activities.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.35" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.35</b> In many entities,
+                much of the information used in monitoring may be produced by the entity’s
+                information system. If management assumes that data used for monitoring are accurate
+                and complete without having a basis for that assumption, errors may exist in the
+                information, potentially leading management to incorrect conclusions resulting from
+                the entity’s monitoring activities.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

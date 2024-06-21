@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-cf4ce802-5af1-1141-7ee5-a3475f5659a2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Swap Dealers and Swaps Marketplace Participants</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393063864306" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.188</b> In 2010, Congress passed legislation tasking the
+                SEC and CFTC with creating a regulatory regime to govern this multitrillion dollar
+                market. The Dodd-Frank Act assigned the CFTC responsibility for “swaps” and the SEC
+                responsibility for a portion of the market known as “security-based swaps,” which
+                include, for example, swaps based on a security, such as a stock or a bond, or a
+                credit default swap. This regulatory regime is intended to make this market more
+                transparent, efficient, and accessible. The rules and regulations developed by both
+                the CFTC and SEC include, but are not limited to, registration, capital, and margin
+                requirements, as well as recordkeeping and reporting requirements. <ph class="- topic/ph ">
+            <fn callout="61" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393063881868" class="- topic/fn ">
+               <p class="- topic/p ">For more information, visit <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/tm/security-based-swap-markets">https://www.sec.gov/tm/security-based-swap-markets</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_swap_dealers_and_swaps.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-cf4ce802-5af1-1141-7ee5-a3475f5659a2/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393063881868"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-76cfe877-2397-31f1-0fc3-762c1caebd30" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Disclosures Related to Transfers of Financial Assets Accounted for as
+                    Sales</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393230644050" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.132</b> FASB ASC 860-20-50 discusses the
+                    disclosures required for transfers of financial assets accounted for as sales.
+                    To provide an understanding of the nature of the transactions, the transferor’s
+                    continuing exposure to the transferred financial assets, and the presentation of
+                    the components of the transaction in the financial statements, FASB ASC
+                    860-20-50-4D states that an entity should disclose the following for outstanding
+                    transactions at the reporting date that meet the scope guidance in paragraphs
+                    4A–4B of FASB ASC 860-20-50 by type of transaction (for example, repurchase
+                    agreements, securities lending transactions, and other transactions economically
+                    similar to these), with the exception of those transactions excluded from the
+                    scope, as described in FASB ASC 860-20-50-4C:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The carrying amount of assets derecognized as of the date of
+                            derecognition:</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">If the amounts that have been derecognized have changed
+                                    significantly from the amounts that have been derecognized in
+                                    prior periods or are not representative of the activity
+                                    throughout the period, a discussion of the reasons for the
+                                    change should be disclosed.</p>
+               </li>
+            </ol>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The amount of gross cash proceeds received by the transferor for the
+                            assets derecognized as of the date of derecognition.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Information about the transferor’s ongoing exposure to the economic
+                            return on the transferred financial assets:</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">As of the reporting date, the fair value of assets
+                                    derecognized by the transferor.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Amounts reported in the statement of financial position
+                                    arising from the transaction (for example, the carrying value or
+                                    fair value of forward repurchase agreements or swap contracts).
+                                    To the extent that those amounts are captured in the derivative
+                                    disclosures presented in accordance with FASB ASC 815-10-50-4B,
+                                    an entity should provide a cross-reference to the appropriate
+                                    line item in that disclosure.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">A description of the arrangements that result in the
+                                    transferor retaining substantially all of the exposure to the
+                                    economic return on the transferred financial assets and the
+                                    risks related to those arrangements.</p>
+               </li>
+            </ol>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393230663894" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.133</b> FASB ASC 860-20-55-108 provides an
+                    illustration of one approach for satisfying the quantitative disclosure
+                    requirements discussed in the preceding paragraph.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

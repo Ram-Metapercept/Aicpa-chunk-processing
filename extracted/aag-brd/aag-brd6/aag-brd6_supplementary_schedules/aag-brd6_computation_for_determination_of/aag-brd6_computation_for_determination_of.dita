@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-e8b65e82-9b86-990d-98a6-0fed698a6fdd" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Computations for Determination of Customer and PAB Reserve Requirements
+                    Pursuant to Exhibit A of SEC Rule 15c3-3</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.35" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.35</b> These schedules
+                    show the broker-dealer’s computations of the required deposits in special
+                    reserve bank accounts for the exclusive benefit of customers and proprietary
+                    accounts of broker-dealers (PAB). SEC Rule 17a-5 requires both a supplementary
+                    schedule detailing the computation of the reserve requirement for customers and
+                    a separate supplementary schedule for the PAB computation.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.36" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.36</b> A reconciliation
+                    is required if material differences exist between the computations reported on
+                    by the independent auditor and the computations filed previously by the
+                    broker-dealer in the unaudited FOCUS report (as discussed in <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd6/aag-brd6_supplementary_schedules/aag-brd6_supplementary_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-de9f9ea0-e463-5b8d-cada-c7ed054b156d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.33">paragraph 6.33</xref> of this chapter). If no material differences exist, a
+                    statement to that effect should be made in the schedule(s).</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

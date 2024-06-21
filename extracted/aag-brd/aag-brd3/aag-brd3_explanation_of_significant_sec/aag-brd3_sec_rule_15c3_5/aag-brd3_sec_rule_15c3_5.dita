@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-00aec99f-a9a4-ea79-df08-1562250a5f28" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">SEC Rule 15c3-5, “Risk Management Controls for Brokers or Dealers with
+                    Market Access”</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">SEC Rule 15c3-5, “Risk Management Controls for Brokers
+                    or Dealers with Market Access” <ph class="- topic/ph ">
+            <fn callout="34" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393041936712" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_applicable_rules/aag-brd3_applicable_rules.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-df2dbc83-4ef9-ad59-5db5-91b83c9a9f26/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393025578366">footnote 5</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_15c3_5.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-00aec99f-a9a4-ea79-df08-1562250a5f28/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393041936712"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.99" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.99</b> SEC Rule 15c3-5
+                    addresses the risks that can arise as a result of the automated, rapid
+                    electronic trading strategies that exist in the current marketplace. Rule 15c3-5
+                    eliminated the practice known as "naked access" that allowed high-speed traders
+                    and others to buy and sell stocks on exchanges using a broker’s computer code
+                    without requiring the trades to filter through the broker’s systems or undergo
+                    any pre-trade checks. Rule 15c3-5 is applicable to broker-dealers with access to
+                    trading securities by virtue of being an exchange member, an ATS subscriber, or
+                    an ATS operator with nonbroker-dealer subscribers.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.100" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.100</b> SEC Rule
+                    15c3-5 requires broker-dealers with access to trading securities directly on an
+                    exchange or ATS, including those providing sponsored or direct market access to
+                    customers or other persons, and broker-dealer operators of an ATS that provide
+                    access to trading securities directly on their ATS to a person other than a
+                    broker-dealer to establish, document, and maintain a system of risk management
+                    controls and supervisory procedures reasonably designed to systematically limit
+                    the financial exposure of the broker-dealer that could arise as a result of
+                    market access and to ensure compliance with all regulatory requirements that are
+                    applicable in connection with market access. The controls and supervisory
+                    procedures must be reasonably designed to</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">prevent the entry of orders that exceed appropriate preset credit or
+                            capital thresholds or that appear to be erroneous;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">prevent the entry of orders unless there has been compliance with all
+                            regulatory requirements that must be satisfied on a preorder entry
+                            basis;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">prevent orders that the broker-dealer or customer is restricted from
+                            trading;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">restrict market access technology and systems to authorized persons;
+                            and</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">assure appropriate surveillance personnel receive immediate post-trade
+                            execution reports.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.101" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.101</b> A
+                    broker-dealer is required to preserve a copy of its supervisory procedures and a
+                    written description of its risk management controls as part of its books and
+                    records in a manner consistent with SEC Rule 17a-4(e)(7). The financial and
+                    regulatory risk management controls and supervisory procedures required by SEC
+                    Rule 15c3-5 must be under the direct and exclusive control of the broker-dealer
+                    with market access, with limited exceptions as found in Rule 15c3-5(d)(1). In
+                    addition, a broker-dealer is required to establish, document, and maintain a
+                    system of regularly reviewing the effectiveness of the risk management controls
+                    and supervisory procedures and for promptly addressing any issues. The CEO (or
+                    equivalent) of the broker-dealer is required to annually certify that the risk
+                    management controls and supervisory procedures comply with Rule 15c3-5 and that
+                    the regular review has been conducted. The certification is required to be
+                    preserved by the broker-dealer as part of its books and records.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.102" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.102</b> On April 15,
+                    2014, the SEC issued an FAQ, <i class="+ topic/ph hi-d/i ">Responses to Frequently
+                        Asked Questions Concerning Risk Management Controls for Brokers or Dealers
+                        with Market Access</i>, which is available at <xref scope="external" format="html" class="- topic/xref " href="http://www.sec.gov/divisions/marketreg/faq-15c-5-risk-management-controls-bd.htm">www.sec.gov/divisions/marketreg/faq-15c-5-risk-management-controls-bd.htm</xref>.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

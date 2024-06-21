@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-43a39c42-c1f2-98d1-5912-ed4dfd23f83b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Introduction</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.01</b> Internal control is
+                not one event or circumstance, but a dynamic, iterative, and integrated process. It
+                is not a one-time task because the impact of an entity’s internal and external
+                activities is not static but is continually changing. The entity’s policies reflect
+                management or board statements of what should be done to effect internal control.
+                These statements may be explicitly stated in management communication or implied
+                through management actions and decisions. Included in this chapter are discussions
+                of the important controls over compliance with the exemption provisions for
+                broker-dealers that file exemption reports and internal controls over the SEC
+                financial responsibility rules for broker-dealers filing compliance reports.
+                    <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad-footnote-idm53393072097830" class="- topic/fn ">
+               <p class="- topic/p ">Refer to the website of the AICPA Stockbrokerage and Investment Banking
+                        Expert Panel for helpful information concerning the SEC’s financial
+                        responsibility rules: <xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa-cima.com/resources/download/summary-of-relevant-sec-financial-responsibility-rules-requirements">https://www.aicpa-cima.com/resources/download/summary-of-relevant-sec-financial-responsibility-rules-requirements</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd4_introduction.dita#UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-43a39c42-c1f2-98d1-5912-ed4dfd23f83b/UUID-109df70c-5172-3c73-d794-63201f89c3ad-footnote-idm53393072097830"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.02</b> The Committee of
+                Sponsoring Organizations of the Treadway Commission (COSO) defines <i class="+ topic/ph hi-d/i ">internal control</i> as a process, effected by an entity’s
+                board of directors, management, and other personnel, designed to provide reasonable
+                assurance regarding the achievement of objectives relating to operations, reporting,
+                and compliance.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.03</b> In May 2013, COSO
+                published an update to the 1992 <i class="+ topic/ph hi-d/i ">Internal Control —
+                    Integrated Framework </i>(the framework). The updates became necessary
+                due to the increasing complexity of businesses since the original framework was
+                published. The changes were intended to make the framework easier for management to
+                use while, at the same time, allowing management to meet the entity’s financial and
+                operations goals. The discussion of internal control in this guide recognizes the
+                definition and description of internal control contained in the framework.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.04</b> The following are
+                the five components and 17 underlying principles of internal control from the
+                framework:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The control environment.</i> Sets the tone
+                        of an organization, influencing the control consciousness of its people. It
+                        is the foundation for all other components of internal control, providing
+                        discipline and structure.</p>
+            <ul outputclass="ul none" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(1)    Demonstrates commitment to integrity and ethical
+                                values</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(2)    Exercises oversight responsibility</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(3)    Establishes structure, authority, and responsibility</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(4)    Demonstrates commitment to competence</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(5)    Enforces accountability</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Risk assessment.</i> The entity's process
+                        for identifying and analyzing relevant risks to achievement of its
+                        objectives, forming a basis for determining how the risks should be
+                        managed.</p>
+            <ul outputclass="ul none" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(6)    Specifies suitable objectives</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(7)    Identifies and analyzes risk</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(8)    Assesses fraud risk</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(9)    Identifies and analyzes significant change</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Control activities.</i> The policies and
+                        procedures that help ensure that management directives are carried
+                        out.</p>
+            <ul outputclass="ul none" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(10)    Selects and develops control activities</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(11)    Selects and develops general controls over
+                                technology</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(12)    Deploys through policies and procedures</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Information and communication.</i> These
+                        systems support the identification, capture, and exchange of information in
+                        a form and time frame that enable people to carry out their
+                        responsibilities.</p>
+            <ul outputclass="ul none" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(13)    Uses relevant information</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(14)    Communicates internally</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(15)    Communicates externally</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Monitoring activities.</i> A process that
+                        assesses the quality of internal control performance over time. This is
+                        accomplished through ongoing evaluations, separate evaluations, or some
+                        combination of the two.</p>
+            <ul outputclass="ul none" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(16)    Conducts ongoing and/or separate evaluations</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">(17)    Evaluates and communicates deficiencies</p>
+               </li>
+            </ul>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.05</b> An effective system
+                of internal control provides reasonable assurance regarding the achievement of an
+                entity’s objectives. Because internal control is relevant both to the entity and its
+                subsidiaries, an effective system of internal control may relate to a specific part
+                of the organizational structure. An effective system of internal control reduces, to
+                an acceptable level, the risk of not achieving an objective relating to one or more
+                categories. It requires that</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">each of the five components of internal control and relevant principles
+                        are present and functioning, and</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the five components are operating together in an integrated manner.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.06</b> A major deficiency
+                exists if a relevant principal or associated component isn’t functioning, or the
+                five components aren’t functioning together. The organization cannot conclude that
+                it has met the requirements for an effective system of internal control if a major
+                deficiency exists.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

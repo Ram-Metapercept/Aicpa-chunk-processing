@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-c2a462ca-bf3a-bb8b-9d68-63e71c5a86d7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Regulation T and Maintenance Margin</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.74" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.74</b> Regulation T has
+                    been promulgated by the Board of Governors of the Federal Reserve System by
+                    authority of the 1934 Act. Regulation T establishes the rules and regulations
+                    applicable to the extension of credit to customers and to related transactions.
+                    For a customer to enter securities transactions, the customer should open either
+                    a cash account or margin account.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.75" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.75</b> Section 8 of
+                    Regulation T governs cash accounts. This type of account was created by
+                    Regulation T for those transactions in which the broker-dealer is not extending
+                    credit to the customer. The broker-dealer may purchase for (as agent), or sell
+                    to (as principal), a customer any security, provided that either (<i class="+ topic/ph hi-d/i ">a</i>) funds sufficient for the purpose are already in
+                    the cash account, or (<i class="+ topic/ph hi-d/i ">b</i>) the purchase or sale
+                    is in reliance on an agreement accepted by the creditor in good faith that the
+                    customer will promptly make full cash payment before selling and does not
+                    contemplate selling the security prior to such payment.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.76" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.76</b> If full cash
+                    payment is not made within the payment period defined in the rule, the
+                    broker-dealer should cancel or liquidate the transaction or request an extension
+                    of time from FINRA or an applicable exchange. Extensions of the payment date are
+                    normally granted when both the broker-dealer and customer are acting in good
+                    faith, and the circumstances are viewed as warranting such action.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.77" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.77</b> A margin account
+                    is used to record transactions that result in the customer borrowing money from
+                    the broker-dealer. The customer agrees to pay a certain percentage of the
+                    purchase price, and the broker-dealer will lend the balance. Extensions of
+                    credit by broker-dealers are subject to Regulation T. <ph class="- topic/ph ">
+            <fn callout="28" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393034067080" class="- topic/fn ">
+               <p class="- topic/p ">See the FINRA website at <xref scope="external" format="html" class="- topic/xref " href="https://www.finra.org/filing-reporting/regulation-t-filings">https://www.finra.org/filing-reporting/regulation-t-filings</xref>
+                            for Regulation T requirements.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_regulation_t_and_maintenance_margin.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-c2a462ca-bf3a-bb8b-9d68-63e71c5a86d7/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393034067080"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.78" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.78</b> If a customer
+                    purchases securities on margin, the security should remain under the control of
+                    the broker-dealer. A customer generally signs a hypothecation agreement with the
+                    broker-dealer at the time the margin account is opened. This agreement allows
+                    the broker-dealer to hypothecate the securities, pledging them as collateral for
+                    money borrowed on a customer bank loan or loaning them to other
+                    broker-dealers.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.79" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.79</b> In a margin
+                    account, the broker-dealer holds the customer's securities as collateral in
+                    readily negotiable form, therefore enabling the broker-dealer to liquidate the
+                    securities if the customer fails to maintain a proper level of margin. A
+                        <i class="+ topic/ph hi-d/i ">margin transaction</i> is an open-ended
+                    collateralized loan, with the amount of collateral the customer is required to
+                    deposit prescribed by Regulation T. The customer may leave the loan open as long
+                    as the broker-dealer remains satisfied with the condition of the account. If the
+                    value of the securities in the customer's account appreciates above the
+                    Regulation T margin requirement, the broker-dealer can extend to the customer
+                    additional credit (referred to as Regulation T excess). The customer may then
+                    either withdraw the excess from the account or use it to meet the requirements
+                    on additional purchases.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.80" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.80</b> FINRA,
+                    applicable exchanges, and broker-dealers themselves may set margin requirements
+                    that are higher than those specified in Regulation T. For example, FINRA
+                    establishes minimum maintenance margin requirements and more specific initial
+                    margin requirements than provided for in Regulation T for certain security
+                    positions (such as debt securities) and creditor relationships (such as
+                    broker-dealer extending credit to another broker-dealer). FINRA Rule 4210,
+                        <i class="+ topic/ph hi-d/i ">Margin Requirements</i>, <ph class="- topic/ph ">
+            <fn callout="29" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393040625056" class="- topic/fn ">
+               <p class="- topic/p ">See the FINRA website at <xref scope="external" format="html" class="- topic/xref " href="https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210#the-rule">https://www.finra.org/rules-guidance/rulebooks/finra-rules/4210#the-rule</xref>
+                            for detailed regulatory margin requirements.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_regulation_t_and_maintenance_margin.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-c2a462ca-bf3a-bb8b-9d68-63e71c5a86d7/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393040625056"/>
+         </ph> sets forth minimum equity requirements that must be maintained in
+                    margin accounts. In addition, many broker-dealers maintain "house" margin
+                    requirements (both initial and maintenance) that are higher than those
+                    established by FINRA. Finally, Rule 4210(f)(1) requires substantial additional
+                    margin in all cases where the securities carried in long or short positions are
+                    subject to unusually rapid or violent changes in value.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

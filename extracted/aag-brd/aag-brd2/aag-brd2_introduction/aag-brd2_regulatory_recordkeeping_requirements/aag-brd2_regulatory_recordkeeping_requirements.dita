@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-99e40e3a-5fe9-807d-e377-d81a8db6a9ff" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Regulatory Recordkeeping Requirements</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.13</b> The basic
+                    requirements for preparing and maintaining books and records are described in
+                    SEC Rules 17a-3 and 17a-4 under the Securities Exchange Act of 1934 (the 1934
+                    Act). In Rule 17a-3, the SEC specifies the minimum books and records a
+                    broker-dealer (in addition to other types of entities) should make and keep
+                    current. They include a complete set of financial accounting books and records,
+                    including books of original entry, general and subsidiary ledgers, and the stock
+                    record. Rule 17a-3 also sets forth other recordkeeping requirements of
+                    broker-dealers. Among other things, Rule 17a-3 states that broker-dealers should
+                    maintain a memorandum of each brokerage order and a memorandum for each purchase
+                    and sale of securities for its own account, showing the price and, to the extent
+                    feasible, the time of execution. The rule also specifies that the broker-dealer
+                    should maintain certain records regarding transactions of employees and
+                    customers, as well as a periodic trial balance and net capital, reserve formula,
+                    and other regulatory computations. Such books and records should be maintained
+                    for prescribed periods as set forth in Rule 17a-4. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd2/aag-brd2_regulatory/aag-brd2_regulatory.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-26db4230-e121-2c60-2fd8-0952011813d8/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392904202772">paragraphs 2.166–.167</xref> of this chapter for a discussion of recent SEC
+                    amendments to electronic recordkeeping requirements.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.14</b> Rule
+                    17a-3(a)(23) requires certain broker-dealers to make and keep current a record
+                    documenting the credit, market, and liquidity risk management controls
+                    established and maintained by the broker-dealer to assist it in analyzing and
+                    managing the risks associated with its business activities. This documentation
+                    requirement applies only to broker-dealers that have more than (1) $1,000,000 in
+                    aggregate credit items as computed under the customer reserve formula of SEC
+                    Rule 15c3-3a, or (2) $20,000,000 in capital, including debt subordinated in
+                    accordance with appendix D to SEC Rule 15c3-1. SEC Rule 17a-4(e)(9), as amended,
+                    discusses the corresponding records retention requirements. <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-aag-brd2-fn1" class="- topic/fn ">
+               <p class="- topic/p ">SEC Rule 17a-4(e)(9) requires that such records must be maintained and
+                            preserved in an easily accessible place until three years after the
+                            termination of the use of the risk management controls documented
+                            therein.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd2_regulatory_recordkeeping_requirements.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-99e40e3a-5fe9-807d-e377-d81a8db6a9ff/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-aag-brd2-fn1"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.15</b> Furthermore, in
+                    their constitutions and rules, the Financial Industry Regulatory Authority
+                    (FINRA) <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-aag-brd2-fn2" class="- topic/fn ">
+               <p class="- topic/p ">The Financial Industry Regulatory Authority (FINRA) is the largest
+                            nongovernmental regulator for the securities industry in the United
+                            States. See the FINRA website at <xref scope="external" format="html" class="- topic/xref " href="http://www.finra.org">www.finra.org</xref> for more information. Also see <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd2/aag-brd2_trade_execution/aag-brd2_customer_trades/aag-brd2_customer_trades.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-2cf74176-5933-5a5b-56bb-e91ca8da530e/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-aag-brd2-fn4">footnote 4</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd2_regulatory_recordkeeping_requirements.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-99e40e3a-5fe9-807d-e377-d81a8db6a9ff/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-aag-brd2-fn2"/>
+         </ph> and many securities exchanges prescribe certain books and records
+                    that members are required to keep. Depending on the needs of the individual
+                    broker-dealer's business, situations may warrant the maintenance of certain
+                    additional records not specifically required under the rules of the various
+                    regulatory bodies.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,1160 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Glossary</title>
+   <body class="- topic/body ">
+      <p id="UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b_bridgehead-idm450192435471363390301105247" class="- topic/p ">The following terms can be found in the FASB <i class="+ topic/ph hi-d/i ">Accounting
+                Standards Codification</i> (ASC) Master Glossary:</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">box spread.</b> A combination of long calls and short
+            puts (identical with respect to the underlying security issue, number of shares,
+            exercise price, and expiration date) coupled with long puts and short calls (identical
+            with respect to the underlying security issue, number of shares, exercise price, and
+            expiration date). In boxing (coupling), the long calls and short puts with the long puts
+            and short calls, the underlying security issue, the number of shares, and the expiration
+            date remain identical. However, the exercise price of each combination is at a different
+            amount.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">collateralized financing entity.</b> A variable interest
+            entity that holds financial assets, issues beneficial interests in those financial
+            assets, and has no more than nominal equity. The beneficial interests have contractual
+            recourse only to the related assets of the collateralized financing entity and are
+            classified as financial liabilities. A collateralized financing entity may hold
+            nonfinancial assets temporarily as a result of default by the debtor on the underlying
+            debt instruments held as assets by the collateralized financing entity or in an effort
+            to restructure the debt instruments held as assets by the collateralized financing
+            entity. A collateralized financing entity also may hold other financial assets and
+            financial liabilities that are incidental to the operations of the collateralized
+            financing entity and have carrying values that approximate fair value (for example,
+            cash, broker receivables, or broker payables).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">fail-to-deliver.</b> A securities sale to another
+            broker-dealer that has not been delivered to the buying broker-dealer by the close of
+            business on the settlement date.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">fail-to-receive.</b> A securities purchase from another
+            broker-dealer not received from the selling broker-dealer by the close of business on
+            the settlement date.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">fair value.</b> The price that would be received to sell
+            an asset or paid to transfer a liability in an orderly transaction between market
+            participants at the measurement date.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Fed Funds effective swap rate (or overnight index swap
+                rate).</b> The fixed rate on a U.S. dollar, constant-notional interest rate
+            swap that has its variable-rate leg referenced to the Fed Funds effective rate with no
+            additional spread over the Fed Funds effective rate on that variable-rate leg. That
+            fixed rate is the derived rate that would result in the swap having a zero fair value at
+            inception because the present value of fixed cash flows, based on that rate, equates to
+            the present value of the variable cash flows.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">FHLMC.</b> Abbreviation for Federal Home Loan Mortgage
+            Corporation. Often referred to as Freddie Mac, FHLMC is a private corporation authorized
+            by Congress to assist in the development and maintenance of a secondary market in
+            conventional residential mortgages. FHLMC purchases mortgage loans and sells mortgages
+            principally through mortgage participation certificates representing an undivided
+            interest in a group of conventional mortgages. FHLMC guarantees the timely payment of
+            interest and the collection of principal on the participation certificates.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">financial asset.</b> Cash, evidence of an ownership
+            interest in an entity, or a contract that conveys to one entity a right to do either of
+            the following:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Receive cash or another financial instrument from a second entity</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Exchange other financial instruments on potentially favorable terms with the
+                    second entity.</p>
+         </li>
+      </ol>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">floor broker.</b> A member of a securities exchange who
+            executes transactions on the floor of an exchange for the account of that member’s own
+            entity or for the account of other member entities. Broker-dealers often engage floor
+            brokers, who are responsible for executing securities transactions on the exchanges for
+            the account of the broker-dealer. Floor brokers employed by the entity may execute
+            trades on behalf of other broker-dealers, for which the entity is paid a brokerage fee.
+            The purchase and sale department of the broker-dealer maintains the records of floor
+            brokerage fees that are due to other broker-dealers who execute orders on the entity’s
+            behalf and brokerage fees due from other broker-dealers.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">FNMA.</b> Abbreviation for Federal National Mortgage
+            Association. Often referred to as Fannie Mae, FNMA is an investor-owned corporation
+            established by Congress to support the secondary mortgage loan market by purchasing
+            mortgage loans when other investor funds are limited and selling mortgage loans when
+            other investor funds are available.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">GNMA. </b>Abbreviation for Government National Mortgage
+            Association, often referred to as Ginnie Mae. GNMA is a U.S. governmental agency that
+            guarantees certain types of mortgage-backed securities and provides funds for and
+            administers certain types of low-income housing assistance programs.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">proprietary transactions.</b> Transactions in financial
+            instruments that broker-dealers execute for their own account.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">public business entity.</b> A public business entity is a
+            business entity meeting any one of the following criteria. Neither a not-for-profit
+            entity nor an employee benefit plan is a business entity.</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">It is required by the U.S. Securities and Exchange Commission (SEC) to file or
+                    furnish financial statements, or does file or furnish financial statements
+                    (including voluntary filers), with the SEC (including other entities whose
+                    financial statements or financial information are required to be or are included
+                    in a filing).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">It is required by the Securities Exchange Act of 1934 (the Act), as amended,
+                    or rules or regulations promulgated under the Act, to file or furnish financial
+                    statements with a regulatory agency other than the SEC.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">It is required to file or furnish financial statements with a foreign or
+                    domestic regulatory agency in preparation for the sale of or for purposes of
+                    issuing securities that are not subject to contractual restrictions on
+                    transfer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">It has issued, or is a conduit bond obligor for, securities that are traded,
+                    listed, or quoted on an exchange or an over-the-counter market.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">It has one or more securities that are not subject to contractual restrictions
+                    on transfer, and it is required by law, contract, or regulation to prepare U.S.
+                    GAAP financial statements (including footnotes) and make them publicly available
+                    on a periodic basis (for example, interim or annual periods). An entity must
+                    meet both of these conditions to meet this criterion.</p>
+         </li>
+      </ol>
+      <p class="- topic/p ">An entity may meet the definition of a public business entity solely because its
+            financial statements or financial information is included in another entity’s filing
+            with the SEC. In that case, the entity is only a public business entity for purposes of
+            financial statements that are filed or furnished with the SEC.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">regular-way trades.</b> Include both of the following:
+                (<i class="+ topic/ph hi-d/i ">a</i>) all transactions in exchange-traded financial
+            instruments that are expected to settle within the standard settlement cycle of that
+            exchange (for example, two days for U.S. securities exchanges); <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b-aag-brd-glossary-fn1" class="- topic/fn ">
+               <p class="- topic/p ">Under SEC Release No. 34-96930, <i class="+ topic/ph hi-d/i ">Shortening the
+                        Securities Transaction Settlement Cycle</i>, the SEC amended Rule
+                    15c6-1, <i class="+ topic/ph hi-d/i ">Settlement Cycle Rule</i>, to shorten the
+                    standard settlement cycle for most broker-dealer transactions from two business
+                    days after the trade date (T+2) to one business day after the trade date
+                    (T+1).</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd_glossary.dita#UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b/UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b-aag-brd-glossary-fn1"/>
+         </ph> and (<i class="+ topic/ph hi-d/i ">b</i>) all transactions in
+            cash-market-traded financial instruments that are expected to settle within the time
+            frame prevalent or traditional for each specific instrument (for example, for U.S.
+            government securities, one or two days).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">repurchase agreement (repo agreement).</b> An agreement
+            under which the transferor (repo party) transfers a financial asset to a transferee
+            (repo counterparty or reverse party) in exchange for cash and concurrently agrees to
+            reacquire that financial asset at a future date for an amount equal to the cash
+            exchanged plus or minus a stipulated interest factor. Instead of cash, other securities
+            or letters of credit sometimes are exchanged. Some repurchase agreements call for
+            repurchase of financial assets that need not be identical to the financial assets
+            transferred.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">repurchase agreement accounted for as a collateralized borrowing
+                (repo agreement).</b> A transaction in which a seller-borrower of securities
+            sells those securities to a buyer-lender with an agreement to repurchase them at a
+            stated price plus interest at a specified date or in specified circumstances. A
+            repurchase agreement accounted for as a collateralized borrowing is a repo that does not
+            qualify for sale accounting under FASB ASC 860, <i class="+ topic/ph hi-d/i ">Transfers and
+                Servicing</i>. The payable under a repurchase agreement accounted for as a
+            collateralized borrowing refers to the amount of the seller-borrower’s obligation
+            recognized for the future repurchase of the securities from the buyer-lender. In certain
+            industries, the terminology is reversed; that is, entities in those industries refer to
+            this type of agreement as a reverse repo (see <b class="+ topic/ph hi-d/b ">reverse repurchase
+                agreement accounted for as a collateralized borrowing</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">repurchase-to-maturity transaction.</b> A repurchase
+            agreement in which the settlement date of the agreement to repurchase a transferred
+            financial asset is at the maturity date of that financial asset, and the agreement would
+            not require the transferor to reacquire the financial asset.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">reverse repurchase agreement accounted for as a collateralized
+                borrowing (also known as a reverse repo).</b> A transaction that is accounted
+            for as a collateralized lending in which a buyer-lender buys securities with an
+            agreement to resell them to the seller-borrower at a stated price plus interest at a
+            specified date or in specified circumstances. The receivable under a reverse repurchase
+            agreement accounted for as a collateralized borrowing refers to the amount due from the
+            seller-borrower for the repurchase of the securities from the buyer-lender. In certain
+            industries, the terminology is reversed; that is, entities in those industries refer to
+            this type of agreement as a repo (see <b class="+ topic/ph hi-d/b ">repurchase agreement
+                accounted for as a collateralized borrowing</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">soft-dollar arrangements.</b> Arrangements in which a
+            broker-dealer provides research to a customer in return for trade order flow (a certain
+            volume of trades) from that customer.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">substantial doubt about an entity’s ability to continue as a
+                going concern.</b> Substantial doubt about an entity’s ability to continue as
+            a going concern exists when conditions and events, considered in the aggregate, indicate
+            that it is probable that the entity will be unable to meet its obligations as they
+            become due within one year after the date that the financial statements are issued (or
+            within one year after the date that the financial statements are available to be issued
+            when applicable). The term <i class="+ topic/ph hi-d/i ">probable</i> is used
+            consistently with its use in FASB ASC 450 on contingencies.</p>
+      <p id="UUID-0041c01e-5bb9-2ff6-384e-c62c6f9a997b_bridgehead-idm4500698856052833903010902425" class="- topic/p ">The following is a list of additional terms that have been used in this
+            guide:</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">account executive.</b> See <b class="+ topic/ph hi-d/b ">registered representative</b>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">active box.</b> A position on the stock record (street
+            side) indicating securities under the control of the broker-dealer that are normally
+            available for the broker-dealer's general use.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">adequately collateralized.</b> Indebtedness for which the
+            difference between the amount of the indebtedness and the fair value of the collateral
+            is sufficient to make the loan acceptable as a fully secured loan to banks that
+            regularly make comparable loans to broker-dealers in the community.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">ADR.</b> Abbreviation for American Depository Receipt, a
+            certificate issued by a U.S. bank that serves as evidence of ownership of original
+            foreign shares. These certificates are transferable and can be traded. The original
+            foreign stock certificates are deposited with a foreign branch or foreign correspondent
+            bank of the issuing U.S. bank.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">agency transactions.</b> Transactions in financial
+            instruments that broker-dealers execute on behalf of customers to earn commission
+            income.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">aggregate indebtedness.</b> The total of certain
+            liabilities of a broker-dealer that are set forth in SEC Rule 15c3-1. The rule states
+            that a broker-dealer shall not permit its aggregate indebtedness to exceed a specified
+            percentage of its net capital as defined in the rule.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">allied member.</b> Any general partner, qualified voting
+            stockholder, or officer of a FINRA (former NYSE) member firm, who is deemed to be a
+            control person of a member organization and who is not himself or herself a member of a
+            stock exchange.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">arbitrage.</b> The act of buying a security in one market
+            and simultaneously selling it in another in order to profit from price discrepancies.
+            Also, buying a security subject to exchange, conversion, or reorganization and selling
+            the security or securities to be received upon completion of the exchange, conversion,
+            or reorganization.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">ask.</b> The lowest price a seller is willing to accept
+            for a security at a particular time, also known as <i class="+ topic/ph hi-d/i ">offer</i> by exchanges.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">asset-backed commercial paper (ABCP).</b> Short-term
+            promissory notes issued in bearer form by large corporations with similar features to
+            the standard commercial paper, with the exception that the note is secured against
+            specific assets, usually short-term trade receivables from a company (or companies).
+            ABCP may also have liquidity support from a sponsoring bank to allow timely repayment at
+            maturity (see <b class="+ topic/ph hi-d/b ">commercial paper</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">balance order.</b> The net balance instructions, issued
+            by a clearing organization, to receive or deliver securities based on a netting of all
+            trades in a given security settling on the date of netting. The instructions give all
+            the information needed by the member firm to clear its transactions on a given
+            settlement date.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">basis point.</b> A measurement of changes in price or
+            yields for fixed-income securities. One basis point equals 0.01%, or 10 cents per $1,000
+            per year.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">best efforts.</b> Refers to an agreement by an
+            underwriter to buy from the issuing corporation only those securities it is able to sell
+            to the public.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">bid.</b> The price a buyer is willing to pay for a
+            security at a particular time.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">block trading.</b> The acquisition or disposition of
+            large quantities (10,000 shares or more) or blocks of stock by a broker-dealer in order
+            to facilitate the execution of buy and sell orders of customers, usually institutions.
+            Often, a broker-dealer absorbs a portion of the order for its own account and
+            risk.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">blotter.</b> A record of original entry. A book or
+            individual unit used as a record of original entry to record transactions as they occur.
+            It covers purchases, sales, cash receipts and disbursements, and securities received and
+            delivered.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">book entry system.</b> A system in which securities are
+            not represented by physical certificates but are maintained in computerized records at
+            the custodian (such as the Depository Trust Company) in the name of registered
+            owners.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">borrowed.</b> The act of borrowing a security for
+            delivery. The equivalent value in money is usually deposited with the lender.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">box.</b> A term used for a "short" position in the stock
+            record representing securities under the control of or in the possession of the
+            broker-dealer. It indicates a place where securities are kept, such as a vault, file
+            cabinet, and so forth. A box is also identified as a safekeeping box, segregation box,
+            name-of box, active box, and so forth.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">break.</b> The term applied to that position in the stock
+            record to designate an out-of-balance position between the stock record long and short
+            positions.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">broker loans.</b> Money borrowed by broker-dealers from
+            banks. Typically, loans are collateralized by DTC eligible stocks with a fair value of
+            more than five dollars, subject to concentration limitations.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">bulk segregation.</b> Securities (usually constituting
+            excess collateral in margin accounts) that are filed in alphabetical order in special
+            boxes in the vault but that are not specifically identified by owner. The securities are
+            usually in the name of the broker-dealer, who maintains collateral records that indicate
+            the owners.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">buy in.</b> The procedure followed by a broker-dealer
+            desiring to settle a buy contract that is past due. The broker-dealer may file a notice
+            termed a buy in with a stock exchange or the National Association of Security Dealers
+            (NASD), as appropriate. A copy of the notice is also served on the broker-dealer from
+            whom the securities were to be received. If the securities are not delivered, the stock
+            or bond may be bought in for cash for the account of the broker-dealer from whom the
+            securities are to be received. The difference in price between the buy in and the
+            contract price is adjusted by check from one broker-dealer to another.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">cage.</b> The term given to the area of the broker or
+            dealer's office that has responsibility for receiving and delivering securities.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">call (margin).</b> A request for a margin customer to put
+            up additional collateral (cash or securities).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">call option.</b> A contract that entitles the holder to
+            buy (call), entirely at his or her option, a specified number of underlying units of a
+            particular security at a specified price at any time until the stated expiration date of
+            the contract. (This is an American-style option; a European-style option is exercisable
+            only at a specific date.) Such an option (which is always for a transferable, round-lot
+            amount) is bought with the expectation that the price will rise above the contract
+            price. If the price rises as anticipated, the purchaser will exercise the option; if it
+            does not, he or she will let the option expire and will lose only the cost of the
+            option. There is both a listed and over-the-counter market in options. (During the
+            existence of an OTC option, the exercise price and number of underlying units are
+            adjusted on the expiration date for cash dividends, rights, and stock dividends or
+            splits.)</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">carry.</b> The cost of financing (borrowing to buy) a
+            position in financial instruments. Positive carry is a condition that arises if the cost
+            of financing (the short-term rate of interest) is less than the current return of the
+            instrument. Negative carry is a condition that arises if the cost of financing is above
+            the current return of the instrument.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">cash account.</b> The account of a customer of a
+            broker-dealer who purchases and sells securities strictly on a cash basis. No credit
+            margin is allowed.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">cashier's department.</b> A division of the operations
+            department of a broker-dealer that handles the securities and money that are received or
+            delivered by the broker-dealer (see <b class="+ topic/ph hi-d/b ">cage</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">CFTC.</b> Abbreviation for Commodity Futures Trading
+            Commission, an agency established by Congress to regulate U.S. commodity futures markets
+            and futures commission merchants. Among other things, this agency establishes rules
+            governing the minimum financial, reporting, and audit requirements of its members. Its
+            function is similar to that performed by the SEC in regulating broker-dealers in
+            securities and various securities markets.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">cleanup call</b>. A provision of an asset-backed security
+            that permits the issuer to call it at par when the collateral has been paid down to a
+            specified level.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">clearance.</b> The act of clearing securities
+            transactions between buyers and sellers; receipt or delivery of securities against
+            payment.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">clearing broker.</b> Usually, a broker-dealer who clears
+            the transactions of another broker-dealer (see <b class="+ topic/ph hi-d/b ">correspondent</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">clearinghouse.</b> The central location for matching and
+            settling commodity transactions, collecting and maintaining margin, regulating delivery,
+            and reporting trade information of members. The clearinghouse is responsible to all
+            members for the fulfillment of the contracts and maintains sufficient funds by calling
+            for margin deposits from members.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">clearing member.</b> A broker-dealer entitled to use the
+            services of the clearing organization.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">clearing organization.</b> The central location for
+            matching the security transactions of members (see <b class="+ topic/ph hi-d/b ">clearinghouse</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">commercial paper (CP).</b> Short-term promissory notes
+            issued in bearer form by large corporations, with maturities ranging from overnight to
+            270 days. However, most paper issued matures in less than 40 days. Standard CP is
+            unsecured and subject to counterparty risk (see <b class="+ topic/ph hi-d/b ">asset-backed
+                commercial paper</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">comparison.</b> A formal notice that details the terms of
+            the contract between broker-dealers that are parties to nonexchange trades. If the
+            details of the trade are correct, the comparison is stamped (acknowledged) and returned;
+            if they are incorrect, the broker-dealer indicates the differences and returns the
+            comparison (see <b class="+ topic/ph hi-d/b ">DK</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">compliance department.</b> The department of a
+            broker-dealer that enforces adherence to policies established by the broker-dealer, plus
+            all rules and regulations promulgated by the various regulatory agencies.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">confirmation.</b> A notice that sets forth the terms of a
+            contract between a broker-dealer and its customer for the purchase or sale of
+            securities. Details shown on a confirmation are the trade date, settlement date, number
+            of shares or par value of bonds, security description, contract price, commission,
+            account number and type of account, and customer's name and address, as well as any
+            other information required.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">correspondent.</b> One of the parties to an agreement
+            between two broker-dealers who perform services for each other, such as the execution
+            and the clearance of trades or the maintenance of customer accounts.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">CRD.</b> Abbreviation for Centralized Registration
+            Depository; a computerized filing and data processing system, operated by FINRA, that
+            maintains registration information regarding broker-dealers and their registered
+            personnel.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">credit department.</b> See <b class="+ topic/ph hi-d/b ">margin
+                department</b>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">CUSIP number.</b> A means of uniformly describing and
+            identifying all stocks and registered bonds in numeric form developed by the Committee
+            on Uniform Security Identification Procedures.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">delayed delivery.</b> A transaction involving deferral of
+            the settlement date (which is normally three business days for securities and one
+            business day for options) to some point further in the future as agreed on by both buyer
+            and seller (see <b class="+ topic/ph hi-d/b ">seller's option</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">derivative.</b> A financial instrument, traded on or off
+            an exchange, the price of which is directly dependent upon (that is, derived from) the
+            value of one or more underlying securities, equity indexes, debt instruments,
+            commodities, other derivative instruments, or any agreed upon pricing index or
+            arrangement (for example, the movement over time of the Consumer Price Index or freight
+            rates). Derivatives involve the trading of rights or obligations based on the underlying
+            product but do not directly transfer property.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">discretionary account.</b> An account over which a
+            broker-dealer or some other person has been given authority by the customer to make
+            decisions (including the kind of securities to buy or sell, as well as the date and
+            prices to be paid or received) concerning purchases and sales of securities. The
+            discretion may be complete or limited.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">distribution.</b> The sale of a large block of securities
+            to the investing public.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">divided liability.</b> Liability in a syndicate or
+            underwriting that is fixed or definite in the amount of shares or principal value for
+            each participant (see <b class="+ topic/ph hi-d/b ">undivided liability</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">dividend department.</b> A division of the operations
+            department that is charged with the collection of dividends and the crediting of these
+            dividends to the accounts of customers.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">DK.</b> Abbreviation for “don't know” — an expression
+            used by a broker-dealer to indicate that a transaction another broker-dealer is
+            attempting to confirm or compare is unknown or is questioned (meaning that it is a
+            questioned trade or a QT). When mutual understanding is reached, the transaction is
+            properly compared or canceled.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">DTC.</b> Abbreviation for Depository Trust Company, a
+            depository for eligible securities that facilitates clearance between member
+            organizations and banks without the necessity of receiving or delivering actual
+            certificates. DTC is a subsidiary of DTCC.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">DTCC.</b> The Depository Trust &amp; Clearing
+            Corporation, a holding company for DTC and NSCC.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">due bill.</b> A document, used to adjust security
+            transactions, passed between broker-dealers stating that dividends, rights to subscribe,
+            stock dividends, and so forth, are the property of the holder of the due bill.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">DVP.</b> Abbreviation for delivery versus payment; a type
+            of settlement in which the security is paid for when the selling broker-dealer delivers
+            the security to the purchaser or their agent.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">ECN.</b> Electronic Communication Network, an alternative
+            trading system that facilitates trading of financial products outside of stock exchanges
+            by directly connecting equity traders, agency brokers, market makers, and investors.
+            ECNs must register with the SEC as a broker-dealer or an exchange and are subject to
+            Regulation ATS.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">equity.</b> The net worth in an account carried by a
+            broker-dealer, computed by subtracting the total of the short security values and the
+            debit balance from the total of the long security values and the credit balance. If the
+            result is a net credit, the account is said to liquidate to an equity.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">equity securities.</b> Term applied to common and
+            preferred stocks.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">equity statements (runs).</b> Statements showing details
+            of an account with security valuations.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">ex-clearinghouse.</b> Transactions that are not settled
+            through the clearinghouse.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">ex-dividend.</b> Synonym for without dividend. The buyer
+            of a stock selling ex-dividend does not receive the recently declared dividend. Open buy
+            and sell stop orders and sell stop limit orders in a stock on the ex-dividend date are
+            ordinarily reduced by the value of the particular dividend. In the case of open stop
+            limit orders to sell, both the stop price and the limit price are reduced. Every
+            dividend is payable on a fixed date to all shareholders recorded on the books of the
+            disbursing company as of a previous date of record. For example, a dividend may be
+            declared as payable to holders of record on the books of the disbursing company on a
+            given Friday. Because three business days are allowed for delivering the security via
+            regular-way delivery in transactions on a stock exchange, the exchange would declare the
+            stock ex-dividend as of the opening of the market on the preceding Wednesday. This means
+            that anyone buying the stock on and after Wednesday would not be entitled to the
+            dividend.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">execution report.</b> A confirmation notice of the
+            completion of a trade that is sent from the floor of an exchange (for listed securities)
+            or trading desk (for over-the-counter securities) back to the point of origin of the
+            order.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">extension.</b> Permission to extend credit beyond the
+            time prescribed by Federal Reserve Regulation T of the Board of Governors of the Federal
+            Reserve System.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">fails.</b> Uncompleted securities transactions between
+            two broker-dealers (see <b class="+ topic/ph hi-d/b ">fail-to-deliver</b> and <b class="+ topic/ph hi-d/b ">fail-to-receive</b> in the FASB ASC section of the
+            glossary).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">fair value.</b> As used in connection with margin
+            trading, generally the closing price of a security as of the preceding business
+            day.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">FINRA.</b> Financial Industry Regulatory Authority was
+            created in July 2007 through the consolidation of the National Association of Securities
+            Dealers (NASD) and the member regulation, enforcement, and arbitration functions of the
+            New York Stock Exchange (NYSE).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">firm account.</b> An account consisting of securities in
+            which the broker-dealer has taken a position for investment purposes, is making a market
+            (principal wholesaler), or has an interest with another party (joint account).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">firm commitment.</b> The agreement of an underwriter to
+            buy the entire issue of a security from the issuing corporation at a specified
+            price.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">firm price.</b> The price at which a security can be
+            bought or sold in the over-the-counter market for such period of time as the seller may
+            specify.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">flat.</b> A method of trading in certain kinds of bonds.
+            Usually used in trading income bonds that do not pay interest unless it has been earned
+            and declared payable, or in bonds on which the issuer has defaulted in the payment of
+            interest. When bonds are traded "flat," the seller is not entitled to the interest that
+            has accumulated since the date of the last interest payment. The seller of a bond that
+            is traded flat must deliver the bond with all unpaid coupons attached or a due bill
+            authorizing the buyer to collect any payments of interest that may be made by the issuer
+            in the future.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">floor.</b> Popular name for the area where securities are
+            bought or sold at an exchange.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">floor brokerage.</b> The commission charged by one
+            broker-dealer to another for executions of transactions at exchanges.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">floor clerk.</b> An employee of a broker-dealer who
+            maintains a liaison between the order room and the floor broker.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">FOCUS report.</b> Acronym for Financial and Operational
+            Combined Uniform Single report. The uniform regulatory report (Form X-17A-5) filed
+            periodically by all broker-dealers pursuant to Rule 17a-5 of the SEC.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">forward market.</b> Reference made to nonexchange trading
+            of commodities and securities for settlement at a future date. Contracts of this nature
+            are designed by both the buyer and seller about the delivery time, the amount, and so
+            on.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">fractional share.</b> Ownership in less than a full share
+            of stock.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">fully disclosed basis.</b> Situation in which a
+            nonclearing broker introduces a customer to a clearing broker and the customer's name
+            and statement are carried by, and disclosed to, that clearing broker.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">futures contract.</b> An exchange-traded contract for the
+            purchase or sale of commodities at some time in the future.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">good delivery.</b> Certain basic qualifications that must
+            be met before a security sold may be delivered. The security must be in proper form to
+            comply with the contract of sale and to transfer title by delivery to the
+            purchaser.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">good-faith deposit.</b> Deposit to guarantee performance,
+            usually with respect to new issues of securities.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">GTC.</b> Abbreviation for good ’til canceled. Also called
+            an open order. If this term appears on an order to buy or sell a security, it means that
+            the order is to remain in effect until it is either executed or canceled.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">haircut.</b> Deductions from the net capital of certain
+            specified percentages of the fair value of securities and commodity futures contracts
+            that are long and short in the capital and proprietary accounts of a broker-dealer and
+            in the accounts of partners. These deductions are solely for the purpose of computing
+            net capital and are not entered on the books.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">holder of record.</b> The party listed as the owner on
+            the transfer records of a corporation.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">house rules.</b> Rules promulgated by the broker-dealer.
+            Usually refers to the maintenance margin required by the broker-dealer over and above
+            the requirements of regulatory bodies.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">hypothecation agreement.</b> An agreement signed by a
+            customer that permits his or her broker to use securities in the customer's margin
+            account as collateral for loans made to the broker.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">initial margin.</b> The amount of money or its
+            equivalent, specified by the Board of Governors of the Federal Reserve System, that a
+            customer must deposit with his or her broker when the customer buys a security on
+            margin.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">investment banker.</b> One who underwrites securities on
+            an initial or secondary basis. This type of underwriting often involves private
+            placements for which the investment banker may act as both a broker and a dealer.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">joint account.</b> An account in which two or more
+            persons have an interest.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">letter of credit.</b> An unqualified commitment issued by
+            banks or trust companies to pay a specified sum of money immediately upon demand at any
+            time prior to the expiration of the letter of credit. Most commonly used by
+            broker-dealers to satisfy margin requirements at the Options Clearing Corporation or
+            commodity-clearing organizations or in stock-borrowed transactions.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">limit order.</b> Also called a limited order or limited
+            price order, an order to buy or sell a security at a price specified by the customer or
+            at a better price, if such a price can be obtained.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">listed security.</b> A security that is traded on an
+            exchange.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">loaned.</b> The act of lending a security, usually for
+            delivery against a short sale. The equivalent value in money is usually deposited by the
+            borrower. This term is the opposite of <i class="+ topic/ph hi-d/i ">borrowed</i>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Loanet.</b> A privately owned and operated online
+            real-time accounting service used by brokers and institutions in support of their
+            domestic and international securities borrowing and lending activities. The system, part
+            of SunGard Data Systems, Inc., provides interfaces to the Depository Trust Company for
+            both receipt and delivery of securities, including fair values of the securities, and to
+            clients' internal recordkeeping systems or outside accounting services. In addition,
+            Loanet also provides daily contract comparison for all subscribers engaged in the
+            borrowing and lending of securities and portfolio availability of most major lending
+            institutions.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">loan value.</b> The value at which a security is accepted
+            for margin. This value is usually less than, or at a discount from, the fair
+            value.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">lockup.</b> The act of placing securities in safekeeping
+            or segregation.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">long.</b> Denotes ownership, or the right to possession,
+            of securities.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">long securities differences.</b> The excess of securities
+            positions accounted for over the broker-dealer's long positions on the stock record.
+            When recorded in a difference account, the excess would be recorded long on the stock
+            record (see <b class="+ topic/ph hi-d/b ">short securities differences</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">maintenance margin.</b> The amount of equity required to
+            be maintained in a margin account in accordance with exchange regulations or house
+            rules.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">margin.</b> The equity in an account. The requirements
+            for the amount of margin vary between initial margin and maintenance margin and also
+            according to the type of collateral used in computing the equity.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">margin call.</b> A request for additional margin.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">margin department.</b> A division of the operations
+            department. Its functions include keeping an up-to-date record of each customer's
+            purchases and sales of securities, carefully monitoring extensions of credit to
+            customers, and the segregation of fully paid for or excess-margin securities.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">margin transaction.</b> A transaction in which the
+            broker-dealer advances credit to the customer for a portion of the purchase
+            price.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">market maker.</b> A broker-dealer that stands ready to
+            buy or sell a particular security in the over-the-counter market at prices the
+            broker-dealer has quoted. Also, an options trader on the floor of a registered exchange
+            who stands ready to buy or sell a particular option.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">market price.</b> Usually means the last reported price
+            at which a security has been sold.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">mark-up.</b> The difference between what a broker-dealer
+            has paid for a security and the price at which it offers the security to another
+            person.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">master file.</b> A file that contains the official
+            account numbers and descriptions of securities and customers' names and
+            addresses.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">material associated person (MAP)</b>. The determination
+            of whether an affiliated person of a broker or dealer is a material associated person
+            involves consideration of all aspects of the activities of, and the relationship
+            between, both entities, including the factors enumerated in SEC Rule 17h-1T.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">material error (as defined by the SEC Division of Trading and
+                Markets).</b> “…a misstatement of any individual financial statement account
+            balance, i.e. line item, where the amount of the individual adjustment, if made to the
+            financial statements, would cause a change of 10 percent or more in excess net capital
+            or excess segregated funds or where the adjustment, if made to the financial statements,
+            would cause the firm to fall into an ‘early warning’ net capital position.”</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">matrix pricing.</b> A mathematical technique used to
+            value normal institutional-size trading units of debt securities without relying
+            exclusively on quoted prices of the specific security. Factors such as the issue's
+            coupon or stated interest rate, maturity, and rating and quoted prices of similar issues
+            are considered in developing the issue's current market yield.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">maximum loan value.</b> The percentage of the purchase
+            price of a security that a broker-dealer may lend to a customer who is buying a security
+            on margin.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">member firm.</b> A broker-dealer that is organized as a
+            partnership and that has at least one general partner who is a member of an organized
+            stock exchange.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Municipal Securities Rulemaking Board (MSRB).</b> Agency
+            established by Congress to establish rules for broker-dealers effecting transactions in
+            obligations of, or guaranteed by, state or local governments or any agency or
+            instrumentality thereof.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">NASD.</b> Abbreviation for National Association of
+            Securities Dealers, Inc., formerly an association of broker-dealers doing business in
+            the over-the-counter market. Prior to its incorporation into FINRA, the association
+            supervised and regulated the trading conduct and sales practices of its members. See
+                <b class="+ topic/ph hi-d/b ">FINRA</b>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Nasdaq.</b> Abbreviation for the Nasdaq Stock Market, an
+            electronic stock market (formerly known as the National Association of Securities
+            Dealers Automated Quotation System).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">net capital.</b> Net worth of a broker-dealer, less
+            certain items such as exchange memberships, the carrying value of securities that are
+            not readily marketable, haircuts on marketable securities in proprietary accounts,
+            furniture and equipment, and other illiquid assets, as defined in the net capital
+            rules.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">new issue.</b> A security that is sold by an issuing
+            corporation for the first time. It may be referred to as an initial public offering or
+            IPO.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">no-action letter.</b> A letter issued to a broker-dealer
+            by the SEC staff of the Securities and Exchange Commission (SEC) in response to a
+            request filed by the broker-dealer describing a proposed business activity that may or
+            may not conform to SEC rules and regulations. In a no-action letter, the SEC staff
+            indicates that, based on the facts presented by the broker-dealer, the SEC staff will
+            recommend no action be taken against the broker-dealer for engaging in the proposed
+            activity. A no-action letter does not have the force of law; however, it represents an
+            interpretation of the SEC staff that may be applied in a situation where the
+            broker-dealer is engaging in an activity not addressed by existing SEC rules and
+            regulations.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">NSCC.</b> Abbreviation for National Securities Clearing
+            Corporation, a subsidiary of DTCC, that provides trade processing, clearance, delivery,
+            and settlement services to its members. It deals with brokers, dealers, and banks in the
+            United States and Canada.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">odd lot.</b> A quantity of securities that is less than
+            the trading unit or round lot, usually a quantity less than an even 100 shares.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">offer.</b> The lowest price at which a seller is willing
+            to sell a security.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">omnibus account.</b> An open account carried and cleared
+            by another broker-dealer and containing accounts of undisclosed customers on a
+            commingled basis that are carried individually on the books of the broker-dealer
+            introducing the trades.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">operations department.</b> The name associated with the
+            overall clerical functions of a broker-dealer. Sometimes referred to as the back
+            office.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">order department.</b> A division of the operations
+            department that receives customers' orders and transmits them either to the floor of a
+            stock exchange or to the trading department for execution. The order department also
+            receives notices of executed trades and transmits such notices to the purchases and
+            sales department and to the registered representatives.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">order room.</b> Another name for the order
+            department.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">OTC.</b> Abbreviation for over-the-counter. A securities
+            trading market made up of broker-dealers that may or may not be members of a securities
+            exchange. Thousands of companies either have insufficient shares outstanding,
+            stockholders, or earnings to warrant application for or maintaining a listing on a stock
+            exchange, or they choose not to be listed on a stock exchange for other business or
+            economic reasons. Securities of these and other companies are traded in the OTC market
+            between broker-dealers that act as either principals (dealers) or agents (brokers) for
+            customers. The OTC market is the principal market for U.S. government and corporate
+            bonds and municipal securities. In the United States, over-the-counter trading in
+            securities is carried out by market makers using interdealer quotation services such as
+            OTC Pink (operated by OTC Markets Group) and OTC Bulletin Board (operated by
+            FINRA).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">PAB account.</b> A proprietary securities account of a
+            broker or dealer (which includes a foreign broker or dealer, or foreign bank acting as a
+            broker or dealer) other than a delivery-versus-payment account or a
+            receipt-versus-payment account and does not include an account that has been
+            subordinated to the claims of creditors of the carrying broker or dealer.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">payable date.</b> The date on which a dividend is payable
+            to holders of record as of some previous date.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">pink sheets.</b> Pink sheets got their name because they
+            were formerly a listing of over-the-counter securities published on pink paper by the
+            National Quotation Bureau (now Pink OTC Markets). Yellow sheets are to bonds what pink
+            sheets are to corporate equity securities traded in the OTC market (see <b class="+ topic/ph hi-d/b ">OTC</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">point.</b> If used in connection with the purchase or
+            sale of stocks, point means a rise or decline of $1 per share. If used in connection
+            with the purchase or sale of bonds, it means a rise or decline of $10 per $1,000
+            principal amount.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">point balance.</b> A daily summary by commodity for
+            exchange-traded futures and options on futures contracts that contains all open long and
+            short positions and the original transaction price valued at the closing settlement
+            prices. Separate summaries are prepared for customer transactions and proprietary and
+            noncustomer transactions.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">position.</b> This term is used in referring to the
+            securities "long" or "short" in an account or in the stock record.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">post.</b> A designated place on an exchange floor where
+            specific securities must be traded.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">private placement.</b> The direct sale of a block of
+            securities, either a new issue or a secondary issue, to a single investor or a group of
+            investors. This is usually accomplished through an investment banker.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">purchase and sales department.</b> A division of the
+            operations department that is concerned with the preparation of customers' confirmations
+            of security transactions and the comparison of such transactions with other brokerage
+            concerns.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">put option.</b> A contract that entitles the holder to
+            sell (put), entirely at his or her option, a specified number of underlying units of a
+            particular security at a specified price anytime until the stated expiration date of the
+            contract. (This is an American-style option; a European-style option is exercisable only
+            at a specific date.) Such an option, which is always for a round-lot amount and which is
+            transferable, is bought with the expectation of a price decline below the contract
+            price. If the price decline occurs, the purchaser will exercise or sell the option. If
+            the decline does not occur, he or she will let the option expire and will lose only the
+            cost of the option. There are both listed and OTC markets in options. During the
+            existence of an OTC option, the exercise price and number of underlying units are
+            adjusted on the ex-date for cash dividends, rights, and stock dividends or
+            splits.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">puts and calls.</b> Options to sell (put) or buy (call)
+            securities within a specified period of time at specified prices (see <b class="+ topic/ph hi-d/b ">put option; call option</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">quote.</b> The price of a security. It may be the price
+            of the last sale made on an exchange or the current bid and ask price.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">record date.</b> The date on which the stockholder's name
+            must be registered on the books of a company in order to receive a declared dividend or
+            among other things to vote on company affairs.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">registered owner.</b> The owner of a security, whose name
+            is recorded on the face of the certificate and on the books of the issuing corporation
+            or its agent.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">registered representative.</b> Salesperson (often
+            referred to as an account executive) of the broker-dealer. Salespeople are registered
+            with the CRD (see <b class="+ topic/ph hi-d/b ">CRD</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">registered trader.</b> Individuals or entities who have
+            obtained approval to trade for their own account on the floor of a national securities
+            exchange. Such individuals or entities have certain obligations with regard to the
+            stabilization of the market in securities for which they are registered. They also have
+            less stringent financial responsibilities and reporting requirements than do
+            full-service broker-dealers.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">registrar.</b> Usually a trust company or bank charged
+            with the responsibility of preventing the issuance of more stock than that authorized by
+            the issuing company.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">regular way.</b> Unless otherwise specified, the delivery
+            of securities (other than those of the U.S. government) to the buying broker-dealer by
+            the selling broker-dealer. The regular-way delivery day for government bonds is the
+            business day following the transaction.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Regulation T.</b> The Federal Reserve Board regulation
+            governing the amount of credit that broker-dealers may extend to customers who buy
+            securities.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">reorganization department.</b> A division of the
+            operations department that processes securities involving corporate reorganizations,
+            mergers, consolidations, subscriptions, and the exchange of convertible securities into
+            common stocks.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">reverse split.</b> Opposite of stock split.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">rights.</b> The privilege offered by a corporation to its
+            stockholders to subscribe to certain securities, usually at an advantageous
+            price.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">riskless principal transaction.</b> A transaction in
+            which, after having received an order to buy from a customer, the bank purchased the
+            security from another person to offset a contemporaneous sale to such customer or, after
+            having received an order to sell from a customer, the bank sold the security to another
+            person to offset a contemporaneous purchase from such customer.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">round lot.</b> A unit of trading or a multiple thereof.
+            On the NYSE, the unit of trading is generally 100 shares in stocks and $1,000 par value
+            in bonds.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">safekeeping.</b> A position on the stock record (street
+            side) indicating securities that have been fully paid for by customers and that are
+            being held by the broker-dealer under custody arrangements. These securities are
+            generally registered in the name of the customer.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">safekeeping box.</b> Location in which customers' fully
+            paid-for securities are kept.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">SEC.</b> Abbreviation for Securities and Exchange
+            Commission. An agency established by the U.S. Congress to administer federal securities
+            laws.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">securities borrowed.</b> See <b class="+ topic/ph hi-d/b ">borrowed</b>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">securities loaned.</b> See <b class="+ topic/ph hi-d/b ">loaned.</b>
+      </p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">securities not readily marketable.</b> This term refers
+            to (1) securities, except exempted securities, for which there is no market on a
+            securities exchange or no independent publicly quoted market; (2) securities that cannot
+            be publicly offered or sold unless registration has been effected under the Securities
+            Act of 1933 (or the conditions of an exemption, such as Regulation A under Section 3(b)
+            of this act, have been complied with); or (3) securities that cannot be offered or sold
+            because of other arrangements, restrictions, or conditions applicable to the securities
+            or the broker-dealer.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">segregation.</b> A position on the stock record (street
+            side) indicating customers' fully paid-for or excess-margin securities that are subject
+            to the customers' instructions and that have been set aside. These securities are
+            generally in the name of the broker-dealer (see <b class="+ topic/ph hi-d/b ">bulk
+                segregation</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">segregation box.</b> Location in which segregated
+            securities are kept.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">selling concession.</b> A discount in the public offering
+            price offered by the issuer to members of its underwriting group.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">selling group.</b> A group of broker-dealers that has
+            formed a joint account for the sale of securities, usually in connection with an
+            underwriting.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">settlement date.</b> The date on which a securities
+            transaction is to be settled by the delivery or receipt of securities and the receipt or
+            payment of cash.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">settlement price.</b> The price at which a security or
+            commodity is to be settled. Used primarily in connection with clearing organization
+            operations.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">short.</b> A stock record position (street side) that
+            represents location (such as box, transfer, and so forth) or due from (such as failed to
+            receive or owed to the brokerage concern by a customer.)</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">short sale.</b> A sale of securities that requires
+            borrowing equivalent securities to make delivery to the purchaser.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">short securities differences.</b> The excess of
+            securities positions for which the broker-dealer is accountable on its stock record
+            (longs) over those whose locations have been accounted for (shorts) after a securities
+            verification. When recorded in a difference account, the excess would be recorded short
+            on the stock record. See <b class="+ topic/ph hi-d/b ">long securities
+            differences</b>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">signature guarantee.</b> In order that a registered
+            security may be a good delivery on the exchange or a good transfer, the signature of the
+            registered owner must be properly guaranteed. The guarantee of a stock exchange member
+            or a bank is usually considered sufficient guarantee.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">SIPC.</b> Abbreviation for Securities Investor Protection
+            Corporation, a corporation established for the purpose of protecting customers of
+            broker-dealers in financial difficulty.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">split.</b> The action of increasing the number of
+            outstanding shares of stock of a company in order to decrease the market price and
+            afford a greater distribution of the shares. For example, two shares for each share held
+            will have the effect of reducing the price of the shares by approximately
+            one-half.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">spot (commodity).</b> (1) The actual commodity as
+            distinguished from a futures contract. (2) An outgrowth of the phrase "on the spot," it
+            usually refers to a cash market price for stocks of the physical commodity that are
+            available for immediate delivery. (3) This term is also used when referring to the
+            futures contract of the current month, in which case trading is still "futures" trading
+            but delivery is possible at any time.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">spread.</b> A combination of a put and call option at
+            different prices — one below and the other above the current market price. Also refers
+            to the difference between the bid and asked prices of a security.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">SRO.</b> Abbreviation for self-regulatory organization.
+            An SRO, of which a broker-dealer is a member, assumes responsibility for monitoring the
+            broker-dealer's compliance with minimum financial and related reporting
+            requirements.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">standby.</b> A put exercisable at a future date. A long
+            standby is an option to sell GNMA securities; a short standby is a commitment to
+            buy.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">stock dividend.</b> A dividend payable in the stock of
+            the issuing corporation.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">stock power.</b> A legal document used in lieu of the
+            assignment section of a stock certificate.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">stock record (or position record).</b> The record of
+            individual securities on which both the long and short positions are shown. For each
+            security, the total of the long positions and the total of the short positions should be
+            in balance.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">stock record department.</b> A division of the operations
+            department that keeps up-to-date records of all securities positions and is usually
+            responsible for reconciling out-of-balance conditions.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">stock split.</b> See <b class="+ topic/ph hi-d/b ">split</b>.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">street.</b> A shortened term for Wall Street that refers
+            to brokers, dealers, and other financial business concerns.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">strike price.</b> The price at which GNMA securities can
+            be purchased or sold upon the exercise of a standby or optional commitment. The price at
+            which an option (put or call) can be exercised (sometimes called the exercise
+            price).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">subscription.</b> The offer to purchase a certain
+            offering, such as a certain number of shares of the stipulated stock or principal amount
+            of bonds, for a stipulated amount of money. The offer is not binding unless accepted by
+            the proper authorized representatives of the issuing corporation.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">subsequently measured at fair value.</b> Term used to
+            describe the process of valuing security positions for purposes of determining profit or
+            loss on security positions in proprietary trading and investment accounts. The term also
+            is applied to open contracts between broker-dealers and clearing corporations for
+            determining the adjustments to be made for funds owed or receivable as a result of
+            adjusting those contracts to fair values.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">substitution.</b> The act of withdrawing securities from
+            a bank loan and substituting other securities of approximately equal value.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">suspense account.</b> An account used to record
+            securities or monies that cannot be immediately identified and cleared (for example, DK
+            items).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">syndicate.</b> A group of broker-dealers that underwrites
+            and distributes new issues of securities or large blocks of an outstanding issue.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">TBA.</b> Abbreviation for to be announced future
+            government-sponsored enterprises' pools that are bought and sold for future settlement.
+            TBA refers to the announcement of the specific pools to be delivered or received.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">ticker.</b> An instrument that prints the price at which
+            a security has been traded on an exchange after the trade has been executed.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">trade.</b> A term that indicates the consummation of a
+            securities transaction, either a purchase or a sale.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">trade date.</b> The date on which a securities
+            transaction is actually executed.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">trader.</b> An employee of a broker-dealer who executes
+            orders in the OTC market for customers. Also, a person who buys or sells securities for
+            his or her own or his or her company's account for short-term profit.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">trading unit.</b> The unit by which the security is
+            traded on an exchange, usually 100 shares of stock or $1,000 principal amount of bonds
+            (see <b class="+ topic/ph hi-d/b ">round lot</b>).</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">transfer.</b> Usually refers to the act of changing the
+            ownership of registered securities on the books of the issuing corporation.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">transfer agent.</b> A transfer agent keeps a record of
+            the name and address of each registered shareholder and the number of shares each owns.
+            The agent sees that certificates presented to his or her office for transfer are
+            properly canceled and that new certificates are issued in the name of the
+            transferee.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">transfer department.</b> A division of the operations
+            department that matches, processes, and controls securities being transferred.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">underwriting.</b> The act of distributing a new issue of
+            securities or a large block of issued securities, that is, a secondary offering.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">undivided liability.</b> An arrangement whereby each
+            member of an underwriting syndicate is liable for his or her proportionate share of
+            unsold securities in the underwriting account regardless of the number of securities the
+            member has previously sold.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">undue concentration.</b> The additional haircut from net
+            capital (see SEC Rule 15c3-1) on the fair value of certain proprietary security
+            positions of a single class or series of the same issuer that exceeds 10% of a broker or
+            dealer's net capital before haircuts.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">unlisted security.</b> A security that is not listed on
+            an exchange.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">up-front fee.</b> The amount of cash paid to a delayed
+            settlement to-be-announced securities or GNMA purchaser that is offset by an increase in
+            the sales price.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">warrants.</b> Rights to purchase additional securities.
+            Usually affixed to the certificate at the time securities are originally issued. Also, a
+            document evidencing rights, for instance, a warrant for 125 rights.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">when-issued.</b> A short form of <i class="+ topic/ph hi-d/i ">when, as, and if issued</i>. The term indicates a conditional transaction in
+            a security authorized for issuance but not yet actually issued. All when-issued
+            transactions are on an "if" basis, to be settled if and when the actual security is
+            issued.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">window.</b> A term applied to a place in the office of a
+            broker-dealer where securities are actually received or delivered.</p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">yield.</b> The return on investment that an investor will
+            receive from dividends or interest. The return is expressed as a percentage of the
+            current market price of the security or, if the investor already owns the security, of
+            the price he or she paid. The return on stocks is computed by dividing the total
+            dividends paid in the past calendar year by the price of the stock. The return on bonds
+            is computed by dividing the interest by the price of the bid and is computed as yield to
+            maturity or as yield to earliest call.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-8cbae990-1adf-64a1-478f-c05fb8046eb4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix A — Information Sources</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+                informational purposes only.</i>
+      </p>
+      <p class="- topic/p ">For further information on matters addressed in this guide, including the full text of
+            standards and regulations, readers are encouraged to contact the various organizations
+            listed in the table that follows. Many nongovernment and some government publications
+            and services involve a charge or membership requirement.</p>
+      <table outputclass="ruled" id="UUID-8cbae990-1adf-64a1-478f-c05fb8046eb4_aag-brd_appA_table_1" class="- topic/table ">
+         <title class="- topic/title ">Information Sources</title>
+         <tgroup cols="4" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <colspec colname="c3" class="- topic/colspec "/>
+            <colspec colname="c4" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row valign="bottom" class="- topic/row ">
+                  <entry valign="bottom" outputclass="grey" class="- topic/entry ">
+                     <p class="- topic/p ">Organization</p>
+                  </entry>
+                  <entry valign="bottom" outputclass="grey" class="- topic/entry ">
+                     <p class="- topic/p ">General Information</p>
+                  </entry>
+                  <entry valign="bottom" outputclass="grey" class="- topic/entry ">
+                     <p class="- topic/p ">Fax</p>
+                  </entry>
+                  <entry valign="bottom" outputclass="grey" class="- topic/entry ">
+                     <p class="- topic/p ">Website</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">American Institute of Certified Public Accountants</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Global Engagement Center</i>
+                     </p>
+                     <p class="- topic/p ">220 Leigh Farm Rd.</p>
+                     <p class="- topic/p ">Durham, NC 27707-8110</p>
+                     <p class="- topic/p ">888.777.7077</p>
+                     <p class="- topic/p ">If outside of the U.S., call 919.402.4500</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">800.402.4505</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa-cima.com/">www.aicpa-cima.com</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">CME Group</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">20 South Wacker Drive</p>
+                     <p class="- topic/p ">Chicago, IL 60606</p>
+                     <p class="- topic/p ">312.930.1000</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.cmegroup.com">www.cmegroup.com</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Commodity Futures Trading Commission</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Three Lafayette Center</p>
+                     <p class="- topic/p ">1155 21st Street, NW</p>
+                     <p class="- topic/p ">Washington, DC 20581</p>
+                     <p class="- topic/p ">202.418.5000</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">202.418.5521</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.cftc.gov">www.cftc.gov</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Financial Accounting Standards Board</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">801 Main Avenue</p>
+                     <p class="- topic/p ">P.O. Box 5116</p>
+                     <p class="- topic/p ">Norwalk, CT 06856-5116</p>
+                     <p class="- topic/p ">203.847.0700</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">203.849.9714</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.fasb.org">www.fasb.org</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Financial Industry Regulatory Authority (FINRA)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">1735 K Street</p>
+                     <p class="- topic/p ">Washington, DC 20006</p>
+                     <p class="- topic/p ">301.590.6500</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.finra.org">www.finra.org</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Futures Industry Association</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">2001 K Street, NW</p>
+                     <p class="- topic/p ">Suite 725, North Tower</p>
+                     <p class="- topic/p ">Washington, DC 20006</p>
+                     <p class="- topic/p ">202.466.5460</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="https://www.fia.org">www.fia.org</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">National Futures Association</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">300 S. Riverside Plaza, #1800</p>
+                     <p class="- topic/p ">Chicago, IL 60606-6615</p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Main Number</i>
+                        <unknown class="- topic/unknown "/>312.781.1300</p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Information Center</i>
+                            800.621.3570</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">312.781.1467</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.nfa.futures.org">www.nfa.futures.org</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">NYSE</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">11 Wall Street</p>
+                     <p class="- topic/p ">New York, NY 10005</p>
+                     <p class="- topic/p ">212.896.2830</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.nyse.com">www.nyse.com</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Public Company Accounting Oversight Board</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">1666 K Street, NW Suite 300</p>
+                     <p class="- topic/p ">Washington, DC 20006-2803</p>
+                     <p class="- topic/p ">202.207.9100</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">202.862.8430</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="https://pcaobus.org">pcaobus.org</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Securities Industry and Financial Markets Association (SIFMA)</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">140 Broadway, 35th Fl.</p>
+                     <p class="- topic/p ">New York, NY 10271</p>
+                     <p class="- topic/p ">212.313.1200</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.sifma.org">www.sifma.org</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Securities Investor Protection Corporation</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">1667 K St. NW Suite 1000</p>
+                     <p class="- topic/p ">Washington, DC 20006–1620</p>
+                     <p class="- topic/p ">202.371.8300</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">202.223.1679</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.sipc.org">www.sipc.org</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">U.S. Securities and Exchange Commission</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">100 F Street, NE</p>
+                     <p class="- topic/p ">Washington, DC 20549</p>
+                     <p class="- topic/p ">202.551.6551</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref scope="external" format="html" class="- topic/xref " href="http://www.sec.gov">www.sec.gov</xref>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

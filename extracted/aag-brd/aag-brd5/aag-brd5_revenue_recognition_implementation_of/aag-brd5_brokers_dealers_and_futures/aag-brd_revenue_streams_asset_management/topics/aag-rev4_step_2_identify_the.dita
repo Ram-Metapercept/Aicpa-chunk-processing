@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-92d7f1a2-b25b-ca00-9b8f-62282c2ba7db" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Step 2: Identify the Performance Obligations in the
+                                Contract</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.23</b> When evaluating management fees, an entity should
+                                identify the performance obligations. FASB ASC 606-10-25-14
+                                describes a <i class="+ topic/ph hi-d/i ">performance
+                                    obligation</i> as a</p>
+      <lq class="- topic/lq ">
+         <p class="- topic/p ">…promise to transfer to the customer either:</p>
+         <ol outputclass="a" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">A good or service (or a bundle of goods or services)
+                                            that is distinct</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">A series of distinct goods or services that are
+                                            substantially the same and that have the same pattern of
+                                            transfer to the customer (see paragraph
+                                            606-10-25-15).</p>
+            </li>
+         </ol>
+      </lq>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.24" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.24</b> For a promised good or service to be distinct,
+                                both of the following criteria in FASB ASC 606-10-25-19 must be
+                                met:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The customer can benefit from the good or service either
+                                        on its own or together with other resources that are readily
+                                        available to the customer (that is, the good or service is
+                                        capable of being distinct).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The entity’s promise to transfer the good or service to
+                                        the customer is separately identifiable from other promises
+                                        in the contract (that is, the promise to transfer the good
+                                        or service is distinct within the context of the
+                                        contract).</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.25</b> Several steps are involved in applying the
+                                preceding guidance, starting with identifying all the promised goods
+                                or services in the contract. Services promised to the customer may
+                                be described in an IMA or a prospectus, or both. Although in many
+                                cases all the promised goods or services might be identified
+                                explicitly in the contract, FASB ASC 606-10-25-16 notes that they
+                                may be implicit as well: “A contract with a customer also may
+                                include promises that are implied by an entity’s customary business
+                                practices, published policies, or specific statements if, at the
+                                time of entering into the contract, those promises create a
+                                reasonable expectation of the customer that the entity will transfer
+                                a good or service to the customer.” Moreover, FASB ASC 606-10-25-18
+                                provides examples of promised services, including the
+                                following:</p>
+      <lq class="- topic/lq ">
+         <p class="- topic/p ">...</p>
+         <p class="- topic/p ">d.    Performing a contractually agreed-upon task (or tasks)
+                                    for a customer</p>
+         <p class="- topic/p ">e.    Providing a service of standing ready to provide goods
+                                    or services... or of making goods or services available for a
+                                    customer to use as and when the customer decides.</p>
+         <p class="- topic/p ">f.    Providing a service of arranging for another party to
+                                    transfer goods or services to a customer (for example, acting as
+                                    an agent of another party...)</p>
+         <p class="- topic/p ">...</p>
+      </lq>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.26</b> An entity should consider the specific terms of a
+                                given IMA, and the unique facts and circumstances of the
+                                arrangement, including the entity’s prior business practices, when
+                                identifying explicit and implicit promises, in addition to the
+                                performance of asset management services.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.27</b> Once promises in the contract have been
+                                identified, an entity must then identify the performance
+                                obligations. A promised service can be a performance obligation if
+                                it meets the distinct criteria either on</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">a standalone basis, or</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">a combined basis, together with other promises because
+                                        either</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">each service is not distinct (hence, they are
+                                                “bundled” together), or</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">each service is distinct, but the criteria are met
+                                                that require them to be accounted for as a
+                                                series.</p>
+               </li>
+            </ol>
+         </li>
+      </ol>
+      <p class="- topic/p ">In all instances, the guidance on determining whether a promise is
+                                distinct in paragraphs 19–22 of FASB ASC 606-10-25 should be
+                                applied.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.28</b> Consistent with Example 25 in FASB ASC
+                                606-10-55-222, the promise to provide asset management services is
+                                considered a single performance obligation in accordance with FASB
+                                ASC 606-10-25-14b as it requires the provision of a series of
+                                distinct services that are substantially the same and have the same
+                                pattern of transfer (the services transfer to the customer over time
+                                and use the same method to measure progress — that is, a time-based
+                                measure of progress). The promise to provide asset management
+                                services often encompasses the provision of supporting
+                                administrative activities, such as providing regulatory compliance
+                                services, ensuring that the investment company complies with
+                                applicable stock exchange listing requirements, negotiating
+                                contractual agreements with third-party providers of services,
+                                overseeing the determination and publication of the investment
+                                company’s net asset value, and overseeing the preparation and filing
+                                of the investment company’s tax return (as applicable). These
+                                services are considered ancillary and part of the nature of the
+                                promised asset management service to the customer.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.29</b> In evaluating the nature of the asset manager’s
+                                promise to provide asset management services, FinREC believes that
+                                the asset manager either explicitly or implicitly creates a
+                                reasonable expectation of the customer that the asset manager will
+                                provide oversight and overall management of the fund or portfolio of
+                                assets. Governing documents for funds, such as the prospectus, often
+                                explain that the asset manager has ultimate responsibility for
+                                managing each fund’s investment and business operations, subject to
+                                the oversight of the fund’s board (if applicable). Also, governing
+                                documents typically highlight that this authority has been delegated
+                                to the asset manager under a separate management agreement entered
+                                into with the fund. The asset manager often serves as manager of a
+                                fund pursuant to an investment advisory agreement or other
+                                management agreement entered into between them and the fund. Fund
+                                management responsibilities often involve negotiating the terms of
+                                and subsequently monitoring adherence to service provider agreements
+                                with third-party service providers (for example, custodian, fund
+                                administrator, transfer agent and registrar, auditor, distributor,
+                                and fund accountant), determining or confirming the net asset value
+                                of the fund and raising any material service performance issues (as
+                                well as possible resolutions) to the fund’s board, amongst other
+                                duties.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.30</b> FinREC believes that each increment of asset
+                                management service is distinct because the customer can benefit from
+                                each day of service on its own and each day of service is separately
+                                identifiable. Each day’s service is separately identifiable because
+                                of the following:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The asset manager does not provide an integration service
+                                        between the days. Although the various underlying activities
+                                        are generally coordinated and are inputs to the combined
+                                        asset management service, each day that those combined
+                                        activities are provided is not an input to a combined
+                                        output. Also, the utility to the customer of asset
+                                        management services performed on any given day is not
+                                        significantly affected by such services performed on another
+                                        day. Although certain services performed on any given day
+                                        may affect actions that are ultimately taken on another day,
+                                        such as investment research activities or analysis of
+                                        ongoing market developments, they are not considered inputs
+                                        to services performed on those other days because until the
+                                        asset manager actually undertakes an action, (i) the
+                                        customer does not receive the utility of prior activities
+                                        undertaken, and (ii) prior activities may be rendered
+                                        obsolete by current market events and reaction required to
+                                        address customer needs.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Each day does not modify or customize the services
+                                        provided on another day.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The days of service are generally not highly
+                                        interdependent or interrelated because the entity can
+                                        fulfill its obligations each day independent of fulfilling
+                                        its obligations for the other days.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.31</b> With respect to the “substantially the same”
+                                criterion, FinREC believes it is reasonable to conclude that each
+                                day of service is substantially the same because the nature of the
+                                asset manager’s promise to the customer is one overall service. Even
+                                if the individual activities that comprise the performance
+                                obligation vary from day to day, the nature of the overall promise
+                                is the same from day to day. Therefore, the asset manager has
+                                promised the daily investment management service (as opposed to
+                                promising to deliver a specified amount of each underlying activity)
+                                and the conditions are met for the promise to provide asset
+                                management services to represent a single performance obligation
+                                based on the series guidance in FASB ASC 606-10-25-15.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

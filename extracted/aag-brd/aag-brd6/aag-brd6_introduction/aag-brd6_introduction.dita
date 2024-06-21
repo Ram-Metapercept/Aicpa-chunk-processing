@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Introduction</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.01</b> Broker-dealers are
+                guided in their preparation of financial statements primarily by accounting
+                principles generally accepted in the United States of America (GAAP). However,
+                broker-dealers are further subject to SEC Rule 17a-5 and the Financial and
+                Operational Combined Uniform Single (FOCUS) forms thereunder. SEC Rule 17a-5
+                requires, in addition to monthly and quarterly filings on the prescribed forms (Form
+                X-17A-5 — FOCUS Parts I, II, and IIA), annual audited financial statements that
+                include a statement of financial condition, a statement of income <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn1" class="- topic/fn ">
+               <p class="- topic/p ">In 2018, SEC issued Release Nos. 33-10532; 34-83875; IC-33203,
+                            <i class="+ topic/ph hi-d/i ">Disclosure Update and Simplification</i>. Among other
+                        requirements, the final rule amended Section 240.17a-5, “Reports to be made
+                        by certain brokers and dealers,” to clarify that if there is other
+                        comprehensive income in the period(s) presented, the financial report must
+                        contain a statement of comprehensive income (as defined in Section 210.1-02
+                        of Regulation S-X). In accordance with FASB ASC 220-10-45-1, the statement
+                        of comprehensive income may be presented as either (1) a single statement or
+                        (2) two separate but consecutive statements, composed of the income
+                        statement and a separate statement, which begins with net income and
+                        separately presents the components of other comprehensive income, a total of
+                        other comprehensive income, and a total of comprehensive income. Readers are
+                        encouraged to read the full text of the rule, which is available on the
+                        final rules page within the regulations section of <xref scope="external" format="html" class="- topic/xref " href="http://www.sec.gov">www.sec.gov</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn1"/>
+         </ph> or operations, a statement of cash flows, a statement of changes in
+                ownership equity (stockholders' or members' equity or partners' or sole proprietor's
+                capital), and a statement of changes in liabilities subordinated to claims of
+                general creditors, and the applicable supplementary schedules (discussed in the
+                    “<xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd6/aag-brd6_supplementary_schedules/aag-brd6_supplementary_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-de9f9ea0-e463-5b8d-cada-c7ed054b156d">Supplementary Schedules</xref>” section of this chapter). Paragraph (d)(2) of
+                SEC Rule 17a-5 requires that the annual audited financial statements are presented
+                in a format consistent with Form X-17A-5 Part II or Form X-17a-5 Part IIA, as
+                applicable.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.02</b> In addition to
+                annual audited financial statements, broker-dealers are required to distribute a
+                mid-year statement of financial condition, including a footnote containing a
+                statement of net capital and required net capital to requesting customers (as
+                defined by paragraph (c)(4) of SEC Rule 17a-5). Paragraph (c)(3) of SEC Rule 17a-5
+                requires that these unaudited statements are dated six months from the date of the
+                audited statements and are to be furnished within 65 days after the date of the
+                unaudited statements. Certain financial information may be excluded from these
+                statements if requirements prescribed in paragraph (c)(5) of SEC Rule 17a-5 are
+                met.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.03</b> SEC Rule 17a-5(d)
+                requires disclosure of a reconciliation of the net capital and reserve requirement
+                computations presented as supplementary schedules to the audited financial
+                statements and those within the filed FOCUS report, should material differences
+                exist. If there are no material differences, a statement that a reconciliation is
+                not necessary pursuant to Rule 17a-5(d)(2)(iii) should be made.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.04</b> In addition to the
+                disclosures shown in <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd6/aag-brd6_financial_statements_and_schedules/aag-brd6_financial_statements_and_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-c1b420e1-5f7a-64d9-dd15-ae46cbfe5889/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6_exhibit_8">exhibit 6-8</xref>, there may be certain other disclosures required under SEC
+                Regulation S-X for those companies that are registered under Section 12(b) or 12(g)
+                of the Securities Exchange Act of 1934 (the 1934 Act). Regulation S-X does not apply
+                to the financial statements filed with the SEC under Rule 17a-5.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.05</b> Broker-dealers
+                commonly prepare their financial statements on a single-year basis, which complies
+                with the requirements of SEC Rule 17a-5. Coexisting financial statements for other
+                than regulatory filings (such as bank lending requirements or reports to
+                shareholders) are also generally prepared on a single-year basis.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.06</b> In accordance with
+                paragraph (d)(5) of SEC Rule 17a-5, broker-dealers are required to file annual
+                reports, including the annual audited financial statements (as discussed in <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd6/aag-brd6_introduction/aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.01">paragraph 6.01</xref> of this chapter), a compliance report or exemption
+                report, and the accompanying opinion letters and reports from the independent
+                accountant (see <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2">chapter 3</xref>, “Regulatory Considerations”), within 60 calendar days after
+                the end of each fiscal year. SEC Order (Release No. 34-91128, <i class="+ topic/ph hi-d/i ">Order Extending the Annual Reports Filing Deadline for Certain
+                    Smaller Broker-Dealers</i>) granted an extension to certain smaller
+                broker-dealers, subject to conditions outlined within. <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn2" class="- topic/fn ">
+               <p class="- topic/p ">On February 12, 2021, the SEC issued an order extending the filing
+                        deadline for certain smaller broker-dealers to file their annual reports by
+                        30 calendar days. The order details can be found at <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/rules/other/2021/34-91128.pdf">https://www.sec.gov/rules/other/2021/34-91128.pdf</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn2"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.07</b> <i class="+ topic/ph hi-d/i ">Compliance report.</i>
+         <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn3" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3_annual_compliance_certification/aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3_exhibit_3-1">exhibit 3-1</xref>, “Illustration of Compliance Report Required by SEC
+                        Rule 17a-5,” in chapter 3, “Regulatory Considerations,” of this
+                        guide.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn3"/>
+         </ph> In accordance with paragraph (d)(3) of SEC Rule 17a-5, a broker-dealer
+                subject to the customer protection requirements of SEC Rule 15c3-3 (a "carrying
+                broker-dealer") must file an annual "Compliance Report" containing five statements
+                concerning their Internal Controls Over Compliance with the Financial Responsibility
+                Rules, defined by paragraph (d)(3) of SEC Rule 17a-5 as those included in SEC Rules
+                15c3-1, 15c3-3, 17a-13, or any rule of the designated examining authority of the
+                broker-dealer that requires account statements to be sent to the customers of the
+                broker-dealer (“Account Statement Rule”). The following statements must be included
+                within the compliance report:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether the broker-dealer has established and maintained Internal Control
+                        Over Compliance, that is, internal controls that provide reasonable
+                        assurance that noncompliance will be prevented or detected on a timely
+                        basis; <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">As defined in 17a-5(d)(3)(ii), the term <i class="+ topic/ph hi-d/i ">Internal Control Over Compliance</i> means internal
+                                controls that have the objective of providing the broker or dealer
+                                with reasonable assurance that noncompliance with Section
+                                240.15c3-1, Section 240.15c3-3, Section 240.17a-13, or any rule of
+                                the designated examining authority of the broker or dealer that
+                                requires account statements to be sent to the customers of the
+                                broker or dealer (an “Account Statement Rule”) will be prevented or
+                                detected on a timely basis.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn4"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether the Internal Control Over Compliance of the broker-dealer was
+                        effective during the most recent fiscal year and, if applicable, a
+                        description of each identified <i class="+ topic/ph hi-d/i ">material
+                            weakness</i>, as defined in SEC Rule 17a-5;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether the Internal Control Over Compliance of the broker-dealer was
+                        effective as of the end of the most recent fiscal year and, if applicable, a
+                        description of each identified <i class="+ topic/ph hi-d/i ">material
+                            weakness</i>, as defined in SEC Rule 17a-5;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether the broker-dealer was in compliance with SEC Rule 15c3-1 and
+                        paragraph (e) of SEC Rule 15c3-3 as of the end of the most recent fiscal
+                        year and, if applicable, a description of any instance(s) of noncompliance
+                        with those rules;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The information the broker-dealer used to state whether it was in
+                        compliance with SEC Rule 15c3-1 and paragraph (e) of SEC Rule15c3-3 as of
+                        the end of the most recent fiscal year was derived from the books and
+                        records of the broker-dealer.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.08</b> <i class="+ topic/ph hi-d/i ">Examination report.</i> With its compliance report, a
+                broker-dealer must file an examination report prepared by its independent public
+                accountant following PCAOB Attestation Standard No. 1, <i class="+ topic/ph hi-d/i ">Examination
+                    Engagements Regarding Compliance Reports of Brokers and Dealers</i>,
+                which provides the accountant’s assessment of certain statements made in the
+                broker-dealer’s compliance report.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.09</b> <i class="+ topic/ph hi-d/i ">Exemption report</i>. <ph class="- topic/ph ">
+            <fn callout="5" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn5" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3_annual_compliance_certification/aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3_exhibit_3-2">exhibit 3-2</xref>, “Illustrations of Exemption Reports Required by SEC
+                        Rule 17a-5,” in chapter 3 of this guide.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd6_introduction.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5f40d43c-171f-9783-25c9-178f3d23808d/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c-aag-brd6-fn5"/>
+         </ph> A noncarrying broker-dealer that claimed an exemption per the provisions
+                in paragraph (k) of SEC Rule 15c3-3 throughout the most recent fiscal year must file
+                an exemption report specifying the exemption on which it is relying. A broker-dealer
+                must state in the report that it met the exemption provisions throughout the year
+                without exceptions, or with exceptions, which must be described in the report to the
+                broker-dealer’s best knowledge and belief. As described in <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_compliance_report/aag-brd3_compliance_report.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-f0a43c41-3cdb-6956-21b0-76cd8f0c5094/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.110">paragraphs 3.110–3.114</xref> of this guide, there may be situations when a
+                broker-dealer is not otherwise required to file a compliance report based on SEC
+                guidance. In those situations, a broker-dealer may make one or more claims of
+                exemption from SEC Rule 15c3-3, engages in business activities that are not covered
+                by SEC Rule 15c3-3, or both.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.10</b> <i class="+ topic/ph hi-d/i ">Review report</i>. With its exemption report, a
+                broker-dealer must file a review report prepared by its independent public
+                accountant following PCAOB Attestation Standard No. 2, <i class="+ topic/ph hi-d/i ">Review Engagements
+                    Regarding Exemption Reports of Brokers and Dealers</i>, which provides
+                the accountant’s assessment of the statements made in the broker-dealer’s exemption
+                report.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.11</b> A broker-dealer that
+                is a member of the Securities Investor Protection Corporation (SIPC) must file its
+                annual reports with SIPC concurrently with their filing with the SEC. In addition,
+                all broker-dealers are required to file an agreed-upon procedures report prepared by
+                its independent public accountant with SIPC over the SIPC (Form SIPC-7 or SIPC-3)
+                filing.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.12</b> <i class="+ topic/ph hi-d/i ">Access to audit documentation of clearing brokers.</i>
+                Carrying and clearing broker-dealers are required to permit their independent public
+                accountants to make available to the SEC and other regulators audit documentation
+                associated with the annual audit reports required under SEC Rule 17a-5.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

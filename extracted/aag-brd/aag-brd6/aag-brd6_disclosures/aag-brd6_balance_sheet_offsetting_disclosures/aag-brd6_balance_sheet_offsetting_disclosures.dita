@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-49074eda-0b11-9593-c79c-c2a3c4f4ee8c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Balance Sheet Offsetting Disclosures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393231843448" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.161</b> FASB ASC 210-20-50 articulates
+                    disclosures about financial instruments and derivative instruments that are
+                    either offset in accordance with GAAP or are subject to an enforceable master
+                    netting arrangement or similar agreement. The objective of the disclosures is to
+                    improve comparability between those entities that prepare their financial
+                    statements on a GAAP basis and those entities that prepare their financial
+                    statements on an International Financial Reporting Standards basis.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393231848894" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.162</b> FASB ASC 210-20-50-1 establishes the
+                    scope of the disclosure requirements found in paragraphs 2–5 of FASB ASC
+                    210-20-50 by stating the disclosures are only applicable to the following
+                    recognized assets and liabilities:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Recognized derivative instruments accounted for in accordance with
+                            FASB ASC 815, including bifurcated embedded derivatives, repurchase
+                            agreements accounted for as collateralized borrowings (repos), and
+                            reverse repurchase agreements (reverse repos), and securities borrowing
+                            and securities lending transactions that are offset in accordance with
+                            either FASB ASC 210-20-45 or FASB ASC 815-10-45.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Recognized derivative instruments accounted for in accordance with
+                            FASB ASC 815, including bifurcated embedded derivatives, repos, and
+                            reverse repos, and securities borrowing and securities lending
+                            transactions that are subject to an enforceable master netting
+                            arrangement or similar agreement, irrespective of whether they are
+                            offset in accordance with either FASB ASC 210-20-45 or FASB ASC
+                            815-10-45.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393231856244" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.163</b> When applying this guidance, readers
+                    may need to consider the legal structure of master securities lending agreements
+                    and determine which parties have the legal right of offset. Legal counsel could
+                    be consulted when determining if a legal right of offset exists.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393231861762" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.164</b> Pursuant to FASB ASC 210-20-50-3,
+                    reporting entities, including broker-dealers, will be required to disclose the
+                    following information for applicable financial instruments and derivative
+                    instruments:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The gross amounts of those recognized assets and those recognized
+                            liabilities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The amounts offset to determine the net amounts presented in the
+                            statement of financial position</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The net amounts presented in the statement of financial
+                            position</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The amounts subject to an enforceable master netting arrangement or
+                            similar agreement not otherwise included in item <i class="+ topic/ph hi-d/i ">b</i>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The net amount after deducting the amounts in item <i class="+ topic/ph hi-d/i ">d</i> from the amounts in item <i class="+ topic/ph hi-d/i ">c</i>
+            </p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393231869298" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.165</b> FASB ASC 210-20-50-4 explains that
+                    presentation of this information in tabular format, separately for assets and
+                    liabilities, is required unless another format is more appropriate. FASB ASC
+                    210-20-50-5 also requires reporting entities to provide a description of the
+                    rights (including the nature of those rights) of setoff associated with an
+                    entity’s recognized assets and recognized liabilities subject to an enforceable
+                    master netting arrangement or similar agreement. In addition, the standard
+                    requires disclosure of collateral received and posted in connection with master
+                    netting agreements or similar arrangements. When applying this disclosure
+                    guidance, readers may consider whether previously existing disclosures required
+                    by other FASB ASC topics for certain assets and liabilities may also address
+                    requirements set forth in FASB ASC 210-20-50-3. However, FASB ASC 210-20-50-6
+                    explains that cross-referencing is required when the required disclosures exist
+                    in more than a single note to the financial statements.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393231877860" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.166</b> FASB ASC 210-20-55 explains that the
+                    disclosures may be made by instrument or by counterparty. Additional
+                    implementation guidance is provided in paragraphs 1–18A of FASB ASC 210-20-55,
+                    and illustrative example disclosure tables are provided in paragraphs 19–22 of
+                    FASB ASC 210-20-55.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-cca476f6-75b4-b90e-3831-e40edb2266ed" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Identify Separate Performance Obligations</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.65" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+                                5.6.65</b> When soft-dollar arrangements are combined with
+                                clearing, custody, or execution agreements and accounted for as a
+                                single contract, FinREC believes the research services are generally
+                                a separate performance obligation from the clearing, custody, or
+                                execution services. A service is distinct if the customer can
+                                benefit from the service on its own and the broker-dealer’s promise
+                                to transfer the service is separately identifiable from other
+                                promises in the contract. Research services meet the definition of
+                                being distinct because customers can benefit from the research
+                                services on their own and research services are separately
+                                identifiable from the clearing, execution, or custody services (that
+                                is, they are not inputs to a combined output in accordance with FASB
+                                ASC 606-10-25-21). In addition, research services are often
+                                separately identified in the contract. If determined to be distinct,
+                                the promised services should therefore be accounted for separately.
+                                Clearing, execution, or custody performance obligations are
+                                discussed in the section "<xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_commission_income.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4a3e7baa-571d-6ffa-621a-553c5c00b160">Commission Income</xref>" in paragraphs 5.6.01–5.6.32. This
+                                section will focus on the research service performance obligations
+                                when included within a clearing or execution services contract. For
+                                custody services, refer to the section "<xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_commission_income.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4a3e7baa-571d-6ffa-621a-553c5c00b160">Commission Income</xref>."</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.66" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.66</b> If the broker-dealer provides the customer with
+                                the option of choosing research reports to be provided at a future
+                                date or research in the form of access to systems (for example,
+                                Bloomberg), the option presents the customer with a material right
+                                to the future research.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.67" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.67</b> Rather than providing research services to a
+                                customer or obtaining research from a third party and transferring
+                                it to the customer, a broker-dealer may instead directly pay the
+                                third party on behalf of the customer for research services provided
+                                by third parties. In this situation, the broker-dealer’s performance
+                                obligation is to arrange for those goods or services to be provided
+                                by the third party. See <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_determine_the_transaction_price2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-43f24ef0-7187-e966-2463-790c64f2e2ee/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.71">paragraphs 5.6.71–5.6.72</xref> for additional discussion.
+                                Through the remainder of this section, the services noted in the
+                                prior sentences will be considered and referred to as <i class="+ topic/ph hi-d/i ">research services</i>.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

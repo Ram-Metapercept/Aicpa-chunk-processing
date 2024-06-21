@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-3157290e-9884-cd5d-7967-06d5e6f5b541" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Employee Compensation and Benefits Expenses</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393230335478" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.123</b> Employee compensation for a
+                    broker-dealer may include commissions paid to brokers or registered
+                    representatives based on the revenue they generate for the broker-dealer, as
+                    well as employee benefits, contractual salaries, and discretionary bonuses paid
+                    to their employees.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393230340134" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.124</b> Employee salaries, bonuses, payroll
+                    taxes, and employee benefits expenses are not significantly different for
+                    broker-dealers than for other industries, except that at broker-dealers, bonuses
+                    usually represent a greater percentage of an individual’s total compensation.
+                    Such compensation may be discretionary or nondiscretionary, and proper timing of
+                    recognition may involve judgment. In the event account executives or employees
+                    of a broker-dealer are compensated with equity of the broker-dealer or a related
+                    entity, FASB ASC 718, <i class="+ topic/ph hi-d/i ">Compensation — Stock
+                        Compensation</i>, should be referred to for guidance. Compensation
+                    cost should be recognized in the period in which it becomes probable that the
+                    performance target will be achieved and should represent the compensation cost
+                    attributable to the period(s) for which the service or goods have already been
+                    provided.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393230346044" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.125</b> In addition to employees of the
+                    broker-dealer, for those employees of an affiliate of the broker-dealer who
+                    provides services to the broker-dealer, compensation and benefits expense should
+                    be allocated on a reasonable and consistent basis (see the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd6/aag-brd6_statement_of_income_orr/aag-brd6_management_and_allocated_corporate/aag-brd6_management_and_allocated_corporate.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-85f5c06e-75c9-e16b-2ba5-69a95acc965b">Management and Allocated Corporate Overhead Expense</xref>” section of this
+                    chapter).</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

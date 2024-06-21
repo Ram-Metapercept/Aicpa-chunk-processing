@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-ccbd6894-6572-12b2-66b9-709b7a0d3cb1" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Compliance or Exemption Report Required by SEC Rule 17a-5</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393056658188" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.156</b> <i class="+ topic/ph hi-d/i ">Compliance
+                        report.</i> For a broker-dealer that does not make a claim of
+                    exemption from SEC Rule 15c3-3 throughout the most recent fiscal year or
+                    otherwise file an exemption report, concurrent with the filing of the annual
+                    audited financial report, the broker-dealer files a compliance report. The
+                    compliance report should be accompanied by an examination report issued by the
+                    independent auditor. If the examination report of the independent public
+                    accountant identifies one or more material weaknesses, the broker-dealer is
+                    required to make certain notifications to its customers and the report is made
+                    available for the customer’s inspection at the principal and regional office
+                    (for the region in which the broker-dealer has its principal place of business)
+                    of the SEC.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393056653148" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.157</b> <i class="+ topic/ph hi-d/i ">Exemption
+                        report.</i> For a broker-dealer that claims an exemption from SEC
+                    Rule 15c3-3 throughout the most recent fiscal year (or is not otherwise required
+                    to file a compliance report based on SEC guidance), concurrent with the filing
+                    of the annual audited financial report, the broker-dealer files an exemption
+                    report. This exemption report should be accompanied by a review report issued by
+                    the independent auditor.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393056646744" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.158</b> During the course of the audit, if
+                    the independent auditor determines that an instance of noncompliance with the
+                    financial responsibility rules or material weakness (as defined by SEC Rule
+                    17a-5) exists, the auditor should immediately call it to the attention of the
+                    CFO of the broker-dealer, who then has the responsibility of informing the SEC
+                    within one business day, under certain circumstances pursuant to SEC Rule 17a-5
+                    and/or 17a-11. If a required notification to the SEC does not occur, the auditor
+                    has the responsibility of informing the SEC. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_15c3_3/aag-brd3_sec_rule_15c3_3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-b5c58588-b709-5b1b-cf14-a498013dbcf4/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.41">paragraphs 3.41</xref> and <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd3/aag-brd3_explanation_of_significant_sec/aag-brd3_sec_rule_17a_5/aag-brd3_compliance_report/aag-brd3_compliance_report.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-f0a43c41-3cdb-6956-21b0-76cd8f0c5094/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.110">3.110</xref> for further discussion.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

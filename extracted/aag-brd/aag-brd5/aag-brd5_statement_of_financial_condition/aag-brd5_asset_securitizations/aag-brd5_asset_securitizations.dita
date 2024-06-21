@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-40973e1c-9202-236f-95ef-427647d51e9b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Asset Securitizations</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.110" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.110</b> The complexity
+                    of securitized products has increased significantly because of the nature of
+                    underlying collateral, the complexity of the structure (for example, residual
+                    tranches and interest- and principal-only strips), and the depth of markets.
+                    Such factors have affected the accounting and valuation of those products.
+                    Broker-dealers may acquire, either through market purchases or the underwriting
+                    process, securities arising from asset securitizations. Those securities should
+                    be valued at fair value in accordance with the guidelines discussed
+                    previously.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.111" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.111</b> FASB ASC
+                    860-50-30-1 states that an entity should initially measure all separately
+                    recognized servicing assets and servicing liabilities at fair value. FASB ASC
+                    860-50-35-1 permits, but does not require, the subsequent measurement of
+                    separately recognized servicing assets and servicing liabilities at fair
+                    value.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.112" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.112</b> An entity that
+                    uses derivative instruments to mitigate the risks inherent in servicing assets
+                    and servicing liabilities is required to account for those derivative
+                    instruments at fair value. An entity can elect subsequent fair value measurement
+                    to account for its separately recognized servicing assets and servicing
+                    liabilities. By electing that option, an entity may simplify its accounting
+                    because that option permits income statement recognition of the potential
+                    offsetting changes in fair value of those servicing assets and servicing
+                    liabilities and derivative instruments in the same accounting period.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.113" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.113</b> In addition,
+                    certain securities that arise from asset securitizations may raise issues about
+                    whether the underlying legal entity should be consolidated by the broker-dealer.
+                    FASB ASC 860 provides guidance on the securitization of financial assets held by
+                    broker-dealers and for other transfers of financial assets involving special
+                    purpose entities. In a typical asset securitization transaction, a company
+                    transfers assets to a special purpose vehicle (SPV) or VIE in exchange for cash
+                    or securities issued by the SPV or the VIE. Securitization vehicles need to be
+                    evaluated under FASB ASC 810 to determine if the broker-dealer is the primary
+                    beneficiary of the VIE and, therefore, should consolidate the VIE or if the
+                    broker-dealer holds a significant variable interest in the VIE and should make
+                    the appropriate disclosures.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

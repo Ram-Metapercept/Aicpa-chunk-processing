@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-0c184520-256c-9090-9053-902d085fd56c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Financial Instruments Not Having a Readily Available Market
+                    Price</title>
+   <body class="- topic/body ">
+      <note type="important" class="- topic/note ">
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Update 5-2 <i class="+ topic/ph hi-d/i ">Accounting and Reporting</i>:
+                        Equity Securities Subject to Contractual Sale Restrictions</b>
+         </p>
+         <p outputclass="box" class="- topic/p ">FASB ASU No. 2022-03, issued in June 2022, is effective for
+                        public business entities for fiscal years beginning after December 15, 2023,
+                        and interim periods within those fiscal years. For other entities, this ASU
+                        is effective for fiscal years beginning after December 15, 2024, and interim
+                        periods within those fiscal years. Early adoption is permitted for both
+                        interim and annual financial statements.</p>
+         <p outputclass="box" class="- topic/p ">The amendments in this ASU generally should be applied
+                        prospectively with any adjustments from the adoption recognized in earnings
+                        and disclosed on the adoption date. However, <i class="+ topic/ph hi-d/i ">investment companies</i>, as defined under FASB ASC 946, should
+                        apply the amendments to only investments in equity securities subject to
+                        contractual sale restrictions executed or modified on or after the adoption
+                        date.</p>
+         <p outputclass="box" class="- topic/p ">ASU No. 2022-03 clarifies that a contractual restriction on
+                        the sale of an equity security (1) is not considered part of the unit of
+                        account of the equity security and not considered when measuring fair value
+                        and (2) cannot be recognized and measured as a separate unit of account.
+                        This ASU also requires certain disclosures for equity securities subject to
+                        contractual sale restrictions.</p>
+         <p outputclass="box" class="- topic/p ">This edition of the guide has not been updated to reflect
+                        changes as a result of this ASU; however, the section that follows will be
+                        updated in a future edition. Readers are encouraged to consult the full text
+                        of the ASU on FASB’s website at <xref scope="external" format="html" class="- topic/xref " href="https://www.fasb.org">www.fasb.org</xref>.</p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.49" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.49</b> A broker-dealer
+                    may have to determine the fair values of financial instruments for which there
+                    are no readily available price quotations or for which readily available price
+                    quotations are unreliable. These price quotations may be deemed unreliable
+                    because of a variety of reasons. For example, the financial instruments may have
+                    restrictions associated with them (such as not being registered), or the entity
+                    may have been forced to sell due to financial difficulties. In such cases, it
+                    may be appropriate for these financial instruments to be valued at fair value
+                    using level 3 inputs, as found in FASB ASC 820. See the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_accounting_model/aag-brd5_fair_value_determination_when/aag-brd5_fair_value_determination_when.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-e24bd04c-7949-362e-bca1-cba45b4748e7">Fair Value Determination When the Volume or Level of Activity Has
+                        Significantly Decreased</xref>” section of this chapter.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.50" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.50</b> As noted in the
+                    FASB ASC Master Glossary, <i class="+ topic/ph hi-d/i ">level 3 inputs</i> are
+                    unobservable inputs for the asset or liability. According to FASB ASC
+                    820-10-35-53, unobservable inputs are used to measure fair value to the extent
+                    that relevant observable inputs are not available. Unobservable inputs should
+                    reflect the assumptions that market participants would use when pricing the
+                    asset or liability, including assumptions about risk. See the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_accounting_model/aag-brd5_the_fair_value_hierarchy/aag-brd5_the_fair_value_hierarchy.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-184ea653-c5eb-0340-7aef-5508a2b93493">The Fair Value Hierarchy</xref>” section of this chapter.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.51" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.51</b> Management of
+                    the reporting entity should take into consideration all indications of value
+                    that are reasonably available in determining the fair value assigned to a
+                    particular financial instrument. The information considered and the basis for
+                    the decision should be documented. This guide does not purport to delineate all
+                    factors that may be considered.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.52" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.52</b> As noted in FASB
+                    ASC 940-820-30-1, the following is a list of certain factors that have been
+                    taken into consideration by broker-dealers as part of the determination of fair
+                    value: <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn2" class="- topic/fn ">
+               <p class="- topic/p ">The SEC's <i class="+ topic/ph hi-d/i ">Codification of Financial Reporting
+                                Policies</i> provides guidance on the factors to be
+                            considered and the methods used to value securities for which market
+                            quotations are not readily available. FASB ASC 820-10-35 also provides
+                            guidance on the valuation of financial instruments for which market
+                            quotations are not readily available.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_financial_instruments_not_having.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-0c184520-256c-9090-9053-902d085fd56c/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn2"/>
+         </ph>
+      </p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Financial standing of the issuer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Business and financial plan of the issuer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Cost at date of purchase</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The liquidity of the market (see the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_accounting_model/aag-brd5_inputs_to_valuation_techniques/aag-brd5_inputs_to_valuation_techniques.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-896b7304-bd47-d2b1-de83-248f2d3be2d0">Inputs to Valuation Techniques</xref>” section of this chapter for
+                            considerations regarding this factor)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Contractual restrictions on salability</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Pending public offering with respect to the financial
+                            instrument</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Pending reorganization activity affecting the financial instrument
+                            (such as merger proposals, tender offers, debt restructurings, and
+                            conversions)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reported prices and the extent of public trading in similar financial
+                            instruments of the issuer or comparable entities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Ability of the issuer to obtain needed financing</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Changes in the economic conditions affecting the issuer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A recent purchase or sale of a security of the entity</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Pricing by other dealers in similar securities</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.53" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.53</b> Management may
+                    use a variety of methods to assist in determining the valuation of a financial
+                    instrument. These methods include analogy to reliable quotations of similar
+                    financial instruments, pricing models, matrix pricing, and other formula-based
+                    pricing methods. These methodologies incorporate factors for which published
+                    market data may be available. For instance, the mathematical technique known as
+                    matrix pricing may be used to determine the values based on market data
+                    available with respect to the issue and similar issues without exclusive
+                    reliance on issuer-specific quoted market prices. FASB ASC 820-10-35-41C notes
+                    that matrix pricing is an alternative pricing method that renders the fair value
+                    measurement a lower-level measurement.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.54" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.54</b> Pricing methods
+                    may also be based on a multiple of earnings or a discount (or, less frequently,
+                    a premium) from market of a similar, freely traded security; on a yield to
+                    maturity with respect to debt issues; or on a combination of these and other
+                    methods. In addition, with respect to derivative products, other factors (such
+                    as volatility, anticipated future interest rates, and term to maturity) should
+                    be considered. If such methods are used, management should continuously review
+                    the appropriateness of such methods to satisfy themselves that the resulting
+                    valuations are fair and in compliance with FASB ASC 820.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-11c6e5d7-6526-c182-2dc4-8e1d81b5d622" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Reports on SIPC Assessment</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393060493330" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.164</b> Broker-dealers registered with the
+                    SEC, with some limited exceptions, are required to be members of the SIPC.
+                        <ph class="- topic/ph ">
+            <fn callout="51" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393060549684" class="- topic/fn ">
+               <p class="- topic/p ">See the discussion in <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd1/aag-brd1.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87">chapter 1</xref>, "The Securities Industry," for more information
+                            on the SIPC.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_reports_on_securities_investor.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-11c6e5d7-6526-c182-2dc4-8e1d81b5d622/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393060549684"/>
+         </ph> The SIPC imposes an assessment upon members to maintain its fund and
+                    to repay any borrowings by the SIPC. For a number of years, the assessment on
+                    members was a flat rate of $150. <ph class="- topic/ph ">
+            <fn callout="52" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393060562118" class="- topic/fn ">
+               <p class="- topic/p ">The Dodd-Frank Act amended the Securities Investor Protection Act in
+                            several areas. Two areas pertain to the SIPC assessment imposed on
+                            broker-dealers. See the SIPC website at <xref scope="external" format="html" class="- topic/xref " href="http://www.sipc.org/for-members">www.sipc.org/for-members</xref> for more information and for the
+                            SIPC-7 form.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_reports_on_securities_investor.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-11c6e5d7-6526-c182-2dc4-8e1d81b5d622/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393060562118"/>
+         </ph> In March 2009, the SIPC determined that the SIPC fund balance would
+                    likely remain less than $1 billion for a period of 6 months or more. Therefore,
+                    beginning April 1, 2009, the SIPC reinstituted an assessment rate of one quarter
+                    of 1% (or .0025) per annum of the net operating revenues from the securities
+                    business, without regard to any minimum assessment. At its meeting in September
+                    2022, SIPC’s board of directors determined the assessment rate for 2023 would be
+                    .0015 of net operating revenue (<xref scope="external" format="html" class="- topic/xref " href="http://www.sipc.org/for-members/assessment-rate">www.sipc.org/for-members/assessment-rate</xref>). SIPC assessment forms and
+                    payments are due semiannually based on the member’s fiscal year-end.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393060486444" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.165</b> Membership in the SIPC is automatic
+                    upon SEC registration for a broker-dealer, with certain exceptions. The SIPC
+                    members’ website notes that persons registered as a broker-dealer only because
+                    it effects transactions in security futures products on a registered exchange
+                    are excluded from SIPC membership. In addition, broker-dealers whose business is
+                    exclusively the distribution of shares of registered open-end investment
+                    companies or unit investment trusts, the sale of variable annuities, the
+                    business of insurance, or the business of furnishing investment advice to
+                    registered investment companies or insurance company separate accounts are
+                    excluded from membership in the SIPC. OTC derivative dealers, special purpose
+                    broker-dealers, and those broker-dealers whose principal place of business, in
+                    the determination of the SIPC, is outside the United States and its territories
+                    are excluded from membership.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393060476664" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.166</b> As approved by the SEC in March
+                    2016, SIPC Rule 600, <i class="+ topic/ph hi-d/i ">Rules Relating to Supplemental
+                        Report of SIPC Membership</i>, requires that a registered
+                    broker-dealer file an “Independent Accountant’s Report on Applying Agreed-Upon
+                    Procedures Related to an Entity’s SIPC Assessment Reconciliation” or “Claim of
+                    Exclusion from Membership” agreed-upon procedures report, supplemental to the
+                    Form SIPC-7 or SIPC-3, respectively. This requirement applies to broker-dealers
+                    who are not exempt from the audit requirement of SEC Rule 17a-5 and whose gross
+                    revenues are in excess of $500,000. The general assessment reconciliation form
+                    (SIPC-7) should be submitted only to SIPC (effective March 31, 2016) no later
+                    than 60 days after fiscal year-end (or not more than 90 days after the end of
+                    the SIPC member’s fiscal year-end for certain broker-dealers — note, however,
+                    that the assessment payment is still due 60 days after the fiscal year in this
+                    case). The supplemental report should cover the SIPC annual general assessment
+                    reconciliation or exclusion from membership forms (SIPC-3) and should include
+                    certain procedures specified in SIPC Rule 600. <ph class="- topic/ph ">
+            <fn callout="53" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393060585908" class="- topic/fn ">
+               <p class="- topic/p ">SIPC maintains Member FAQs which include questions and answers
+                            regarding SIPC forms, membership, and how and where to file reports. The
+                            FAQs, as well as illustrative accountant’s agreed-upon procedures (AUP)
+                            reports updated in June 2021 for updated AICPA AUP standards, effective
+                            for reports filed on or after July 15, 2021, can be found at <xref scope="external" format="html" class="- topic/xref " href="http://www.sipc.org/for-members/member-faqs">www.sipc.org/for-members/member-faqs</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_reports_on_securities_investor.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-11c6e5d7-6526-c182-2dc4-8e1d81b5d622/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393060585908"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

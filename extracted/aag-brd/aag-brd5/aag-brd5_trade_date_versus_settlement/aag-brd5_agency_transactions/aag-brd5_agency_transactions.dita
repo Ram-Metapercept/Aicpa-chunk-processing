@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8820ca33-557e-498d-fcab-8e6e248f0ee6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Agency Transactions</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.67" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.67</b> Unlike a
+                    principal transaction in which the broker-dealer is the counterparty to the
+                    transaction with the customer and, therefore, would have the securities
+                    transactions flow through its inventory because it is acting in a dealer
+                    capacity. Conversely, in an agency transaction, the broker-dealer is simply an
+                    intermediary between two counterparties transacting in the same security.
+                    Therefore, the securities transaction does not flow through its inventory
+                    because it is acting in a broker capacity.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.68" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.68</b> FASB ASC
+                    940-20-25-1 explains that transactions executed by broker-dealers as agents for
+                    customers are not reflected in the statement of financial condition of the
+                    broker-dealer unless the transaction fails to settle on the contracted
+                    settlement date. Because the broker-dealer typically delivers cash or financial
+                    instruments on behalf of the customer, if the customer fails on the settlement
+                    date, the broker-dealer is required to record the transaction (for example, as a
+                    fail-to-receive from customer, payable to customer, or stock borrowed or loaned
+                    on behalf of customer).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.69" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.69</b> In accordance
+                    with FASB ASC 940-20-25-2, for securities purchased, commissions should be
+                    recorded as a receivable from customers; for securities sold, commissions should
+                    be recorded as reductions in the payable to customers. The commission income
+                    should be recognized in revenue by the broker-dealer when (or as) it satisfies
+                    its performance obligations under the contract in accordance with FASB ASC 606.
+                    Related expenses should be accrued by the broker-dealer on the trade date
+                    because substantially all the efforts in generating the commissions have been
+                    completed. Commission income should be accounted for using the five-step revenue
+                    recognition model within FASB ASC 606. <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_identify_the_contract.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-58464ffa-726a-9290-b841-509a059bb1c0/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.01">Paragraphs 5.6.01–5.6.32</xref> of chapter 5 of AICPA Audit and Accounting
+                    Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i>, contain the
+                    related revenue recognition implementation issue for brokers and dealers in
+                    securities applying FASB ASC 606 (see <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.136">paragraph 5.136</xref> of this chapter). This content is presented in the
+                    “Revenue Streams” section under the headings “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_commission_income.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4a3e7baa-571d-6ffa-621a-553c5c00b160">Commission Income</xref>” and “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_recognition_on_trade_date.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-47b6a40b-4422-076d-d56a-7b8f1d23f177">Recognition on Trade Date</xref>.”</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

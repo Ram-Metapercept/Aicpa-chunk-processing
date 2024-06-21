@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-df3d68fa-b392-778c-c0b4-dfbe1b9085c6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Certain Off-Balance Sheet Credit Exposures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.79" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.79</b> Credit losses on certain off-balance
+                        sheet credit exposures are estimated over the contractual period of a
+                        present obligation to extend credit unless that obligation is
+                        unconditionally cancellable by the issuer in accordance with FASB ASC
+                        326-20-30-11. Certain broker-dealers may provide letters of credit and other
+                        financial guarantees primarily to enable clients to enhance their credit
+                        standing and complete transactions. Other than the estimation of the
+                        probability of funding on such arrangements, the allowance for credit losses
+                        is estimated in a manner similar to the methodology used for funded credit
+                        exposures not eligible for the collateral maintenance provision practical
+                        expedient. Expected credit losses are estimated over the life of the
+                        instruments at the reporting date based on relevant information about past
+                        events, current conditions, and reasonable and supportable forecasts.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.80" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.80</b> For off-balance sheet credit
+                        exposures, the allowance for credit losses is reported as a liability.
+                        Changes in the allowance for credit losses are reported in credit loss
+                        expense.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

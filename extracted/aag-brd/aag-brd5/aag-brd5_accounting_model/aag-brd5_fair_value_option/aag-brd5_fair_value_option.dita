@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-09091057-bef6-a5e7-ecb0-dfa018ecb594" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Fair Value Option</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.38" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.38</b> FASB ASC 825,
+                        <i class="+ topic/ph hi-d/i ">Financial Instruments</i>, creates a fair
+                    value option under which an entity may irrevocably elect fair value as the
+                    initial and subsequent measure for many financial instruments and certain other
+                    items, with changes in fair value recognized in the statement of activities as
+                    those changes occur. An election is made on an instrument-by-instrument basis
+                    (with certain exceptions) on its election date. Generally, this is when an
+                    instrument is initially recognized in the financial statements. See FASB ASC
+                    825-10-25-4 for information on election dates for specific eligible items that
+                    are other than when the instrument is initially recognized in the financial
+                    statements. The fair value option need not be applied to all identical items,
+                    except as required by FASB ASC 825-10-25-5. FASB ASC 825-10-15-4 notes that
+                    recognized financial assets and financial liabilities are eligible, except those
+                    specifically listed. (See the following paragraph for those items excluded from
+                    the election.) In addition to the eligible financial instruments, certain other
+                    items are eligible for the election such as firm commitments for financial
+                    instruments and certain nonfinancial contracts. FASB ASC 825-10-45-4 explains
+                    that an entity should report unrealized gains and losses on items for which the
+                    fair value option has been elected in earnings (or another performance indicator
+                    if the business entity does not report earnings) at each subsequent reporting
+                    date.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.39</b> FASB ASC
+                    825-10-15-5 lists those instruments that are not eligible for the fair value
+                    option. Specifically excluded from eligibility is an investment in a subsidiary
+                    that the entity is required to consolidate; an interest in a variable interest
+                    entity (VIE) that the entity is required to consolidate; employer’s and plan’s
+                    obligations for pension benefits; other postretirement benefits (including
+                    health care and life insurance benefits); postemployment benefits and deferred
+                    compensation arrangements (or assets representing overfunded positions in those
+                    plans); financial assets and liabilities recognized under leases (this does not
+                    apply to a guarantee of a third-party lease obligation or a contingent
+                    obligation arising from a canceled lease); demand deposit liabilities of
+                    depository institutions; and financial instruments that are, in whole or part,
+                    classified by the issuer as a component of shareholders’ equity (including
+                    temporary equity).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.40" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.40</b> FASB ASC
+                    825-10-45 and 825-10-50 also include presentation and disclosure requirements
+                    designed to facilitate comparisons between entities that choose different
+                    measurement attributes for similar types of assets and liabilities. Paragraphs
+                    1B–2 of FASB ASC 825-10-45 state that entities should report assets and
+                    liabilities that are measured using the fair value option in a manner that
+                    separates those reported fair values from the carrying amounts of similar assets
+                    and liabilities measured using another measurement attribute. To accomplish
+                    that, an entity should either (<i class="+ topic/ph hi-d/i ">a</i>) present the
+                    aggregate carrying amount for both fair value and non-fair-value items on a
+                    single line, with the fair value amount parenthetically disclosed or (<i class="+ topic/ph hi-d/i ">b</i>) present separate lines for the fair value
+                    carrying amounts and the non-fair-value carrying amounts. As discussed in FASB
+                    ASC 825-10-25-3, up-front costs and fees, such as debt issuance costs, may not
+                    be deferred for items for which the fair value option has been elected.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

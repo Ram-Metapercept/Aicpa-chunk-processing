@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-1134daae-6ce0-8fde-2c9a-006bb4ff2115" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Distribution Costs</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.128" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.128</b> FASB ASC
+                    940-20-05-5 notes that broker-dealers may contract with one or more mutual funds
+                    to act as the registered distributor of the mutual fund's shares, assisting the
+                    fund in selling and distributing its shares. If a broker-dealer undertakes the
+                    responsibility for selling and distributing fund shares, it will incur different
+                    types of costs, the most common of which are commissions paid to those of its
+                    representatives who arrange fund sales. To compensate a broker-dealer for those
+                    selling efforts, mutual funds may establish some form of a fund-charge and
+                    shareholder-commission structure that provides fees to the broker-dealer either
+                    at the time of sale or over a specified period of time. Two common forms of
+                    compensation are the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">A front-end commission paid to the broker-dealer by the fund
+                            shareholder at the time of sale.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A 12b-1 distribution fee that is paid by the fund over a period of
+                            time based on a percentage of the fund's daily net asset levels,
+                            together with a deferred sales charge that is a commission paid to the
+                            broker-dealer by the shareholder at the time the shareholder exits the
+                            fund. Deferred sales charges are often charged to the shareholder in
+                            decreasing amounts over time.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.129" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.129</b> Distribution
+                    revenues should be accounted for using the five-step revenue recognition model
+                    within FASB ASC 606. <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_identify_the.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4aec936a-c95a-881b-6b91-0bf16a19c916/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.11">Paragraphs 5.6.11–5.6.144</xref> of chapter 5 of AICPA Audit and Accounting
+                    Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as published in
+                    2022) contain the related revenue recognition implementation issue for brokers
+                    and dealers in securities applying FASB ASC 606 (see <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.136">paragraph 5.136</xref> of this chapter). This content is presented in the
+                    “Revenue Streams” section under the heading “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_selling_and_distribution_fee.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-128bac96-935b-d12c-b9c2-4c35505a71d3">Selling and Distribution Fee Revenue</xref>.”</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

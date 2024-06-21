@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-45c01e6c-26f1-3ec6-279b-582d9f4ebd82" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Principal Versus Agent Considerations for Each Member of
+                                the Syndicate Group, Including the Lead and Participating
+                                Underwriter</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.7.27
+                                </b> FASB ASC 606-10-55-37A indicates that when another party
+                                is involved in providing goods or services to a customer, an entity
+                                that is a principal obtains control of any one of the
+                                following:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">A good or another asset from the other party that it then
+                                        transfers to the customer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A right to a service to be performed by the other party,
+                                        which gives the entity the ability to direct that party to
+                                        provide the service to the customer on the entity’s
+                                        behalf.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A good or service from the other party that it then
+                                        combines with other goods or services in providing the
+                                        specified good or service to the customer...</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.7.28
+                                </b> The members of the underwriting syndicate incur expenses
+                                such as, but not limited to, marketing and advertising, legal fees,
+                                and other costs (for example, accounting, travel, printing, and
+                                taxes) of setting up the syndicate group. The vendors that the
+                                underwriting syndicate contracts with for these services are not
+                                directly responsible for the performance obligation in the
+                                underwriting agreement. Rather, they are engaged to perform services
+                                for the underwriting syndicate. The underwriters use these services
+                                and combine their benefits as part of their efforts to deliver the
+                                performance obligation (raise capital) to the issuer as discussed in
+                                FASB ASC 606-10-55-37Ac.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.7.29
+                                </b> Additionally, FASB ASC 606-10-55-39 provides the
+                                following indicators that an entity controls the specified good or
+                                service and is acting as principal. Each member of the underwriting
+                                syndicate could evaluate these indicators as follows:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The entity is primarily
+                                            responsible for fulfilling the contract.</i> This
+                                        is the case for each participating underwriter’s pro rata
+                                        obligation to perform. The vendors hired for the services
+                                        have no obligation to the issuer, and the issuer does not
+                                        have recourse to the vendors; rather, the obligation to the
+                                        issuer lies with each member of the underwriting syndicate.
+                                        This is indicative of a principal relationship for the
+                                        members of the underwriting syndicate for the services they
+                                        are performing on behalf of the issuer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The entity has inventory risk
+                                            before or after the goods have been ordered, during
+                                            shipping, or upon return.</i> Pursuant to the
+                                        syndicate agreement entered into among the members of the
+                                        underwriting syndicate, each member of the underwriting
+                                        group is obligated to pay their proportionate share of the
+                                        amounts charged by the service providers even if the members
+                                        do not deliver the performance obligation to the issuer. In
+                                        addition, certain vendor services are often provided prior
+                                        to the execution of the underwriting agreement. This is
+                                        indicative of a principal relationship for the members of
+                                        the underwriting syndicate.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The entity has discretion in
+                                            establishing the price for the specified good or
+                                            service.</i> The prices for the underwriting
+                                        services are negotiated by the lead underwriter on behalf of
+                                        the syndicate. Often, the terms of the underwriting contract
+                                        are subject to highly competitive market conditions that
+                                        limit the variability in spreads. In addition, for public
+                                        U.S. underwritings, underwriters’ compensation is subject to
+                                        regulation by FINRA. Therefore, the underwriters often have
+                                        limited discretion in the pricing of the combined elements
+                                        of their service, as well. That is, the underwriting
+                                        syndicate does not charge a direct reimbursement fee for the
+                                        third-party vendor costs (for example, legal, marketing, and
+                                        advertising) and may not be able to negotiate a higher
+                                        underwriting fee to cover the increased costs. In such
+                                        cases, this indicator may not be determinative.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.7.30
+                                </b> FinREC believes that, generally, the role of the members
+                                of the underwriting syndicate, including the lead and participating
+                                underwriters, is that of a principal for their respective share of
+                                the underwriting expenses because (<i class="+ topic/ph hi-d/i ">a</i>) the underwriters obtain control of these services
+                                and combine them with other services as part of delivering on their
+                                performance obligation as discussed in FASB ASC 606-10-55-37Ac and
+                                    (<i class="+ topic/ph hi-d/i ">b</i>) based on the weight of
+                                the indicators in FASB ASC 606-10-55-39. Consequently, in accordance
+                                with FASB ASC 606-10-55-37B, each underwriter should reflect their
+                                proportionate share of the underwriting costs on a gross basis in
+                                the underwriter’s statement of earnings, and the lead underwriter
+                                should not recognize expenses attributable to the participating
+                                underwriters because these reflect costs that are legally the
+                                responsibility of the participating underwriters. However, the
+                                specific facts of each arrangement should be considered when making
+                                these determinations.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.7.31
+                                </b> In accordance with FASB ASC 940-340-25-3, underwriting
+                                expenses incurred before the actual issuance of the securities shall
+                                be deferred.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.7.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.7.32
+                                </b> In accordance with FASB ASC 940-340-35-3, underwriting
+                                expenses deferred under the guidance in FASB ASC 940-340-25-3 shall
+                                be recognized at the time the related revenues are recorded. In the
+                                event that the transaction is not completed and it is determined
+                                that the securities will not be issued, at that time, the entities
+                                that have agreed to participate in the costs associated with the
+                                underwriting shall write those costs off to expense.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

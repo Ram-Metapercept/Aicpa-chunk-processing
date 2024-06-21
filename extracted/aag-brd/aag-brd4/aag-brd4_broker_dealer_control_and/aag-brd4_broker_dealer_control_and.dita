@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-2b2da3c9-45df-baa6-aa94-089e4db19ec7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Broker-Dealer Control and Monitoring Activities</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.36" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.36</b> Control and
+                monitoring activities are generally present at various stages within business
+                processes, and over the technology environment of a broker-dealer. Management uses
+                such activities to evaluate findings against different criteria established by
+                regulators, standard-setting bodies, or management and the board of directors. This
+                guide discusses only those control and monitoring activities that are unique to
+                broker-dealers. The absence of any of these specific control activities is not
+                indicative of a deficiency in internal control; however, a deficiency in internal
+                control may exist if the overall control objective is not met.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.37" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.37</b> The discussion of
+                control and monitoring activities in this part of the chapter is from management's
+                perspective. Management of all broker-dealers has a responsibility to establish and
+                maintain adequate internal control over financial reporting and to comply with
+                specific rules addressing financial responsibility and recordkeeping.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.38" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.38</b> Security
+                transactions may be processed, recorded, and monitored by different departments
+                within the broker-dealer. Even though this discussion addresses specific
+                broker-dealer control and monitoring activities, the presentation is general in
+                nature and does not necessarily reflect the actual operations or departments of
+                every broker-dealer. Control and monitoring activities performed by persons with
+                appropriate segregation of duties provides the strongest control environment.</p>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.39</b> In many small
+                introducing broker-dealers, individuals play several roles, including having
+                conflicting duties that would ideally be segregated. Some mitigating factors may
+                include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">the types of functions outsourced to third parties (for example,
+                        securities clearance, back-office processing systems and software, customer
+                        statement generation, financial reporting, Financial and Operations
+                        Principal [FINOP] functions, and the like),</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the owners’ participation as management in the daily activities of the
+                        broker-dealer,</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">a detailed review of financial performance compared to budget,</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">a detailed review of the general ledger by an individual independent of
+                        recording transactions, and</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">having one individual responsible for recording transactions while another
+                        individual independently receives bank and clearing broker statements that
+                        are reconciled or compared to the general ledger.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

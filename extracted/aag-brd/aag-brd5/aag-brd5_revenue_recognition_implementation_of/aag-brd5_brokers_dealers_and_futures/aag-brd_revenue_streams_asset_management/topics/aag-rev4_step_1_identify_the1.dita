@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8ef293d0-6114-86eb-b363-0d8e15d7833d" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Step 1: Identify the Contract With a Customer</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.22</b> Industry considerations
+                                relevant to determining the customer and evaluating the contract are
+                                discussed in detail within the section “<xref format="dita" class="- topic/xref " href="../../../../../../aag-rev/aag-rev4/aag-rev4_application_of_the_five_step/aag-rev4_step_1_identify_the3/aag-rev4_determining_the_customer/aag-rev4_determining_the_customer.dita#UUID-5dda6152-7bb5-4414-0515-87dee369dc20_UUID-66f1dbbc-7888-27b2-8573-e66db061cbed">Determining the Customer in an Asset Management
+                                    Arrangement</xref>” in paragraphs 4.1.01–4.1.10 and the section
+                                    “<xref format="dita" class="- topic/xref " href="../../../../../../aag-rev/aag-rev4/aag-rev4_application_of_the_five_step/aag-rev4_step_1_identify_the3/aag-rev4_identifying_the_contract_with/aag-rev4_identifying_the_contract_with.dita#UUID-5dda6152-7bb5-4414-0515-87dee369dc20_UUID-4dc0e76e-65b2-a817-78e5-c0c7c7f09931">Identifying the Contract With a Customer in an Asset Management
+                                    Arrangement</xref>” in paragraphs 4.1.11–4.1.19. FinREC believes
+                                that irrespective of whether the fund or investor is identified as
+                                the customer for purposes of applying FASB ASC 606 to the promise to
+                                provide asset management services, the identified performance
+                                obligations and corresponding accounting treatment discussed herein
+                                will not differ. However, the revenue recognition analysis may
+                                differ depending on the existence of other performance obligations
+                                and also application of the cost guidance in FASB ASC 340-40 may
+                                differ based on the nature of the cost. <unknown id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_N661755d1ace5d" class="- topic/unknown ">Determining the Customer in an Asset
+                                    Management Arrangement</unknown>
+         <unknown id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_N661755d1ae2eb" class="- topic/unknown ">Identifying the Contract With a Customer
+                                    in an Asset Management Arrangement</unknown>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

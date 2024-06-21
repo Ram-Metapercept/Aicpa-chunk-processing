@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-0b3bba61-31c5-5e9e-5d30-c330ba444900" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">SEC Rule 17Ad-22, “Standards for Clearing Agencies”</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.94" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.94</b> SEC Rule 17Ad-22
+                    establishes minimum requirements regarding how registered clearing agencies must
+                    maintain effective risk management procedures and controls as well as meet the
+                    statutory requirements under the 1934 Act on an ongoing basis. Each registered
+                    clearing agency should establish, implement, maintain, and enforce written
+                    policies and procedures reasonably designed to meet the criteria outlined in SEC
+                    Rule 17Ad-22(d), as applicable. Additionally, a registered clearing agency that
+                    performs central counterparty services should establish, implement, maintain,
+                    and enforce written policies and procedures reasonably designed to meet the
+                    criteria outlined in SEC Rule 17Ad-22(b).</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.95" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.95</b> SEC Rule
+                    17Ad-22(c) states that (1) each fiscal quarter (based on calculations made as of
+                    the last business day of the clearing agency's fiscal quarter), or at any time
+                    upon SEC request, a registered clearing agency that performs central
+                    counterparty services should calculate and maintain a record, in accordance with
+                    SEC Rule 17a-1, of the financial and qualifying liquid resources necessary to
+                    meet the requirements, as applicable, of paragraphs (b)(3), (e)(4), and (e)(7)
+                    of SEC Rule 17Ad-22, and sufficient documentation to explain the methodology it
+                    uses to compute such financial resources or qualifying liquid resources
+                    requirement; and (2) within 60 days after the end of its fiscal year, each
+                    registered clearing agency should post on its website its annual audited
+                    financial statements. Such financial statements should</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">include, for the clearing agency and its subsidiaries, consolidated
+                            balance sheets as of the end of the two most recent fiscal years and
+                            statements of income, changes in stockholders' equity and other
+                            comprehensive income and cash flows for each of the two most recent
+                            fiscal years;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">be prepared in accordance with GAAP, except that for a clearing agency
+                            that is a corporation or other organization incorporated or organized
+                            under the laws of any foreign country, the consolidated financial
+                            statements may be prepared in accordance with GAAP or International
+                            Financial Reporting Standards as issued by the International Accounting
+                            Standards Board;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">be audited in accordance with standards of the PCAOB by a registered
+                            public accounting firm that is qualified and independent in accordance
+                            with Section 2-01, "Qualifications of Accountants," of SEC Regulation
+                            S-X; and</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">include a report of the registered public accounting firm that
+                            complies with Section 2-02, "Accountants’ Reports and Attestation
+                            Reports," of SEC Regulation S-X.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

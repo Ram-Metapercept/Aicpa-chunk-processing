@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-66c7f4bd-336a-246b-4757-1a5f767f2bc9" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Regulatory Overview</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.61" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.61</b> Regulatory
+                environments differ from country to country, and the freedom of entry into the
+                marketplace likewise varies depending on local regulation. In the United States, the
+                1934 Act provides for the regulation of securities transactions after the securities
+                are initially distributed to public investors in an underwriting. The 1934 Act
+                established the SEC that, among other things, is authorized to promulgate and
+                enforce rules governing the regulation of broker-dealers in securities. The SEC
+                developed, pursuant to the 1934 Act, a comprehensive system to regulate
+                broker-dealers. Under the 1934 Act, all broker-dealers are required to be members of
+                self-regulatory organizations, such as FINRA, which performs routine surveillance
+                and monitoring of its members. A similar regulatory framework was established for
+                commodity broker-dealers (that is, futures commission merchants) under the Commodity
+                Futures Trading Commission Act of 1974, which established the CFTC and gave it
+                exclusive jurisdiction over commodity futures matters. The Commodity Futures
+                Modernization Act of 2000 (CFMA) authorized joint regulation by the CFTC and the SEC
+                of security futures products on individual equity issues and on narrow-based indexes
+                of securities. The CFMA created a flexible structure for the regulation of futures
+                trading, codified an agreement between the CFTC and the SEC to repeal the ban on
+                trading single-stock futures, and provided legal certainty for OTC derivatives
+                markets. The CFMA amended the definition of <i class="+ topic/ph hi-d/i ">security</i> in the 1933 Act and the definitions of <i class="+ topic/ph hi-d/i ">security</i> and <i class="+ topic/ph hi-d/i ">equity
+                    security</i> in the 1934 Act to include a security future. In April 2002,
+                the SEC amended the definition of <i class="+ topic/ph hi-d/i ">equity security</i>
+                in rules under the 1933 Act and the 1934 Act to conform them to the statutory
+                definitions with respect to security futures. The CFTC also authorized the creation
+                of registered futures associations, giving the futures industry the opportunity to
+                create a nationwide, self-regulatory organization. The National Futures Association
+                (NFA), which began operations in 1982, is the self-regulatory organization for the
+                U.S. derivatives industry, including exchange-traded futures, retail off-exchange
+                foreign currency, and OTC derivatives.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.62" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.62</b> Since its adoption,
+                the 1934 Act has been amended to include virtually all participants in the
+                securities markets and an ever-increasing range of securities-related activities.
+                Originally, the scope of the 1934 Act was limited to the regulation of exchanges,
+                members of exchanges, and trading in securities listed on exchanges. The Maloney Act
+                of 1938 amended the 1934 Act to cover OTC markets. The Maloney Act of 1938 also
+                established the National Association of Securities Dealers (NASD) (that was
+                subsequently consolidated with NYSE Regulation, Inc. into a single self-regulatory
+                organization, FINRA), which is an independent, nongovernmental regulator for all
+                securities firms doing business with the public in the United States.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.63" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.63</b> In 1975, the 1934
+                Act was amended to extend the authority of the SEC to include securities transfer
+                agents, clearing organizations, and securities depositories. This amendment also
+                established the Municipal Securities Rulemaking Board that was authorized to
+                prescribe rules regulating the activities of municipal securities broker-dealers. In
+                1986, the 1934 Act was amended by the Government Securities Act of 1986 to require
+                U.S. government securities broker-dealers to register with the SEC. Under the
+                Government Securities Act of 1986, the SEC has authority to enforce rules
+                promulgated by the Department of the Treasury concerning U.S. government securities
+                broker-dealers. Thus, the 1934 Act today provides a comprehensive scheme of
+                regulation for virtually all broker-dealers in securities, exchanges, and OTC
+                markets, as well as the facilities for clearing and settling transactions among
+                broker-dealers, depositories, transfer agents, and registrars.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.64" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.64</b> The Securities
+                Investors Protection Corporation (SIPC) was established when Congress enacted the
+                Securities Investor Protection Act of 1970 (SIPA). SIPC is a nonprofit membership
+                corporation designed to protect, up to a specific maximum amount, customers' cash
+                and securities in the custody of a broker-dealer that fails and is liquidated under
+                SIPA. Broker-dealers registered with the SEC, with some limited exceptions, are
+                required to be members of SIPC. The money required to protect customers beyond that
+                which is available from the customer property in the possession of the failed
+                broker-dealer is advanced by SIPC from a fund maintained for that purpose. The
+                sources of money for this fund are assessments collected from SIPC members and
+                interest on the fund's investments in U.S. government securities made with the funds
+                collected. See <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2">chapter 3</xref> for more information on the SIPC assessment and related
+                reporting.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

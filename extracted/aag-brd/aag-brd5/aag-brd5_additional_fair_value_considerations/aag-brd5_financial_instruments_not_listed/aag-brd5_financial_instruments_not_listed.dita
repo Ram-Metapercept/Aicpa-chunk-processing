@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-83fb2b49-c004-c874-142b-a9144a87dcbe" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Financial Instruments Not Listed on a Recognized Exchange but Having a
+                    Readily Available Market Price</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.46" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.46</b> Nonexchange-traded financial instruments
+                    are often traded in over-the-counter (OTC) markets by dealers or other
+                    intermediaries from whom market prices are obtainable. Quotations are available
+                    from various sources for many financial instruments traded regularly in the OTC
+                    market. Those sources include the financial press, various quotation and
+                    financial reporting services, and individual market-makers.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.47" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.47</b> Financial instruments not listed on a
+                    recognized exchange are more likely to be valued using level 2 or level 3 inputs
+                    (as opposed to level 1 inputs). If there is a limited amount of trading activity
+                    for a financial instrument (that is, if the instrument is thinly traded), the
+                    reliability of the market quotation and other market information (for example,
+                    volume data) should be evaluated by management. In instances when the fair
+                    value, as determined by management, is higher than or lower than the market
+                    quotation for a similar, but not identical, financial instrument, the financial
+                    instruments should be valued at such fair value. See the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_accounting_model/aag-brd5_the_fair_value_hierarchy/aag-brd5_the_fair_value_hierarchy.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-184ea653-c5eb-0340-7aef-5508a2b93493">The Fair Value Hierarchy</xref>” section of this chapter for more
+                    information on the three levels of inputs to valuation techniques.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.48" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.48</b> Paragraphs 50–51 of FASB ASC 820-10-35
+                    explain that adjustments to level 2 inputs will vary depending on factors
+                    specific to the asset or liability. Those factors include the condition or
+                    location of the asset or liability, the extent to which the inputs relate to
+                    items that are comparable to the asset or liability (including those factors
+                    discussed in FASB ASC 820-10-35-16D), and the volume or level of activity in the
+                    markets within which the inputs are observed. A significant adjustment to a
+                    level 2 fair value measurement might result in a fair value measurement
+                    categorized within level 3 of the fair value hierarchy if the adjustment uses
+                    significant unobservable inputs.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

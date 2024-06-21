@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Annual Compliance Certification</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393064032964" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.189</b> FINRA Rule 3130, <i class="+ topic/ph hi-d/i ">Annual
+                    Certification of Compliance and Supervisory Processes</i>, requires
+                members to designate a chief compliance officer (CCO) and have the CEO or equivalent
+                officer certify annually that the member has in place processes to establish,
+                maintain, review, test, and modify written compliance policies and written
+                supervisory procedures reasonably designed to achieve compliance with applicable
+                FINRA rules, Municipal Securities Rulemaking Board rules, and federal securities
+                laws and regulations, and that the CEO has conducted one or more meetings with the
+                CCO in the preceding 12 months to discuss such processes. Additional information is
+                available on the FINRA website at <xref scope="external" format="html" class="- topic/xref " href="https://www.finra.org/rules-guidance/rulebooks/finra-rules/3130">https://www.finra.org/rules-guidance/rulebooks/finra-rules/3130</xref>.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393064024024" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.190</b> FCMs that are regulated by a U.S. prudential
+                regulator or that are also in some capacity registrants of the SEC must also have a
+                designated CCO under CFTC Regulation 3.3, and that person must also be a listed
+                principal of the firm. In addition, FCMs are required to file a CCO Annual Report.
+                Introducing brokers, commodity pool operators, and commodity trading adviser members
+                are not required to have a designated CCO. However, if the firm appoints a person as
+                a CCO then the person must be a listed principal of the firm.</p>
+      <p id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393064014216" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.191</b>
+      </p>
+      <p id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3_exhibit_3-1" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Exhibit 3-1: Illustration of Compliance Report Required by SEC
+                    Rule 17a-5</b>
+      </p>
+      <p class="- topic/p ">The AICPA and SIFMA’s Financial Management Society, whose members include
+                individuals associated with various independent public accounting firms and
+                independent financial services firms, provide this sample compliance report for
+                information purposes only. The compliance report required by SEC Rule 17a-5 is the
+                responsibility of the firm making such report, and the AICPA and SIFMA recommend
+                that firms seek the advice of their own legal and/or other advisers with respect to
+                their compliance reports.</p>
+      <example class="- topic/example ">
+         <p outputclass="text-center" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Company]’s</b> Compliance
+                    Report</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Name of Company]</b> (the “Company”) is a
+                    registered broker-dealer subject to Rule 17a-5 promulgated by the Securities and
+                    Exchange Commission (17 C.F.R. §240.17a-5, “Reports to be made by certain
+                    brokers and dealers”). As required by 17 C.F.R. § 240.17a-5(d)(1) and (3), the
+                    Company states as follows:</p>
+         <ul outputclass="ul none" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(1)    The Company [has][has not] established and maintained Internal
+                            Control Over Compliance, as that term is defined in paragraph (d)(3)(ii)
+                            of Rule 17a-5.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company’s Internal Control Over Compliance [was][was not]
+                            effective during the most recent fiscal year ended [date];</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(3)    The Company’s Internal Control Over Compliance [was][was not]
+                            effective as of the end of the most recent fiscal year ended <b class="+ topic/ph hi-d/b ">[date]</b>;</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(4)    The Company [was] [was not] in compliance with 17 C.F.R. §
+                            240.15c3-1 and 17 C.F.R. §240.15c3-3(e) as of the end of the most recent
+                            fiscal year ended <b class="+ topic/ph hi-d/b ">[date]</b>; and</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(5)    The information the Company used to state that the Company was
+                            in compliance with 17 C.F.R. §240.15c3-1 and 17 C.F.R. §240.15c3-3(e)
+                            [was][was not] derived from the books and records of the Company.</p>
+            </li>
+         </ul>
+         <p class="- topic/p ">[If applicable, include a description of each material weakness in the
+                    Company’s Internal Control Over Compliance during the most recent fiscal year
+                    ended <b class="+ topic/ph hi-d/b ">[date]</b>]</p>
+         <p class="- topic/p ">[If applicable, include a description of any instance of non-compliance with
+                    17 C.F.R. § 240.15c3-1 and 17 C.F.R. §240.15c3-3(e) as of the end of the most
+                    recent fiscal year ended <b class="+ topic/ph hi-d/b ">[date]</b>]</p>
+         <p class="- topic/p ">____________________________</p>
+         <p class="- topic/p ">[Name of Company]</p>
+         <p class="- topic/p ">I, ______________________, swear (or affirm) that, to my best knowledge and
+                    belief, this Compliance Report is true and correct.</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">By: [Signature]</b>
+         </p>
+         <p class="- topic/p ">______________________</p>
+         <p class="- topic/p ">Title:</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Date of report]</b>
+         </p>
+      </example>
+      <p id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393064000670" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.192</b>
+      </p>
+      <p id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3_exhibit_3-2" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">Exhibit 3-2: Illustrations of Exemption Reports Required by
+                    SEC Rule 17a-5</b>
+      </p>
+      <example class="- topic/example ">
+         <p outputclass="box" class="- topic/p ">
+            <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3_annual_compliance_certification/aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4500698507286433902643241077">Example 1</xref> — Exemption Report when claiming a single exemption under
+                    the provisions of 17 C.F.R. § 240.15c3-3(k)</p>
+         <p outputclass="box" class="- topic/p ">
+            <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3_annual_compliance_certification/aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4552413620577633902644772644">Example 2</xref> — Exemption Report when claiming multiple exemptions under
+                    the provisions of 17 C.F.R. § 240.15c3-3(k)</p>
+         <p outputclass="box" class="- topic/p ">
+            <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3_annual_compliance_certification/aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4577966139148833902646063537">Example 3</xref> — Exemption Report as contemplated by footnote 74 of SEC
+                    Release No. 34-70073 adopting amendments to 17 C.F.R. § 240.17a-5 and related
+                    SEC Staff Frequently Asked Questions</p>
+         <p outputclass="box" class="- topic/p ">
+            <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3_annual_compliance_certification/aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4517315781804833902647595636">Example 4</xref> — Exemption Report related to a Company’s (a) claiming an
+                    exemption(s) under the provisions of 17 C.F.R. § 240.15c3-3(k)(2) for some parts
+                    of its business and (b) as contemplated by footnote 74 of SEC Release No.
+                    34-70073 adopting amendments to 17 C.F.R. § 240.17a-5 and related SEC Staff
+                    Frequently Asked Questions for other parts of its business</p>
+      </example>
+      <example id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4500698507286433902643241077" class="- topic/example ">
+         <title class="- topic/title ">Example 1 — Exemption Report when claiming a single exemption under the
+                    provisions of 17 C.F.R. § 240.15c3-3(k)</title>
+         <p outputclass="text-center" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Company]’s Exemption Report</b>
+         </p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Name of Company]</b> (the “Company”) is a
+                    registered broker-dealer subject to Rule 17a-5 promulgated by the Securities and
+                    Exchange Commission (17 C.F.R. §240.17a-5, “Reports to be made by certain
+                    brokers and dealers”). This Exemption Report was prepared as required by 17
+                    C.F.R. § 240.17a-5(d)(1) and (4). To the best of its knowledge and belief, the
+                    Company states the following:</p>
+         <ul outputclass="ul none" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(1)    The Company claimed an exemption from 17 C.F.R. § 240.15c3-3
+                            under the following provisions of 17 C.F.R. §240.15c3-3(k): [ ]
+                                <ph class="- topic/ph ">
+                     <fn callout="62" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064173126" class="- topic/fn ">
+                        <p class="- topic/p ">(1), (2)(i), (2)(ii), or (3) (<i class="+ topic/ph hi-d/i ">select
+                                        one only</i>).</p>
+                     </fn>
+                     <xref type="fn" class="- topic/xref " href="aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064173126"/>
+                  </ph>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company met the identified exemption provisions in 17
+                            C.F.R. § 240.15c3-3(k) throughout the most recent fiscal year without
+                            exception.</p>
+               <p outputclass="text-center" class="- topic/p ">or</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company met the identified exemption provisions in 17
+                            C.F.R. 240.15c3-3(k) throughout the most recent fiscal year except as
+                            described below.</p>
+               <p class="- topic/p ">[If applicable, identify each exception during the most recent fiscal
+                            year and briefly describe the nature of each exception and the
+                            approximate date(s) on which the exception existed.]</p>
+            </li>
+         </ul>
+         <p class="- topic/p ">_______________________</p>
+         <p class="- topic/p ">[Name of Company]</p>
+         <p class="- topic/p ">I, _______________, swear (or affirm) that, to my best knowledge and belief,
+                    this Exemption Report is true and correct.</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">By: [Signature]</b>
+         </p>
+         <p class="- topic/p ">______________________</p>
+         <p class="- topic/p ">Title:</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Date of report]</b>
+         </p>
+      </example>
+      <example id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4552413620577633902644772644" class="- topic/example ">
+         <title class="- topic/title ">Example 2 — Exemption Report when claiming multiple exemptions under the
+                    provisions of 17 C.F.R. § 240.15c3-3(k)</title>
+         <p outputclass="text-center" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Company]’s Exemption Report</b>
+         </p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Name of Company]</b> (the “Company”) is a
+                    registered broker-dealer subject to Rule 17a-5 promulgated by the Securities and
+                    Exchange Commission (17 C.F.R. §240.17a-5, “Reports to be made by certain
+                    brokers and dealers”). This Exemption Report was prepared as required by 17
+                    C.F.R. § 240.17a-5(d)(1) and (4). To the best of its knowledge and belief, the
+                    Company states the following:</p>
+         <ul outputclass="ul none" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(1)    The Company claimed exemption from 17 C.F.R. § 240.15c3-3 under
+                            the following provisions of 17 C.F.R. §240.15c3-3 (k)(2): (i) and
+                            (ii)</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company met the identified exemption provisions in 17
+                            C.F.R. §240.15c3-3(k) throughout the most recent fiscal year without
+                            exception.</p>
+               <p outputclass="text-center" class="- topic/p ">or</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company met the identified exemption provisions in 17
+                            C.F.R. §240.15c3-3(k) throughout the most recent fiscal year except as
+                            described below.</p>
+               <p class="- topic/p ">[If applicable, identify any applicable exceptions under each
+                            exemption provision during the most recent fiscal year and briefly
+                            describe the nature of each exception and the approximate date(s) on
+                            which the exception existed.]</p>
+            </li>
+         </ul>
+         <p class="- topic/p ">_______________________</p>
+         <p class="- topic/p ">[Name of Company]</p>
+         <p class="- topic/p ">I, _______________, swear (or affirm) that, to my best knowledge and belief,
+                    this Exemption Report is true and correct.</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">By: [Signature]</b>
+         </p>
+         <p class="- topic/p ">______________________</p>
+         <p class="- topic/p ">Title:</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Date of report]</b>
+         </p>
+      </example>
+      <example id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4577966139148833902646063537" class="- topic/example ">
+         <title class="- topic/title ">Example 3 — Exemption Report as contemplated by footnote 74 of SEC Release
+                    No. 34-70073 adopting amendments to 17 C.F.R. § 240.17a-5 and related SEC Staff
+                    Frequently Asked Questions</title>
+         <p outputclass="text-center" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Company]’s Exemption Report</b>
+         </p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Name of Company]</b> (the “Company”) is a
+                    registered broker-dealer subject to Rule 17a-5 promulgated by the Securities and
+                    Exchange Commission (17 C.F.R. §240.17a-5, “Reports to be made by certain
+                    brokers and dealers”). This Exemption Report was prepared as required by 17
+                    C.F.R. §240.17a-5(d)(1) and (4). To the best of its knowledge and belief, the
+                    Company states the following:</p>
+         <ul outputclass="ul none" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(1)    The Company does not claim an exemption under paragraph (k) of
+                            17 C.F.R. § 240. 15c3-3, and</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company is filing this Exemption Report relying on Footnote
+                            74 of the SEC Release No. 34-70073 adopting amendments to 17 C.F.R. §
+                            240.17a-5 because the Company limits its business activities exclusively
+                            to (<i class="+ topic/ph hi-d/i ">include all that apply, for
+                                example,</i>): (1) proprietary trading; (2) effecting
+                            securities transactions via subscriptions on a subscription way basis
+                            where the funds are payable to the issuer or its agent and not to the
+                            Company; (3) receiving transaction-based compensation for identifying
+                            potential merger and acquisition opportunities for clients, referring
+                            securities transactions to other broker-dealers, or providing technology
+                            or platform services; (4) participating in distributions of securities
+                            (other than firm commitment underwritings) in accordance with the
+                            requirements of paragraphs (a) or (b)(2) of Rule 15c2-4; and/or (5)
+                            engaging solely in activities permitted for capital acquisition brokers
+                            (“CAB”) as defined in FINRA’s CAB rules and approved for membership in
+                            FINRA as a CAB, and the Company (1) did not directly or indirectly
+                            receive, hold, or otherwise owe funds or securities for or to customers,
+                            (other than money or other consideration received and promptly
+                            transmitted in compliance with paragraph (a) or (b)(2) of Rule 15c2-4
+                            and/or funds received and promptly transmitted for effecting
+                            transactions via subscriptions on a subscription way basis where the
+                            funds are payable to the issuer or its agent and not to the Company);
+                            (2) did not carry accounts of or for customers; and (3) did not carry
+                            PAB accounts (as defined in Rule 15c3-3) throughout the most recent
+                            fiscal year without exception.</p>
+               <p outputclass="text-center" class="- topic/p ">or</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company is filing this Exemption Report relying on Footnote
+                            74 of the SEC Release No. 34-70073 adopting amendments to 17 C.F.R. §
+                            240.17a-5 because the Company limits its business activities exclusively
+                            to (<i class="+ topic/ph hi-d/i ">include all that apply, for
+                                example,</i>): (1) proprietary trading; (2) effecting
+                            securities transactions via subscriptions on a subscription way basis
+                            where the funds are payable to the issuer or its agent and not to the
+                            Company; (3) receiving transaction-based compensation for identifying
+                            potential merger and acquisition opportunities for clients, referring
+                            securities transactions to other broker-dealers, or providing technology
+                            or platform services; (4) participating in distributions of securities
+                            (other than firm commitment underwritings) in accordance with the
+                            requirements of paragraphs (a) or (b)(2) of Rule 15c2-4; and/or (5)
+                            engaging solely in activities permitted for capital acquisition brokers
+                            (“CAB”) as defined in FINRA’s CAB rules and approved for membership in
+                            FINRA as a CAB, and the Company (1) did not directly or indirectly
+                            receive, hold, or otherwise owe funds or securities for or to customers,
+                            (other than money or other consideration received and promptly
+                            transmitted in compliance with paragraph (a) or (b)(2) of Rule 15c2-4
+                            and/or funds received and promptly transmitted for effecting
+                            transactions via subscriptions on a subscription way basis where the
+                            funds are payable to the issuer or its agent and not to the Company);
+                            (2) did not carry accounts of or for customers; and (3) did not carry
+                            PAB accounts (as defined in Rule 15c3-3) throughout the most recent
+                            fiscal year, except as described below. <ph class="- topic/ph ">
+                     <fn callout="63" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064524348" class="- topic/fn ">
+                        <p class="- topic/p ">Footnote 74 of Release No. 34-70073 and the related SEC Staff
+                                    FAQs contemplate a broker-dealer that: (1) does not directly or
+                                    indirectly receive, hold, or otherwise owe funds or securities
+                                    for or to customers (other than money or other consideration
+                                    received and promptly transmitted in compliance with paragraph
+                                    (a) or (b)(2) of Rule 15c2-4 and/or funds received and promptly
+                                    transmitted for effecting transactions via subscriptions on a
+                                    subscription way basis where the funds are payable to the issuer
+                                    or its agent and not to the Company); (2) does not carry
+                                    accounts of or for customers; and (3) does not carry PAB
+                                    accounts (as defined in Rule 15c3-3) throughout the most recent
+                                    fiscal year. A broker-dealer that has one or more deviations
+                                    from the practices described in footnote 74 and the SEC Staff
+                                    FAQs should consider whether it is appropriate for the
+                                    broker-dealer to file a compliance report as opposed to an
+                                    exemption report taking into account the nature and extent of
+                                    the deviation or deviations.</p>
+                     </fn>
+                     <xref type="fn" class="- topic/xref " href="aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064524348"/>
+                  </ph>
+               </p>
+               <p class="- topic/p ">[If applicable, identify each exception during the most recent fiscal
+                            year and briefly describe the nature of each exception and the
+                            approximate date(s) on which the exception existed.]</p>
+            </li>
+         </ul>
+         <p class="- topic/p ">_______________________</p>
+         <p class="- topic/p ">[Name of Company]</p>
+         <p class="- topic/p ">I, _______________, swear (or affirm) that, to my best knowledge and belief,
+                    this Exemption Report is true and correct.</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">By: [Signature]</b>
+         </p>
+         <p class="- topic/p ">______________________</p>
+         <p class="- topic/p ">Title:</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Date of report]</b>
+         </p>
+      </example>
+      <p class="- topic/p ">The following form of report is applicable when a broker-dealer meets the
+                exemption conditions of paragraph (k) of Rule 15c3-3 for some parts of its business
+                and is covered by footnote 74 of SEC Release No. 70073 for other parts of its
+                business.</p>
+      <example id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_example-idm4517315781804833902647595636" class="- topic/example ">
+         <title class="- topic/title ">Example 4 — Exemption Report related to a Company’s (a) claiming an
+                    exemption(s) under the provisions of 17 C.F.R. § 240.15c3-3(k)(2) for some parts
+                    of its business and (b) as contemplated by footnote 74 of SEC Release No.
+                    34-70073 adopting amendments to 17 C.F.R. § 240.17a-5 and related SEC Staff
+                    Frequently Asked Questions for other parts of its business</title>
+         <p outputclass="text-center" class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Company]’s Exemption Report</b>
+         </p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Name of Company]</b> (the “Company”) is a
+                    registered broker-dealer subject to Rule 17a-5 promulgated by the Securities and
+                    Exchange Commission (17 C.F.R. §240.17a-5, “Reports to be made by certain
+                    brokers and dealers”). This Exemption Report was prepared as required by 17
+                    C.F.R. § 240.17a-5(d)(1) and (4). To the best of its knowledge and belief, the
+                    Company states the following:</p>
+         <ul outputclass="ul none" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">(1) The Company claimed [an]exemption from 17 C.F.R. § 240.15c3-3
+                            under the following provisions of 17 C.F.R. §240.15c3-3(k)(2) <ph class="- topic/ph ">
+                     <fn callout="64" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064654166" class="- topic/fn ">
+                        <p class="- topic/p ">(2)(i), (2)(ii), or both.</p>
+                     </fn>
+                     <xref type="fn" class="- topic/xref " href="aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064654166"/>
+                  </ph>
+                  <i class="+ topic/ph hi-d/i ">include all that apply</i> [
+                            ]</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company met the identified exemption provisions in 17
+                            C.F.R. §240.15c3-3 (k) throughout the most recent fiscal year without
+                            exception.</p>
+               <p outputclass="text-center" class="- topic/p ">or</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(2)    The Company met the identified exemption provisions in 17
+                            C.F.R. §240.15c3-3 (k) throughout the most recent fiscal year except as
+                            described below.</p>
+               <p class="- topic/p ">[If applicable, identify each exception during the most recent fiscal
+                            year and briefly describe the nature of each exception and the
+                            approximate date(s) on which the exception existed.]</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(3)    The Company is also filing this Exemption Report because the
+                            Company’s other business activities contemplated by Footnote 74 of the
+                            SEC Release No. 34-70073 adopting amendments to 17 C.F.R. § 240.17a-5
+                            are limited to <i class="+ topic/ph hi-d/i ">include all that apply, for
+                                example,</i>): (1) proprietary trading; (2) effecting
+                            securities transactions via subscriptions on a subscription way basis
+                            where the funds are payable to the issuer or its agent and not to the
+                            Company; (3) receiving transaction-based compensation for identifying
+                            potential merger and acquisition opportunities for clients, referring
+                            securities transactions to other broker-dealers, or providing technology
+                            or platform services; (4) participating in distributions of securities
+                            (other than firm commitment underwritings) in accordance with the
+                            requirements of paragraphs (a) or (b)(2) of Rule 15c2-4; and/or (5)
+                            engaging solely in activities permitted for capital acquisition brokers
+                            (“CAB”) as defined in FINRA’s CAB rules and approved for membership in
+                            FINRA as a CAB, and the Company (1) did not directly or indirectly
+                            receive, hold, or otherwise owe funds or securities for or to customers,
+                            (other than money or other consideration received and promptly
+                            transmitted in compliance with paragraph (a) or (b)(2) of Rule 15c2-4
+                            and/or funds received and promptly transmitted for effecting
+                            transactions via subscriptions on a subscription way basis where the
+                            funds are payable to the issuer or its agent and not to the Company);
+                            (2) did not carry accounts of or for customers; and (3) did not carry
+                            PAB accounts (as defined in Rule 15c3-3) throughout the most recent
+                            fiscal year without exception.</p>
+               <p outputclass="text-center" class="- topic/p ">or</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">(3)    The Company is also filing this Exemption Report because the
+                            Company’s other business activities contemplated by Footnote 74 of the
+                            SEC Release No. 34-70073 adopting amendments to 17 C.F.R. § 240.17a-5
+                            are limited to <i class="+ topic/ph hi-d/i ">include all that apply, for
+                                example,</i>): (1) proprietary trading; (2) effecting
+                            securities transactions via subscriptions on a subscription way basis
+                            where the funds are payable to the issuer or its agent and not to the
+                            Company; (3) receiving transaction-based compensation for identifying
+                            potential merger and acquisition opportunities for clients, referring
+                            securities transactions to other broker-dealers, or providing technology
+                            or platform services; (4) participating in distributions of securities
+                            (other than firm commitment underwritings) in accordance with the
+                            requirements of paragraphs (a) or (b)(2) of Rule 15c2-4; and/or (5)
+                            engaging solely in activities permitted for capital acquisition brokers
+                            (“CAB”) as defined in FINRA’s CAB rules and approved for membership in
+                            FINRA as a CAB, and the Company (1) did not directly or indirectly
+                            receive, hold, or otherwise owe funds or securities for or to customers,
+                            (other than money or other consideration received and promptly
+                            transmitted in compliance with paragraph (a) or (b)(2) of Rule 15c2-4
+                            and/or funds received and promptly transmitted for effecting
+                            transactions via subscriptions on a subscription way basis where the
+                            funds are payable to the issuer or its agent and not to the Company);
+                            (2) did not carry accounts of or for customers; and (3) did not carry
+                            PAB accounts (as defined in Rule 15c3-3) throughout the most recent
+                            fiscal year, except as described below. <ph class="- topic/ph ">
+                     <fn callout="65" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064712542" class="- topic/fn ">
+                        <p class="- topic/p ">Footnote 74 of Release No. 34-70073 and the related SEC Staff
+                                    FAQs contemplate a broker-dealer that: (1) does not directly or
+                                    indirectly receive, hold, or otherwise owe funds or securities
+                                    for or to customers, (other than money or other consideration
+                                    received and promptly transmitted in compliance with paragraph
+                                    (a) or (b)(2) of Rule 15c2-4 and/or funds received and promptly
+                                    transmitted for effecting transactions via subscriptions on a
+                                    subscription way basis where the funds are payable to the issuer
+                                    or its agent and not to the Company); (2) does not carry
+                                    accounts of or for customers; and (3) does not carry PAB
+                                    accounts (as defined in Rule 15c3-3) throughout the most recent
+                                    fiscal year. A broker-dealer that has one or more deviations
+                                    from the practices described in Footnote 74 and the SEC Staff
+                                    FAQs should consider whether it is appropriate for the
+                                    broker-dealer to file a compliance report as opposed to the
+                                    exemption report taking into account the nature and extent of
+                                    the deviation or deviations.</p>
+                     </fn>
+                     <xref type="fn" class="- topic/xref " href="aag-brd3_annual_compliance_certification.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-78adee38-6820-e4e2-6575-85fa873e1943/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393064712542"/>
+                  </ph>
+               </p>
+               <p class="- topic/p ">[If applicable, identify each exception during the most recent fiscal
+                            year and briefly describe the nature of each exception and the
+                            approximate date(s) on which the exception existed.]</p>
+            </li>
+         </ul>
+         <p class="- topic/p ">_______________________</p>
+         <p class="- topic/p ">[Name of Company]</p>
+         <p class="- topic/p ">I, _______________, swear (or affirm) that, to my best knowledge and belief,
+                    this Exemption Report is true and correct.</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">By: [Signature]</b>
+         </p>
+         <p class="- topic/p ">______________________</p>
+         <p class="- topic/p ">Title:</p>
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">[Date of report]</b>
+         </p>
+      </example>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-6b1e382b-a5a4-814d-23c1-58247805ed19" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Financial Assets Measured at Amortized Cost Basis That Are Not
+                        Eligible for the Collateral Maintenance Provision Practical
+                        Expedient</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.75" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.75</b> For
+                        financial assets measured at amortized cost that are not eligible for the
+                        collateral maintenance provision practical expedient (and any unsecured
+                        amounts for instruments applying the practical expedient), expected credit
+                        losses are estimated over the life of the financial assets as of the
+                        reporting date based on relevant information about past events, current
+                        conditions, and reasonable and supportable forecasts of future economic
+                        conditions and events.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.76" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.76</b> Broker-dealers enter into a variety of transactions where
+                        the financial asset is measured at amortized cost and are not eligible for
+                        the collateral maintenance provision practical expedient. This includes, but
+                        is not limited to, trade date receivables; receivables arising from
+                        fails-to-deliver; and revenue generating activities, such as underwriting
+                        securities, mergers and acquisitions fees, asset management fees, and other
+                        commission generating activities that generate receivables from customers,
+                        brokers, dealers, and clearing organizations. In addition, some
+                        broker-dealers enter into loans to employees and may account for accrued
+                        interest receivables in a manner that requires separate
+                        consideration.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.77" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.77</b> The amount
+                        of credit exposures arising from receivables from broker-dealers and
+                        clearing organizations is often limited because of the daily settlement that
+                        takes place. The amount owed to the broker-dealer often is for a very short
+                        period of time, which can help reduce the risk of nonperformance.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.78" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.78</b> Certain
+                        broker-dealers grant loans to employees in conjunction with programs
+                        established to recruit and retain employees. These loans are often
+                        contingent on the employees’ continued employment with the broker-dealer,
+                        amortize over a contractual service period and generally require repayment
+                        if employees leave during a contractual service period. An allowance for
+                        credit loss is estimated by considering credit quality indicators and the
+                        recoverability of outstanding loan balances from employees that have or may
+                        leave the broker-dealer. An employee loan is placed on nonaccrual status
+                        when, based on current information, it is no longer probable that the
+                        scheduled payments of principal and interest would be collected when due
+                        according to the contractual terms of the underlying loan agreement. The
+                        amortized cost basis of the employee loan is written off against the
+                        allowance for credit losses when the amount is deemed uncollectible.
+                            <ph class="- topic/ph ">
+            <fn callout="7" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn7" class="- topic/fn ">
+               <p class="- topic/p ">Disclosures around modifications, renewals, or extensions, as well
+                                as the year of origination, related to any loans should be included.
+                                Additionally, if an entity discloses internal risk ratings, they
+                                should provide qualitative information on how those internal risk
+                                ratings relate to the likelihood of loss.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_financial_assets_measured_at2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-6b1e382b-a5a4-814d-23c1-58247805ed19/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn7"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

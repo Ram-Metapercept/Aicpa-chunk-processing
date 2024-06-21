@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-8b6d33b5-9558-0d0f-66dc-611c2dae099e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Commodities Brokers</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Commodities Brokers <ph class="- topic/ph ">
+            <fn callout="59" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393063377358" class="- topic/fn ">
+               <p class="- topic/p ">Further information regarding regulatory considerations for entities
+                            that are registered with the CFTC is available at <xref scope="external" format="html" class="- topic/xref " href="http://www.cftc.gov">www.cftc.gov</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_commodities_brokers.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-8b6d33b5-9558-0d0f-66dc-611c2dae099e/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393063377358"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393063473548" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.184</b> Certain sections of the Commodity
+                    Exchange Act and CFTC regulations have been, or are in the process of, being
+                    revised, as required by the Dodd-Frank Act or in response to recent industry
+                    developments. An FCM is generally defined by CFTC regulations as an entity that
+                    solicits or accepts orders from customers for the purchase or sale of any
+                    commodity for future delivery or a swap and accepts funds from such customers to
+                    margin or secure such transactions. CFTC regulations generally define an IB as
+                    an entity that solicits or accepts customer orders for the purchase or sale of
+                    any commodity for future delivery or a swap. The main differences between an FCM
+                    and an IB are that the IB is prohibited from carrying customer funds. In
+                    addition, the capital requirements for FCMs are substantially greater than the
+                    capital requirements for an IB due to their different market roles. As of the
+                    date of this guide, the sections of the Commodity Exchange Act and CFTC
+                    regulations applicable to FCMs, with certain regulations also applicable to IBs,
+                    are as follows:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Section 4d(a)(2), "Segregation requirements"</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Section 4d(f), "Cleared swaps customer collateral"</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Section 4f(b), "Minimum financial requirements"</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Part 1 (17 U.S. CFR Ch. I, Part 1 — “General Regulations Under the
+                            Commodity Exchange Act”) including the following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.10, "Financial reports of futures commission
+                                    merchants and introducing brokers"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.11, “Risk management program for futures
+                                    commission merchants”</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.12, "Maintenance of minimum financial
+                                    requirements by futures commission merchants and introducing
+                                    brokers"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.14, "Risk assessment recordkeeping requirements
+                                    for futures commission merchants"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.15, "Risk assessment reporting requirements for
+                                    futures commission merchants"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.16, "Qualifications and reports of
+                                    accountants"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.17, "Minimum financial requirements for futures
+                                    commission merchants and introducing brokers" (also see NFA
+                                    financial requirements)</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.18, "Records for and relating to financial
+                                    reporting and monthly computation by futures commission
+                                    merchants and introducing brokers"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulations 1.20–1.30, collectively titled "Customers’ Money,
+                                    Securities, and Property"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulations 1.31–1.37, collectively titled
+                                    "Recordkeeping"</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Regulation 1.49, "Denomination of customer funds and location
+                                    of depositories"</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Part 22 (17 CFR Ch. I, Part 22), “Cleared Swaps”</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Part 23 (17 CFR Ch. I, Part 23), “Swap Dealers and Major Swap
+                            Participants”</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Part 30 (17 CFR Ch. I, Part 30), “Foreign Futures and Foreign Options
+                            Transactions,” including Regulation 30.7, “Treatment of foreign futures
+                            or foreign options secured amount”</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Part 32 (17 CFR Ch. I, Part 32), “Regulation of Commodity Option
+                            Transactions”</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Part 140 (17 CFR Ch. I, Part 140), “Organization, Functions, and
+                            Procedures of the Commission”</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

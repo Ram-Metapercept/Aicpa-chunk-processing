@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-850adf32-c107-e690-d0de-7fe6aa25514a" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Application to Financial Assets and Financial Liabilities With
+                    Offsetting Positions in Market Risks or Counterparty Credit Risk</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.17</b> Generally, the unit of account for a
+                    financial instrument is the individual financial instrument. A reporting entity
+                    should apply adjustments that are consistent with that unit of account, which
+                    generally does not include adjustments due to the size of the reporting entity’s
+                    position.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.18</b> FASB ASC 820-10-35-18D permits an
+                    exception when a reporting entity manages a group of financial assets, financial
+                    liabilities, nonfinancial items accounted for as derivatives in accordance with
+                    FASB ASC 815, <i class="+ topic/ph hi-d/i ">Derivatives and Hedging</i>, or
+                    combinations of these items, on the basis of its net exposure to either market
+                    risks or credit risk. When the criteria in FASB ASC 820-10-35-18E are met, the
+                    exception permits a reporting entity to measure the fair value of a group of
+                    financial assets and financial liabilities on the basis of the price that would
+                    be received to sell a net long position (that is, an asset) for a particular
+                    risk exposure or to transfer a net short position (that is, a liability) for a
+                    particular risk exposure in an orderly transaction between market participants
+                    at the measurement date under current market conditions. FASB ASC 820-10-35-18G
+                    states that a reporting entity should make an accounting policy decision about
+                    whether to elect to use the exception in FASB ASC 820-10-35-18D. If a reporting
+                    entity elects to use the exception, it should disclose that fact.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.19" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.19</b> When a reporting entity elects to use the
+                    exception in FASB ASC 820-10-35-18D, the unit of account valuation becomes the
+                    net open risk position. The reporting entity may apply adjustments, including
+                    adjustments due to the size of the net open risk position, consistent with
+                    market participant assumptions and in accordance with the unit of account
+                    valuation. See the “<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_accounting_model/aag-brd5_inputs_to_valuation_techniques/aag-brd5_inputs_to_valuation_techniques.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-896b7304-bd47-d2b1-de83-248f2d3be2d0">Inputs to Valuation Techniques</xref>” section of this chapter for more
+                    information.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

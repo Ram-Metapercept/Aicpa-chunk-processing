@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-453dc8af-4358-271a-8320-902eda3daa96" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Mandatorily Redeemable Instruments</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Mandatorily Redeemable Instruments <ph class="- topic/ph ">
+            <fn callout="17" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn17" class="- topic/fn ">
+               <p class="- topic/p ">The classification, measurement, and disclosure provisions of FASB ASC
+                            480, <i class="+ topic/ph hi-d/i ">Distinguishing Liabilities from
+                                Equity</i>, do not apply to certain mandatorily redeemable
+                            financial instruments issued by nonpublic entities that are not SEC
+                            registrants, as discussed in FASB ASC 480-10-15-7A. Mandatorily
+                            redeemable financial instruments issued by SEC registrants are not
+                            eligible for the scope exception. Because registered broker-dealers are
+                            required to submit financial statements to the SEC, they are within the
+                            scope of SEC registrant in this guidance and, therefore, are subject to
+                            the guidance in FASB ASC 480-10. See <xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-brd5_brokers_dealers_and_futures.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-375c6040-7d22-2d64-683b-7f75bd2d5ea5/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.135">paragraph 5.135</xref> for a discussion of Technical Questions and
+                            Answers (Q&amp;A) sections 7100.01–.16 of section 7100, <i class="+ topic/ph hi-d/i ">Definition of a Public Business Entity</i>,
+                            regarding the definition of <i class="+ topic/ph hi-d/i ">public business
+                                entity</i>.</p>
+               <p class="- topic/p ">    All Q&amp;A sections can be found in <i class="+ topic/ph hi-d/i ">Technical Questions and Answers</i>. Log in to the AICPA
+                            website to download the full text of the publication at <xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa-cima.com/resources/download/aicpa-technical-questions-and-answers-at-your-fingertips">https://www.aicpa-cima.com/resources/download/aicpa-technical-questions-and-answers-at-your-fingertips</xref>.
+                            The publication is fully searchable with bookmarking that allows users
+                            to navigate directly to a desired section.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_mandatorily_redeemable_instruments.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-453dc8af-4358-271a-8320-902eda3daa96/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn17"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.120" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.120</b> A <i class="+ topic/ph hi-d/i ">mandatorily redeemable instrument</i> is a financial
+                    instrument issued in the form of shares <ph class="- topic/ph ">
+            <fn callout="18" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn18" class="- topic/fn ">
+               <p class="- topic/p ">For the purpose of this guidance, shares include various forms of
+                            ownership that may or may not take the legal form of securities (for
+                            example, partnership interests).</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_mandatorily_redeemable_instruments.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-453dc8af-4358-271a-8320-902eda3daa96/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn18"/>
+         </ph> that embody an unconditional obligation requiring the issuer
+                        <ph class="- topic/ph ">
+            <fn callout="19" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn19" class="- topic/fn ">
+               <p class="- topic/p ">An <i class="+ topic/ph hi-d/i ">issuer</i>, for the purpose of this
+                            guidance, is the entity that issued the financial instrument.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_mandatorily_redeemable_instruments.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-453dc8af-4358-271a-8320-902eda3daa96/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn19"/>
+         </ph> to redeem the instrument by transferring its assets at specified or
+                    determinable date(s) or upon an event that is certain to occur. FASB ASC 480,
+                        <i class="+ topic/ph hi-d/i ">Distinguishing Liabilities from Equity</i>,
+                    establishes standards for how an issuer classifies and measures in its statement
+                    of financial position certain financial instruments with characteristics of both
+                    liabilities and equity. FASB ASC 480-10-25 requires that an issuer classify a
+                    financial instrument within its scope as a liability (or an asset in some
+                    circumstances) because that financial instrument embodies an obligation of the
+                    issuer.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.121" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.121</b> Such
+                    obligation as mentioned in the previous paragraph may arise from the terms of an
+                    operating agreement, a partnership, or an incorporation agreement or the
+                    operation of state law.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.122" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.122</b> Under FASB ASC
+                    480-10, broker-dealers that have issued shares that must be sold back to the
+                    company upon the holder’s death or termination of employment should record those
+                    shares as liabilities, rather than equity because the shares are mandatorily
+                    redeemable upon an event certain to occur. As a result, some broker-dealers may
+                    report minimal or no equity in their GAAP financial statements. From a
+                    regulatory standpoint, application of FASB ASC 480 can cause a broker-dealer to
+                    fall below its minimum net capital requirements under SEC Rule 15c3-l(a) or
+                    cause its subordinated debt to debt-equity total to increase above the 70% limit
+                    set forth in Rule 15c3-l(d). Broker-dealers may have amended, partnership,
+                    operating (such as limited liability company), shareholder, or other agreements
+                    to avoid the potential adverse impacts of FASB ASC 480 on net capital.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

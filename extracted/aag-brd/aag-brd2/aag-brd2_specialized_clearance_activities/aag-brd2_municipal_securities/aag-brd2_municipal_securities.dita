@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-c74ad0c5-de4c-f288-a8b5-966264f1ca76" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Municipal Securities</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.110" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.110</b> The clearance
+                    and settlement process for municipal securities is very similar to that for
+                    equities and corporate bonds. Most securities clear through the NSCC, and issues
+                    that are depository eligible normally settle by book entry.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.111" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.111</b> However,
+                    certain factors make the municipal securities market unique. The most
+                    significant are the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Municipal securities, other than new issues, settle trade for trade
+                            rather than CNS because the Municipal Securities Rulemaking Board (MSRB)
+                            prohibits partial settlements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">MSRB real-time transaction reporting requires brokers, dealers, and
+                            municipal securities dealers to report most transactions within 15
+                            minutes of execution.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">MSRB rules limit the buy-in period for aged fails-to-receive to 90
+                            business days without full cooperation with the contra party. If a
+                            buy-in has not been completed within that time, the contra broker-dealer
+                            cannot be held liable for any losses incurred.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Many municipal securities are not depository eligible and, therefore,
+                            require physical settlements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Because of the tax exempt status of municipal securities, they are
+                            generally not sold short and are not actively loaned or borrowed.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

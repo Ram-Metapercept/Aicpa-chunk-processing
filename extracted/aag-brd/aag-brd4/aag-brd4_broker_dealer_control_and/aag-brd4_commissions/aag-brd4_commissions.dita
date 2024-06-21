@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-ca384488-44c5-c41e-c36b-68d0ae2057ba" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Commissions</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.57" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.57</b> Many
+                    broker-dealers earn commissions and fees from executing and clearing client
+                    transactions on stocks, bonds, options, and futures markets. Some of the control
+                    and monitoring activities that are typically associated with such transactions
+                    include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Sending statements to customers that provide account information (for
+                            example, statement period, account number, customer contact information,
+                            clearing firm and contact information, summary of the client holdings,
+                            recent market value of client holdings, income [gains and losses], fees
+                            charged, account activity [trading activity, movement of money or
+                            securities, and the beginning and ending balance for the statement
+                            period], margin, and other portfolio level detail), and reconciling or
+                            investigating any variances identified by the customer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Mailing or electronically delivering trade confirmations to customers
+                            and reporting any misstatements noted by customers.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Maintaining and reviewing a customer complaint log.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Maintaining an approved commission rates table, including approvals
+                            for any subsequent changes made to such tables.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Maintaining and reviewing information used in determining the
+                            calculation of commissions revenue, including IT system source data and
+                            calculation logic.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

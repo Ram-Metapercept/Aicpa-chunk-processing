@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_UUID-bc00882c-d400-cc58-09c1-2cafe577b029" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Accounting Content</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">FinREC is the designated senior committee of the AICPA authorized to speak for the
+                AICPA in the areas of financial accounting and reporting. Conforming changes made to
+                the financial accounting and reporting guidance contained in this guide are approved
+                by the FinREC chair (or the FinREC chair’s designee). Updates made to the financial
+                accounting and reporting guidance in this guide exceeding that of conforming changes
+                are approved by the affirmative vote of at least two-thirds of the members of
+                FinREC.</p>
+      <p class="- topic/p ">This guide does the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Identifies certain requirements set forth in the FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                            Codification</i>
+               <sup class="+ topic/ph hi-d/sup ">®</sup> (ASC).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Describes FinREC’s understanding of prevalent or sole industry practice
+                        concerning certain issues. In addition, this guide may indicate that FinREC
+                        expresses a preference for the prevalent or sole industry practice, or it
+                        may indicate that FinREC expresses a preference for another practice that is
+                        not the prevalent or sole industry practice; alternatively, FinREC may
+                        express no view on a matter.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Identifies certain other, but not necessarily all, industry practices
+                        concerning certain accounting issues without expressing FinREC’s views on
+                        them.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Provides guidance that has been supported by FinREC on the accounting,
+                        reporting, or disclosure treatment of transactions or events that are not
+                        set forth in the FASB ASC.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Accounting guidance for nongovernmental entities included in an AICPA guide is a
+                source of nonauthoritative accounting guidance. FASB ASC is the authoritative source
+                of U.S. accounting and reporting standards for nongovernmental entities, in addition
+                to guidance issued by the SEC. AICPA members should be prepared to justify
+                departures from GAAP, as discussed in the “Accounting Principles Rule” (<xref format="dita" class="- topic/xref " href="../../../ps/code_of_professional_conduct_revised/et-cod_part1/et-cod1.320/et-cod1.320.001/et-cod1.320.001.dita#UUID-c26439e4-a790-9dc4-46bf-90407b41f06b_UUID-6d9ce657-4cf6-1020-b1f9-094a5a4d7557">ET sec. 1.320.001</xref> and <xref format="dita" class="- topic/xref " href="../../../ps/code_of_professional_conduct_revised/et-cod_part2/et-cod2.320/et-cod2.320.001/et-cod2.320.001.dita#UUID-00cfc519-c197-10f0-9971-3b1811537224_UUID-72869581-effb-dd80-b710-c499905c002d">2.320.001</xref>) of the AICPA Code of Professional Conduct. <ph class="- topic/ph ">
+            <fn callout="1" class="- topic/fn ">
+               <p class="- topic/p ">All ET sections can be found in AICPA <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">
+                     <i class="+ topic/ph hi-d/i ">Professional Standards</i>
+                  </xref>. <unknown id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_N661755d17d1f5" class="- topic/unknown ">AICPA Professional Standards</unknown>
+               </p>
+            </fn>
+         </ph>
+         <unknown id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_N661755d177cbb" class="- topic/unknown ">1.320.001    Accounting Principles Rule</unknown>
+         <unknown id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_N661755d17ac93" class="- topic/unknown ">2.320.001    Accounting Principles Rule</unknown>
+      </p>
+      <p class="- topic/p ">AICPA guides also include guidance from <i class="+ topic/ph hi-d/i ">Technical Questions and
+                    Answers</i> (Q&amp;A). <ph class="- topic/ph ">
+            <fn callout="2" class="- topic/fn ">
+               <p class="- topic/p ">Log in to the AICPA website to download the full text of the publication
+                        at <xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa-cima.com/resources/download/aicpa-technical-questions-and-answers-at-your-fingertips">https://www.aicpa-cima.com/resources/download/aicpa-technical-questions-and-answers-at-your-fingertips</xref>.
+                        The publication is fully searchable with bookmarking that allows users to
+                        navigate directly to a desired section.</p>
+            </fn>
+         </ph> The Q&amp;As are not sources of authoritative accounting principles as
+                described in the FASB ASC but have been included to reflect selected practice
+                matters identified by the staff of the AICPA's Technical Hotline and various other
+                bodies within the AICPA. These Q&amp;As have not been approved, disapproved, or
+                otherwise acted upon by any senior technical committee of the AICPA.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

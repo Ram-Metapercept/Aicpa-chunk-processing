@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE aicpa-topic
+  PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd">
+<aicpa-topic id="UUID-eadce514-abc4-c445-1171-5c783c14abad">
+   <title>AICPA Accounting Guide: Brokers and Dealers in Securities</title>
+   <titlealts>
+      <navtitle>Brokers and Dealers in Securities [AAG-BRD]</navtitle>
+   </titlealts>
+   <abstract>
+      <p>
+         <i>AAG-BRD</i>
+      </p>
+   </abstract>
+   <body>
+      <p>2023</p>
+      <p>American Institute of Certified Public Accountants. All rights
+                reserved.</p>
+      <p>For information about the procedure for requesting permission to make copies of
+                any part of this work, please email copyright-permissions@aicpa-cima.com with your
+                request. Otherwise, requests should be written and mailed to Permissions Department,
+                220 Leigh Farm Road, Durham, NC 27707-8110 USA.</p>
+      <p>ISBN ISBN 978-1-95515-945-6</p>
+   </body>
+   <related-links>
+      <linklist type="inline-links">
+         <desc>Inline Links</desc>
+         <link>
+            <linktext>Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions">
+         <desc>FAQs</desc>
+         <link>
+            <linktext>Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights">
+         <desc>Industry Insights</desc>
+         <link>
+            <linktext>Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links">
+         <desc>Examples</desc>
+         <link>
+            <linktext>Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links">
+         <desc>Templates</desc>
+         <link>
+            <linktext>Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

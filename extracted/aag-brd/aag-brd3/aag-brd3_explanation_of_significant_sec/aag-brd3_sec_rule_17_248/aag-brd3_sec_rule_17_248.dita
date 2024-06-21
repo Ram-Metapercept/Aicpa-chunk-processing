@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-503ea798-344c-0429-d6c5-5e96dea641b5" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">SEC Rule 17-248 — Subpart C, "Regulation S-ID: Identity Theft Red
+                    Flags"</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_aag-brd3.96" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.96</b> In accordance
+                    with the rulemaking mandated by the Dodd-Frank Act, in April 2013 the SEC added
+                    Subpart C “Regulation S-ID: Identity Theft Red Flags” to SEC Rule 17-248, at the
+                    same time the CFTC added Subpart C “Identity Theft Red Flags” to CFTC Regulation
+                    17-162. The following are the two main provisions addressed:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Financial institutions and creditors <ph class="- topic/ph ">
+                  <fn callout="33" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393041713494" class="- topic/fn ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Financial institution</i> or
+                                        <i class="+ topic/ph hi-d/i ">creditor</i>, as defined in
+                                    the Fair Credit Reporting Act (Title 15 <i class="+ topic/ph hi-d/i ">U.S. Code</i> [USC] Part 1681), is (<i class="+ topic/ph hi-d/i ">a</i>) a broker, dealer, or any other
+                                    person that is registered or required to be registered under the
+                                    1934 Act, (<i class="+ topic/ph hi-d/i ">b</i>) an investment
+                                    company that is registered or required to be registered under
+                                    the Investment Company Act of 1940 that has elected to be
+                                    regulated as a business development company under that act, or
+                                    that operates as an employees’ securities company under that
+                                    act, or (<i class="+ topic/ph hi-d/i ">c</i>) an investment
+                                    adviser that is registered or required to be registered under
+                                    the Investment Advisers Act of 1940.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-brd3_sec_rule_17_248.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-503ea798-344c-0429-d6c5-5e96dea641b5/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393041713494"/>
+               </ph> are required to develop and implement a written identity
+                            theft prevention program designed to detect, prevent, and mitigate
+                            identity theft in connection with certain existing accounts or the
+                            opening of new accounts. The program must be appropriate to the size and
+                            complexity of the financial institution or creditor and the nature and
+                            scope of its activities. The rules include guidelines to assist entities
+                            in the formulation and maintenance of programs that would satisfy the
+                            requirements of the rules.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Special requirements for any credit and debit card issuers are subject
+                            to the commissions’ respective enforcement authorities to assess the
+                            validity of notifications of changes of address under certain
+                            circumstances.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

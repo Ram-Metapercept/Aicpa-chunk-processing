@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_UUID-d35d1237-3128-71df-5619-7338226b5909" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Revenue Recognition</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">The AICPA formed 16 industry task forces to assist in developing an accounting
+                    guide on revenue recognition that provides helpful hints and illustrative
+                    examples for how to apply the standard. In this guide, revenue recognition
+                    implementation issues are directly referenced from <xref format="dita" class="- topic/xref " href="../../../../aag-rev/aag-rev5/aag-rev5.dita#UUID-7b2cd9ad-bdfc-160c-4bd5-3aa944d08d4c">chapter 5</xref>, “Brokers and Dealers in Securities,” of AICPA Audit and
+                    Accounting Guide <i class="+ topic/ph hi-d/i ">Revenue Recognition</i> (as
+                    published in 2022). <unknown id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_N661755d1822f9" class="- topic/unknown ">Chapter 5</unknown>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-89fb7636-2763-6295-b240-e60762c75eba" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Brokerage</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.65" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.65</b> Broker-dealers can earn commissions by
+                    buying or selling securities and commodities on their customers' behalf.
+                    Broker-dealers' handling of customers' funds and securities is subject to rules
+                    administered by the SEC, the Board of Governors of the Federal Reserve System
+                    (Federal Reserve Board), and self-regulatory organizations. Although the
+                    specific definition of the term <i class="+ topic/ph hi-d/i ">customer</i>
+                    varies in the SEC's rules, SEC Rule 15c3-3 defines customer as “any person from
+                    whom or on whose behalf a broker or dealer has received or acquired or holds
+                    funds or securities for the account of that person.” The rule excludes certain
+                    categories of persons from the definition, including broker-dealers, municipal
+                    securities dealers, and government securities broker-dealers. It also excludes
+                    general partners, directors, and principal officers of the broker-dealer and any
+                    other person to the extent that person has a claim for property or funds which
+                    by contract, agreement or understanding, or by operation of law, is part of the
+                    capital of the broker-dealer or is subordinated to the claims of creditors of
+                    the broker-dealer.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.66" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.66</b> Broker-dealers regularly finance the
+                    transactions of their customers. The initial extension of credit by
+                    broker-dealers is governed by Regulation T of the Federal Reserve Board.
+                    Regulation T classifies transactions into specifically defined accounts. Most
+                    transactions with customers are done in cash or margin accounts.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.67" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.67</b> <i class="+ topic/ph hi-d/i ">Cash
+                        account</i>. In a cash account, the customer pays in full within a
+                    specified settlement period for any security purchased. Regulation T generally
+                    requires cash payment by the customer for the purchase of securities within two
+                    business days after settlement date; however, a self-regulatory organization or
+                    national securities association may grant an extension of time before payment is
+                    required. If the customer does not make timely payment for the securities,
+                    Regulation T requires the broker-dealer to promptly cancel or liquidate the
+                    transaction. In general, the broker-dealer will hold the customer responsible
+                    for any resulting loss.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.68" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.68</b> If a customer sells securities, the
+                    customer must promptly deliver the certificates to the broker-dealer. Either the
+                    proceeds of a sale will be credited to the customer's account on the settlement
+                    date, or if requested, a disbursement check will be sent to the customer. In
+                    general, under SEC Rule 15c3-3, if the broker-dealer does not receive the
+                    securities sold within 10 business days of the settlement date, the
+                    broker-dealer is required to close the transaction with the customer by
+                    purchasing securities of like kind and quantity. Again, the broker-dealer will
+                    hold the customer responsible for any resulting loss.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.69" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.69</b> <i class="+ topic/ph hi-d/i ">Margin
+                        accounts</i>. Under Regulation T, the broker-dealer is required to
+                    record the purchase or sale of securities by customers on other-than-immediate
+                    cash settlement terms in a margin account. A purchase on margin contemplates a
+                    prolonged extension of credit to the customer by the broker-dealer. The maximum
+                    amount of initial credit is prescribed by Regulation T. The maximum amount of
+                    credit the broker-dealer can extend beyond the initial transaction is prescribed
+                    by the rules of the appropriate self-regulatory organization. Customer margin
+                    requirements relating to securities futures are prescribed by joint final rules
+                    issued by the SEC and the CFTC in August 2002.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.70" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.70</b> If the amount of equity in the customer's
+                    account is below the amount required to cover the initial margin, Regulation T
+                    requires the broker-dealer to eliminate the margin deficiency within five
+                    calendar days after it was created or increased. When a deficiency arises, the
+                    broker-dealer will normally issue a call for margin from the customer.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.71" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.71</b> The customer can satisfy the margin call
+                    by making additional margin deposits of cash or securities. If the customer does
+                    not make the deposits within the specified time, including approved extensions
+                    of time by a self-regulatory organization or national securities association,
+                    Regulation T requires the broker-dealer to liquidate securities sufficient to
+                    satisfy the required margin. Broker-dealers also have self-imposed margin
+                    requirements that are generally more stringent than the Federal Reserve System
+                    or self-regulatory organization requirements.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.72" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.72</b> <i class="+ topic/ph hi-d/i ">Accounts carried
+                        for other brokers</i>. Clearing brokers maintain the customer
+                    accounts of introducing brokers. <i class="+ topic/ph hi-d/i ">Fully disclosed
+                        accounts</i> are accounts of the introducing broker's customers
+                    carried on the books of a clearing broker. In a fully disclosed account, the
+                    introducing broker's customers are treated as if they were the clearing broker's
+                    own customers, except that correspondence to customers usually refers to the
+                    introducing broker by including a phrase such as "through the courtesy of
+                        [<i class="+ topic/ph hi-d/i ">the introducing broker's name</i>]." The
+                    clearing broker maintains the customers' accounts and is usually responsible for
+                    collecting the purchase price, commission, and other fees from the customers.
+                    However, the introducing broker generally indemnifies the clearing broker for
+                    uncollected amounts from any resulting unsecured accounts of the introducing
+                    broker's customers. The clearing broker and the introducing broker enter into a
+                    contract that describes the distribution of commissions between brokers.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.73" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.73</b> In contrast, an <i class="+ topic/ph hi-d/i ">omnibus account</i> is an account of the introducing broker that is
+                    carried on the books of the clearing broker and represents the sum of the
+                    activity of customers of the introducing broker. The introducing broker's
+                    customer accounts are carried separately on the books of the introducing broker.
+                    For an omnibus account, the introducing broker prepares and sends confirmations
+                    and monthly statements to customers, maintains customers' accounts and margin
+                    records, and retains most of the responsibility for compliance with regulatory
+                    matters.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

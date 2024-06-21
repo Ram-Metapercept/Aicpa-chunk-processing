@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8ee7ee6b-4a9b-86bb-0192-e9491620fe72" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Transfers of Financial Assets</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.81" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.81</b> FASB ASC 860,
+                    Transfers and Servicing, establishes accounting and reporting standards for
+                    transfers and servicing of recognized financial assets, including sales of
+                    financial assets, secured borrowings and collateral, and servicing assets and
+                    liabilities. As noted in FASB ASC 860-10-05-4, transfers of financial assets
+                    often occur in which the transferor has some continuing involvement either with
+                    the assets transferred or the transferee. This situation raises issues about the
+                    circumstances under which a transfer should be considered a sale of financial
+                    assets rather than a secured borrowing and how transferees and transferors
+                    should account for such transactions.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.82" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.82</b> Broker-dealers
+                    enter into a variety of transactions that may be required to be accounted for
+                    either as sales of securities or secured borrowings, <ph class="- topic/ph ">
+            <fn callout="8" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn8" class="- topic/fn ">
+               <p class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Secured borrowings</i>, as that term is
+                            used in FASB ASC 860, <i class="+ topic/ph hi-d/i ">Transfers and
+                                Servicing</i>, are also sometimes referred to as
+                            collateralized financings.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_transfers_of_financial_assets.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8ee7ee6b-4a9b-86bb-0192-e9491620fe72/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn8"/>
+         </ph> depending on the terms of the particular transaction. These
+                    arrangements include securities borrowing and lending transactions, repo and
+                    reverse repo agreements, dollar repurchase agreements (dollar rolls), and
+                    fractional shares. <ph class="- topic/ph ">
+            <fn callout="9" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn9" class="- topic/fn ">
+               <p class="- topic/p ">Consistent with the March 2022 AICPA Stockbrokerage and Investment
+                            Banking Expert Panel meeting highlights, individual facts and
+                            circumstances need to be considered to determine the appropriate
+                            presentation of fractional shares within the company’s financial
+                            statements, including determining whether the broker-dealer is acting as
+                            a principal rather than as an agent in the transaction and, if deemed to
+                            be acting as a principal, the corresponding potential impact of FASB ASC
+                            860 as a result of offering fractional shares to customers. If acting as
+                            principal and where the criteria for derecognition is not met under FASB
+                            ASC 860, the accounting analysis may cause the broker-dealer to record
+                            financial assets for the fractional shares held by its customers (the
+                            “financial assets”) and corresponding financial liabilities, which
+                            represent secured borrowings (the “financial liabilities”) on the
+                            broker-dealer’s statement of financial condition. The broker-dealer may
+                            also need to consider whether the statement of operations is impacted
+                            based on the accounting conclusions reached.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_transfers_of_financial_assets.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8ee7ee6b-4a9b-86bb-0192-e9491620fe72/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn9"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.83" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.83</b> Securities
+                    lending transactions are documented as loans of securities in which the borrower
+                    of securities generally is required to provide collateral, commonly cash but
+                    sometimes other securities or standby letters of credit, to the lender of
+                    securities. The collateral provided will have a value slightly higher than that
+                    of the securities borrowed. If the collateral is cash, the lender of securities
+                    typically earns a return by investing that cash at rates higher than the rate
+                    paid or rebated to the borrower. If the collateral is other than cash, the
+                    lender of securities typically receives a fee.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.84" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.84</b> Repo and reverse
+                    repo agreements are structured such that they are documented legally as sales or
+                    purchases of securities with forward purchase or sales contracts. In a repo
+                    agreement, a security is sold with an agreement to repurchase the security from
+                    the buyer; in a reverse repo agreement, a security is purchased with an
+                    agreement to resell the security to the seller-lender at a stated price plus
+                    interest at a specific date or in specified circumstances. <ph class="- topic/ph ">
+            <fn callout="10" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn10" class="- topic/fn ">
+               <p class="- topic/p ">In certain industries, the terminology is reversed.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd5_transfers_of_financial_assets.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8ee7ee6b-4a9b-86bb-0192-e9491620fe72/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-brd5-fn10"/>
+         </ph> In general, most repo and reverse repo agreements are accounted for
+                    as financings, disregarding the legal form of the agreement.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-brd5.85" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.85</b> The FASB ASC
+                    Master Glossary defines <i class="+ topic/ph hi-d/i ">dollar roll repurchase
+                        agreements</i> (dollar rolls) as agreements to sell and repurchase
+                    similar but not identical securities. The securities sold and repurchased are
+                    usually of the same issuer. Dollar rolls differ from regular repurchase
+                    agreements in that the securities sold and repurchased have all of the following
+                    characteristics:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">They are represented by different certificates.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">They are collateralized by different but similar mortgage pools (for
+                            example, conforming single-family residential mortgages).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">They generally have different principal amounts.</p>
+         </li>
+      </ol>
+      <p class="- topic/p ">Fixed coupon and yield maintenance dollar agreements compose the most common
+                    agreement variations. In a fixed coupon agreement, the seller and buyer agree
+                    that delivery will be made with securities having the same stated interest rate
+                    as the interest rate stated on the securities sold. In a yield maintenance
+                    agreement, the parties agree that delivery will be made with securities that
+                    will provide the seller a yield that is specified in the agreement.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

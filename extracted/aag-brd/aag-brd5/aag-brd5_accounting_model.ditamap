@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE aicpa-map PUBLIC "-//PWC//DTD DITA AICPA Map//EN" "aicpa-map.dtd">
+<aicpa-map id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-a930bba1-5892-c6cb-2c83-1518246edad8">
+    <topicref href="aag-brd5_accounting_model/aag-brd5_accounting_model.dita" format="dita" navtitle="Accounting Model">
+        <topicref href="aag-brd5_accounting_model/aag-brd5_definition_of_fair_value.ditamap" format="ditamap" navtitle="Definition of Fair Value" copy-to="Definition-of-Fair-Value" chunk="to-content"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_application_to_liabilities.ditamap" format="ditamap" copy-to="Application-of-Fair-Value" navtitle="Application of Fair Value Measurement to Liabilities and Instruments Classified in a Reporting Entity’s Shareholders’ Equity" chunk="to-content"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_valuation_techniques.ditamap" format="ditamap" navtitle="Valuation Techniques" copy-to="Valuation-Techniques" chunk="to-content"/>
+<!--        <topicref href="aag-brd5_accounting_model/aag-brd5_inputs_to_valuation_techniques.ditamap"
+            format="ditamap" navtitle="Inputs to Valuation Techniques"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_application_to_financial_assets.ditamap"
+            format="ditamap"
+            navtitle="Application to Financial Assets and Financial Liabilities With Offsetting Positions in Market Risks or Counterparty Credit Risk"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_inputs_based_on_bid.ditamap"
+            format="ditamap" navtitle="Inputs Based on Bid and Ask Prices"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_present_value_techniques.ditamap"
+            format="ditamap" navtitle="Present Value Techniques"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_the_fair_value_hierarchy.ditamap"
+            format="ditamap" navtitle="The Fair Value Hierarchy"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_fair_value_measurements_of.ditamap"
+            format="ditamap"
+            navtitle="Fair Value Measurements of Investments in Certain Entities That Calculate Net Asset Value per Share (or Its Equivalent)"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_fair_value_determination_when.ditamap"
+            format="ditamap"
+            navtitle="Fair Value Determination When the Volume or Level of Activity Has Significantly Decreased"/>
+        <topicref href="aag-brd5_accounting_model/aag-brd5_fair_value_option.ditamap"
+            format="ditamap" navtitle="Fair Value Option"/>-->
+    </topicref>
+</aicpa-map>

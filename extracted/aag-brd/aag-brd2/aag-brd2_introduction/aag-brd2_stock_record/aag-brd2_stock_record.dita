@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-c21aa55d-08a7-a021-d2f0-84849ad1f3ed" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Stock Record</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.08</b> The <i class="+ topic/ph hi-d/i ">stock record</i> is a double-entry accounting system
+                    for shares of stock, option contracts, or principal amounts of debt by security
+                    issue. It is a record of accountability reflecting all securities for which the
+                    firm has custodial responsibility or proprietary ownership. The stock record
+                    should balance the way a general ledger balances: debits and credits are equal
+                    in the general ledger; likewise, long positions and short positions should equal
+                    in the stock record. See the "<xref format="dita" class="- topic/xref " href="../../../../aag-brd/aag-brd2/aag-brd2_illustrative_stock_record_entries/aag-brd2_illustrative_stock_record_entries.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-2c6d294f-3e40-6867-7bc9-256e370a6694">Illustrative Stock Record Entries</xref>" section of this chapter, which
+                    shows how transactions are recorded in the stock record.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.09</b> A long position
+                    in the stock record indicates ownership of the security or the right of
+                    possession. The most common positions on the long side of the stock record are
+                    the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Customer (securities owned by customer)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Firm (securities held in inventory for the broker-dealer's own account
+                            and risk)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reverse repurchase agreements (also known as resale agreements or
+                            reverse repos)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Fail-to-deliver (securities sold to or through another broker-dealer
+                            but not delivered)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Securities borrowed from another broker-dealer or customer</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.10</b> A short position
+                    in the stock record indicates either the location of the securities or the
+                    responsibility of other parties to deliver them to the broker-dealer. Every
+                    security owned or held by the broker-dealer should be accounted for by its
+                    location. The following list includes the most common short positions:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Box</i>. Securities are physically
+                            located at the broker-dealer's own location, typically in the cashier's
+                            cage.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Vault</i>. Securities are physically
+                            located at the broker-dealer's own location in a secured area or a bank
+                            safe deposit box.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Depositories</i>. Securities are on
+                            deposit at a depository, such as the DTC (a subsidiary of the DTCC), or
+                            a custodian bank.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Transfer</i>. Securities are at a
+                            transfer agent being reregistered.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Fail-to-receive</i>. The broker-dealer
+                            has purchased securities that have not yet been received.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Securities loaned</i>. Securities have
+                            been loaned to another broker-dealer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Customer short</i>. A customer sold
+                            securities, but delivery has not yet been made.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Firm short</i>. The broker-dealer sold
+                            a security it does not own.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Repurchase agreements</i> (repos).
+                            Securities are sold with an agreement to purchase the securities at a
+                            specified price at a future date.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Bank loan</i>. Securities are held on
+                            deposit at a bank and pledged as collateral for a loan.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.11</b> The stock record
+                    lists securities by security number, normally by Committee on Uniform Security
+                    Identification Procedures (or CUSIP) number or International Securities
+                    Identification Number (ISIN), and, for each securities position, the accounts
+                    that are long or short in terms of shares (for stocks and mutual funds);
+                    principal amounts (for bonds, treasuries, and other debt securities); or number
+                    of contracts (for options). A stock record summary indicating all account
+                    positions in the security and an activity list indicating daily changes in the
+                    stock record are tabulated daily by the broker-dealer.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.12</b> The chart of
+                    accounts is the key to reading and understanding the stock record because
+                    transactions are recorded by account numbers and quantities. Many accounts can
+                    have both securities positions and related money balances. However, certain
+                    accounts (such as box, vault, transfer, and depository locations) have only
+                    security positions without related money balances.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

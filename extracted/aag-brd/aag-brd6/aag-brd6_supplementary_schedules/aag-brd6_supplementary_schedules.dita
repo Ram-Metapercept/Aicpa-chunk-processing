@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-de9f9ea0-e463-5b8d-cada-c7ed054b156d" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Supplementary Schedules</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.32</b> Certain
+                supplementary schedules are required to be filed along with, and as of the same date
+                as, the audited financial statements, when submitting the audited financial
+                statements to certain regulators, such as the SEC. These supplementary schedules
+                should be presented in the format that presents the relevant details required by
+                applicable SEC rules (for example, Rule 17a-5). The independent public accountant's
+                report is required to cover these schedules. See <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd6/aag-brd6_financial_statements_and_schedules/aag-brd6_financial_statements_and_schedules.dita#UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-c1b420e1-5f7a-64d9-dd15-ae46cbfe5889/UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6_exhibit_9">exhibit 6-9</xref> for illustrative examples of these supplementary schedules,
+                as applicable.</p>
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_aag-brd6.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.33</b> For the following
+                supplementary schedules, a reconciliation is required if material differences exist
+                between the computations reported on by the independent auditor and the computations
+                filed previously by the broker-dealer in the original unaudited FOCUS report. If no
+                material differences exist, a statement to that effect should be made in the
+                schedule(s). However, it should be noted that as permitted under the "SEC Letter to
+                New York Stock Exchange (NYSE)" dated April 24, 1987, if a broker-dealer files an
+                amended FOCUS report that contains the reconciliation and explanation of material
+                differences between the amended report and original report, the independent
+                accountant’s report may be reconciled with the amended FOCUS report and would
+                include a statement about whether any material differences exist between the amended
+                FOCUS report and the audited financial statements. The date of the amended FOCUS
+                filing must also be included.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

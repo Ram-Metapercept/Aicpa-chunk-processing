@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-889371fa-c3fc-9cb7-f04b-49f587d4a6f4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Reverse Repos and Repos</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.158" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.158</b> Reverse repos
+                    are similar to securities borrowed transactions, except that reverse repos are
+                    generally executed with government and government agency securities. Securities
+                    are usually borrowed to make deliveries on short sales, whereas reverse repos
+                    are frequently related to investment activities as well as meeting delivery
+                    requirements. <ph class="- topic/ph ">
+            <fn callout="11" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-footnote-idm53392903443444" class="- topic/fn ">
+               <p class="- topic/p ">Reverse repurchase agreements discussed in this guide are usually
+                            referred to as repurchase agreements by the investment company and
+                            banking industries.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd2_reverse_repos_and_repos.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-889371fa-c3fc-9cb7-f04b-49f587d4a6f4/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-footnote-idm53392903443444"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.159" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.159</b> In a reverse
+                    repo transaction, a broker-dealer receives securities for a stated price from
+                    another party and agrees to sell them to the same party at a later date
+                        (<i class="+ topic/ph hi-d/i ">a</i>) at the same price plus interest at a
+                    stated rate or (<i class="+ topic/ph hi-d/i ">b</i>) at a higher price. The
+                    higher price reflects the interest earned on the contract price for the number
+                    of days the contract is outstanding.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.160" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.160</b> The party
+                    entering into a reverse repo does not own the securities. Accordingly, the
+                    reverse repo is treated as a collateralized receivable rather than an inventory
+                    position. The party selling the securities with the commitment to repurchase
+                    maintains most incidences of ownership.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.161" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.161</b> In a repo, a
+                    broker-dealer sells securities at a stated price to another broker or a customer
+                    and agrees to repurchase an identical security at a later date at the same price
+                    plus interest at a stated rate or at a higher price, which reflects the interest
+                    on the principal amount borrowed.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.162" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.162</b> The rights of
+                    parties involved in a repo or reverse repo transaction depend on the particular
+                    terms and conditions of the transactions that are documented in a written
+                    agreement or transaction confirmation. Most firms use a standard agreement
+                    developed by the Securities Industry and Financial Markets Association (formerly
+                    the Bond Market Association). The use of standardized documentation diminishes
+                    uncertainties for such transactions. Written agreements should describe the
+                    transaction, the terms and conditions of the contract, and the rights of the
+                    parties, including the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The names of the parties</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The quantity and a description of the securities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Interest, or the formula for determining interest to be paid or
+                            received</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The date and terms of delivery or receipt</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Provisions for marking to market and margin requirements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The terms of loan or the conditions for return or recall</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The capacity of the parties as principal or agent</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The right and ability of the purchaser of the securities to substitute
+                            like securities for repurchase on the repurchase date</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A description of events of default that would permit the purchaser or
+                            seller to liquidate or purchase the underlying securities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A description of the rights of any trustee or custodian who may hold
+                            the underlying securities during the life of the agreement</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A description of the party that is to have title to the underlying
+                            securities during the term of the agreement</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Timely correction of mark-to-market deficiencies or excesses and a
+                            description of the method of computing mark-to-market
+                            requirements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The right of offset</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.163" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.163</b> The accounting
+                    records should include details of all securities in repo and reverse repo
+                    transactions showing the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Amount of the contract</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Dates of delivery or receipt</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Identification of counterparties</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Dates and amounts of mark-to-market and dates the securities are to be
+                            recalled or returned</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

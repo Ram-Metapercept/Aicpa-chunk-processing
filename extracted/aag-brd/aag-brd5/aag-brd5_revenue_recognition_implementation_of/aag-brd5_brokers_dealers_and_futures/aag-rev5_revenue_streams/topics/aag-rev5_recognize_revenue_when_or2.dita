@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-6bf9e488-1a35-e024-051c-a619a7e124c7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Recognize Revenue When (or as) the Entity Satisfies a
+                                Performance Obligation</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.57" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+                                5.6.57</b> In accordance with FASB ASC 606-10-25-27, a
+                                performance obligation is satisfied over time if one of the
+                                following criteria is met [analysis added]:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The issuer simultaneously receives and consumes the
+                                        benefits provided by the broker-dealer’s performance as the
+                                        broker-dealer performs the underwriting service.</p>
+            <p class="- topic/p ">A broker-dealer should evaluate if another entity would
+                                        not need to substantially reperform the work that the
+                                        broker-dealer has completed to date if the other entity were
+                                        to provide the securities underwriting services. That is, if
+                                        another entity replaced the broker-dealer, would the other
+                                        entity need to substantially reperform the broker-dealer’s
+                                        performance to date? In a typical securities underwriting
+                                        arrangement, another entity would generally not rely on the
+                                        previous broker-dealer’s services to date. Rather, the other
+                                        entity would perform its own services, which may include its
+                                        own due diligence of the issuer, sales and marketing
+                                        activities with its own investors, and its own securities
+                                        pricing analysis. Therefore, the performance of these
+                                        activities prior to the underwriter purchasing securities
+                                        from the issuer typically does not transfer a benefit to the
+                                        issuer as those tasks are performed.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer’s performance creates or enhances an
+                                        asset controlled by the issuer as the asset is created or
+                                        enhanced.</p>
+            <p class="- topic/p ">Securities underwriting services do not create or enhance
+                                        an asset controlled by the issuer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer’s performance does not create an asset
+                                        with an alternative use to the broker-dealer, and the
+                                        broker-dealer has an enforceable right to payment for
+                                        performance completed to date.</p>
+            <p class="- topic/p ">Securities underwriting services are unique to each issuer
+                                        because the services are based on the issuer’s specific
+                                        facts and circumstances. Generally, a broker-dealer would
+                                        incur significant costs in redesigning the underwriting
+                                        services for another issuer based on that issuer’s specific
+                                        facts and circumstances. These services would not create an
+                                        asset that the broker-dealer would be able to use in the
+                                        future. To meet this requirement, a broker-dealer must also
+                                        have an enforceable right to payment in an amount that
+                                        approximates the selling price (that is, recovery of its
+                                        cost plus a reasonable margin) for services completed to
+                                        date. In a typical underwriting agreement, a broker-dealer
+                                        will not have an enforceable right to payment until the
+                                        consummation of the securities issuance and therefore has no
+                                        right to payment for the services performed prior to such
+                                        date.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.58" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.58</b> Based on the analysis in <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_recognize_revenue_when_or2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-6bf9e488-1a35-e024-051c-a619a7e124c7/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.57">paragraph 5.6.57</xref>, FinREC believes securities
+                                underwriting transactions generally do not meet any of the
+                                requirements for revenue to be recognized over time. Therefore, a
+                                broker-dealer would generally recognize securities underwriting
+                                revenue at a point in time.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.59" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.59</b> FASB ASC 606-10-25-30 provides indicators for
+                                determining the point in time when the issuer obtains control of the
+                                securities underwriting services and the broker-dealer’s performance
+                                obligation is satisfied, which include the following [analysis
+                                added]:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The entity has a present right to payment for the asset
+                                        (the service).</p>
+            <p class="- topic/p ">A broker-dealer has a present right to payment, in the
+                                        form of the underwriting spread that occurs on the trade
+                                        date. The trade date is the date the broker-dealer enters
+                                        into a firm commitment to purchase the securities from the
+                                        issuer or, in the case of a best efforts arrangement, the
+                                        date the securities are sold to investors.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The customer has legal title to the asset (the
+                                        service).</p>
+            <p class="- topic/p ">The issuer has legal title to the capital raised (that is,
+                                        the underwriting proceeds), which is a result of the
+                                        consummation of the underwriting services provided, upon the
+                                        purchase of the securities from the issuer, which occurs on
+                                        the trade date.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The entity has transferred physical possession of the
+                                        asset (the service).</p>
+            <p class="- topic/p ">Not applicable because underwriting services do not
+                                        involve the transfer of a physical asset.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The customer has the significant risks and rewards of
+                                        ownership of the asset (the service).</p>
+            <p class="- topic/p ">The issuer has the significant risks and rewards of the
+                                        securities underwriting services when those securities are
+                                        purchased by the underwriter (on the trade date). That is,
+                                        the issuer is entitled to the capital raised and the issuer
+                                        may also incur certain obligations to the investors (such as
+                                        principal and interest payments to bond holders or dividends
+                                        to preferred stock holders) on the trade date.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The customer has accepted the asset (the service).</p>
+            <p class="- topic/p ">Although generally there are no acceptance provisions in
+                                        underwriting agreements, the services are satisfied when the
+                                        underwriter purchases the securities from the issuer (on the
+                                        trade date).</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.60" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.60</b> Based on the analysis in <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_recognize_revenue_when_or2.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-6bf9e488-1a35-e024-051c-a619a7e124c7/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.59">paragraph 5.6.59</xref>, FinREC believes the date on which the
+                                underwriter purchases securities (the trade date) from the issuer is
+                                the appropriate point in time to recognize revenue for securities
+                                underwriting transactions. This conclusion is consistent with the
+                                concept of transfer of control related to commission revenues (as
+                                discussed in the section "<xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_commission_income.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4a3e7baa-571d-6ffa-621a-553c5c00b160">Commission Income</xref>" in paragraphs 5.6.01–5.6.32), whereby
+                                control is transferred on the trade date. In an underwriting
+                                arrangement there are no significant actions that an underwriter
+                                takes subsequent to the trade date.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.61" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.61</b> The following example is meant to be
+                                illustrative, and the actual application of the guidance in FASB ASC
+                                606 should be based on the facts and circumstances of an entity’s
+                                specific situation.</p>
+      <example id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_example-idm4501924617158433902759418743" class="- topic/example ">
+         <title class="- topic/title ">Example 5-6-1</title>
+         <p class="- topic/p ">Broker-dealer A negotiates a contract with Customer B on April
+                                    1, 20X6, to underwrite Customer B’s equity shares on a firm
+                                    commitment basis. The offering consists of 6,000,000 equity
+                                    shares and provides Broker-dealer A with an overallotment option
+                                    to purchase up to an additional 900,000 shares within 30 days of
+                                    the equity offering. The initial offering price to the public is
+                                    $20 and the underwriting discount is $.50 (that is, the
+                                    underwriter purchases the equity shares from Customer B for
+                                    $19.50 per share). On April 8, 20X6, the underwriting contract
+                                    is executed and becomes legally enforceable. In connection with
+                                    the execution of the contract, Broker-dealer A purchases the
+                                    equity shares from the issuer (that is, the trade date)
+                                    resulting in the consummation of the securities issuance.
+                                    Broker-dealer A also elects to exercise its overallotment option
+                                    and purchases an additional 900,000 shares from the issuer on
+                                    April 8, 20X6.</p>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Identify the Contract With a
+                                        Customer</i>
+         </p>
+         <p class="- topic/p ">Based on the preceding facts, the underwriting agreement
+                                    between Broker-dealer A and Customer B includes a contract that
+                                    meets the criteria in FASB ASC 606-10-25-1. The underwriting
+                                    agreement has been approved, each party’s rights and payment
+                                    terms are identifiable, the contract contains commercial
+                                    substance, and collectibility is probable on April 8, 20X6.
+                                    Furthermore, as described in <xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_revenue_streams/topics/aag-rev5_identify_separate_performance_obligations.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-8c03cd3b-3c3a-8214-8523-aa4f699c7ce3/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.52">paragraph 5.6.52</xref>, Broker-dealer A’s subsequent
+                                    exercise of its overallotment option represents a contract
+                                    modification resulting in a separate contract.</p>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Identify the Performance
+                                        Obligations</i>
+         </p>
+         <p class="- topic/p ">Based on the preceding facts, the original contract includes a
+                                    single performance obligation to raise capital for Customer B.
+                                    The overallotment option was exercised and issued concurrently
+                                    with the contractually required shares, resulting in a contract
+                                    modification and a separate contract. Therefore, Broker-dealer A
+                                    also has the enforceable rights and obligations to purchase the
+                                    overallotment securities on April 8, 20X6.</p>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Determine the Transaction
+                                        Price</i>
+         </p>
+         <p class="- topic/p ">Based on the preceding facts, the transaction price of the
+                                    original contract is calculated as the underwriting discount
+                                    amount of $3,000,000 (6,000,000 shares × $.50) and the
+                                    transaction price of the overallotment contract is $450,000
+                                    (900,000 shares × $.50).</p>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Allocate the Transaction Price to the
+                                        Performance Obligations</i>
+         </p>
+         <p class="- topic/p ">The transaction price of $3,000,000 is allocated to the single
+                                    performance obligation in the original contract, and the
+                                    transaction price of $450,000 is allocated to the single
+                                    performance obligation in the overallotment contract.</p>
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Recognize Revenue</i>
+         </p>
+         <p class="- topic/p ">Broker-dealer A would recognize underwriting revenue in the
+                                    amount of $3,450,000 ($3,000,000 plus $450,000) on April 8,
+                                    20X6, which is the date Broker-dealer A raised capital on behalf
+                                    of the issuer.</p>
+      </example>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

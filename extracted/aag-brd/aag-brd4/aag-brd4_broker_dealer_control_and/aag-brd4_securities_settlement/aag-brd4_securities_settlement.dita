@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_UUID-8cd3c60b-2579-112d-0dcf-66236d5ff30c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Securities Settlement</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.46" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.46</b> <i class="+ topic/ph hi-d/i ">Receive and deliver</i>. All receipts and deliveries of
+                    securities and money are handled by the receive-and-deliver section of the
+                    cashier's department. This is either performed physically or by electronic book
+                    entry. Some of the control and monitoring activities typically associated with
+                    the receive-and-deliver function include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monitoring real-time and overnight batch process matching with
+                            clearing organizations to identify any securities due for settlement
+                            that cannot be settled.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Ensuring end-of-day cash and securities movements agree to the
+                            clearing organizations for continuous net settlement accounts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Periodically reviewing operations suspense items to determine the
+                            propriety of receivables or payables carried in the account.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Receiving or delivering securities only if they are supported by
+                            written instructions prepared by another department or
+                            workstation.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Electronic imaging of securities received and delivered to resolve any
+                            differences between broker-dealers.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Examining for negotiability (that is, properly endorsed, signed,
+                            guaranteed, or otherwise papered) and for completeness (that is, coupons
+                            and warrants) securities received before they are placed in the active
+                            box or vault.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Recording the certificate numbers of securities received.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Authorizing certain designated employees to execute or guarantee
+                            assignments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Maintaining control over the facsimile signature devices used.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Designating an employee who does not handle securities or cash to
+                            determine that payment is received when securities are delivered against
+                            payment.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Bonding all employees who handle securities and money.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Balancing daily movements of securities and assigning responsibility
+                            for the clearance of out-of-balance positions to specific individuals
+                            who have no other duties related to any other aspects of securities
+                            processing.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Investigating and resolving securities positions (and related ledger
+                            amounts) in suspense accounts on a timely basis.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Ensuring that due bills for dividends are identified and recorded with
+                            the receipt or delivery of securities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Periodically comparing the details of fails to receive and fails to
+                            deliver with the stock record, in accordance with SEC Rule 17a-13, and
+                            agreeing the respective amounts receivable or payable to the related
+                            general ledger control accounts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Maintaining aging schedules of fail-to-receive and fail-to-deliver
+                            transactions currently, following up on aged fail transactions and
+                            sending confirmations as needed, initiating buy-ins in accordance with
+                            various regulatory rules, and analyzing aged fails for regulatory
+                            purposes.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Periodically reviewing operations suspense items to determine the
+                            propriety of receivables or payables carried in the account.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Comparing suspense items with underlying trade tickets or other
+                            records and reviewing the propriety of the subsequent clearance of
+                            suspense items.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-109df70c-5172-3c73-d794-63201f89c3ad_aag-brd4.47" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.47</b> <i class="+ topic/ph hi-d/i ">Extension of credit</i>. The margin department, also
+                    called the credit department, monitors the extension of credit to customers.
+                    Some of the control and monitoring activities over transactions with customers
+                    that are typically associated with the margin department include the
+                    following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establishing procedures to ensure compliance with the requirements of
+                            Federal Reserve Regulation T (Regulation T) of the Board of Governors of
+                            the Federal Reserve System, including cash, margin, and other accounts,
+                            as well as maintenance margin (FINRA Rule 4210) requirements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Implementing a system designed to prevent violations of Regulation T
+                            and similar regulations addressing the extension and maintenance of
+                            credit, including the prompt issuance of Regulation T calls and
+                            maintenance calls, and prompt follow-up action in the event that calls
+                            are not met.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Implementing a system to set and monitor "house" margin requirements
+                            that are higher than those established by regulatory authorities if it
+                            is considered necessary for the protection of the broker-dealer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Performing credit investigations before transacting business with a
+                            customer and before establishing credit limits.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Obtaining signed margin agreements before trading in a margin account
+                            can occur.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Disbursing cash and delivering securities only upon written
+                            authorization of the appropriate personnel.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Requiring the authorization of margin department personnel before
+                            paying funds or withdrawing securities from customers' accounts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Prohibiting margin clerks from initiating entries to customer accounts
+                            and from having contact with customers' securities, remittances, or
+                            disbursements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assigning responsibility for monitoring customer accounts to specific
+                            employees who are rotated onto other duties periodically.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reviewing margin records periodically (by an employee who has no
+                            duties in connection with them) to determine that the minimum margin
+                            requirements of the firm are being maintained.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reviewing customer accounts on a regular basis to ensure sufficient
+                            margin exists to meet "house" and regulatory requirements. When accounts
+                            are determined to be undermargined, requesting additional collateral
+                            from the customer to properly secure the account.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Promptly reporting to management on customers' undermargined accounts
+                            and unsecured or partly secured accounts for purposes of evaluation
+                            concerning collectibility.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monitoring and promptly acting upon aged margin calls.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Delegating duties appropriately and rotating the duties of personnel
+                            in key control areas.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Accepting securities received from a customer that are registered in a
+                            name other than the customer's only if proof of ownership is
+                            provided.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Permitting only designated employees to make entries to customer
+                            accounts and requiring that two employees approve changes to customer
+                            account files. Limiting the types of transactions (such as cash
+                            receipts, cash disbursements, securities receipts and deliveries, or
+                            adjustments) that an employee can initiate.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establishing procedures to ensure compliance with the requirements of
+                            SEC Rules 400–406 and Commodity Futures Trading Commission Regulations
+                            41.42–41.49 governing customer margin for transactions in security
+                            futures.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reviewing securities underlying receivables and payables regularly
+                            concerning their valuation.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Prohibiting clients from entering into transactions that exceed the
+                            minimum initial margin requirements in accordance with Regulation T or
+                            exceed minimum initial house margin requirements.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

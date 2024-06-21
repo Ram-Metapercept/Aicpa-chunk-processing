@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-80123a72-0f46-1e1a-cdd5-044010042348" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Additional Requirements for Registered Investment Advisers</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061187048" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.174</b> The Investment Advisers Act of 1940 provides for
+                the registration and regulation of most persons who render investment advice to
+                individuals or institutions for compensation. Under Section 2(a)(20) of the
+                Investment Company Act of 1940, an <i class="+ topic/ph hi-d/i ">investment
+                    adviser</i> is a company providing investment advice, research, and often
+                administrative and similar services for a contractually agreed-on fee, based on a
+                percentage of net assets.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061175964" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.175</b> A broker-dealer who is also a registered investment
+                adviser (also known as a dual-registered entity) may be subject to significant
+                requirements as found in Rule 206(4)-2 of the Investment Advisers Act of 1940.
+                Paragraph (a)(4) of Rule 206(4)-2 requires that all registered investment advisers
+                (or an investment adviser required to register) who have custody of client funds or
+                securities, as defined, have an independent public accountant that is registered
+                with, and subject to, inspection by the PCAOB, conduct an examination on a surprise
+                basis once every calendar year. The surprise examination requirement applies even
+                when assets are maintained by an independent qualified custodian. This surprise
+                examination is conducted under <xref format="dita" class="- topic/xref " href="../../../ps/atc_attestation_standards_clarified/atc_section_300/atc_315/atc_315.dita#UUID-8afc1c64-c76e-fe14-c5f5-059f5eba02fc">AT-C section 315</xref>, <i class="+ topic/ph hi-d/i ">Compliance
+                    Attestation</i>. <ph class="- topic/ph ">
+            <fn callout="55" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393061213508" class="- topic/fn ">
+               <p class="- topic/p ">All AT-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                     <unknown id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_N661755d19a488" class="- topic/unknown ">AICPA Professional
+                            Standards</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_additional_requirements_for_registered.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-80123a72-0f46-1e1a-cdd5-044010042348/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393061213508"/>
+         </ph>
+         <unknown id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_N661755d198ee9" class="- topic/unknown ">AT-C Section 315</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061164488" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.176</b> The independent public accountant must also file a
+                certificate on Form ADV-E with the SEC within 120 days of the time chosen for the
+                surprise examination by the independent public accountant stating that it has
+                examined the funds and securities and describing the nature and extent of the
+                examination. The independent accountant, upon finding any material discrepancies
+                during the course of the examination, should notify the SEC within one business day
+                of the finding by means of a facsimile transmission or email, followed by first
+                class mail, directed to the attention of the Director of the Office of Compliance
+                Inspections and Examinations. See Rule 206(4)-2(a)(4)(ii) under the Investment
+                Advisers Act of 1940. For purposes of the surprise examination, a <i class="+ topic/ph hi-d/i ">material discrepancy</i> is material noncompliance with the
+                provisions of either Rule 206(4)-2 or Rule 204-2(b) under the Investment Advisers
+                Act of 1940. Instructions from the SEC for sending independent accountant
+                notification of material discrepancies found during annual surprise examination can
+                be found at <xref scope="external" format="html" class="- topic/xref " href="http://www.sec.gov/about/offices/ocie/awc-instructions.htm">www.sec.gov/about/offices/ocie/awc-instructions.htm</xref>.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061152264" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.177</b> The SEC has released frequently asked questions
+                about the custody rule under the Investment Advisers Act of 1940 that can be located
+                at <xref scope="external" format="html" class="- topic/xref " href="http://www.sec.gov/divisions/investment/custody_faq_030510.htm">www.sec.gov/divisions/investment/custody_faq_030510.htm</xref>.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061141598" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.178</b> The rule defines <i class="+ topic/ph hi-d/i ">custody</i> to mean an investment adviser or its related person holding,
+                directly or indirectly, client funds or securities or having any authority to obtain
+                possession of them. Rule 206(4)-2(d)(2) provides that an adviser will not be deemed
+                to have custody of client assets held with a qualified custodian that is a related
+                person of the adviser if the adviser does not provide advice with respect to such
+                assets. Note that custody does not equate to serving as a qualified custodian under
+                the rule. Custody includes</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">possession of client funds or securities (but not of checks drawn by
+                        clients and made payable to third parties) unless the investment adviser
+                        receives them inadvertently and returns them to the sender promptly but in
+                        any case within three business days of receiving them;</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">any arrangement (including a general power of attorney) under which the
+                        investment adviser is authorized or permitted to withdraw client funds or
+                        securities maintained with a custodian upon the investment adviser’s
+                        instruction to the custodian; and</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">any capacity (such as general partner of a limited partnership, managing
+                        member of a limited liability company or a comparable position for another
+                        type of pooled investment vehicle, or trustee of a trust) that gives the
+                        investment adviser or his or her supervised person legal ownership of, or
+                        access to, client funds or securities.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061129554" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.179</b> A <i class="+ topic/ph hi-d/i ">qualified
+                    custodian</i> is defined by the rule as (<i class="+ topic/ph hi-d/i ">a</i>) a <i class="+ topic/ph hi-d/i ">bank</i>, as defined in Section
+                202(a)(2) of the Investment Advisers Act of 1940, or a <i class="+ topic/ph hi-d/i ">savings association</i>, as defined in Section 3(b)(1) of the Federal
+                Deposit Insurance Act, that has deposits insured by the FDIC under the Federal
+                Deposit Insurance Act; (<i class="+ topic/ph hi-d/i ">b</i>) a broker-dealer
+                registered under Section 15(b)(1) of the 1934 Act holding the client assets in
+                customer accounts; (<i class="+ topic/ph hi-d/i ">c</i>) an FCM registered under
+                Section 4f(a) of the Commodity Exchange Act holding the client assets in customer
+                accounts, but only with respect to clients’ funds and security futures, or other
+                securities incidental to transactions in contracts for the purchase or sale of a
+                commodity for future delivery and options thereon; and (<i class="+ topic/ph hi-d/i ">d</i>) a foreign financial institution that customarily holds financial
+                assets for its customers, provided that the foreign financial institution keeps the
+                advisory clients’ assets in customer accounts segregated from its proprietary
+                assets. Additionally, <i class="+ topic/ph hi-d/i ">related person</i> is defined
+                in the rule as any person, directly or indirectly, controlling or controlled by the
+                investment adviser, and any person who is under common control with the investment
+                adviser.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061118468" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.180</b> Rule 206(4)-2 requires that a qualified custodian
+                maintain client funds and securities in a separate account for each client under
+                that client’s name or in accounts that contain only the clients’ funds and
+                securities under the adviser’s name as agent or trustee for the clients. Notice to
+                clients must be provided when an account is opened (and following any changes) with
+                a qualified custodian on their behalf that details the qualified custodian’s name,
+                address, and the manner in which the funds or securities are maintained. The
+                investment adviser must also have a reasonable basis, after due inquiry, for
+                believing that the qualified custodian sends an account statement, at least
+                quarterly, to each of the investment advisers’ clients for which it maintains funds
+                or securities. See Rule 206(4)-2(b) under the Investment Advisers Act of 1940 for
+                more information and exceptions to these requirements for shares of mutual funds,
+                certain privately offered securities, fee deductions, limited partnerships subject
+                to annual audit, registered investment companies, and certain related
+                persons.</p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061107266" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.181</b> Additionally, if the broker-dealer who is a
+                registered investment adviser, or its related person, maintains client funds or
+                securities as a qualified custodian in connection with advisory services provided to
+                clients, Rule 206(4)-2(a)(6) requires that such investment adviser must at least
+                once each calendar year obtain or receive from its related person a written internal
+                control report related to its, or its affiliates’ custodial services, including the
+                safeguarding of funds and securities, which includes an opinion from an independent
+                public accountant that is registered with, and subject to regular inspection by, the
+                PCAOB. A broker-dealer may be able to use the compliance examination report that is
+                required pursuant to SEC Rule 17a-5 to satisfy this internal control report
+                requirement. <ph class="- topic/ph ">
+            <fn callout="56" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393025267232">footnote 3</xref>.</p>
+            </fn>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_para-idm53393061095744" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.182</b> This requirement could also be satisfied with a
+                type 2 SOC 1<sup class="+ topic/ph hi-d/sup ">®</sup> report <ph class="- topic/ph ">
+            <fn callout="57" id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393061850080" class="- topic/fn ">
+               <p class="- topic/p ">This guide refers to this type of report prepared under <xref format="dita" class="- topic/xref " href="../../../ps/atc_attestation_standards_clarified/atc_section_300/atc_320/atc_320.dita#UUID-9b7e3aaf-ba38-0332-75d4-d287dc86c1c6">AT-C section 320</xref>, <i class="+ topic/ph hi-d/i ">Reporting on an
+                            Examination of Controls at a Service Organization Relevant to User
+                            Entities’ Internal Control Over Financial Reporting</i>, as a SOC
+                            1<sup class="+ topic/ph hi-d/sup ">®</sup> report. <unknown id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_N661755d19b926" class="- topic/unknown ">AT-C Section 320</unknown>
+               </p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd3_additional_requirements_for_registered.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_UUID-80123a72-0f46-1e1a-cdd5-044010042348/UUID-964e7813-9035-febd-90cd-e31e27dbb2b2-footnote-idm53393061850080"/>
+         </ph> (formerly known as a type 2 SAS No. 70 report) or an examination on
+                internal control conducted in accordance with <xref format="dita" class="- topic/xref " href="../../../ps/atc_attestation_standards_clarified/atc_section_300/atc_320/atc_320.dita#UUID-9b7e3aaf-ba38-0332-75d4-d287dc86c1c6">AT-C section 320</xref>, <i class="+ topic/ph hi-d/i ">Reporting on an Examination of
+                    Controls at a Service Organization Relevant to User Entities’ Internal Control
+                    Over Financial Reporting</i>. Also, see question XIII.3 of the SEC’s
+                "Staff Responses to Questions About the Custody Rule," available at the "Frequently
+                Asked Questions" section of the SEC website. This internal control report must
+                include an opinion on whether controls have been placed in operation as of a
+                specific date and are suitably designed and operating effectively to meet control
+                objectives relating to custodial services, including the safeguarding of funds and
+                securities held by either the investment adviser or its related person on behalf of
+                the advisory clients during the year. The accountant must also verify that the funds
+                and securities are reconciled to a custodian (for example, the Depository Trust and
+                Clearing Corporation) other than the investment adviser or its related person. The
+                accountant’s tests of the custodian’s reconciliation should include either direct
+                confirmation, on a test basis, with unaffiliated custodians or other procedures
+                designed to verify that the data used in the reconciliations performed by the
+                qualified custodian is obtained from unaffiliated custodians and is unaltered. Refer
+                to AICPA Audit and Accounting Guide <xref format="dita" class="- topic/xref " href="../../../aag-inv.dita#UUID-21b277a9-7da8-bd5e-41cc-fe90e94ff3f6">
+            <i class="+ topic/ph hi-d/i ">Investment Companies</i>
+         </xref> for more
+                information on guidance related to investment advisers and for example illustrative
+                reports required for broker-dealers that are registered as investment advisers under
+                the act. <unknown id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_N661755d19ce16" class="- topic/unknown ">AT-C Section 320</unknown>
+         <unknown id="UUID-964e7813-9035-febd-90cd-e31e27dbb2b2_N661755d19e202" class="- topic/unknown ">AICPA Audit and Accounting Guide Investment
+                    Companies</unknown>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

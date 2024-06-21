@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-d26c6b10-f755-9c39-9318-4de2cd46d4de" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Tax Information Reporting for Certain Customer Transactions</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392905137528" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.174</b> A broker-dealer is required to file information
+                returns with the IRS for certain customer transactions and to also send the related
+                form(s) to the customer. Examples of the more common returns and of the information
+                they provide include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Form 1099-B (broker transactions)</i>.
+                            <ph class="- topic/ph ">
+                  <fn callout="13" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-footnote-idm53392905162726" class="- topic/fn ">
+                     <p class="- topic/p ">IRC Section 6045, as amended, requires that, in the case of a
+                                covered security, every broker required to report the gross proceeds
+                                from the sale of a security under IRC Section 6045(a) must also
+                                report the customer’s adjusted basis in the security and whether any
+                                gain or loss with respect to the security is long term or short
+                                term. The reporting is typically done on IRS Form 1099-B. Form
+                                1099-B instructions contain information about a covered security and
+                                the additional information required to be reported.</p>
+                     <p class="- topic/p ">    In addition, a broker (and certain other persons that transfer
+                                custody of a covered security to a receiving broker) must furnish to
+                                the receiving broker a written statement that allows the receiving
+                                broker to satisfy the basis reporting requirements. The required
+                                statement must be furnished to the receiving broker within 15 days
+                                after the date of the transfer. Information regarding this
+                                requirement can also be found in Form 1099-B instructions.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-brd2_tax_information_reporting.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-d26c6b10-f755-9c39-9318-4de2cd46d4de/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-footnote-idm53392905162726"/>
+               </ph> The gross proceeds from the sale of securities conducted by the
+                        broker-dealer during the year and the related cost basis of the securities
+                        sold.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Form 1099-INT (interest)</i>. The amount of
+                        interest received by the customer from securities held by the broker-dealer
+                        during the year.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Form 1099-DIV (dividends).</i> The amount
+                        of dividends received by the customer from equity securities held by the
+                        broker-dealer during the year.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Form 1099-OID (original issue
+                            discounts)</i>. The amount of interest accreted on original issue
+                        discount securities (and any interest received on original issue discount
+                        securities) held by the broker-dealer during the year.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Form 1099-R (retirement funds).</i> The
+                        amounts withdrawn during the year from an individual retirement account
+                        (IRA) or a pension account that is held at the broker-dealer's firm (the
+                        broker-dealer is also required to provide other information about IRA
+                        arrangements on Form 5498).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Form 1099-MISC (miscellaneous).</i> The
+                        amount of payments in lieu of dividends earned by the customer but not
+                        received because the security was placed by the broker-dealer in a stock
+                        loan at the customer's request.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392905277462" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.175</b> The IRS generally matches information returns filed
+                by the broker-dealer to its database to determine whether the payee's name and
+                taxpayer identification number (TIN) correspond to its records. If there is a
+                mismatch, the IRS notifies the broker-dealer (payor) of this fact. The payor is then
+                required to send a letter to the payee informing him or her of the mismatch and
+                request a Form W-9 be returned within 30 business days of the date of the
+                notification from the IRS. If the payee does not return this W-9, all future
+                reportable payments are subjected to backup withholding. If a payor does not
+                withhold when required to do so, the payor becomes responsible for the tax.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392905283372" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.176</b> The IRS has rules regarding what action to take
+                when a payee has provided an incorrect TIN. Certain notices should be sent to the
+                payee. Depending on the situation, the broker-dealer may be required to begin backup
+                withholding and continue backup withholding until notified by either the IRS or the
+                Social Security Administration to stop. Once again, failure to withhold when
+                required to do so will result in the payor being held responsible for the tax.
+                Publication 1281, <i class="+ topic/ph hi-d/i ">Backup Withholding for Missing and
+                    Incorrect Name/TIN(s)</i>, is available on the IRS website and contains
+                information and forms related to backup withholding.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_para-idm53392905289866" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.177</b> The IRS requires broker-dealers to file Financial
+                Crimes Enforcement Network (FinCEN) Form 104, <i class="+ topic/ph hi-d/i ">Currency
+                    Transaction Report</i> (formerly Form 4879), for customer deposits,
+                withdrawals, exchanges of currency, or other payments or transfers by, through, or
+                to the broker-dealer if they involve a transaction in currency of more than $10,000.
+                In addition, FinCEN Form 101, <i class="+ topic/ph hi-d/i ">Suspicious Activity Report by
+                    the Securities and Futures Industries</i>, should be filed to report
+                suspicious activity. The instructions to FinCEN Form 101 outline when and under what
+                circumstances a form should be filed.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

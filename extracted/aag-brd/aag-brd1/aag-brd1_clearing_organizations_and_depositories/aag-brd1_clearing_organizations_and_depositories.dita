@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-60d6a462-d5bf-6bb5-457c-e6d203bc2274" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Clearing Organizations and Depositories</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.50" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.50</b> After orders in
+                securities are executed, whether on an exchange or in the OTC market, the
+                transactions are compared, cleared, and settled. Comparison occurs when
+                broker-dealers or their agents exchange their trade information (security, number of
+                units, and price) to confirm the existence of a contract and match the buy and sell
+                sides of the trade. <i class="+ topic/ph hi-d/i ">Clearance</i> is the process of
+                accounting for compared trades in terms of the trading parties' obligations to pay
+                money and deliver securities. <i class="+ topic/ph hi-d/i ">Settlement</i> is the
+                process of exchanging the money for securities (that is, delivery and payment) that
+                consummates the transaction. In the U.S. equity and corporate markets, settlement
+                has historically occurred three business days after the trade. In May 2023, under
+                SEC Release No. 34-96930, <i class="+ topic/ph hi-d/i ">Shortening the Securities Transaction
+                    Cycle</i>, the SEC amended Rule 15c6-1(a), <i class="+ topic/ph hi-d/i ">Settlement Cycle
+                    Rule</i>, to shorten the standard settlement cycle for most broker-dealer
+                transactions from two business days after the trade date (T+2) to one business day
+                after the trade date (T+1). <ph class="- topic/ph ">
+            <fn callout="8" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87-aag-brd1-fn8" class="- topic/fn ">
+               <p class="- topic/p ">The effective date of this release was May 5, 2023, and the compliance
+                        date is May 28, 2024. Readers are encouraged to consult the full text of the
+                        release, available at <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/rules/final/2023/34-96930.pdf">https://www.sec.gov/rules/final/2023/34-96930.pdf</xref>. The SEC staff
+                        has also published a Fact Sheet, Reducing Risk in Clearance and Settlement,
+                        which is available at <xref scope="external" format="html" class="- topic/xref " href="https://www.sec.gov/files/34-96930-fact-sheet_0.pdf">https://www.sec.gov/files/34-96930-fact-sheet_0.pdf</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd1_clearing_organizations_and_depositories.dita#UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_UUID-60d6a462-d5bf-6bb5-457c-e6d203bc2274/UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87-aag-brd1-fn8"/>
+         </ph> The SEC had previously shortened the standard settlement cycle for most
+                securities transactions from T+3 to T+2 in 2017. Trade comparison, clearance, and
+                settlement are aspects of post trade processing.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.51" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.51</b> The exchange markets
+                have sponsored central clearing agencies, known as clearing organizations, to assist
+                in the comparison, clearance, and settlement functions. Deliveries and receipts of
+                securities and the related cash settlements are made through these clearing
+                organizations for broker-dealers. The National Securities Clearing Corporation
+                (NSCC), a subsidiary of the Depository Trust &amp; Clearing Corporation (DTCC), is
+                one such U.S. clearing organization. In the OTC market, clearance may be
+                accomplished by a variety of methods, including the buying and selling of
+                broker-dealers' exchange-of-trade tickets directly with one another or through a
+                clearing organization. Introducing broker-dealers operating through clearing brokers
+                settle their transactions through those clearing brokers that in turn, settle the
+                transactions through the clearing organizations. The Options Clearing Corporation
+                and the clearing organizations of the commodity exchanges perform similar functions
+                for options and futures trading. Clearance of securities traded on international
+                markets is accomplished in a variety of ways, ranging from centralized clearing
+                organizations (for example, Euroclear) to business entities whose securities are
+                cleared by major banking organizations.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.52" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.52</b> Most U.S. government
+                and agency security transactions clear through the use of the book entry safekeeping
+                system maintained by the Federal Reserve Bank of New York. The 12 district Federal
+                Reserve Banks operate a securities transfer system that permits these securities to
+                be transferred between the book entry safekeeping accounts.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.53" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.53</b> The Fixed Income
+                Clearing Corporation (FICC) provides clearing for fixed income securities, including
+                U.S. Treasury securities and mortgage-backed securities. FICC was created in 2003 to
+                handle fixed income transaction processing, integrating the Government Securities
+                Clearing Corporation and the Mortgage-Backed Securities Clearing Corporation.
+                Securities transactions processed by the FICC include U.S. Treasury bills, bonds,
+                notes, zero-coupon securities, government agency securities, mortgage-backed
+                securities, and inflation-indexed securities. Participants in this market include
+                mortgage originators, government-sponsored enterprises, registered broker-dealers,
+                institutional investors, investment managers, mutual funds, commercial banks,
+                insurance companies, and other financial institutions. FICC’s Sponsored Service
+                allows FICC to be the intermediary between sponsored clients of FICC’s members. The
+                service offers FICC clearance of purchase and sales of U.S. Treasury and agency
+                securities as well as settlement of repo transactions.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.54" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.54</b> Settlement of
+                securities transactions can be complex, especially when there is a large volume of
+                transactions in many securities. To avoid duplicated receipt and delivery of
+                securities, the NSCC uses an electronic netting system known as continuous net
+                settlement (CNS). In CNS, a broker-dealer's purchases and sales in the same security
+                are netted, thus leaving the broker-dealer with one daily net settlement obligation
+                per security. The broker-dealer then settles that obligation with the clearing
+                organization. Unique to CNS, the clearing agency interposes itself between the
+                trading broker-dealers on each trade and guarantees the settlement obligations of
+                each broker-dealer's countertrading party. Thus, the broker-dealer's settlement is
+                with the clearing organization, not the other broker-dealer. Other clearing
+                mechanisms may or may not guarantee settlement. A broker-dealer can settle each day
+                or carry open commitments forward to net against the next day's settlement (hence
+                the continuous nature of CNS).</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.55" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.55</b> Security deliveries
+                in the current U.S. environment are generally by book entry (that is, by electronic
+                debits and credits to a broker-dealer's account) at a securities depository where
+                the securities certificates are immobilized and where broker-dealers hold the
+                certificates in the street name for their customers. Thus, delivery is accomplished
+                without the physical movement of the securities certificates. The securities
+                depositories, which are similar to banks, pursue the business of custodian
+                operations, including holding securities certificates in physical form or
+                maintaining electronic records of book entry securities holdings for their
+                customers, mainly financial institutions.</p>
+      <p outputclass="ps_para_number" id="UUID-e3418fe7-9457-ef05-e6be-7b76aa67ad87_aag-brd1.56" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.56</b> One of the major
+                depositories for equities, corporate debt securities, certain eligible
+                mortgage-backed securities, and municipal debt securities is the DTCC and its
+                subsidiaries.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

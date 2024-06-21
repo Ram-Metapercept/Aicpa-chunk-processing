@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-3022d2d5-d163-3012-b64d-aafce1684168_UUID-7211140d-2e6a-2824-8021-ee7be95ec335" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">PCAOB Oversight</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">The Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 amended SOX
+                to provide the PCAOB with full oversight authority over audits of all SEC-registered
+                broker-dealers (including nonissuers), which includes standard setting, inspection,
+                and enforcement. As of the date of this guide, the SEC has approved three rules
+                related to PCAOB oversight. The first is a rule that establishes an interim
+                inspection program related to audits of broker-dealers. The second rule amends PCAOB
+                funding rules to provide for a portion of the accounting support fee (previously
+                assessed on issuers only) to be allocated among a certain class of broker-dealers.
+                See the discussion in <xref format="dita" class="- topic/xref " href="../../../aag-brd/aag-brd3/aag-brd3.dita#UUID-964e7813-9035-febd-90cd-e31e27dbb2b2">chapter 3</xref>, “Regulatory Considerations,” of this guide for more
+                information. The third rule requires that all audits of broker-dealers be performed
+                in accordance with standards issued by the PCAOB.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

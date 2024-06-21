@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-9d106d8a-f9cb-d83e-8c1d-ed4b3c9faa4f" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Overview</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.01</b> Accounting by
+                    broker-dealers for securities transactions is unique in that two sets of books —
+                    the general ledger and the securities record (commonly referred to as the stock
+                    record) — are maintained. The general ledger is used to record entries
+                    reflecting money balances, and the securities record is used to account for
+                    security positions.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.02</b> This chapter
+                    discusses the flow of securities transactions, whether manual or automated, and
+                    standard departments and records ordinarily found within a broker-dealer. Many
+                    of the records and activities are automated, including the execution, clearance,
+                    and settlement of trades and the processing of transactions, balancing, and
+                    reconciliations of records both within the broker-dealer and with external
+                    entities such as the Options Clearing Corporation (OCC) and the Depository Trust
+                    &amp; Clearing Corporation (DTCC) and its subsidiaries, including the Depository
+                    Trust Company (DTC), the National Securities Clearing Corporation (NSCC), and
+                    the Fixed Income Clearing Corporation (FICC).</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.03</b> In addition,
+                    external service sources, such as market valuation services, provide information
+                    that is incorporated into the automated recordkeeping system. The extent of
+                    automation within the industry varies from company to company.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

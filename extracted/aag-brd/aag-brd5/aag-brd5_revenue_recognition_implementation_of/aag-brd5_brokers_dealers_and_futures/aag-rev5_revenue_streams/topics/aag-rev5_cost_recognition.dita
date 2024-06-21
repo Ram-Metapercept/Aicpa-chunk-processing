@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-70f60f7c-678f-85a8-a86d-06b197510658" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Cost Recognition</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.141" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.141</b> Distributors often pay sales commissions to
+                                external distributors or their internal sales representatives for
+                                distribution and sales of securities on their behalf. FASB ASC
+                                606-10-15-5 refers to FASB ASC 340-40 for guidance on costs incurred
+                                that relate to contracts with customers. In addition, FASB ASC
+                                946-720-25-4 provides guidance on accounting for certain
+                                distribution costs. Distributors should evaluate the nature of the
+                                contracts and associated costs to determine whether FASB ASC 946,
+                                    <i class="+ topic/ph hi-d/i ">Financial Services — Investment
+                                    Companies</i>, or FASB ASC 340, <i class="+ topic/ph hi-d/i ">Other Assets and Deferred Cash</i>, applies.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.142" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.142</b> FASB ASC 340-40-25 provides accounting
+                                guidance for two categories of costs related to contracts with
+                                customers: (1) incremental costs of obtaining a contract and (2)
+                                costs to fulfill a contract. If the fund is determined to be the
+                                customer in the contract, FinREC believes that sales commissions are
+                                costs to fulfill a contract, because the contract with the fund is
+                                already in place.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.143" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.143</b> Costs incurred in fulfilling a contract with
+                                a customer that are within the scope of another FASB ASC topic
+                                should be accounted for in accordance with the other applicable
+                                topics or subtopics. In this regard, for sales commissions paid to
+                                third-party sub-distributors, consideration should be given to the
+                                applicability of FASB ASC 946-720-25-4. FASB ASC 946-720-25-4
+                                provides guidance on the accounting for distribution costs for
+                                mutual funds with no up-front fees. The term "distribution costs" as
+                                used in FASB ASC 946-720-25 is interpreted in practice to refer to
+                                costs related to third-party service providers. This understanding
+                                is also acknowledged by FASB in paragraph BC303 of FASB Accounting
+                                Standards Update (ASU) No. 2014-09,<i class="+ topic/ph hi-d/i "> Revenue
+                                    from Contracts with Customers (Topic 606),</i> where this
+                                specific paragraph is mentioned in relation to sales commissions
+                                paid to third-party brokers. If FASB ASC 946-720-25-4 applies, then
+                                incremental direct costs, such as sales commissions, should be
+                                deferred and amortized, and indirect costs expensed. For a similar
+                                analysis of deferred distribution commission expenses, refer to the
+                                discussion in the section "<xref format="dita" class="- topic/xref " href="../../../../../../aag-rev/aag-rev4/aag-rev4_other_related_topics/aag-rev4_deferred_distribution_commission_expenses/aag-rev4_deferred_distribution_commission_expenses.dita#UUID-5dda6152-7bb5-4414-0515-87dee369dc20_UUID-535338e3-d8a9-7e8d-0407-dbd4e878cdcb">Deferred Distribution Commission Expenses (Back-End Load
+                                    Funds)</xref>" in paragraphs 4.7.01–4.7.10 of chapter 4 of this
+                                guide. <unknown id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_N661755d1a42d0" class="- topic/unknown ">Deferred Distribution Commission
+                                    Expenses (Back-End Load Funds)</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.144" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.144</b> Other costs incurred to fulfill a contract
+                                with a customer that are not within the scope of another topic
+                                should be assessed to determine if the costs meet the criteria of
+                                FASB ASC 340-40-25-5. FinREC believes that sales commissions do not
+                                meet the criteria of FASB ASC 340-40-25-5 because the commissions do
+                                not generate or enhance resources of the entity that will be used in
+                                satisfying (or in continuing to satisfy) performance obligations in
+                                the future (FASB ASC 340-40-25-5b); therefore, sales commissions not
+                                in the scope of FASB ASC 946-720-25-4 should be expensed when
+                                incurred.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

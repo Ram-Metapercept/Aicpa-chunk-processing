@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-d0b30186-cb31-c41e-c0eb-ddc0b16058b9" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Proprietary Trades</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.49" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.49</b> <i class="+ topic/ph hi-d/i ">Dealer</i>. Many broker-dealers attempt to profit from
+                    firm trading by selling securities at a higher price than what they paid for
+                    them. Firm proprietary trading activity can be broadly divided into dealer and
+                    positioning strategies.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.50" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.50</b> With a dealer
+                    strategy, the broker-dealer attempts to balance buy and sell transactions with
+                    different customers or other broker-dealers and earn the difference between the
+                    price paid on the purchase (bid) and the price received on the sale (ask). If a
+                    broker-dealer cannot simultaneously execute a buy and corresponding sell, the
+                    firm is at risk to market volatility during the time between execution of the
+                    purchase and execution of the sale. Hedging strategies are often employed to
+                    minimize that risk; however, hedge accounting is permitted only if the
+                    requirements of FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                        Codification</i> (ASC) 815, <i class="+ topic/ph hi-d/i ">Derivatives and
+                        Hedging</i>, are met.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.51" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.51</b> Positioning
+                    strategies involve the broker-dealer buying and selling securities in
+                    anticipation of certain market movements and holding such positions for longer
+                    periods than with dealer strategies. If a trader anticipates that a security's
+                    price will rise, the trader may take a long position in that security; if a
+                    security is expected to decline in value, the trader may take a short position.
+                    Positioning strategies are riskier than dealer strategies because the security
+                    is held for a longer time. If a trader incorrectly forecasts the market, losses
+                    can be incurred.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.52" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.52</b> <i class="+ topic/ph hi-d/i ">Trader and investor</i>. Trading desks typically
+                    maintain trade date records based on trading strategies that may include
+                    different types of instruments. Those records, if not integrated with the
+                    accounting department records, should be reconciled periodically to them.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.53" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.53</b> In addition to
+                    marketable securities, broker-dealers may purchase securities for investment
+                    that are not readily marketable or whose sale is restricted by the purchase
+                    terms. Securities purchased for investment should be designated and recorded
+                    separately in the accounts of a broker-dealer to meet the requirements of the
+                    IRS because they are purchased with the expectation of future capital gains. The
+                    broker-dealer's records should clearly indicate by the close of the day on which
+                    an investment security is acquired (floor specialists currently have seven
+                    business days) that it is held for investment.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.54" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.54</b> <i class="+ topic/ph hi-d/i ">Underwriter</i>. A broker-dealer participating in
+                    underwriting activities may act as managing underwriter, comanaging underwriter,
+                    or participating underwriter. The managing underwriter is responsible for
+                    organizing the other participating underwriters and the selling group. This
+                    function is often performed jointly by two or more firms as comanagers. A
+                    managing underwriter, in addition to being a participating underwriter,
+                    typically negotiates the transaction with the issuer of the security and
+                    maintains the records of the underwriting group. A comanager takes part in the
+                    negotiations but does not maintain the records of the group.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.55" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.55</b> Underwritings
+                    are either firm commitments or best efforts. In a “firm commitment”
+                    underwriting, the underwriter or underwriting group acts as principal and has an
+                    open contractual commitment to purchase securities from the issuer and a
+                    liability for unsold securities. In a “best efforts” underwriting, the
+                    underwriter or underwriting group acts as agent and has no open contractual
+                    commitment to purchase securities from the issuer or any liability for unsold
+                    securities. Publicly offered underwritings are generally on a firm commitment
+                    basis. Private offerings of securities may be either on a firm commitment or
+                    best efforts basis. Rule 15c3-1 and related SEC staff interpretations prescribe
+                    net capital treatment for open contractual commitments related to the offering
+                    of securities. The following paragraphs describe a public offering on a firm
+                    commitment basis. <ph class="- topic/ph ">
+            <fn callout="9" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-footnote-idm53392901581026" class="- topic/fn ">
+               <p class="- topic/p ">To assist firms in complying with SEC rules regarding financial and
+                            operational matters, FINRA makes available certain interpretations
+                            provided by the staff of the SEC's Division of Trading and Markets (see
+                                <xref scope="external" format="html" class="- topic/xref " href="https://www.finra.org/industry/interpretationsfor">https://www.finra.org/industry/interpretationsfor</xref>).
+                            Additionally, in April 2019, July 2021 and December 2021, FINRA made
+                            available Regulatory Notice 19-11, Regulatory Notice 21-27, and
+                            Regulatory Notice 21-45, respectively, which relates to Rule 15c3-1.
+                            (See <xref scope="external" format="html" class="- topic/xref " href="https://www.finra.org/sites/default/files/Regulatory-Notice-19-11.pdf">https://www.finra.org/sites/default/files/regulatory-notice-19-11.pdf</xref>.)</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-brd2_proprietary_trades.dita#UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_UUID-d0b30186-cb31-c41e-c0eb-ddc0b16058b9/UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4-footnote-idm53392901581026"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.56" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.56</b> Participating
+                    underwriters maintain records of each underwriting participation only to the
+                    extent they are involved. To spread the risk of an underwriting and facilitate
+                    its distribution, the underwriters may sell all or part of the securities
+                    directly to the public or a selling group that in turn sells the securities to
+                    the public. If an issue is not fully sold, the liability is shared among the
+                    participating underwriters through either an undivided or divided arrangement.
+                    An <i class="+ topic/ph hi-d/i ">undivided liability</i> is an arrangement
+                    whereby each member of an underwriting syndicate is liable for its proportionate
+                    share of unsold securities in the underwriting account regardless of the number
+                    of securities it has previously sold. Under divided liability, the member's
+                    liability for an underwriting is fixed or definite in amount. Selling groups are
+                    not underwriters and have no obligation to sell the securities allocated to
+                    them. Accordingly, they are entitled only to a selling concession.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.57" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.57</b> The managing
+                    underwriter maintains the subscription records for the underwriting and receives
+                    from the participating underwriters and members of the selling group reports of
+                    orders from their customers so that it knows the status of the offering.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.58" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.58</b> The managing
+                    underwriter maintains daily position listings of the entire issue and ascertains
+                    the status of securities subscribed to and whether they have been delivered to
+                    the participating underwriters. Expenses associated with each underwriting are
+                    accumulated in the general ledger in separate deferred expense accounts. That is
+                    known as running the books. When the underwriting is completed, the profit or
+                    loss on the underwriting is determined and distributed to the participating
+                    underwriters.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.59" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.59</b> The difference
+                    between the price to the public and that to the issuer (the gross underwriting
+                    spread) represents the underwriters' and selling group's compensation for the
+                    risk and cost of selling the issue. The gross underwriting spread is generally
+                    apportioned between the underwriters and selling group and consists of a
+                    management fee, an underwriting fee, and a selling concession. The underwriters
+                    may be entitled to a management fee, an underwriting fee, or both.</p>
+      <p outputclass="ps_para_number" id="UUID-b79d1049-1427-919d-3ca9-8853dfdf78d4_aag-brd2.60" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.60</b> FASB ASC
+                    940-720-05-1 states that FASB ASC 940-720 addresses the accounting for mutual
+                    fund distribution costs for brokers and dealers in securities.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

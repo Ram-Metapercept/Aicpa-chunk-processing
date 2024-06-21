@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-24cb739a-e826-fed0-f896-e2735ececaba" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Background</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">
+                                5.6.33</b> Business entities and governmental entities that
+                                want to raise funds through the public sale of securities normally
+                                engage securities broker-dealers to underwrite their securities
+                                issues. Underwriting is the act of distributing a new issue of
+                                securities (primary offering) or a large block of issued securities
+                                (secondary offering).</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.34" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.34</b> There are several different ways in which a
+                                broker-dealer may participate in the underwriting of securities. The
+                                broker-dealer may act as managing underwriter (commonly referred to
+                                as the lead underwriter), co-managing underwriter (or co-lead), or
+                                participating underwriter. Such participation may be on one of the
+                                following bases, though this does not represent an all-inclusive
+                                list:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Firm commitment.</i> The
+                                        underwriting group for a transaction on a firm-commitment
+                                        basis agrees to buy the entire security issue from the
+                                        issuer for a specified price, whether or not they can
+                                        successfully sell all purchased securities to investors.
+                                        Typically, this type of commitment occurs immediately prior
+                                        to the offering. However, broker-dealers may enter into a
+                                        contract with an issuer that provides a firm commitment to
+                                        underwrite securities several days or weeks prior to the
+                                        actual offering.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Best efforts.</i> The
+                                        underwriting group for a best-efforts basis agrees to sell
+                                        the issue at a price to be determined, normally with a
+                                        minimum requirement to complete the underwriting. Any
+                                        securities for which the broker-dealer cannot obtain a
+                                        purchase commitment in the public market will not be
+                                        underwritten (purchased) by the broker-dealer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Standby.</i> The
+                                        underwriting group for a standby basis commits to purchase
+                                        securities only if called on.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.35" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.35</b> The managing underwriter or underwriters are
+                                typically responsible for the following:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Organizing the other participating underwriters and the
+                                        selling group <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">A selling group is typically a group of
+                                                institutions that helps the issuer place a new issue
+                                                without necessarily participating in the
+                                                underwriting and therefore is not typically
+                                                responsible for any unsold securities.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-rev5_background.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-24cb739a-e826-fed0-f896-e2735ececaba/UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd-aag-rev-fn4"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Negotiating the transaction with the issuer of the
+                                        security</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Maintaining the subscription records for the underwriting
+                                        (such as status of orders from customers)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Maintaining a record of all direct expenses associated
+                                        with the offering, including marketing and advertising fees,
+                                        legal fees, and the other costs associated with setting up
+                                        the syndicate group. These expenses are allocated to the
+                                        other members of the syndicate on a pro rata basis. Refer to
+                                        the section "<xref format="dita" class="- topic/xref " href="../../../../../../aag-brd/aag-brd5/aag-brd5_revenue_recognition_implementation_of/aag-brd5_brokers_dealers_and_futures/aag-rev5_other_related_topics/topics/aag-rev5_principal_versus_agent_costs.dita#UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4b40971f-3ff9-39cc-6cfd-98aa32de0e25">Principal Versus Agent: Costs Associated With
+                                            Underwriting</xref>" in paragraphs 5.7.21–5.7.32 for
+                                        guidance on accounting for these expenses.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.36" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.36</b> Participating underwriters maintain records of
+                                each underwriting participation only to the extent that they are
+                                involved. To spread the risk of an underwriting and facilitate its
+                                distribution, the underwriters may sell all or part of the
+                                securities directly to the public or a selling group that in turn
+                                sells the securities to the public. If an issue is not fully sold
+                                (in a firm commitment underwriting), the liability is shared among
+                                the participating underwriters through either an undivided or
+                                divided arrangement. An undivided liability is an arrangement
+                                whereby each member of an underwriting syndicate is liable for its
+                                proportionate share of unsold securities in the underwriting account
+                                regardless of the number of securities it has previously sold. A
+                                divided liability is an arrangement whereby each member is liable
+                                only for its "divided" or fixed share of the securities and not for
+                                any additional unsold securities beyond that amount. Selling groups
+                                are not underwriters and have no obligation to sell the securities
+                                allocated to them. Accordingly, they are entitled only to a selling
+                                concession.</p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev5.6.37" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.6.37</b> The difference between the price paid by the
+                                broker-dealer to the issuer for the securities and the price paid by
+                                the public for the securities (the gross underwriting spread)
+                                represents the underwriters' and selling groups’ compensation for
+                                the risk and cost of selling the issue. The gross underwriting
+                                spread is generally apportioned between the underwriters and selling
+                                group and represents the compensation for one or more of the
+                                following services, which are specified in the underwriting
+                                agreement or term sheet:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Management underwriting
+                                            services.</i> Underwriting services performed by
+                                        the manager or co-managers (usually referred to as the lead
+                                        or co-lead) in organizing the syndicate of underwriters and
+                                        maintaining the records for the distribution (typically 20%
+                                        of the spread)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Underwriting services.</i>
+                                        Underwriting services performed by the underwriting
+                                        participants (other than the lead managers) in committing to
+                                        buy a specified portion of the issue and thereby assume the
+                                        associated risk (typically 20% of the spread)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Selling concession
+                                            services.</i> Underwriting services performed by
+                                        all the underwriters in selling the offering (typically 60%
+                                        of the spread)</p>
+         </li>
+      </ol>
+      <p class="- topic/p ">It should be noted that the split can be any combination agreed
+                                upon contractually and would not change the gross underwriting
+                                spread.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

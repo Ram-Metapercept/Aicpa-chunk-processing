@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_UUID-5820ef50-daed-6419-fb5f-10dfd3bc933c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Disclosures Related to Transfers of Financial Assets Accounted for as
+                    Secured Borrowings</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-2f7e43da-e4c0-9b18-c5d7-1db140d3468c_para-idm53393230725590" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.134</b> To provide transparency about the
+                    types of collateral pledged and the associated risks of short-term
+                    collateralized liabilities, FASB ASC 860-30-50-7 requires the following
+                    disclosures for repurchase agreements, securities lending transactions, and
+                    repurchase-to-maturity transactions that are accounted for as secured
+                    borrowings:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">A disaggregation of the gross obligation by the class of collateral
+                            pledged, which should be determined by the reporting entity based on the
+                            nature, characteristics, and risks of the collateral pledged.</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Total borrowings under those agreements should be reconciled
+                                    to the amount of gross liability for repurchase agreements and
+                                    securities lending transactions disclosed in accordance with
+                                    FASB ASC 210-20-50-3a before any adjustments for offsetting. Any
+                                    difference between these amounts should be presented as a
+                                    reconciling item(s).</p>
+               </li>
+            </ol>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The remaining contractual maturity of the agreements, which should be
+                            disclosed in maturity intervals determined by the reporting entity to
+                            convey an understanding of the overall maturity profile of the entity’s
+                            financing agreements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A discussion of the potential risks associated with the agreements and
+                            the related collateral pledged, including obligations arising from a
+                            decline in the fair value of the collateral pledged and how those risks
+                            are managed.</p>
+         </li>
+      </ol>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-368d37e7-f12b-9e41-f926-208d04f6deee" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Background</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.54" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.54</b> Incentive or performance
+                                fees (collectively, <i class="+ topic/ph hi-d/i ">performance
+                                    fee</i>) represent variable consideration paid by the
+                                customer for asset management services when the performance of the
+                                fund or separate account exceeds a specified benchmark or
+                                contractual hurdle over a contractual performance period or the life
+                                of the fund. These fees may be calculated as a percentage of AUM,
+                                the market appreciation of the fund or separate account, or other
+                                criteria. For a discussion on incentive-based capital allocations,
+                                refer to the section “<xref format="dita" class="- topic/xref " href="../../../../../../aag-rev/aag-rev4/aag-rev4_revenue_streams/aag-rev4_incentive_based_capital_allocations/aag-rev4_incentive_based_capital_allocations.dita#UUID-5dda6152-7bb5-4414-0515-87dee369dc20_UUID-3ccaa7e0-892e-46cb-0508-3b0b33c0958c">Incentive-Based Capital Allocations</xref>” in paragraphs
+                                4.6.81–4.6.93. <unknown id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_N661755d1b6066" class="- topic/unknown ">Incentive-Based Capital
+                                    Allocations</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_aag-rev4.6.55" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.6.55</b> Example 25 in paragraphs
+                                221–225 of FASB ASC 606-10-55 illustrates application of the
+                                guidance on variable consideration to performance fees. As noted in
+                                this FASB ASC 606-10-55-224, performance fees paid as consideration
+                                for asset management services may not be included in the transaction
+                                price because “the variability of the fee based on the market index
+                                indicates that the entity cannot conclude that it is probable that a
+                                significant reversal in the cumulative amount of revenue recognized
+                                would not occur if the entity included its estimate of the incentive
+                                fee in the transaction price.”</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>
