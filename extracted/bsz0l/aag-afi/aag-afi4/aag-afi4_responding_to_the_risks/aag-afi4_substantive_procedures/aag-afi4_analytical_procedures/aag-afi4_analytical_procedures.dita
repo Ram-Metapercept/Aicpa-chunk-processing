@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-8755dd47-7cbf-cc60-79f1-7ded4a385c49" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Analytical Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.29</b> Analytical procedures are based on
+                        relationships between data. The more predictable the relationships, the more
+                        precise the auditor’s expectation of the financial statement account. The
+                        value of many financial instruments can be highly volatile, making valuation
+                        assertions about them ill-suited to testing via analytical procedures.
+                        Additionally, the accounting for many financial instruments is based on
+                        underlying assumptions that, oftentimes, are quite subjective. Finally, the
+                        accounting for financial instruments may be highly dependent on management’s
+                        intention. For example, the classification of debt and equity securities
+                        depends on management’s ability and intent with regard to holding those
+                        financial instruments. The accounting for derivatives depends on
+                        management’s objectives in entering into those financial instruments’
+                        transactions.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.30</b> For these reasons, performing
+                        analytical procedures alone may not sufficiently reduce audit risk for some
+                        assertions about financial instruments. For example, analytical procedures
+                        would not be effective in determining whether an embedded derivative has
+                        been properly recognized in the financial statements or in evaluating the
+                        fair value of a financial instrument whose value fluctuates greatly.
+                        However, they may be effective in pointing out unrecorded derivatives, such
+                        as interest rate swaps that contractually require no cash at inception. For
+                        example, a difference from an expectation that interest expense will be a
+                        fixed percentage of a note based on the interest provisions of the
+                        underlying agreement may indicate the existence of an interest rate swap
+                        agreement. Also, analytical procedures based on expectations of
+                        relationships between income and assets may provide some evidence about
+                        existence and completeness assertions.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.31</b> Analytical procedures may also be
+                        effective in corroborating the occurrence of income and expenses and,
+                        sometimes, gains and losses associated with a financial instrument. For
+                        example, the absence of a material difference from an expectation that
+                        interest income will be a fixed percentage of a debt security based on the
+                        effective interest rate when the entity purchased the security provides
+                        evidence about the existence of the income (and the security). However,
+                        auditors might consider that the income, expenses, gains, and losses
+                        associated with a financial instrument may involve a complex interplay of
+                        many factors. For example, if the fair value of a derivative is derived from
+                        the interrelationship of exchange rates, interest rates, rate differentials,
+                        or a combination of these, any attempts to develop an expectation of a
+                        financial statement amount may be difficult.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.32</b> Many of the auditor’s procedures can
+                        be used to address a number of assertions. For example, procedures to
+                        address the existence of an account balance at period-end will also address
+                        the occurrence of a class of transactions and may also assist in
+                        establishing proper cut-off because financial instruments arise from legal
+                        contracts, and by verifying the accuracy of the recording of the
+                        transaction, the auditor can also verify its existence and obtain evidence
+                        to support the occurrence and rights and obligations assertions at the same
+                        time and can confirm that transactions are recorded in the correct
+                        accounting period.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

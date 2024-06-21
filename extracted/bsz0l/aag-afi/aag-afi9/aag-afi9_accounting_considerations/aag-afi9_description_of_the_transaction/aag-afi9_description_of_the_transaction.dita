@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Description of the Transaction</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.03</b> On September 24,
+                    20X1, Martin, Inc. (Martin) purchased as an investment 100 of the $1,000, 5%
+                    convertible bonds issued by Larson Enterprises (Larson). The bonds have a
+                    conversion option under which Martin can require Larson to settle the bonds at
+                    any time prior to their maturity by converting each bond into 26.185 shares of
+                    Larson’s publicly traded equity securities. For each bond, Martin paid $1,242.50
+                    plus accrued interest of $19.98, for a total price per bond of $1,262.48.
+                    Therefore, Martin paid $126,248 for the 100 bonds, consisting of $124,250 for
+                    the convertible bonds and $1,998 for accrued interest. Martin classifies the
+                    bonds as available for sale. <ph class="- topic/ph ">
+            <fn callout="4" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn4" class="- topic/fn ">
+               <p class="- topic/p ">As noted in FASB ASC 320-10-25-5, the existence of the conversion
+                            option on Larson Enterprises’ (Larson’s) stock would generally preclude
+                            Martin, Inc. (Martin) from classifying the bonds as held to maturity. A
+                            conversion option feature on a held-to-maturity security will call into
+                            question an investor’s stated intent to hold other debt securities to
+                            maturity in the future.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn4"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.04</b> The convertible
+                    bonds are hybrid financial instruments that are a combination of straight
+                    interest-bearing bonds and a conversion option. Because the option affects the
+                    value of the bonds in a manner similar to a derivative, Martin must analyze the
+                    hybrid instrument against the three criteria set out in FASB ASC 815-15-25-1.
+                        <ph class="- topic/ph ">
+            <fn callout="5" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn5" class="- topic/fn ">
+               <p class="- topic/p ">Because Larson’s equity securities are publicly traded, the option
+                            that requires physical delivery of those shares would generally be
+                            considered net settleable because the shares are readily convertible
+                            into cash. As discussed in FASB ASC 815-10-15-18, if the shares were not
+                            readily convertible into cash (for example, because they are privately
+                            held), the option would not be considered net settleable and, therefore,
+                            would not be a derivative instrument subject to the requirements of FASB
+                            ASC 815, <i class="+ topic/ph hi-d/i ">Derivatives and Hedging</i>, if
+                            freestanding.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn5"/>
+         </ph> If the bond meets all the criteria, the option is an embedded
+                    derivative that must be accounted for separately from the straight bonds. The
+                    straight bonds are considered to be the host contracts for the embedded
+                    derivative. <xref format="dita" class="- topic/xref " href="#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_exhibit_9-1">Exhibit 9-1</xref>, "Martin, Inc., Comparison of the Conversion Option in
+                    the Larson Enterprises’ Bonds With the Criteria in FASB <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i> 815-15-25-1 for Separately
+                    Accounting for an Embedded Derivative," compares the option contained in the
+                    Larson convertible bonds with the three criteria.</p>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.05</b> Paragraphs 4–5
+                    of FASB ASC 815-15-25 permit fair value remeasurement of any hybrid financial
+                    instrument that contains an embedded derivative that otherwise would require
+                    bifurcation. An entity that initially recognizes a hybrid financial instrument
+                    that under FASB ASC 815-15-25-1 would be required to be separated into a host
+                    contract and derivative instrument may irrevocably elect to initially and
+                    subsequently measure that hybrid financial instrument in its entirety at fair
+                    value (with changes in fair value recognized in earnings and, if paragraph
+                    825-10-45-5 is applicable, other comprehensive income). A financial instrument
+                    should be evaluated to determine that it has an embedded derivative requiring
+                    bifurcation before the instrument can become a candidate for the fair value
+                    election. The fair value election should be supported by concurrent
+                    documentation or a preexisting documented policy for automatic election. That
+                    recognized hybrid financial instrument could be an asset or a liability, and it
+                    could be acquired or issued by the entity. That election is also available when
+                    a previously recognized financial instrument is subject to a remeasurement event
+                    (new basis event) and the separate recognition of an embedded derivative. For
+                    purposes of FASB ASC 815-15-25-5, a <i class="+ topic/ph hi-d/i ">remeasurement (new
+                        basis event)</i> is an event identified in accounting principles
+                    generally accepted in the United States of America, other than the recognition
+                    of an other-than-temporary impairment, or measurement of an impairment loss
+                    through earnings under FASB ASC 321, <i class="+ topic/ph hi-d/i ">Investments —
+                        Equity Securities</i>, on equity investments, that requires a
+                    financial instrument to be remeasured to its fair value at the time of the event
+                    but does not require that instrument to be reported at fair value on a
+                    continuous basis with the change in fair value recognized in earnings. Examples
+                    of remeasurement events are <i class="+ topic/ph hi-d/i ">business
+                        combinations</i> and <i class="+ topic/ph hi-d/i ">significant
+                        modifications of debt</i>, as defined in FASB ASC 470-50. Per FASB
+                    ASC 815-15-25-6, the fair value election should not be applied to any hybrid
+                    instruments listed in FASB ASC 825-10-50-8.</p>
+      <p outputclass="ps_para_number" class="- topic/p ">
+         <ph outputclass="shade grey" class="- topic/ph ">Paragraphs 4–5 of FASB ASC 815-15-25 permit
+                        fair value remeasurement of any hybrid financial instrument that contains an
+                        embedded derivative that otherwise would require bifurcation. An entity that
+                        initially recognizes a hybrid financial instrument that under FASB ASC
+                        815-15-25-1 would be required to be separated into a host contract and
+                        derivative instrument may irrevocably elect to initially and subsequently
+                        measure that hybrid financial instrument in its entirety at fair value (with
+                        changes in fair value recognized in earnings and, if paragraph 825-10-45-5
+                        is applicable, other comprehensive income). A financial instrument should be
+                        evaluated to determine that it has an embedded derivative requiring
+                        bifurcation before the instrument can become a candidate for the fair value
+                        election. The fair value election should be supported by concurrent
+                        documentation or a preexisting documented policy for automatic election.
+                        That recognized hybrid financial instrument could be an asset or a
+                        liability, and it could be acquired or issued by the entity. That election
+                        is also available when a previously recognized financial instrument is
+                        subject to a remeasurement event (new basis event) and the separate
+                        recognition of an embedded derivative. For purposes of FASB ASC 815-15-25-5,
+                        a <i class="+ topic/ph hi-d/i ">remeasurement (new basis event)</i> is an
+                        event identified in accounting principles generally accepted in the United
+                        States of America, other than the recording of a credit loss under FASB ASC
+                        326, <i class="+ topic/ph hi-d/i ">Financial Instruments — Credit
+                            Losses</i>, or measurement of an impairment loss through earnings
+                        under FASB ASC 321 on equity investments, that requires a financial
+                        instrument to be remeasured to its fair value at the time of the event but
+                        does not require that instrument to be reported at fair value on a
+                        continuous basis with the change in fair value recognized in earnings.
+                        Examples of remeasurement events are <i class="+ topic/ph hi-d/i ">business
+                            combinations</i> and <i class="+ topic/ph hi-d/i ">significant
+                            modifications of debt</i>, as defined in FASB ASC 470-50. Per
+                        FASB ASC 815-15-25-6, the fair value election should not be applied to any
+                        hybrid instruments listed in FASB ASC 825-10-50-8.</ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.06</b> According to
+                    FASB ASC 815-15-25-5, the fair value election for hybrid financial instruments
+                    in paragraphs 4–5 of FASB ASC 815-15-25 may be made on an
+                    instrument-by-instrument basis.</p>
+      <table outputclass="ruled" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_table1" class="- topic/table ">
+         <title id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_exhibit_9-1" class="- topic/title ">Exhibit 9-1 — Martin, Inc., Comparison of
+                        the Conversion Option in the Larson Enterprises’ Bonds With the Criteria in
+                        FASB <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i>
+                        815-15-25-1 for Separately Accounting for an Embedded Derivative</title>
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Criterion</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Analysis</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Not clearly and closely
+                                        related.</i> The economic characteristics and risks
+                                    of the embedded derivative instrument are not clearly and
+                                    closely related to the economic characteristics and risks of the
+                                    host contract.</p>
+                  </entry>
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Following the guidance in paragraphs 30–34 of FASB <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i>
+                                    (ASC) 815-10-15, because the option is based on stock prices, it
+                                    is not clearly and closely related to the straight bond.</p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Criterion is met.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Accounting for the hybrid
+                                        instrument.</i> The hybrid instrument that embodies
+                                    both the embedded derivative instrument and host contract is not
+                                    remeasured at fair value under otherwise applicable accounting
+                                    principles generally accepted in the United States of America,
+                                    with changes in fair value reported in earnings as they
+                                    occur.</p>
+                  </entry>
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Martin, Inc., classifies the bonds as available for sale under
+                                    FASB ASC 320-10-25-1. Accordingly, although the bonds will be
+                                    remeasured at fair value, the changes in their fair value will
+                                    be reported in other comprehensive income rather than
+                                        earnings.<b class="+ topic/ph hi-d/b ">*</b>
+                     </p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Criterion is met.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">The embedded instrument is a
+                                        derivative.</i> A separate instrument with the same
+                                    terms as the embedded instrument meets the definition of a
+                                        <i class="+ topic/ph hi-d/i ">derivative</i>, subject to
+                                    the requirements of FASB ASC 815-10-15.</p>
+                  </entry>
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">A conversion option would be a derivative subject to the
+                                    requirements of FASB ASC 815, <i class="+ topic/ph hi-d/i ">Derivatives and Hedging</i>.</p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Criterion is met.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c2" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">*</b>    If Martin, Inc., instead
+                                    classified the bonds as trading under FASB ASC 320, <i class="+ topic/ph hi-d/i ">Investments — Debt and Equity
+                                        Securities</i>, the bonds would be remeasured at fair
+                                    value, with changes in fair value reported in earnings as they
+                                    occur. Accordingly, this criterion would not be met, and FASB
+                                    ASC 815, <i class="+ topic/ph hi-d/i ">Derivatives and
+                                        Hedging</i>, would prohibit accounting for the option
+                                    separately from the bond.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p class="- topic/p ">Because all three criteria are met, Martin should account for the option (that
+                    is, embedded derivative) separately from the straight bond (that is, host
+                    contract).</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

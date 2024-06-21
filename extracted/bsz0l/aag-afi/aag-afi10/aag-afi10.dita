@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Chapter 10 — Case Study of the Use of an Interest Rate Swap to Hedge Existing
+            Debt</title>
+   <body class="- topic/body ">
+      <note type="notice" outputclass="box-border shade grey" class="- topic/note ">
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Gray shaded text in this chapter reflects guidance issued
+                    but not yet effective as of the date of this guide, September 1, 2020, but
+                    becoming effective on or prior to December 31, 2020, exclusive of any option to
+                    early adopt ahead of the mandatory effective date. Unless otherwise indicated,
+                    all unshaded text reflects guidance that was already effective as of the date of
+                    this guide.</i>
+         </p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.01</b> In this case study,
+            the entity has issued a fixed-rate bond and is exposed to the risk that changes in the
+            benchmark interest rate will change the bond’s fair value. In order to mitigate this
+            risk, the entity enters into an interest rate swap that effectively converts the
+            fixed-rate liability into a variable-rate liability.</p>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.02</b> Under FASB <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i> (ASC) 815, <i class="+ topic/ph hi-d/i ">Derivatives and Hedging</i>, the change in the fair value of a
+            derivative designated as a fair value hedge is recognized in earnings together with the
+            change in the fair value of the hedged item that is attributable to the risk being
+            hedged. In this case study, the change in the fair value of the interest rate swap will
+            be offset by the change in the fair value of the obligation under the bond that is
+            attributable to changes in the benchmark interest rate. The changes have opposite
+            effects on earnings. For example, if the change in the fair value of the obligation
+            under the bond from a change in the benchmark interest rate creates a gain, the change
+            in the fair value of the swap will create a loss.</p>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.03</b> The hedging instrument
+            in this case study is an interest rate swap. <i class="+ topic/ph hi-d/i ">Swaps</i>
+            are contracts to exchange, for a period of time, the investment performance of one
+            underlying instrument for the investment performance of another instrument without
+            exchanging the instruments themselves. The interest rate swap used in this case study
+            involves the swap of interest at a variable rate based on a designated benchmark
+            interest rate (in this case study, 90-day London Interbank Offered Rate [LIBOR])
+            multiplied by a notional principal amount for interest at a fixed rate multiplied by
+            that same notional principal amount.</p>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.04</b> Under the agreement in
+            this case study, the entity effectively pays interest under the swap at a variable rate
+            and receives interest under the swap at a fixed rate (although the entity actually pays
+            or receives only the net amount under the swap). In this particular case, the notional
+            amount of the swap is the same as the principal outstanding under the entity’s bond, and
+            the fixed rate received under the swap is the same as the bond’s rate. Accordingly, the
+            amount of fixed-rate interest received under the swap equals the amount of interest paid
+            on the bond, and the net amount of interest paid equals the interest paid under the swap
+            at the variable rate. The swap therefore enables the entity to pay a variable rate of
+            interest on the amount of principal outstanding under the bond, thus effectively
+            converting the bond from a fixed-rate to variable-rate instrument.</p>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.05</b> The "<xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_considerations.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-e8484312-882a-a003-9853-7ffcab9f2e8a">Accounting Considerations</xref>" section illustrates accounting for a fair value
+            hedge when the hedging instrument is an interest rate swap. When certain conditions are
+            met, the entity may assume that an interest rate swap will be perfectly effective in
+            hedging interest rate risk and may use the shortcut method to account for the hedging
+            activity. In this case study, those conditions are not met, so the example demonstrates
+            the accounting entries that should be made when the shortcut method is not available.
+            The "<xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_considerations.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-e8484312-882a-a003-9853-7ffcab9f2e8a">Auditing Considerations</xref>" section illustrates the application of the guidance
+            contained in AU-C section 501B, <i class="+ topic/ph hi-d/i ">Audit Evidence — Specific
+                Considerations for Selected Items</i>. <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24-aag-afi10-fn1" class="- topic/fn ">
+               <p class="- topic/p ">All AU-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                     <unknown id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_N66175500b166d" class="- topic/unknown ">AICPA Professional
+                    Standards</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi10.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24-aag-afi10-fn1"/>
+         </ph>
+         <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24-aag-afi10-fn2" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for example,
+                    “AU-C section 200B”) denotes content that does not reflect the codification of
+                    Statement on Auditing Standards (SAS) Nos. 134–140 or the amendments to other
+                    SASs made by SAS Nos. 134–140 and subsequently issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi10.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24-aag-afi10-fn2"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

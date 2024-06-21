@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-c500605c-421a-f967-bffb-4eaedcfd581b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Alternatives Within U.S. Generally Accepted Accounting
+                Principles</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">The Private Company Council (PCC), established by the Financial Accounting
+                Foundation’s Board of Trustees in 2012, and FASB, working jointly, will mutually
+                agree on a set of criteria to decide whether and when alternatives within U.S. GAAP
+                are warranted for private companies. Based on those criteria, the PCC reviews and
+                proposes alternatives within U.S. GAAP to address the needs of users of private
+                company financial statements. These U.S. GAAP alternatives may be applied to those
+                entities that are not public business entities, not-for-profits, or employee benefit
+                plans.</p>
+      <p class="- topic/p ">The FASB ASC Master Glossary defines a <i class="+ topic/ph hi-d/i ">public business entity</i>
+                as follows:</p>
+      <lq class="- topic/lq ">
+         <p class="- topic/p ">A public business entity is a business entity meeting any one of the criteria
+                    below. Neither a not-for-profit entity nor an employee benefit plan is a
+                    business entity.</p>
+         <ol outputclass="a" class="- topic/ol ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">It is required by the U.S. Securities and Exchange Commission (SEC) to
+                            file or furnish financial statements, or does file or furnish financial
+                            statements (including voluntary filers), with the SEC (including other
+                            entities whose financial statements or financial information are
+                            required to be or are included in a filing).</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">It is required by the Securities Exchange Act of 1934 (the Act), as
+                            amended, or rules or regulations promulgated under the Act, to file or
+                            furnish financial statements with a regulatory agency other than the
+                            SEC.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">It is required to file or furnish financial statements with a foreign
+                            or domestic regulatory agency in preparation for the sale of or for
+                            purposes of issuing securities that are not subject to contractual
+                            restrictions on transfer.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">It has issued, or is a conduit bond obligor for, securities that are
+                            traded, listed, or quoted on an exchange or an over-the-counter
+                            market.</p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">It has one or more securities that are not subject to contractual
+                            restrictions on transfer, and it is required by law, contract, or
+                            regulation to prepare U.S. GAAP financial statements (including
+                            footnotes) and make them publicly available on a periodic basis (for
+                            example, interim or annual periods). An entity must meet both of these
+                            conditions to meet this criterion.</p>
+            </li>
+         </ol>
+         <p class="- topic/p ">An entity may meet the definition of a public business entity solely because
+                    its financial statements or financial information is included in another
+                    entity’s filing with the SEC. In that case, the entity is only a public business
+                    entity for purposes of financial statements that are filed or furnished with the
+                    SEC.</p>
+      </lq>
+      <p class="- topic/p ">Considerations related to alternatives for private companies may be discussed
+                within this guide’s chapter text. When such discussion is provided, the related
+                paragraphs are designated with the following title: <i class="+ topic/ph hi-d/i ">Considerations for Private Companies That Elect to use Standards as Issued by
+                    the Private Company Council</i>.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

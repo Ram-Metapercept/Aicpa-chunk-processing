@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-21975629-2314-416a-b67f-7c32e3eb2545" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Authorization</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.28</b> Authorization can affect the financial statement assertions
+                        both directly and indirectly. For example, even if a transaction is executed
+                        outside an entity’s policies, it nonetheless may be recorded and accounted
+                        for accurately. However, unauthorized transactions could significantly
+                        increase risk to the entity, thereby significantly increasing the risk of
+                        material misstatement because they would be undertaken outside the system of
+                        internal control. To mitigate this risk, an entity will often establish a
+                        clear policy regarding what transactions can be traded by whom, and
+                        adherence to this policy will then be monitored by an entity’s
+                        administrative and support services. Monitoring trading activities of
+                        individuals (for example, by reviewing unusually high volumes or significant
+                        gains or losses incurred) will assist management in ensuring compliance with
+                        the entity’s policies, including the authorization of new types of
+                        transactions, and evaluating whether fraud has occurred.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.29</b> The function
+                        of an entity’s deal initiation records is to identify clearly the nature and
+                        purpose of individual transactions and the rights and obligations arising
+                        under each financial instrument contract, including the enforceability of
+                        the contracts. In addition to the basic financial information, such as a
+                        notional amount, complete and accurate records, at a minimum, typically
+                        include the</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">identity of the dealer.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">identity of the person recording the transaction (if not the
+                                dealer), when the transaction was initiated (including the date and
+                                time of the transaction), and how it was recorded in the entity’s
+                                information systems.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">nature and purpose of the transaction, including whether it is
+                                intended to hedge an underlying commercial exposure.</p>
+         </li>
+      </ol>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

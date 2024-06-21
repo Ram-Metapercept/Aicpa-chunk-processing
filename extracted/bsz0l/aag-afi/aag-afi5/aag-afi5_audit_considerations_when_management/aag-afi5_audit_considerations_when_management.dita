@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-6e61e354-a9ae-6ac0-907d-a58fb8425d94" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Audit Considerations When Management Uses a Third-Party Pricing
+                Source</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.11</b> Management may make
+                use of a third-party pricing source, such as a pricing service or broker, in valuing
+                the entity’s financial instruments. Understanding how management uses the
+                information and how the pricing service operates assists the auditor in determining
+                the nature and extent of audit procedures needed.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.12</b> AU-C section 500B,
+                    <i class="+ topic/ph hi-d/i ">Audit Evidence</i>, explains that when
+                information to be used as audit evidence has been prepared using the work of
+                management’s specialist, the requirement with respect to management’s specialist in
+                paragraph .08 of AU-C section 500B applies. For example, an individual or
+                organization may possess expertise in the application of models to estimate the fair
+                value of securities for which no observable market exists. If the individual or
+                organization applies that expertise in making an estimate that the entity uses in
+                preparing its financial statements, the individual or organization is a management’s
+                specialist, and paragraph .08 of AU-C section 500B applies. If, on the other hand,
+                that individual or organization merely provides price data regarding private
+                transactions not otherwise available to the entity that the entity uses in its own
+                estimation methods, such information, if used as audit evidence, is subject to
+                paragraph .07 of AU-C section 500B, but it is not the use of management’s specialist
+                by the entity. <ph class="- topic/ph ">
+            <fn callout="6" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn6" class="- topic/fn ">
+               <p class="- topic/p ">See paragraph .A36 of AU-C section 500B, <i class="+ topic/ph hi-d/i ">Audit
+                            Evidence</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi5_audit_considerations_when_management.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-6e61e354-a9ae-6ac0-907d-a58fb8425d94/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn6"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.13</b> The following
+                matters may be relevant when management uses a third-party pricing source:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The type of third-party pricing source</i>.
+                        Some third-party pricing sources make more information available about their
+                        process. For example, a pricing service often provides information about its
+                        methodology, assumptions, and data in valuing financial instruments at the
+                        asset class level. By contrast, brokers often provide no, or only limited,
+                        information about the inputs and assumptions used in developing the
+                        quote.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The nature of inputs used and the complexity of
+                            the valuation technique</i>. The reliability of prices from
+                        third-party pricing sources varies depending on the observability of inputs
+                        (and, accordingly, the level of inputs in the fair value hierarchy) and the
+                        complexity of the methodology for valuing a specific security or asset
+                        class. For example, the reliability of a price for an equity investment
+                        actively traded in a liquid market is higher than that of a corporate bond
+                        traded in a liquid market that has not traded on the measurement date,
+                        which, in turn, is more reliable than that of an asset-backed security that
+                        is valued using a discounted cash flow model.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The reputation and experience of the third-party
+                            pricing source</i>. For example, a third-party pricing source may
+                        be experienced in a certain type of financial instrument and be recognized
+                        as such but may not be similarly experienced in other types of financial
+                        instruments. The auditor’s past experience with the third-party pricing
+                        source may also be relevant in this regard.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The objectivity of the third-party pricing
+                            source</i>. For example, if a price obtained by management comes
+                        from a counterparty, such as the broker who sold the financial instrument to
+                        the entity, or an entity with a close relationship with the entity being
+                        audited, the price may not be reliable.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The entity’s controls over the use of third-party
+                            pricing sources</i>. The degree to which management has controls
+                        in place to assess the reliability of information from third-party pricing
+                        sources affects the reliability of the fair value measurement. For example,
+                        management may have controls in place to</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">review and approve the use of the third-party pricing source,
+                                including consideration of the reputation, experience, and
+                                objectivity of the third-party pricing source.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">determine the completeness, relevance, and accuracy of the prices
+                                and pricing-related data.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The third-party pricing source’s
+                            controls</i>. The controls and processes over valuations for the
+                        asset classes are of interest to the auditor. For example, a third-party
+                        pricing source may have strong controls around how prices are developed. In
+                        addition, the third-party pricing source may include the use of a formalized
+                        process for customers, both buy and sell side, to challenge the prices
+                        received from the pricing service when supported by appropriate evidence.
+                        This enables the third-party pricing source to constantly correct prices to
+                        more fully reflect the information available to market participants.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.14</b> Possible approaches
+                to gathering evidence regarding information from third-party pricing sources may
+                include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">For Level 1 inputs, comparing the information from third-party pricing
+                        sources with observable market prices</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reviewing disclosures provided by third-party pricing sources about their
+                        controls and processes, valuation techniques, inputs, and assumptions</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Testing the controls that management has in place to assess the
+                        reliability of information from third-party pricing sources</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Performing procedures at the third-party pricing source to understand and
+                        test the controls and processes, valuation techniques, inputs, and
+                        assumptions used for asset classes or specific financial instruments of
+                        interest</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Evaluating whether the prices obtained from third-party pricing sources
+                        are reasonable in relation to prices from other third-party pricing sources,
+                        the entity’s estimate, or the auditor’s own estimate</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Evaluating the reasonableness of valuation techniques, inputs, and
+                        assumptions</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Developing a point estimate or range for some financial instruments priced
+                        by the third-party pricing source and evaluating whether the results are
+                        within a reasonable range of each other</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Obtaining a service auditor’s report that covers the controls over
+                        validation of the prices <ph class="- topic/ph ">
+                  <fn callout="7" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn7" class="- topic/fn ">
+                     <p class="- topic/p ">Some pricing services may provide reports for users of its data to
+                                explain their controls over pricing data (that is, a report prepared
+                                in accordance with <xref format="dita" class="- topic/xref " href="../../../ps/atc_attestation_standards_clarified/atc_section_300/atc_320/atc_320.dita#UUID-9b7e3aaf-ba38-0332-75d4-d287dc86c1c6">AT-C section 320</xref>, <i class="+ topic/ph hi-d/i ">Reporting on
+                                    an Examination of Controls at a Service Organization Relevant to
+                                    User Entities’ Internal Control Over Financial
+                                    Reporting</i>. Management may request, and the auditor
+                                may consider obtaining, such a report to develop an understanding of
+                                how the pricing data is prepared and to evaluate whether the
+                                controls at the pricing service can be relied upon. See <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_determining_whether_the_service/aag-afi3_obtaining_an_understanding_of/aag-afi3_obtaining_an_understanding_of.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-85396219-6243-037c-227f-7b14497d88e7/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.48">paragraphs 3.48–.53</xref> of this guide for additional
+                                guidance. <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N6617550039168" class="- topic/unknown ">AT-C Section 320</unknown>
+                     </p>
+                     <p class="- topic/p ">    All AT-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                           <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                           <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N661755003ab70" class="- topic/unknown ">AICPA Professional
+                                        Standards</unknown>
+                        </i>.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi5_audit_considerations_when_management.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-6e61e354-a9ae-6ac0-907d-a58fb8425d94/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn7"/>
+               </ph>
+            </p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.15</b> Obtaining prices
+                from multiple third-party pricing sources may also provide useful information about
+                measurement uncertainty. A wide range of prices may indicate higher measurement
+                uncertainty and suggest that the financial instrument is sensitive to small changes
+                in data and assumptions. A narrow range may indicate lower measurement uncertainty
+                and suggest less sensitivity to changes in data and assumptions. Although obtaining
+                prices from multiple sources may be useful, when considering financial instruments
+                that have inputs categorized at Levels 2 or 3 of the fair value hierarchy, in
+                particular, obtaining prices from multiple sources may not provide sufficient
+                appropriate audit evidence on its own because</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">what appear to be multiple sources of pricing information may be utilizing
+                        the same underlying pricing source.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding the inputs used by the third-party pricing source in
+                        determining the price may be necessary in order to categorize the financial
+                        instrument in the fair value hierarchy.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.16</b> In some situations,
+                the auditor may be unable to gain an understanding of the process used to generate
+                the price, including any controls over the process of how reliably the price is
+                determined, or may not have access to the model, including the assumptions and other
+                inputs used. In such cases, the auditor may decide to undertake to develop a point
+                estimate or range to evaluate management’s point estimate in responding to the
+                assessed risk.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

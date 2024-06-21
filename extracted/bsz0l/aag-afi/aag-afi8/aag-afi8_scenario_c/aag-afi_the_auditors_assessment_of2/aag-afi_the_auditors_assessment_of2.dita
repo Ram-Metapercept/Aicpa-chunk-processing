@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-673e602c-1a67-e5ee-2457-eea7975552b4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">The Auditor’s Assessment of Control Risk</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.26</b> As discussed in
+                    paragraph .A7 of AU-C section 402B, the significance of the controls at the
+                    service organization to the user entity’s internal control also depends on the
+                    degree of interaction between the service organization’s activities and those of
+                    the user entity. The degree of interaction refers to the extent to which a user
+                    entity is able to and elects to implement effective controls over the processing
+                    performed by the service organization. For example, a high degree of interaction
+                    exists between the activities of the user entity and those at the service
+                    organization when the user entity authorizes transactions, and the service
+                    organization processes and accounts for those transactions. In these
+                    circumstances, it may be practicable for the user entity to implement effective
+                    controls over those transactions. On the other hand, when the service
+                    organization initiates or initially records, processes, and accounts for the
+                    user entity’s transactions, a lower degree of interaction exists between the two
+                    organizations. In these circumstances, the user entity may be unable to or may
+                    elect not to implement effective controls over these transactions at the user
+                    entity and may rely on controls at the service organization. In this
+                    arrangement, when the broker-dealer both initiates and executes trades, the
+                    broker-dealer provides all the information about trades that is available to the
+                    auditor. In addition, the broker-dealer’s initiation and execution services are
+                    largely provided electronically. Accordingly, the auditor concludes that audit
+                    risk cannot be limited sufficiently without obtaining the following audit
+                    evidence about the operating effectiveness of the broker-dealer’s controls:
+                        <ph class="- topic/ph ">
+            <fn callout="6" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn6" class="- topic/fn ">
+               <p class="- topic/p ">As a practical matter, Lane’s management should view information about
+                            the operating effectiveness of the broker-dealer’s controls as an
+                            important part of its risk management considerations.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_the_auditors_assessment_of2.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-673e602c-1a67-e5ee-2457-eea7975552b4/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn6"/>
+         </ph>
+      </p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establishing independent departments that provide the investment
+                            advisory services and the holding and servicing of financial
+                            instruments</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reconciling the information about the financial instruments that is
+                            provided by each department</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.27</b> If the audit
+                    evidence about the operating effectiveness of these controls supports an
+                    assessment of control risk as low or moderate, the auditor may be able to reduce
+                    the number of trades tested. The resulting audit efficiencies will become more
+                    noticeable as the number of trades increases.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-514f68ae-c044-4ab1-75ea-b25c7a297680" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Description of the Entity</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.12</b> BEV manufactures parts for
+                    high-performance bicycles. Recently, BEV hired a new controller who came to the
+                    entity with five years of experience in public accounting. During the years of
+                    BEV’s growth, the owners of the entity became less involved with the daily
+                    operations of the business, and the reliability of controls suffered. One of the
+                    first tasks of the new controller was to design and implement a more formal
+                    system of internal control that emphasized segregation of duties and strong
+                    oversight and monitoring of all accounting functions by supervisors. Included in
+                    this formal system is the requirement that one of BEV’s owners personally review
+                    the month-end investment statements sent by the broker-dealer who holds and
+                    services the bond. These documents are then sent to the accounting department
+                    for entry into the accounting system. Based largely on the improvements made by
+                    the new controller, the auditor determined that BEV’s control environment is
+                    well-designed and capable of mitigating control risk.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

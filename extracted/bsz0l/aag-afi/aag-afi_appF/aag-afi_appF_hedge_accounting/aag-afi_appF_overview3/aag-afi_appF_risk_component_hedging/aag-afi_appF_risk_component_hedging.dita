@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-3e67ff8b-0e82-9ae2-339e-201869ee03d2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Risk Component Hedging</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Current GAAP contains limitations on how an entity can designate the
+                        hedged risk in certain cash flow and fair value hedging relationships. To
+                        address those current limitations, the amendments in this ASU permit hedge
+                        accounting for risk components in hedging relationships involving
+                        nonfinancial risk and interest rate risk as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">For a cash flow hedge of a forecasted purchase or sale of a
+                                nonfinancial asset, an entity could designate as the hedged risk the
+                                variability in cash flows attributable to changes in a contractually
+                                specified component stated in the contract. The amendments remove
+                                the requirement in current GAAP that only the overall variability in
+                                cash flows or variability related to foreign currency risk could be
+                                designated as the hedged risk in a cash flow hedge of a nonfinancial
+                                asset.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">For a cash flow hedge of interest rate risk of a variable-rate
+                                financial instrument, an entity could designate as the hedged risk
+                                the variability in cash flows attributable to the contractually
+                                specified interest rate. By eliminating the concept of benchmark
+                                interest rates for hedges of variable-rate instruments in current
+                                GAAP, the amendments remove the requirement to designate only the
+                                overall variability in cash flows as the hedged risk in a cash flow
+                                hedge of a variable-rate instrument indexed to a non-benchmark
+                                interest rate.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">For a fair value hedge of interest rate risk, the amendments add
+                                the Securities Industry and Financial Markets Association (SIFMA)
+                                Municipal Swap Rate as an eligible benchmark interest rate in the
+                                United States in addition to those already permitted under current
+                                GAAP (the U.S. Treasury Rate, the London Interbank Offered Rate Swap
+                                Rate, and the Fed Funds Effective Swap Rate [or Overnight Index Swap
+                                Rate]). This allows an entity that issues or invests in fixed-rate
+                                tax-exempt financial instruments to designate as the hedged risk
+                                changes in fair value attributable to interest rate risk related to
+                                the SIFMA Municipal Swap Rate rather than overall changes in fair
+                                value.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-e0023bfd-dad2-7a81-e0ea-217de3f98e03" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Auditor Reporting Standards</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">In May 2020, the Auditing Standards Board (ASB) issued Statement on Auditing
+                Standards (SAS) No. 141, <i class="+ topic/ph hi-d/i ">Amendment to the Effective Dates of
+                    SAS Nos. 134–140</i>, to allow for a one-year delay of the effective
+                dates of the following SASs that were issued between May 2019 and April 2020:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">SAS No. 134, <i class="+ topic/ph hi-d/i ">Auditor Reporting and Amendments,
+                            Including Amendments Addressing Disclosures in the Audit of Financial
+                            Statements</i>, as amended</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">SAS No. 135, <i class="+ topic/ph hi-d/i ">Omnibus Statement on Auditing
+                            Standards — 2019</i>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_720/ad_720.dita#UUID-de06c0ba-e278-d65f-d9fe-90e2f87aed46">SAS No. 137</xref>, <i class="+ topic/ph hi-d/i ">The Auditor’s
+                            Responsibilities Relating to Other Information Included in Annual
+                            Reports</i> (AU-C sec. 720) <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff7c578" class="- topic/unknown ">AU-C Section 720</unknown>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">SAS No. 138, <i class="+ topic/ph hi-d/i ">Amendments to the Description of the
+                            Concept of Materiality</i>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">SAS No. 139, <i class="+ topic/ph hi-d/i ">Amendments to AU-C Sections 800, 805,
+                            and 810 to Incorporate Auditor Reporting Changes From SAS No.
+                            134</i>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">SAS No. 140, <i class="+ topic/ph hi-d/i ">Amendments to AU-C Sections 725, 730,
+                            930, 935, and 940 to Incorporate Auditor Reporting Changes From SAS Nos.
+                            134 and 137</i>
+            </p>
+         </li>
+      </ul>
+      <p class="- topic/p ">SAS No. 134 was issued to enhance the relevance and usefulness of the auditor’s
+                report. SAS No. 134 was developed by the ASB in consideration of the following
+                issues:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Although users value the "pass/fail" nature of the auditor’s opinion, they
+                        would like the auditor’s report to provide greater transparency into the
+                        audit.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Users would like the auditor’s report to include more information about
+                        areas with higher assessed risks of material misstatement, areas that
+                        involve significant judgment by management and the auditor, and areas that
+                        relate to significant events or transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">To address the long-standing "expectations gap," users and other
+                        stakeholders would like the auditor’s report to expand the descriptions of
+                        the auditor’s responsibilities in financial statement auditing and
+                        management’s responsibilities in financial statement preparation.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">SAS No. 135 is intended to more closely align ASB guidance with the PCAOB
+                standards primarily by amending <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_260/ad_260.dita#UUID-00f9ad4d-7607-9441-867f-ab03ac091421">AU-C sections 260</xref>, <i class="+ topic/ph hi-d/i ">The Auditor’s Communication
+                    With Those Charged With Governance</i>, <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_550/ad_550.dita#UUID-0ca330e3-108a-916b-c147-793a2be9c452">550</xref>, <i class="+ topic/ph hi-d/i ">Related Parties</i>, and <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_240/ad_240.dita#UUID-d7eb88e1-cfbf-0138-62fb-21f8f62285b3">240</xref>, <i class="+ topic/ph hi-d/i ">Consideration of Fraud in a Financial
+                    Statement Audit</i>, in AICPA <i class="+ topic/ph hi-d/i ">Professional
+                    Standards</i>. By eliminating unnecessary differences between the ASB
+                guidance and PCAOB standards, auditors who perform audits under both sets of
+                auditing standards will experience more consistency between the guidance and
+                standards, thereby enhancing audit quality. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff7e625" class="- topic/unknown ">AU-C Section 260</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff807e5" class="- topic/unknown ">AU-C Section 550</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff82862" class="- topic/unknown ">AU-C Section 240</unknown>
+      </p>
+      <p class="- topic/p ">SAS No. 137 provides transparency related to the auditor’s responsibility for
+                other information included in an annual report when the auditor has obtained all the
+                other information at the date of the auditor’s report on the financial statements.
+                SAS No. 137 supersedes SAS No. 118, <i class="+ topic/ph hi-d/i ">Other Information in
+                    Documents Containing Audited Financial Statements</i>, as amended and
+                codified in <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_720/ad_720.dita#UUID-de06c0ba-e278-d65f-d9fe-90e2f87aed46">AU-C section 720</xref>, <i class="+ topic/ph hi-d/i ">The Auditor’s Responsibilities
+                    Relating to Other Information Included in Annual Reports</i>. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff84883" class="- topic/unknown ">AU-C Section 720</unknown>
+      </p>
+      <p class="- topic/p ">SAS No. 138 aligns the materiality concepts discussed in AICPA <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">
+            <i class="+ topic/ph hi-d/i ">Professional Standards</i>
+         </xref> with the
+                description of materiality used by the U.S. judicial system, the auditing standards
+                of the PCAOB, the SEC, and FASB. The ASB’s current description of the concept of
+                materiality is consistent with the definition used by the International Accounting
+                Standards Board and the International Auditing and Assurance Standards Board. The
+                changes are not expected to significantly affect practice. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff85cb7" class="- topic/unknown ">AICPA Professional Standards</unknown>
+      </p>
+      <p class="- topic/p ">SAS No. 139 amends the following AU-C sections to reflect changes to the auditor’s
+                report included in SAS No. 134: <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_800_899/ad_800/ad_800.dita#UUID-70b4644e-39a7-74c0-7af0-b02219082c14">section 800</xref>, <i class="+ topic/ph hi-d/i ">Special Considerations — Audits of
+                    Financial Statements Prepared in Accordance With Special Purpose
+                    Frameworks</i>; <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_800_899/ad_805/ad_805.dita#UUID-5075f96d-b339-e4a5-d280-d05ac27a66c2">section 805</xref>, <i class="+ topic/ph hi-d/i ">Special Considerations — Audits of
+                    Single Financial Statements and Specific Elements, Accounts, or Items of a
+                    Financial Statement</i>; and <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_800_899/ad_810/ad_810.dita#UUID-05efbd10-6f5c-b27c-bfdb-89a565e6ab8a">section 810</xref>, <i class="+ topic/ph hi-d/i ">Engagements to Report on Summary
+                    Financial Statements</i>. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff8714b" class="- topic/unknown ">AU-C Section 800</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff8a34b" class="- topic/unknown ">AU-C Section 805</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff8c3d9" class="- topic/unknown ">AU-C Section 810</unknown>
+      </p>
+      <p class="- topic/p ">SAS No. 140 contains amendments to conform the following AU-C sections to SAS No.
+                134: <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_900_999/ad_930/ad_930.dita#UUID-f417f2e2-956c-af20-acaf-807b785c6d32">section 930</xref>, <i class="+ topic/ph hi-d/i ">Interim Financial
+                    Information</i>; <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_900_999/ad_935/ad_935.dita#UUID-77a75723-b945-57ff-5cca-f7b085be8d85">section 935</xref>, <i class="+ topic/ph hi-d/i ">Compliance Audits</i>; and
+                    <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_900_999/ad_940/ad_940.dita#UUID-f689a76e-110d-7049-255e-127c5e77a490">section 940</xref>, <i class="+ topic/ph hi-d/i ">An Audit of Internal Control Over
+                    Financial Reporting That Is Integrated With an Audit of Financial
+                    Statements</i>. SAS No. 140 also contains amendments to conform the
+                following AU-C sections to SAS No. 137: <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_725/ad_725.dita#UUID-fe4c1dc4-62f9-3865-ea7c-5549dd3ab37c">AU-C section 725</xref>, <i class="+ topic/ph hi-d/i ">Supplementary Information in
+                    Relation to the Financial Statements as a Whole</i>, and <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_730/ad_730.dita#UUID-33824f66-92a8-6bb5-a40d-9a9da361a80e">AU-C section 730</xref>, <i class="+ topic/ph hi-d/i ">Required Supplementary
+                    Information</i>. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff8f5c9" class="- topic/unknown ">AU-C Section 930</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff92e19" class="- topic/unknown ">AU-C Section 935</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff9630d" class="- topic/unknown ">AU-C Section 940</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff98483" class="- topic/unknown ">AU-C Section 725</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff9a4ec" class="- topic/unknown ">AU-C Section 730</unknown>
+      </p>
+      <p class="- topic/p ">SAS No. 141 is effective upon issuance. In general, SAS No. 141 changes the
+                effective dates of SAS Nos. 134–140 from December 15, 2020 to December 15, 2021 to
+                provide more time for firms to implement these SASs in light of the effect of the
+                coronavirus pandemic. Early implementation of SAS Nos. 134–140 is also now
+                permitted, and the ASB recommends that SAS Nos. 134–140 be implemented at the same
+                time.</p>
+      <p class="- topic/p ">This edition of the guide has not been updated to reflect changes as a result of
+                these SASs. Each AU-C section in this guide designated with a “B” suffix (for
+                example, “AU-C section 200B”) denotes content that does not reflect the codification
+                of SAS Nos. 134–140 or the amendments to other SASs made by SAS Nos. 134–140 and
+                subsequently-issued SASs. However, future guidance is presented as a guidance update
+                box that includes only a very concise summary of what is coming and the effective
+                dates of the guidance. The guidance update box is presented at the beginning of the
+                chapter or immediately following the section header for each impacted section. In
+                addition, readers are encouraged to consult the full text of the SASs at <xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html</xref>.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

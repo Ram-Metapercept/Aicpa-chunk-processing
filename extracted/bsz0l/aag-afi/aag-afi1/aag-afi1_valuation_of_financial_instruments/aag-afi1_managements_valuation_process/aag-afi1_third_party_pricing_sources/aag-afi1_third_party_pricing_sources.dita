@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-7012ecc3-2ee2-0143-c129-b7bdd6c45400" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Third-Party Pricing Sources</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.44" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.44</b> Entities may
+                        use third-party pricing sources in order to obtain fair value information.
+                        The preparation of an entity’s financial statements, including the valuation
+                        of financial instruments and the preparation of financial statement
+                        disclosures relating to these instruments, may require expertise that
+                        management does not possess. Entities may not be able to develop appropriate
+                        valuation techniques, including models that may be used in a valuation, and
+                        may use a third-party pricing source to arrive at a valuation or provide
+                        disclosures for the financial statements. This may particularly be the case
+                        in smaller entities or entities that do not engage in a high volume of
+                        financial instrument transactions (for example, nonfinancial institutions
+                        with treasury departments). Even though management has used a third-party
+                        pricing source, management is ultimately responsible for the valuation and
+                        establishing internal control over the valuation process.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.45" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.45</b> Third-party
+                        pricing sources may also be used because the volume of financial instruments
+                        to price over a short time frame may not be possible by the entity. This is
+                        often the case for traded investment funds that must determine a net asset
+                        value each day. In other cases, management may have its own pricing process
+                        but use third-party pricing sources to corroborate its own
+                        valuations.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.46" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.46</b> For one or
+                        more of these reasons, most entities use third-party pricing sources when
+                        valuing financial instruments either as a primary source or a source of
+                        corroboration for their own valuations. Third-party pricing sources
+                        generally fall into the following categories:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Pricing services, including consensus pricing services</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Brokers providing broker quotes</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd">
+<aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+   id="UUID-72177e73-2e84-ddff-90c1-86ec2241b971" ditaarch:DITAArchVersion="1.3"
+   domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   "
+   class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix G — Schedule of Changes Made to the Text From the Previous
+      Edition</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+            informational purposes only.</i>
+      </p>
+      <p class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">As of September 1, 2020</b>
+      </p>
+      <p class="- topic/p ">This schedule of changes identifies areas in the text and footnotes of
+         this guide that have that have changed since the previous edition. Entries in the table of
+         this appendix reflect current numbering, lettering (including that in appendix names), and
+         character designations that resulted from the renumbering or reordering that occurred in
+         the updating of this guide.</p>
+      <table outputclass="ruled" id="UUID-72177e73-2e84-ddff-90c1-86ec2241b971_aag-afi_appG_table1"
+         class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row valign="bottom" class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Reference</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Change</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Various chapters</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Update boxes have been added for various pronouncements
+                        issued by standards setters.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">General</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Editorial changes, including rephrasing, have been made
+                        in this guide to improve readability where necessary.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi_preface/aag-afi_preface.dita#UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709"
+                           >Preface</xref> and <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi_introduction/aag-afi_introduction.dita#UUID-565140b9-bda3-4a2f-0166-6b9d6d01a401"
+                           >introduction</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Updated.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi1/aag-afi1.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.01">Paragraph
+                           1.01</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi1/aag-afi1_valuation_of_financial_instruments/aag-afi1_financial_reporting_requirements/aag-afi1_financial_reporting_requirements.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-ab16d570-738f-d041-7ec8-a0b7d2d9101a/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.24">Paragraph
+                           1.24</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi1/aag-afi1_presentation_and_disclosure_about/aag-afi1_fair_value_disclosures/aag-afi1_fair_value_disclosures.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-e33bd361-0c06-ab61-839a-9984e1c4ec58/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.62">Paragraphs
+                           1.62–.64</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added due to issuance of FASB Accounting Standards Update
+                        (ASU) No. 2018-13, <i class="+ topic/ph hi-d/i ">Fair Value Measurement
+                           (Topic 820), Disclosure Framework — Changes to the Disclosure
+                           Requirements for Fair Value Measurement.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi2/aag-afi2_using_those_with_specialized/aag-afi2_using_those_with_specialized.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-37e93ce0-747e-c994-5a38-867bb510b3e4/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.09">Paragraph
+                           2.09</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">Paragraphs
+                           3.01–.03</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.05">Paragraph
+                           3.05</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to issuance of Technical Questions and
+                        Answers (Q&amp;A) sections in <xref format="dita" class="- topic/xref "
+                           href="../../tpa/tis_8000/tis_8200/tis_8200.dita#UUID-8f6d8c1f-655f-1884-8540-1059136f4689">Q&amp;A section
+                           8200</xref>, <i class="+ topic/ph hi-d/i ">Internal Control</i>. <unknown
+                           id="UUID-72177e73-2e84-ddff-90c1-86ec2241b971_N66175500c1d58"
+                           class="- topic/unknown ">Q&amp;A Section 8200</unknown>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_the_entitys_control_environment/aag-afi3_participation_by_those_charged/aag-afi3_participation_by_those_charged.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-3a5d8790-a4c7-32cc-ebb7-d702fcc482ea/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.08">Paragraph
+                           3.08</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi3/aag-afi3_determining_whether_the_service/aag-afi3_using_a_type_1/aag-afi3_using_a_type_1.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-b496f29b-8b46-ef4e-7287-8a3893a20241/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.49">Paragraphs
+                           3.49–.51</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi5/aag-afi5_audit_considerations_when_management/aag-afi5_audit_considerations_when_management.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-6e61e354-a9ae-6ac0-907d-a58fb8425d94/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn6">Footnote
+                           6</xref> in paragraph 5.12</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_voluntary_disclosures_regarding_fair/aag-afi6_reporting_on_fair_value/aag-afi6_reporting_on_fair_value.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-31620b1d-466b-8f48-bffe-4337e0c8bd98/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.23">Paragraph
+                           6.23</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_voluntary_disclosures_regarding_fair/aag-afi6_reporting_on_additonal_vol/aag-afi6_reporting_on_additonal_vol.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-e7c6ba67-0240-4287-a9f7-347690fce81f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.26">Paragraph
+                           6.26</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Illustration in former paragraph 6.29</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Deleted due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_other_relevant_audit_considerations/aag-afi6_written_representations/aag-afi6_written_representations.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-037d338b-8763-fa1c-8800-d8a3f2668b85/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn15">Footnote
+                           15</xref> in paragraph 6.30</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_other_relevant_audit_considerations/aag-afi6_communication_with_those_charged/aag-afi6_communication_with_those_charged.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-9502a57f-456e-091e-5f2e-030188d83615/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn16">Footnote
+                           16</xref> in paragraph 6.32</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.05">Paragraph
+                           7.05</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to issuance of FASB ASU No. 2019-04, <i
+                           class="+ topic/ph hi-d/i ">Codification Improvements to Topic 326,
+                           Financial Instruments — Credit Losses, Topic 815, Derivatives and
+                           Hedging, and Topic 825, Financial Instruments</i>.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.10">Paragraph
+                           7.10</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to issuance of FASB ASU No. 2016-13, <i
+                           class="+ topic/ph hi-d/i ">Financial Instruments — Credit Losses (Topic
+                           326): Measurement of Credit Losses on Financial Instruments</i>.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi8/aag-afi_information_that_applies_to/aag-afi_summary_of_the_accounting/aag-afi_summary_of_the_accounting.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-4089a786-ae67-1fca-9d18-f71090d75ca9/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.04">Paragraph
+                           8.04</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi8/aag-afi8_scenario_b/aag-afi_the_understanding_of_processes1/aag-afi_the_understanding_of_processes1.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-9a0b29c7-213f-fa6b-7083-a7cc56e045be/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.18">Paragraph
+                           8.18</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Former chapter 9</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Deleted due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi9/aag-afi9.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.02">Paragraph
+                           9.02</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to issuance of FASB ASU No. 2016-13.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.05">Paragraph
+                           9.05</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to issuance of FASB ASU Nos. 2018-03, <i
+                           class="+ topic/ph hi-d/i ">Technical Corrections and Improvements to
+                           Financial Instruments — Overall (Subtopic 825-10): Recognition and
+                           Measurement of Financial Assets and Financial Liabilities</i>, and
+                        2016-01, <i class="+ topic/ph hi-d/i ">Financial Instruments — Overall
+                           (Subtopic 825-10): Recognition and Measurement of Financial Assets and
+                           Financial Liabilities.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_accounting_for_the_initial/aag-afi9_accounting_for_the_initial.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-18dd549f-7f57-8315-bfe9-45be62ad3c5c/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn7">Footnote
+                           7</xref> in paragraph 9.07</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to passage of time.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_for_the_transaction/aag-afi10_accounting_for_the_transaction.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ee78ab0f-870d-1083-fd2d-fb063524f121/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.10">Paragraph
+                           10.10</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to issuance of FASB ASU No. 2017-12, <i
+                           class="+ topic/ph hi-d/i ">Derivatives and Hedging (Topic 815): Targeted
+                           Improvements to Accounting for Hedging Activities.</i>
+                     </p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_for_the_transaction/aag-afi10_accounting_for_the_transaction.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ee78ab0f-870d-1083-fd2d-fb063524f121/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.11">Paragraphs
+                           10.11–.12</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Added due to issuance of FASB ASU No. 2017-12.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.18">Paragraphs
+                           11.18</xref> and <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_journal_entries/aag-afi11_journal_entries.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-681888e2-836a-6c39-2656-c6882474ce18/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.20"
+                           >11.20</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Revised due to issuance of FASB ASU No. 2017-12.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi_appA/aag-afi_appA.dita#UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764"
+                           >Appendixes A–F</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Updated.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi_index_of_pronouncements/aag-afi_index_of_pronouncements.dita#UUID-fd6bacca-22cc-6ad0-f9a2-2a5b08e2d1af"
+                           >Index of Pronouncements and Other Technical Guidance</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Updated.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref "
+                           href="../../aag-afi/aag-afi_subject_index/aag-afi_subject_index.dita#UUID-043aeb1b-0713-41c0-6225-cde9abc7ffef"
+                           >Subject Index</xref>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Updated.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

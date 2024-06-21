@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix A — Overview of Statements on Quality Control Standards</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+                informational purposes only.</i>
+      </p>
+      <p class="- topic/p ">This appendix is a partial reproduction of chapter 1 of the AICPA practice aid
+                <i class="+ topic/ph hi-d/i ">Establishing and Maintaining a System of Quality Control for
+                a CPA Firm’s Accounting and Auditing Practice</i>, available at <xref scope="external" format="html" class="- topic/xref " href="https://us.aicpa.org/interestareas/frc/enhancingauditqualitypracticeaid.html">https://us.aicpa.org/interestareas/frc/enhancingauditqualitypracticeaid.html</xref>.</p>
+      <p class="- topic/p ">This appendix highlights certain aspects of the quality control standards issued by
+            the AICPA. If appropriate, readers should also refer to the quality control standards
+            issued by the PCAOB, available at <xref scope="external" format="html" class="- topic/xref " href="https://pcaobus.org/oversight/standards/qc-standards">https://pcaobus.org/oversight/standards/qc-standards</xref>.</p>
+      <p outputclass="ps_para_number" id="UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764_pra-sqcs_1.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.01</b> The objectives of a
+            system of quality control are to provide a CPA firm with reasonable assurance <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764-pra-sqcs-1-fn1" class="- topic/fn ">
+               <p class="- topic/p ">The term <i class="+ topic/ph hi-d/i ">reasonable assurance</i>, which is
+                    defined as a high, but not absolute, level of assurance, is used because
+                    absolute assurance cannot be attained. <xref format="dita" class="- topic/xref " href="../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a_requirements/topics/qm_10a_evaluating_communicating_and_remedying.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_UUID-a4c02425-232a-3405-8d82-2a0b0d26b770/UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_qm_10a.53">Paragraph .53</xref> of QM section 10A, <i class="+ topic/ph hi-d/i ">A Firm’s
+                        System of Quality Control</i> (AICPA, <i class="+ topic/ph hi-d/i ">Professional Standards</i>), states, "Any system of quality control
+                    has inherent limitations that can reduce its effectiveness." <unknown id="UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764_N66175500b404a" class="- topic/unknown ">Evaluating, Communicating, and Remedying Identified
+                        Deficiencies</unknown>
+               </p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_appA.dita#UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764/UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764-pra-sqcs-1-fn1"/>
+         </ph> that the firm and its personnel comply with professional standards and
+            applicable regulatory and legal requirements, and that the firm or engagement partners
+            issue reports that are appropriate in the circumstances. <xref format="dita" class="- topic/xref " href="../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8">QM section 10A</xref>, <i class="+ topic/ph hi-d/i ">A Firm’s System of Quality
+                Control</i> (AICPA, <i class="+ topic/ph hi-d/i ">Professional
+            Standards</i>), addresses a CPA firm’s responsibilities for its system of quality
+            control for its accounting and auditing practice. That section is to be read in
+            conjunction with the <xref format="dita" class="- topic/xref " href="../../ps/code_of_professional_conduct_revised/code_of_professional_conduct_revised.dita#UUID-369615e7-7b8f-218e-83c6-ded7b60e9796">AICPA Code of Professional Conduct</xref> and other relevant ethical requirements.
+                <unknown id="UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764_N66175500b6a5e" class="- topic/unknown ">QM Section 10A</unknown>
+         <unknown id="UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764_N66175500b7f92" class="- topic/unknown ">Code of Professional Conduct</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764_pra-sqcs_1.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.02</b> A system of quality
+            control consists of policies designed to achieve the objectives of the system and the
+            procedures necessary to implement and monitor compliance with those policies. The
+            nature, extent, and formality of a firm’s quality control policies and procedures will
+            depend on various factors such as the firm’s size; the number and operating
+            characteristics of its offices; the degree of authority allowed to, and the knowledge
+            and experience possessed by, firm personnel; and the nature and complexity of the firm’s
+            practice.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

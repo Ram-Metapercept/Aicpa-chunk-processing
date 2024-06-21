@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-4f3eb436-26db-b8ba-aeed-a6b1f6b0d55a" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Additional Considerations About Alternative Investments</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.36" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.36</b> Alternative
+                    investments represent investments for which a readily determinable fair value
+                    does not exist. The FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                        Codification</i> (ASC) glossary defines <i class="+ topic/ph hi-d/i ">readily determinable fair value</i> as follows:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The fair value of an equity security is readily determinable if sales
+                            prices or bid-and-asked quotations are currently available on a
+                            securities exchange registered with the U.S. Securities and Exchange
+                            Commission (SEC) or in the over-the-counter market, provided that those
+                            prices or quotations for the over-the-counter market are publicly
+                            reported by the National Association of Securities Dealers Automated
+                            Quotations systems or by OTC Markets Group Inc. Restricted stock meets
+                            that definition if the restriction terminates within one year.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The fair value of an equity security traded only in a foreign market
+                            is readily determinable if that foreign market is of a breadth and scope
+                            comparable to one of the U.S. markets referred to previously.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The fair value of an equity security that is an investment in a mutual
+                            fund or in a structure similar to a mutual fund (that is, a limited
+                            partnership or a venture capital entity) is readily determinable if the
+                            fair value per share (unit) is determined and published and is the basis
+                            for current transactions.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.37" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.37</b> These
+                    alternative investments include investments that are not listed on national
+                    exchanges or OTC markets or for which quoted market prices are not available
+                    from sources such as financial publications, the exchanges, or NASDAQ. These
+                    investments, as discussed in <xref format="dita" class="- topic/xref " href="../../../../tpa/tis_2000/tis_2220/tis_2220.dita#UUID-034706a4-a548-ae12-e3e7-9b9bc833cdff/UUID-034706a4-a548-ae12-e3e7-9b9bc833cdff_tis_2220.18">Technical Questions and Answers section 2220.18</xref>, “Applicability of
+                    Practical Expedient,” <ph class="- topic/ph ">
+            <fn callout="9" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi-fn9" class="- topic/fn ">
+               <p class="- topic/p ">All Q&amp;A sections can be found in <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../../tpa.dita#UUID-918c674a-0785-2556-70d8-0c67e52c7298">Technical Questions and Answers</xref>
+                     <unknown id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_N6617550022fab" class="- topic/unknown ">Technical Questions and
+                                Answers</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi4_additional_considerations_about_alternative.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-4f3eb436-26db-b8ba-aeed-a6b1f6b0d55a/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi-fn9"/>
+         </ph> include hedge funds, private equity funds, real estate funds,
+                    venture capital funds, commodity funds, offshore fund vehicles, and funds of
+                    funds. Alternative investments may be structured as limited partnerships,
+                    limited liability corporations, trusts, or corporations. <unknown id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_N661755001eef6" class="- topic/unknown ">Q&amp;A Section 2220</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.38" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.38</b> When alternative
+                    investments are required to be accounted for at fair value, the valuation
+                    assertion may involve significant judgment by management in the assessment of
+                    the estimate of fair value of the investment. The more complex or illiquid the
+                    investment or the lack of sufficient management processes and records over
+                    valuation, the greater the risk of misstatement and the more persuasive audit
+                    evidence needs to be obtained by the auditor.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.39</b> The auditor’s
+                    understanding of the reliability of the process used by the investor entity’s
+                    management to determine estimated fair value is an important element in support
+                    of the resulting amounts and, therefore, affects the nature, timing, and extent
+                    of audit procedures. The auditor may test management’s fair value estimate as of
+                    the balance sheet date by using one or more of the following approaches. The
+                    approach(es) taken may not be the same for all alternative investments in an
+                    investor entity’s portfolio because the nature of the underlying investments and
+                    associated risk, as well as the information available to management and the
+                    auditor, likely will be different for each alternative investment. The higher
+                    the assessed risk of material misstatement, the greater the need for the auditor
+                    to utilize a combination of the following approaches:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Confirm the alternative investment</i>.
+                            If the auditor determines that the nature and extent of auditing
+                            procedures should include testing the measurement of the investor
+                            entity’s investment, simply receiving a confirmation from the
+                            alternative investment of the entity’s investments in financial
+                            instruments, either in aggregate or on a security-by-security basis,
+                            does not, in and of itself, constitute sufficient appropriate audit
+                            evidence in addressing the valuation assertion. The extent of the
+                            additional audit procedures is directly related to the assessed risk of
+                            material misstatement of the financial statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Review and test the investor entity’s
+                                significant assumptions and the underlying data in its valuation or
+                                analysis of the assumptions and data obtained from the fund
+                                manager</i>. A confirmation on a security-by-security basis
+                            may provide support of the data used by the investor’s management in its
+                            valuation process. In drafting a confirmation, the auditor may consider
+                            requesting a description of each investment, ownership percentage or
+                            shares owned, and estimated fair value. If detailed information is not
+                            available, the auditor may look to the other data that management used
+                            in its valuation and perform tests on such data. The nature of the tests
+                            depends on the types of data used by management and the auditor’s
+                            assessment of the risk of material misstatement of the financial
+                            statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Reconcile to audited financial statements as
+                                of the same date</i>. If audited financial statements of the
+                            alternative investment are available as of the date of the investor
+                            entity’s year-end, and the alternative investment follows fair value
+                            accounting, the audited financial statements and an accompanying
+                            auditor’s report may provide significant audit evidence regarding the
+                            valuation of the investment. However, the investor entity and fund often
+                            have different fiscal year-ends. In lower- or moderate-risk situations,
+                            the auditor might be able to obtain the fund’s audited financial
+                            statements as of the fund’s fiscal year-end and perform (or arrange to
+                            have the fund’s auditor perform) additional procedures to test the
+                            transactions and changes in fair value between the fund’s fiscal
+                            year-end and the investor’s fiscal year-end.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Review transactions at or near the balance
+                                sheet date</i>. Evidence of an actual transaction, such as an
+                            investment in, or liquidation of, a portion of its alternative
+                            investment as of a date close to the investor entity’s fiscal year-end,
+                            may provide information for management to support the valuation of the
+                            alternative investment. The auditor may consider how often settlements
+                            occur and the terms used to determine the value of the settlement.
+                            Issues to consider include whether the process used for the settlement
+                            is the same process used for financial reporting; whether there are
+                            holdbacks or potential true-ups subsequent to the balance sheet date;
+                            and the possibility that the parties to the transactions were not both
+                            willing buyers and sellers, such as in a distress sale.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.40" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.40</b> If management
+                    estimates the fair value of a significant portion of its alternative investments
+                    as of an interim date, management will need a robust process and strong internal
+                    control over the roll-forward period to the balance sheet date. Because the
+                    valuation assertion embedded in the financial statements is as of the balance
+                    sheet date, management needs to have the ability to obtain sufficient
+                    information to record the investments at estimated fair value as of the balance
+                    sheet date, including changes in the estimated fair value during the
+                    roll-forward period. In this situation, the auditor may test both the estimation
+                    process as of the interim date and the roll-forward process.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

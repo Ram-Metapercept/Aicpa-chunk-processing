@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-7f388eb5-d15d-4de1-ca05-99a267c77bcc" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Models</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.38" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.38</b> Models may
+                        be used to value financial instruments when the price cannot be directly
+                        observed in the market. Models can be as simple as a commonly used bond
+                        pricing formula or involve complex, specifically developed software tools to
+                        value financial instruments with level 3 inputs. Many models are based on
+                        discounted cash flow calculations.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.39</b> Examples of
+                        models that are often used are Black-Scholes, which is frequently used for
+                        option pricing, and the zero-coupon method, which is often used for
+                        estimating the fair value of interest rate swaps. <xref format="dita" class="- topic/xref " href="../../../../../aag-afi/aag-afi_appD/aag-afi_appD.dita#UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6">Appendix D</xref>, "Information About the Black-Scholes Valuation
+                        Model," and <xref format="dita" class="- topic/xref " href="../../../../../aag-afi/aag-afi_appE/aag-afi_appE.dita#UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8">appendix E</xref>, "Information About the Zero-Coupon Valuation Model,"
+                        of this guide provide more information about the Black-Scholes and
+                        zero-coupon method.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.40" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.40</b> Models
+                        comprise a methodology, assumptions, and data. The methodology describes
+                        rules or principles governing the relationship between the variables in the
+                        valuation. Assumptions include estimates of uncertain variables that are
+                        used in the model. Data may comprise actual or hypothetical information
+                        about the financial instrument or other inputs to the financial
+                        instrument.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.41" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.41</b> Depending on
+                        the circumstances, matters that the entity may address when establishing or
+                        validating a model for a financial instrument include whether</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">the model is validated prior to usage, with periodic reviews to
+                                ensure that it is still suitable for its intended use. The entity’s
+                                validation process may include evaluation of the</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">methodology’s theoretical soundness and mathematical
+                                        integrity, including the appropriateness of parameters and
+                                        sensitivities.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">consistency and completeness of the model’s inputs with
+                                        market practices and whether the appropriate inputs are
+                                        available for use in the model.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">appropriate change control policies, procedures, and security
+                                controls over the model exist.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the model is appropriately changed or adjusted on a timely basis
+                                for changes in market conditions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the model is periodically calibrated, reviewed, and tested for
+                                validity by a separate and objective function. Doing so is a means
+                                of ensuring that the model’s output is a fair representation of the
+                                value that marketplace participants would ascribe to a financial
+                                instrument.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the model maximizes the use of relevant observable inputs and
+                                minimizes the use of unobservable inputs.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">adjustments are made to the output of the model to reflect the
+                                assumptions that marketplace participants would use in similar
+                                circumstances.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the model is adequately documented, including the model’s intended
+                                applications and limitations and its key parameters, required data,
+                                results of any validation analysis performed, and any adjustments
+                                made to the output of the model.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

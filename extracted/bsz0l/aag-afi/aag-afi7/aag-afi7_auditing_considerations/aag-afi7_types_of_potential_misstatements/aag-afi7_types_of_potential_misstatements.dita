@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-6f47bb71-c2ff-0d64-9ae4-264878059f87" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Types of Potential Misstatements</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.14</b> <i class="+ topic/ph hi-d/i ">Improper
+                        accounting</i>. During the audit period, BEV reclassified the bond
+                    from available for sale to held to maturity. The accounting for the change in
+                    classification and subsequent amortization may not conform to the requirements
+                    of FASB ASC 320.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.15</b> <i class="+ topic/ph hi-d/i ">Improper change in
+                        classification</i>. The classification of a bond as held to maturity
+                    requires BEV to have both the intent and ability to hold the bond to maturity.
+                    BEV may have reclassified the bond in the absence of a positive intent to hold
+                    it until maturity and the ability to do so.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.16</b> <i class="+ topic/ph hi-d/i ">Improper
+                        determination of fair value</i>. The determination of fair value at
+                    the date of reclassification may not conform with the guidance in FASB ASC 320,
+                    including the guidance on evaluating other-than-temporary impairments.</p>
+      <p outputclass="ps_para_number" class="- topic/p ">
+         <ph outputclass="shade grey" class="- topic/ph ">
+            <i class="+ topic/ph hi-d/i ">Improper determination of fair value</i>. The
+                        determination of fair value at the date of reclassification may not conform
+                        with the guidance in FASB ASC 320 and FASB ASC 326-20.</ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.17</b> <i class="+ topic/ph hi-d/i ">Existence and
+                        ownership</i>. The bond may not exist or be owned by BEV at the date
+                    of reclassification.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.18</b> <i class="+ topic/ph hi-d/i ">Presentation and
+                        disclosure</i>. BEV’s financial statement may not comply with the
+                    presentation and disclosure requirements in FASB ASC 320 related to
+                    reclassification of the bond.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

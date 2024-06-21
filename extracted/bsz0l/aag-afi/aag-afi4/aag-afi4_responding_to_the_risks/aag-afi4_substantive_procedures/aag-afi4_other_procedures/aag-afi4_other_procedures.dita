@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-cab8a85a-0a09-e1e5-aafe-93d8255e64fb" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Other Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.33</b> Other
+                        procedures that may provide audit evidence to support the completeness,
+                        accuracy, and existence assertions include</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">external confirmation of bank accounts, trades, and custodian
+                                statements. This can be done by direct confirmation with the
+                                counterparty (including the use of bank confirmations) in which a
+                                reply is sent to the auditor directly. Alternatively, this
+                                information may be obtained from the counterparty’s systems through
+                                a data feed. When this is done, controls to prevent tampering with
+                                the computer systems through which the information is transmitted
+                                may be considered by the auditor in evaluating the reliability of
+                                the evidence from the confirmation. If confirmations are not
+                                received, the auditor may be able to obtain evidence by reviewing
+                                contracts and testing relevant controls. However, external
+                                confirmations often do not provide adequate audit evidence with
+                                respect to the valuation assertion, though they may assist in
+                                identifying any side agreements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">reviewing reconciliations of statements or data feeds from
+                                custodians with the entity’s own records. This may necessitate
+                                evaluating IT controls around and within automated reconciliation
+                                processes and evaluating whether reconciling items are properly
+                                understood and resolved.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">reviewing journal entries and the controls over the recording of
+                                such entries. This may assist in, for example,</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">determining if entries have been made by employees other
+                                        than those authorized to do so.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">identifying unusual or inappropriate end-of-period journal
+                                        entries that may be relevant to fraud risk.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">reading individual contracts and reviewing supporting
+                                documentation of the entity’s financial instrument transactions,
+                                including accounting records, thereby verifying existence and rights
+                                and obligations. For example, an auditor may read individual
+                                contracts associated with financial instruments and review
+                                supporting documentation, including the accounting entries made when
+                                the contract was initially recorded, and may also subsequently
+                                review accounting entries made for valuation purposes. Doing so
+                                allows the auditor to evaluate whether the complexities inherent in
+                                a transaction have been fully identified and reflected in the
+                                accounts. Legal arrangements and their associated risks need to be
+                                considered by those with suitable expertise to ensure that rights
+                                exist.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">performing tests of controls to obtain sufficient appropriate
+                                audit evidence about the operating effectiveness of relevant
+                                controls.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">reviewing the entity’s complaints’ management systems. Unrecorded
+                                transactions may result in the entity’s failure to make a cash
+                                payment to a counterparty and may be detected by reviewing
+                                complaints received.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">reviewing master netting arrangements to identify unrecorded
+                                instruments.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.34" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.34</b> These
+                        procedures are particularly important for some financial instruments, such
+                        as derivatives or guarantees, because they may not have a large initial
+                        investment, meaning it may be hard to identify their existence. For example,
+                        embedded derivatives are often contained in contracts for nonfinancial
+                        instruments that may not be included in confirmation procedures.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

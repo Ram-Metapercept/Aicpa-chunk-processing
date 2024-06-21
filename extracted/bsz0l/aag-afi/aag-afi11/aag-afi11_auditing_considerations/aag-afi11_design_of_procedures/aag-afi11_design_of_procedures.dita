@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-3db193c0-763b-c816-7b16-25212d7dfbc6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Design of Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.40" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.40</b> The auditor
+                    defined the following objectives and related procedures for the audit of
+                    assertions about put options hedging forecasted sales:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table8" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <colspec colname="c3" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Audit Objective</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Procedures, Including Those Designed to Gather Audit Evidence
+                                    About the Operating Effectiveness of Controls</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Timing</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The purchase of options was properly authorized.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">For a sample of transactions, review for proper
+                                            authorization.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interim date</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The foreign currency options exist, and the entity’s rights
+                                    and obligations relating to the options have been properly
+                                    classified and recorded.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Confirm details of related transactions and
+                                            derivatives.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interim date</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">For selected transactions, trace to proper recording
+                                            in the trading system and general ledger, with emphasis
+                                            on classification (that is, earnings or other
+                                            comprehensive income).</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interim date</p>
+                  </entry>
+               <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Review general ledger, trading system, and cash
+                                            reconciliations.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Year-end</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">All options transactions have been captured and recorded in
+                                    the entity’s information in the proper accounting period.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Test controls on completeness (for example,
+                                            independent review of deal information and
+                                            reconciliations).</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interim date</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">For a sample of transactions, review for recording in
+                                            the proper period.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Year-end</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Send confirmations to dealers, and compare options in
+                                            the responses to amounts recorded.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Year-end</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Hedge accounting has been properly applied.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Review open options contracts, and determine whether
+                                            forecasted foreign currency-denominated transactions
+                                            qualify for hedge accounting.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interim date and year-end</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Test the process by which hedge effectiveness is
+                                            determined and monitored.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interim date and year-end</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Determine that options transactions continue to
+                                            qualify as foreign currency cash flow hedges.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interim date and year-end</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Determine that the fair value of the options and
+                                            changes in the fair value thereof are properly reported
+                                            in the financial statements.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Year-end</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The options and hedged transaction are measured at fair value,
+                                    consistent with the requirements of FASB <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i> (ASC) 815,
+                                        <i class="+ topic/ph hi-d/i ">Derivatives and
+                                    Hedging</i>.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">By reference to independent sources, verify the
+                                            valuation of the options.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Year-end</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Test valuation of the hedged transactions.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Year-end</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Presentation and disclosure are appropriate.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read the financial statements, and compare the
+                                            presentation and disclosure with the requirements of
+                                            FASB ASC 815.</p>
+                        </li>
+                     </ul>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Year-end</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

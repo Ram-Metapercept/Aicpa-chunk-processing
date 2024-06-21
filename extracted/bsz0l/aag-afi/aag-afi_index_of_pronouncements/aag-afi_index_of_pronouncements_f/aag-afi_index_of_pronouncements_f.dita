@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-37b60ec0-9fc7-e661-126f-968cb5608bca" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">F</title>
+   <body class="- topic/body ">
+      <table outputclass="ruled" id="UUID-37b60ec0-9fc7-e661-126f-968cb5608bca_aag-afi_index_of_pronouncements_table2" class="- topic/table ">
+         <tgroup cols="4" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="left" class="- topic/colspec "/>
+            <colspec colname="c3" align="left" class="- topic/colspec "/>
+            <colspec colname="c4" align="right" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Title</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Paragraphs</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">FASB ASC</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">320, <i class="+ topic/ph hi-d/i ">Investments — Debt and Equity
+                                    Securities</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.05">7.05</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_auditing_considerations/aag-afi7_types_of_potential_misstatements/aag-afi7_types_of_potential_misstatements.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-6f47bb71-c2ff-0d64-9ae4-264878059f87/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.14">7.14</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_auditing_considerations/aag-afi7_types_of_potential_misstatements/aag-afi7_types_of_potential_misstatements.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-6f47bb71-c2ff-0d64-9ae4-264878059f87/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.18">7.18</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8_scenario_c/aag-afi_the_auditors_design_of2/aag-afi_the_auditors_design_of2.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-1dc79a22-1304-15e5-cee5-e5012ecccbcd/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.28">8.28</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_auditing_considerations/aag-afi9_summary_of_accounting/aag-afi9_summary_of_accounting.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-bb5ed5e2-eb6c-bad9-59d0-b0eb58e801db/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.15">9.15–.16</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7_table1">Table</xref> at 7.25, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8_scenario_a/aag-afi_the_auditors_design_of/aag-afi_the_auditors_design_of.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-6feb5db7-f5b1-95df-11d7-09e5e029dc38/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8_table1">Table</xref> at 8.15, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8_scenario_b/aag-afi_the_auditors_design_of1/aag-afi_the_auditors_design_of1.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-cb84a635-59dc-60a2-f21e-cf4886f6ece8/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8_table2">Table</xref> at 8.21</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">320-10</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.05">7.05</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.10">7.10</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8_scenario_c/aag-afi_the_auditors_design_of2/aag-afi_the_auditors_design_of2.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-1dc79a22-1304-15e5-cee5-e5012ecccbcd/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.28">8.28</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_exhibit_9-1">Exhibit 9-1</xref> at 9.06, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8_scenario_a/aag-afi_the_auditors_design_of/aag-afi_the_auditors_design_of.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-6feb5db7-f5b1-95df-11d7-09e5e029dc38/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8_table1">Table</xref> at 8.15, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8_scenario_b/aag-afi_the_auditors_design_of1/aag-afi_the_auditors_design_of1.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-cb84a635-59dc-60a2-f21e-cf4886f6ece8/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8_table2">Table</xref> at 8.21</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">321, <i class="+ topic/ph hi-d/i ">Investments — Equity
+                                    Securities</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi_information_that_applies_to/aag-afi_summary_of_the_accounting/aag-afi_summary_of_the_accounting.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-4089a786-ae67-1fca-9d18-f71090d75ca9/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.04">8.04</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">326, <i class="+ topic/ph hi-d/i ">Credit Losses</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">326-20</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.05">7.05</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_auditing_considerations/aag-afi7_types_of_potential_misstatements/aag-afi7_types_of_potential_misstatements.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-6f47bb71-c2ff-0d64-9ae4-264878059f87/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.16">7.16</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">450, <i class="+ topic/ph hi-d/i ">Accounting for
+                                    Contingencies</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.15">11.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">470, <i class="+ topic/ph hi-d/i ">Debt</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">470-50</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.05">9.05</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">815, <i class="+ topic/ph hi-d/i ">Derivatives and
+                                Hedging</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_presentation_and_disclosure_of/aag-afi6_additional_considerations_about_hedging/aag-afi6_additional_considerations_about_hedging.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e3feef2-5c6a-55eb-134e-54d5722fc291/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.11">6.11–.12</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.02">9.02</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.06">9.06</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_auditing_considerations/aag-afi9_summary_of_accounting/aag-afi9_summary_of_accounting.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-bb5ed5e2-eb6c-bad9-59d0-b0eb58e801db/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.15">9.15–.16</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi10/aag-afi10_auditing_considerations/aag-afi10_timing_of_procedures/aag-afi10_timing_of_procedures.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-4a3a76df-b5af-e608-4939-b8e784a246f8/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.23">10.23</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_auditing_considerations/aag-afi11_summary_of_accounting/aag-afi11_summary_of_accounting.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-5b8f58df-5b72-b94b-6442-180431d37f03/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.35">11.35–.36</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_auditing_considerations/aag-afi11_control_risk_and_timing_of/aag-afi11_control_risk_and_timing_of.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-4e9ed3b3-1df7-05b5-3c17-3ec3bbc79286/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.38">11.38</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_exhibit_9-1">Exhibit 9-1</xref> at 9.06, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_for_the_transaction/aag-afi10_accounting_for_the_transaction.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ee78ab0f-870d-1083-fd2d-fb063524f121/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10_table1">Table</xref> at 10.25, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_description_of_the_transaction/aag-afi11_description_of_the_transaction.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-6cc0ec83-f22c-b0be-1910-5ada68d03f21/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table1">Table</xref> at 11.40</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">815-10</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_exhibit_9-1">Exhibit 9-1</xref> at 9.06</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">815-15</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.02">9.02</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.04">9.04–.06</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_table1">Table</xref> at 9.22</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">815-20</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_presentation_and_disclosure_of/aag-afi6_additional_considerations_about_hedging/aag-afi6_additional_considerations_about_hedging.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e3feef2-5c6a-55eb-134e-54d5722fc291/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.14">6.14</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_for_the_transaction/aag-afi10_accounting_for_the_transaction.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ee78ab0f-870d-1083-fd2d-fb063524f121/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.08">10.08</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_for_the_transaction/aag-afi10_accounting_for_the_transaction.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ee78ab0f-870d-1083-fd2d-fb063524f121/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.12">10.12</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_description_of_the_transaction/aag-afi11_description_of_the_transaction.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-6cc0ec83-f22c-b0be-1910-5ada68d03f21/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.08">11.08</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.14">11.14–.15</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.17">11.17</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.18">11.18</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">815-25</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_presentation_and_disclosure_of/aag-afi6_additional_considerations_about_hedging/aag-afi6_additional_considerations_about_hedging.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e3feef2-5c6a-55eb-134e-54d5722fc291/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.13">6.13</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_for_the_transaction/aag-afi10_accounting_for_the_transaction.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ee78ab0f-870d-1083-fd2d-fb063524f121/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.10">10.10</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi10/aag-afi10_accounting_considerations/aag-afi10_accounting_for_the_transaction/aag-afi10_accounting_for_the_transaction.dita#UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ee78ab0f-870d-1083-fd2d-fb063524f121/UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.11">10.11</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">815-30</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.14">11.14</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.16">11.16</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_analysis/aag-afi11_analysis.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-7419f4c9-3f03-dfe5-3f34-3419366e1e3e/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.18">11.18</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">820, <i class="+ topic/ph hi-d/i ">Fair Value Measurement and
+                                    Disclosures</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi1/aag-afi1_presentation_and_disclosure_about/aag-afi1_fair_value_disclosures/aag-afi1_fair_value_disclosures.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-e33bd361-0c06-ab61-839a-9984e1c4ec58/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.62">1.62</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_auditing_considerations/aag-afi7_summary_of_accounting/aag-afi7_summary_of_accounting.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-62d9a8be-ad86-552f-1c66-03c1ceca0251/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.13">7.13</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">820-10</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi1/aag-afi1_presentation_and_disclosure_about/aag-afi1_fair_value_disclosures/aag-afi1_fair_value_disclosures.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-e33bd361-0c06-ab61-839a-9984e1c4ec58/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.62">1.62–.64</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">825, <i class="+ topic/ph hi-d/i ">Financial
+                                Instruments</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">825-10</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_accounting_considerations/aag-afi9_description_of_the_transaction/aag-afi9_description_of_the_transaction.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-47295a5c-2faa-eafa-b566-3907af8783a0/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.05">9.05</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">FASB ASU</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 2018-13, <i class="+ topic/ph hi-d/i ">Fair Value Measurement (Topic
+                                    820): Disclosure Framework — Changes to the Disclosure
+                                    Requirements for Fair Value Measurement</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi1/aag-afi1_presentation_and_disclosure_about/aag-afi1_fair_value_disclosures/aag-afi1_fair_value_disclosures.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-e33bd361-0c06-ab61-839a-9984e1c4ec58/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.63">1.63</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 2019-04, <i class="+ topic/ph hi-d/i ">Codification Improvements to
+                                    Topic 326, Financial Instruments — Credit Losses, Topic 815,
+                                    Derivatives and Hedging, and Topic 825, Financial
+                                    Instruments</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.05">7.05</xref>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

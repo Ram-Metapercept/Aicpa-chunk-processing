@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-c427c312-299b-0f5e-55fe-51adcd36f8f2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">The Understanding of Processes and Controls the Auditor Needs to Assess
+                    the Risks of Material Misstatements</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.23</b> In order to plan
+                    the audit, the auditor obtains the following understanding of processes and
+                    controls:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer initiates trades within parameters set by Lane and
+                            also executes the trades.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer sends a confirmation of each trade to Lane, which
+                            Lane usually receives within three business days.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lane records the trade in the applicable general ledger accounts when
+                            it receives the trade confirmation.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monthly, the broker-dealer sends Lane a statement that includes
+                            trades, servicing transactions, a description of the financial
+                            instruments held, and the fair value of each of those financial
+                            instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monthly, Lane compares the information about trades and the components
+                            of its financial instruments’ portfolio that are shown in its accounting
+                            records with the broker-dealer’s monthly statement and investigates
+                            significant differences.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monthly, Lane records servicing transactions and changes in unrealized
+                            holding gains and losses based on information in the broker-dealer’s
+                            monthly statement. Lane compares the broker-dealer information with its
+                            expectations based on published information and investigates significant
+                            differences.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.24" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.24</b> Following the
+                    guidance in AU-C section 402B, the auditor concludes the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Initiating trades, servicing financial instruments, and providing fair
+                            value information are broker-dealer services that are part of Lane’s
+                            information system.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer’s execution of trades and holding of securities are
+                            not part of Lane’s information system.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.25</b> With respect to
+                    whether obtaining an understanding of the broker-dealer’s controls is necessary
+                    to plan the audit, the auditor concludes one of the following:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Because the broker-dealer initiates and executes trades, all the
+                            information about trades that is available to Lane comes from the
+                            broker-dealer. Accordingly, the broker-dealer’s controls over the
+                            initiation of trades are significant to Lane’s internal control over
+                            financial instrument transactions. Information about the manner in which
+                            trades are initiated by the broker-dealer, as well as the
+                            broker-dealer’s controls over that process, is needed to plan the audit.
+                            The auditor decides that an effective broker-dealer control over
+                            initiation of trades would be both of the following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Establishing independent departments that provide the
+                                    investment advisory services and the holding and servicing of
+                                    financial instruments</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Reconciling the information about the financial instruments
+                                    that is provided by each department</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+      <p class="- topic/p ">Based on available information, the auditor believes the broker-dealer has
+                    such controls. <ph class="- topic/ph ">
+            <fn callout="5" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn5" class="- topic/fn ">
+               <p class="- topic/p ">To help plan the audit, the auditor may gather information about
+                            broker-dealer controls over existence and completeness assertions from a
+                            variety of sources. Examples are a service auditor’s type 1 or type 2
+                            SOC 1 report, manuals provided by the broker-dealer, and inquiries of
+                            broker-dealer personnel.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_the_understanding_of_processes2.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-c427c312-299b-0f5e-55fe-51adcd36f8f2/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn5"/>
+         </ph>
+      </p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer’s controls over servicing financial instruments and
+                            providing fair value information are not significant to Lane’s internal
+                            control over financial instrument transactions because Lane does both of
+                            the following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Compares broker-dealer information about servicing and fair
+                                    values with its expectations based on published
+                                    information</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Investigates significant differences</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+      <p class="- topic/p ">Accordingly, obtaining an understanding of the broker-dealer’s controls over
+                    those services is not necessary to plan the audit.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

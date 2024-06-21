@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-a4791f6b-1dfe-c866-72ea-24dfcf2dbc85" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Investments in Financial Instruments When Valuations Are Based on
+                    Cost</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.31</b> Procedures to obtain evidence about the
+                    valuation of financial instruments that are recorded at cost may include
+                    inspection of documentation of the purchase price, confirmation with the issuer
+                    or holder, and testing discount or premium amortization either by recomputation
+                    or through the use of analytical procedures. <ph class="- topic/ph ">
+            <fn callout="10" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn10" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .A3 of AU-C section 501B, <i class="+ topic/ph hi-d/i ">Audit
+                                Evidence — Specific Considerations for Selected
+                            Items</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_investments_in_financial_instruments.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-a4791f6b-1dfe-c866-72ea-24dfcf2dbc85/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn10"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

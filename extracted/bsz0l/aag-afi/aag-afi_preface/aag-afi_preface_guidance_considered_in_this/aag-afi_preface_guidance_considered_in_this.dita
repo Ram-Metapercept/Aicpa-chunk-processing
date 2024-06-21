@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-730e77fa-63ec-bec6-24c1-0f1a8e9e3746" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Guidance Considered in This Edition</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">This edition of the guide has been modified by AICPA staff to include certain
+                changes necessary due to the issuance of authoritative guidance since the guide was
+                originally issued, and other revisions as deemed appropriate. Authoritative guidance
+                issued through September 1, 2020, has been considered in the development of this
+                edition of the guide. However, this guide does not include all audit, accounting,
+                reporting, regulatory, and other requirements applicable to an entity or a
+                particular engagement. This guide is intended to be used in conjunction with all
+                applicable sources of relevant guidance.</p>
+      <p class="- topic/p ">Relevant guidance that is issued and effective on or before September 1, 2020, is
+                incorporated directly in the text of this guide. Relevant guidance issued but not
+                yet effective as of September 1, 2020, but becoming effective on or before December
+                31, 2020, is also presented directly in the text of the guide, but shaded gray and
+                accompanied by a footnote indicating the effective date of the new guidance. The
+                distinct presentation of this content is intended to aid the reader in
+                differentiating content that may not be effective for the reader’s purposes (as part
+                of the guide’s “dual guidance” treatment of applicable new guidance).</p>
+      <p class="- topic/p ">Relevant guidance issued but not yet effective as of the date of the guide and not
+                becoming effective until after December 31, 2020 is referenced in a “guidance
+                update” box, that is, a gray shaded box that contains summary information on the
+                guidance issued but not yet effective.</p>
+      <p class="- topic/p ">In updating this guide, all guidance issued up to and including the following was
+                considered, but not necessarily incorporated, as determined based on
+                applicability:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">FASB Accounting Standards Update (ASU) No. 2020-06, <i class="+ topic/ph hi-d/i ">Debt — Debt with Conversion and Other Options (Subtopic
+                            470-20) and Derivatives and Hedging — Contracts in Entity’s Own Equity
+                            (Subtopic 815-40): Accounting for Convertible Instruments and Contracts
+                            in an Entity’s Own Equity</i>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_540/ad_540.dita#UUID-5e295753-fd8e-ad8d-74c0-3d4d49ef0274">SAS No. 143</xref>, <i class="+ topic/ph hi-d/i ">Auditing Accounting
+                            Estimates and Related Disclosures</i> (AU-C sec. 540) <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff5e8a0" class="- topic/unknown ">AU-C Section 540</unknown>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_9700/ad_9700_interpretation5/ad_9700_interpretation5.dita#UUID-022f7fb9-ab4e-1b44-6e99-9fc1b1d5cdcc_UUID-6c4475d1-4439-189d-ce42-dda4e95fe6b7">Interpretation No. 5</xref>, “Communicating Critical Audit Matters When
+                        Reporting on Audits Conducted in Accordance With Auditing Standards
+                        Generally Accepted in the United States of America and the Standards of the
+                        PCAOB,” of AU-C section 9700. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff608c5" class="- topic/unknown ">5.    Communicating Critical Audit Matters When
+                            Reporting on Audits Conducted in Accordance With Auditing Standards
+                            Generally Accepted in the United States of America and the Standards of
+                            the PCAOB</unknown>
+            </p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Users of this guide should consider guidance issued subsequent to those items
+                listed previously to determine their effect, if any, on entities and engagements
+                covered by this guide. In determining the applicability of recently issued guidance,
+                its effective date should also be considered.</p>
+      <p class="- topic/p ">The changes made to this edition of the guide are identified in <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi_appG/aag-afi_appG.dita#UUID-72177e73-2e84-ddff-90c1-86ec2241b971">appendix G</xref>, “Schedule of Changes Made to the Text From the Previous
+                Edition.” The changes do not include all those that might be considered necessary if
+                the guide were subjected to a comprehensive review and revision.</p>
+      <p class="- topic/p ">FASB standards quoted are from the FASB <i class="+ topic/ph hi-d/i ">Accounting
+                    Standards Codification</i> ©2020, Financial Accounting Foundation. All
+                rights reserved. Used by permission.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

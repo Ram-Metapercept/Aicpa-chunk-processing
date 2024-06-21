@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-772977e9-0ae2-840f-1653-ba2e0646e888" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix B — Illustrative Questions About the Entity’s Controls Over Its
+            Financial Instrument Activities (Ref: par. 3.16)</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Illustrative Questions About the Entity’s Controls Over
+            Its Financial Instrument Activities (Ref: <xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_the_entitys_control_environment/aag-afi3_use_of_service_organizations/aag-afi3_use_of_service_organizations.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-65617d37-a196-f834-3ec3-7bc7947675f3/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.16">par. 3.16</xref>)</p>
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+                informational purposes only.</i>
+      </p>
+      <p class="- topic/p ">This appendix provides an illustration of questions that may be helpful to the auditor
+            in obtaining an understanding of an entity’s controls over its financial instrument
+            activities.</p>
+      <ul outputclass="ul none" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Have those charged with governance or the finance, asset
+                        or liability, investment, or other committee established a clear and an
+                        internally consistent risk management policy, including appropriate risk
+                        limits?</i>
+            </p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Are the entity’s objectives and goals for financial instruments
+                            clearly stated and communicated?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">To what extent are the entity’s operational objectives for financial
+                            instruments being achieved?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Are financial instruments used to mitigate risk, or do they create
+                            additional risk?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">If the risk is being assumed, are trading limits established?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is the entity’s strategy for financial instruments’ use designed to
+                            further its economic, regulatory, industry, or operating
+                            objectives?</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Are management’s strategies and implementation policies
+                        consistent with those charged with governance’s authorization?</i>
+            </p>
+            <p class="- topic/p ">Management’s philosophy and operating style create an environment that
+                    influences the actions of treasury and other personnel involved in derivatives
+                    and hedging activities. The assignment of authority and responsibility for
+                    investment transactions sends an important message:</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is that message clear?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is compliance with these or related policies and procedures evaluated
+                            regularly?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Does the treasury function view itself, or is it evaluated, as a
+                            profit center? This might cause members of the treasury department to
+                            attempt to enhance earnings through investment use.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Do key controls exist to ensure that only authorized
+                        transactions take place and that unauthorized transactions are quickly
+                        detected, and appropriate action is taken?</i>
+            </p>
+            <p class="- topic/p ">Are controls over investment transactions monitored on an ongoing basis and
+                    subject to separate evaluations? If so</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">who is evaluating controls over investment transactions?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">do they possess the appropriate technical expertise?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">are deficiencies being identified and reported upstream?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">are duties involving initiation of investment transactions segregated
+                            from other duties (for example, the accounting and internal audit
+                            functions and the valuation of those financial instruments)?</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Are the magnitude, complexity, and risks of the entity’s
+                        financial instruments commensurate with the entity’s objectives?</i>
+            </p>
+            <p class="- topic/p ">Internal analyses might include quantitative and qualitative information about
+                    the entity’s investment transactions and might address the risks associated with
+                    investment, such as</p>
+            <ul class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">credit risk</i>, which is the risk that
+                            one party to a financial instrument will cause a financial loss to
+                            another party by failing to discharge an obligation and is often
+                            associated with default. Credit risk includes <i class="+ topic/ph hi-d/i ">settlement risk</i> and <i class="+ topic/ph hi-d/i ">counterparty
+                                risk</i>, which are defined as follows:</p>
+                  <ul outputclass="ul emdash" class="- topic/ul ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">Counterparty risk connotes the exposure to the aggregate
+                                    credit risk posed by all transactions with one
+                                    counterparty.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">
+                           <i class="+ topic/ph hi-d/i ">Settlement risk</i> is the
+                                    related exposure that a counterparty may fail to perform under a
+                                    contract after the end user has delivered funds or assets
+                                    according to its obligations. Settlement risk relates almost
+                                    solely to over-the-counter contracts (that is,
+                                    nonexchange-traded instruments). One method for minimizing
+                                    settlement risk is to enter into a master netting agreement that
+                                    allows the parties to offset all their related payable and
+                                    receivable positions at settlement.</p>
+                     </li>
+                  </ul>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">market risk</i>, which is the risk that
+                            the fair value or future cash flows of a financial instrument will
+                            fluctuate because of changes in market prices. Examples of market risk
+                            include currency risk, interest rate risk, and commodity and equity
+                            price risk.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">liquidity risk</i>, which includes the
+                            risk of not being able to buy or sell a financial instrument at an
+                            appropriate price in a timely manner due to a lack of marketability for
+                            that financial instrument.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">operational risk, which relates to the specific processing required
+                            for financial instruments. Operational risk may increase as the
+                            complexity of a financial instrument increases, and poor management of
+                            operational risk may increase other types of risk. Operational risk
+                            includes</p>
+                  <ul outputclass="ul emdash" class="- topic/ul ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the risk that confirmation and reconciliation controls are
+                                    inadequate, resulting in incomplete or inaccurate recording of
+                                    financial instruments.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the risk that there is inappropriate documentation of
+                                    transactions and insufficient monitoring of these
+                                    transactions.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the risk that transactions are incorrectly recorded,
+                                    processed, or risk managed and, therefore, do not reflect the
+                                    economics of the overall trade.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the risk that undue reliance is placed by staff on the
+                                    accuracy of valuation techniques without adequate review, and
+                                    transactions are, therefore, incorrectly valued, or their risk
+                                    is improperly measured.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the risk that the use of financial instruments is not
+                                    adequately incorporated into the entity’s risk management
+                                    policies and procedures.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the risk of loss resulting from inadequate or failed internal
+                                    processes and systems or from external events, including the
+                                    risk of fraud from both internal and external sources.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the risk that there is inadequate or nontimely maintenance of
+                                    valuation techniques used to measure financial
+                                    instruments.</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">legal risk relating to losses resulting from a legal or
+                                    regulatory action that invalidates or otherwise precludes
+                                    performance by the end user or its counterparty under the terms
+                                    of the contract or related netting arrangements. For example,
+                                    legal risk could arise from insufficient or incorrect
+                                    documentation for the contract, an inability to enforce a
+                                    netting arrangement in bankruptcy, adverse changes in tax laws,
+                                    or statutes that prohibit entities from investing in certain
+                                    types of financial instruments.</p>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+            <p class="- topic/p ">The entity’s risk assessment may result in a determination about how to manage
+                    identified risks of investment activities:</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">What are the entity’s risk exposures, including financial
+                            instruments?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Are the entity’s derivatives transactions standard for their class
+                            (such as simple derivatives [for example, exchange-traded futures
+                            contracts]), or are they complex (such as nonexchange-traded derivatives
+                            based on relationships between diverse markets)?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is the complexity of financial instruments inconsistent with the risks
+                            being managed?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Has management anticipated how it will manage potential investment
+                            risks before assuming them?</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Are personnel with authority to engage in and monitor
+                        financial instrument transactions well-qualified and appropriately
+                        trained?</i>
+            </p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Who are the key financial instrument players within the entity?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is the knowledge vested only in one individual or a small
+                            group?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Are other employees being appropriately educated before they become
+                            involved with financial instrument transactions?</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Does the entity have personnel who have been
+                        cross-trained in case of the absence or departure of key personnel involved
+                        with financial instrument transactions?</i>
+            </p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">How can the entity ensure the integrity, ethical values, and
+                            competence of personnel involved with financial instrument
+                            transactions?</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Do the right people have the right information to make
+                        decisions?</i>
+            </p>
+            <p class="- topic/p ">The information might address both external and internal events, activities,
+                    and conditions:</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">What information about financial instrument transactions is the entity
+                            identifying and capturing?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is the entity capturing and communicating information about market
+                            changes affecting the financial instruments?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is the entity capturing and communicating changes in its strategy for
+                            the mix of assets and liabilities that are the focus of risk management
+                            activities involving financial instruments?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">How is this information being communicated, and is this information
+                            being communicated to all affected parties?</p>
+               </li>
+            </ul>
+            <p class="- topic/p ">The entity’s analysis and internal reporting might include how well the entity
+                    is achieving its strategy of using financial instruments:</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Are the analysis and internal reporting of risks that the entity is
+                            managing and the effectiveness of its strategies comprehensive,
+                            reliable, and well-designed to facilitate oversight?</p>
+               </li>
+            </ul>
+            <p class="- topic/p ">Those charged with governance or the finance, asset or liability, investment,
+                    or other committee might consider investment transactions in the context of how
+                    related risks affect the achievement of the entity’s objectives (for example,
+                    economic, regulatory, industry, or operating):</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Do financial instrument transactions increase the entity’s exposure to
+                            risks that might frustrate, rather than further, achievement of the
+                            entity’s objectives?</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">In assessing if the right people have the right
+                        information, transactional questions exist that may be asked and
+                        answered:</i>
+            </p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Does the entity have good systems for marking transactions to
+                            market?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Have these mark-to-market systems been tested by persons independent
+                            of the financial instrument function?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Does the entity know how the value of its financial instruments will
+                            change under extreme market conditions?</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Is the entity’s published financial information being prepared
+                            reliably and in conformity with the applicable financial reporting
+                            framework?</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

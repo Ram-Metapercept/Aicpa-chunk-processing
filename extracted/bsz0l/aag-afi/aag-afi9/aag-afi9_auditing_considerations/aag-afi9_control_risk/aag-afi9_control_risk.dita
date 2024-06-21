@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-c74cc8f5-ac50-881e-3a00-22777f64ce5e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Control Risk</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.18</b> Martin’s
+                    investing department has a history of investing in debt and equity securities.
+                    Controls over the department’s activities include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">segregation of duties between purchase and sale transaction
+                            authorization, bookkeeping, and custody.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">reasonably good management oversight.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">supervisory personnel in the department review ongoing fair value
+                            calculations prepared internally and provided by third parties,
+                            mark-to-market adjustments, and related journal entries.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.19" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.19</b> However, the
+                    purchase of the convertible bonds is the first transaction of this nature for
+                    Martin. Certain risks associated with accounting for this instrument (for
+                    example, the identification of, and separate accounting for, the embedded
+                    derivative and use of the binomial option-pricing model) are not addressed by
+                    Martin’s existing controls. Although some policies have been put in place to
+                    monitor the status of the convertible bonds, the policies have not been
+                    functioning long enough to determine their effectiveness. For these reasons,
+                    control risk is assessed as high.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

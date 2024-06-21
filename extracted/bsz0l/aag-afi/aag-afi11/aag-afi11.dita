@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Chapter 11 — Case Study of the Use of a Foreign Currency Put Option to Hedge a
+            Forecasted Sale Denominated in a Foreign Currency</title>
+   <body class="- topic/body ">
+      <note type="notice" outputclass="box-border shade grey" class="- topic/note ">
+         <p outputclass="ps_box_shade" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Gray shaded text in this chapter reflects guidance issued
+                    but not yet effective as of the date of this guide, September 1, 2020, but
+                    becoming effective on or prior to December 31, 2020, exclusive of any option to
+                    early adopt ahead of the mandatory effective date. Unless otherwise indicated,
+                    all unshaded text reflects guidance that was already effective as of the date of
+                    this guide.</i>
+         </p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.01</b> In this case study,
+            the entity has forecasted a foreign currency-denominated sale during the upcoming period
+            and is exposed to the risk that the foreign currency exchange rate will change by the
+            time the sale occurs. To manage this risk, the entity enters into a foreign currency
+            cash flow hedge using a foreign currency put option.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.02</b> By purchasing the put
+            option, the entity has the right to sell foreign currency to the writer at the spot
+            price, which, in this case study, is the current exchange rate. To obtain this right,
+            the entity pays the writer a premium.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.03</b> The most fundamental
+            characteristic of every option is the uneven allocation of risk and reward. The holder
+            of the option (the entity, in this case study) receives a larger potential gain than it
+            does risk of loss. In this case study, the entity’s profits on the option increase as
+            the value of the foreign currency falls relative to the functional currency (U.S.
+            dollars). However, if the value of the foreign currency rises relative to the functional
+            currency, the entity simply will not exercise its option and can lose no more than the
+            option premium it paid the writer.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.04</b> The value of an option
+            during its life has two components: the intrinsic value and time value. The term
+                <i class="+ topic/ph hi-d/i ">intrinsic value</i> is defined in the FASB ASC
+            glossary as the amount by which fair value of the underlying stock exceeds the exercise
+            price of an option (or the difference between the underlying spot price and option
+            exercise price, which would be the strike rate, in this case study) if that difference
+            is positive for the option holder. Intrinsic value is the net amount that would be
+            realized upon immediate exercise of the option and sale of the underlying instrument
+            (foreign currency, in this case study), and it can never be negative for the option
+            holder.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.05</b> <i class="+ topic/ph hi-d/i ">Time value</i> is the excess of the total fair value of the
+            option over its intrinsic value. Time value represents the premium that a rational
+            investor would pay for an option based on the likelihood that, and degree to which, the
+            fair value of the underlying stock may exceed the exercise price of the option before
+            the option expires. Time value can never be negative for the holder and only decreases
+            to zero when the option reaches its expiration date.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.06</b> The "<xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_accounting_considerations.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-d9d61a2b-be2d-66f7-058f-70b3b17147f3">Accounting Considerations</xref>" section illustrates the accounting for the cash
+            flow hedge of a forecasted foreign currency-denominated transaction, including the
+            requirement that the forecasted transaction be probable, and illustrates an audit
+            approach when control risk is assessed as low or moderate for certain assertions.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

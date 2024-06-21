@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Chapter 7 — Case Study of Changing the Classification of a Security to Held to
+            Maturity</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Case Study of Changing the Classification of a Security to
+            Held to Maturity <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn1" class="- topic/fn ">
+               <p class="- topic/p ">The following case study does not include any additional audit considerations
+                    or risks of misstatement related to other-than-temporary impairment. Guidance on
+                    other-than-temporary impairment is found in FASB <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i> 320-10-35, 320-10-45, and
+                    320-10-50, as well as Topic 5M, "Other Than Temporary Impairment of Certain
+                    Investments in Equity Securities," of the SEC’s <i class="+ topic/ph hi-d/i ">Codification of Staff Accounting Bulletins</i>. The guidance in FASB
+                    ASC 320–10–35, 320–10–45, and 320–10–50 includes “Pending Content” resulting
+                    from various Accounting Standards Updates (ASUs)</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi7.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn1"/>
+         </ph>
+      </p>
+      <note type="notice" outputclass="box-border shade grey" class="- topic/note ">
+         <p class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Gray shaded text in this chapter reflects guidance issued but not yet
+                    effective as of the date of this guide, September 1, 2020, but becoming
+                    effective on or prior to December 31, 2020, exclusive of any option to early
+                    adopt ahead of the mandatory effective date. Unless otherwise indicated, all
+                    unshaded text reflects guidance that was already effective as of the date of
+                    this guide.</i>
+         </p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.01</b> In this case study, the
+            entity changes the classification of a debt security from available for sale to held to
+            maturity. The change in classification results from a change in management’s intent in
+            holding the security.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.02</b> The "<xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6">Accounting Considerations</xref>" section illustrates the entity’s accounting for
+            the change in the classification of the security and highlights the potential
+            misstatements that can occur for the change in classification and how various inherent
+            risk considerations affect substantive procedures.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-47e50ad6-9ee4-ce01-63c7-22b945ea2953" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Elements of a System of Quality Control</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-47e50ad6-9ee4-ce01-63c7-22b945ea2953_pra-sqcs_1.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.04</b> A firm must
+                establish and maintain a system of quality control. The firm’s system of quality
+                control should include policies and procedures that address each of the following
+                elements of quality control identified in <xref format="dita" class="- topic/xref " href="../../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a_requirements/topics/qm_10a_elements_of_a_system.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_UUID-5214e912-bf32-d98d-8eea-ba68f2ccc797/UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_qm_10a.17">paragraph .17</xref> of QM section 10A: <unknown id="UUID-47e50ad6-9ee4-ce01-63c7-22b945ea2953_N66175500b9f7f" class="- topic/unknown ">Elements of a System of Quality Control</unknown>
+      </p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Leadership responsibilities for quality within the firm (the "tone at the
+                        top")</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Relevant ethical requirements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Acceptance and continuance of client relationships and specific
+                        engagements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Human resources</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Engagement performance</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monitoring</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-47e50ad6-9ee4-ce01-63c7-22b945ea2953_pra-sqcs_1.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.05</b> The elements of
+                quality control are interrelated. For example, a firm continually assesses client
+                relationships to comply with relevant ethical requirements, including independence,
+                integrity, and objectivity, and policies and procedures related to the acceptance
+                and continuance of client relationships and specific engagements. Similarly, the
+                human resources element of quality control encompasses criteria related to
+                professional development, hiring, advancement, and assignment of firm personnel to
+                engagements, all of which affect policies and procedures related to engagement
+                performance. In addition, policies and procedures related to the monitoring element
+                of quality control enable a firm to evaluate whether its policies and procedures for
+                each of the other five elements of quality control are suitably designed and
+                effectively applied.</p>
+      <p outputclass="ps_para_number" id="UUID-47e50ad6-9ee4-ce01-63c7-22b945ea2953_pra-sqcs_1.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.06</b> Policies and
+                procedures established by the firm related to each element are designed to achieve
+                reasonable assurance with respect to the purpose of that element. Deficiencies in
+                policies and procedures for an element may result in not achieving reasonable
+                assurance with respect to the purpose of that element; however, the system of
+                quality control, as a whole, may still be effective in providing the firm with
+                reasonable assurance that the firm and its personnel comply with professional
+                standards and applicable regulatory and legal requirements and that the firm or
+                engagement partners issue reports that are appropriate in the circumstances.</p>
+      <p outputclass="ps_para_number" id="UUID-47e50ad6-9ee4-ce01-63c7-22b945ea2953_pra-sqcs_1.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.07</b> If a firm merges,
+                acquires, sells, or otherwise changes a portion of its practice, the surviving firm
+                evaluates and, as necessary, revises, implements, and maintains firm-wide quality
+                control policies and procedures that are appropriate for the changed
+                circumstances.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

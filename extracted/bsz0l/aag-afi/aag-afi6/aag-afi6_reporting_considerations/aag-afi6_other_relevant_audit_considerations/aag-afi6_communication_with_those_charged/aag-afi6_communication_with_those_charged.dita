@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-9502a57f-456e-091e-5f2e-030188d83615" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Communication With Those Charged With Governance and
+                        Others</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.31</b> Because of
+                        the uncertainties associated with the valuation of financial instruments,
+                        the potential effects on the financial statements of any significant risks
+                        are likely to be of governance interest. The auditor may communicate the
+                        nature and consequences of significant assumptions used in fair value
+                        measurements, the degree of subjectivity involved in the development of the
+                        assumptions, and the relative materiality of the items being measured at
+                        fair value to the financial statements as a whole. In addition, the need for
+                        appropriate controls over commitments to enter into financial instrument
+                        contracts and the subsequent measurement processes are matters that may give
+                        rise to the need for communication with those charged with
+                        governance.</p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.32</b> AU-C section
+                        260B addresses the auditor’s responsibility to communicate with those
+                        charged with governance in an audit of financial statements. With respect to
+                        financial instruments, matters to be communicated to those charged with
+                        governance may include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">a lack of management understanding of the nature or extent of the
+                                financial instrument activities or the risks associated with such
+                                activities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">significant deficiencies or material weaknesses in the design or
+                                operation of the system of internal control relating to the entity’s
+                                financial instrument activities that the auditor has identified
+                                during the audit. <ph class="- topic/ph ">
+                  <fn callout="16" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn16" class="- topic/fn ">
+                     <p class="- topic/p ">AU-C section 265B, <i class="+ topic/ph hi-d/i ">Communicating
+                                            Internal Control Related Matters Identified in an
+                                            Audit</i>, addresses the auditor’s responsibility
+                                        to communicate to those charged with governance and
+                                        management deficiencies in internal control that the auditor
+                                        has identified in an audit of financial statements. It
+                                        explains that deficiencies in internal control may be
+                                        identified during the auditor’s risk assessment procedures,
+                                        in accordance with AU-C section 315B, <i class="+ topic/ph hi-d/i ">Understanding the Entity and Its
+                                            Environment and Assessing the Risks of Material
+                                            Misstatement</i>, or at any other stage of the
+                                        audit.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi6_communication_with_those_charged.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-9502a57f-456e-091e-5f2e-030188d83615/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn16"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">significant difficulties encountered when obtaining sufficient
+                                appropriate audit evidence relating to valuations performed by
+                                management or management’s specialist (for example, when management
+                                is unable to obtain an understanding of the valuation methodology,
+                                assumptions, and data used by management’s specialists, and such
+                                information is not made available to the auditor by management’s
+                                specialist).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">significant differences in judgments between the auditor and
+                                management or management’s specialist regarding valuations.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the potential effects on the entity’s financial statements of
+                                material risks and exposures required to be disclosed in the
+                                financial statements, including the measurement uncertainty
+                                associated with financial instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the auditor’s views about the appropriateness of the selection of
+                                accounting policies and presentation of financial instrument
+                                transactions in the financial statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the auditor’s views about the qualitative aspects of the entity’s
+                                accounting practices and financial reporting for financial
+                                instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">a lack of comprehensive and clearly stated policies for the
+                                purchase, sale, and holding of financial instruments, including
+                                operational controls, procedures for designating financial
+                                instruments as hedges, and monitoring exposures.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">The appropriate timing for communications will vary with the circumstances
+                        of the engagement; however, it may be appropriate to communicate significant
+                        difficulties encountered during the audit as soon as practicable if those
+                        charged with governance are able to assist the auditor to overcome the
+                        difficulty or if it is likely to lead to a modified opinion.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

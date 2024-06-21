@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6d29dee1-6260-ece7-3a6b-6170ed4f459d" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Monitoring</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6d29dee1-6260-ece7-3a6b-6170ed4f459d_pra-sqcs_1.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.16</b> The purpose of the
+                monitoring element of a system of quality control is to provide the firm and its
+                engagement partners with reasonable assurance that the policies and procedures
+                related to the system of quality control are relevant, adequate, operating
+                effectively, and complied with in practice. Monitoring involves an ongoing
+                consideration and evaluation of the appropriateness of the design, the effectiveness
+                of the operation of a firm’s quality control system, and a firm’s compliance with
+                its quality control policies and procedures. The purpose of monitoring compliance
+                with quality control policies and procedures is to provide an evaluation of the
+                following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Adherence to professional standards and regulatory and legal
+                        requirements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether the quality control system has been appropriately designed and
+                        effectively implemented</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether the firm’s quality control policies and procedures have been
+                        operating effectively so that reports issued by the firm are appropriate in
+                        the circumstances</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6d29dee1-6260-ece7-3a6b-6170ed4f459d_pra-sqcs_1.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.17</b> Establishing and
+                maintaining policies such as the following assist the firm in obtaining the
+                assurance required relating to the monitoring element of quality control:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assign responsibility for the monitoring process to a partner or partners
+                        or other persons with sufficient and appropriate experience and authority in
+                        the firm to assume that responsibility.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assign performance of the monitoring process to competent
+                        individuals.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require the performance of monitoring procedures that are sufficiently
+                        comprehensive to enable the firm to assess compliance with all applicable
+                        professional standards and the firm’s quality control policies and
+                        procedures. Monitoring procedures consist of the following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Review of selected administrative and personnel records pertaining
+                                to the quality control elements.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Review of engagement documentation, reports, and clients'
+                                financial statements.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Summarization of the findings from the monitoring procedures, at
+                                least annually, and consideration of the systemic causes of findings
+                                that indicate that improvements are needed.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Determination of any corrective actions to be taken or
+                                improvements to be made with respect to the specific engagements
+                                reviewed or the firm's quality control policies and
+                                procedures.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Communication of the identified findings to appropriate firm
+                                management personnel.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Consideration of findings by appropriate firm management personnel
+                                who should also determine that any actions necessary, including
+                                necessary modifications to the quality control system, are taken on
+                                a timely basis.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Assessment of</p>
+                  <ul outputclass="ul bullet" class="- topic/ul ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the appropriateness of the firm’s guidance materials and
+                                        any practice aids;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">new developments in professional standards and regulatory
+                                        and legal requirements and how they are reflected in the
+                                        firm’s policies and procedures where appropriate;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">compliance with policies and procedures on
+                                        independence;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the effectiveness of continuing professional development,
+                                        including training;</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">decisions related to acceptance and continuance of client
+                                        relationships and specific engagements; and</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">firm personnel’s understanding of the firm’s quality
+                                        control policies and procedures and implementation
+                                        thereof.</p>
+                     </li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Communicate at least annually, to relevant engagement partners and other
+                        appropriate personnel, deficiencies noted as a result of the monitoring
+                        process and recommendations for appropriate remedial action.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Communicate the results of the monitoring of its quality control system
+                        process to relevant firm personnel at least annually.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establish procedures designed to provide the firm with reasonable
+                        assurance that it deals appropriately with the following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Complaints and allegations that the work performed by the firm
+                                fails to comply with professional standards and regulatory and legal
+                                requirements.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Allegations of noncompliance with the firm’s system of quality
+                                control.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Deficiencies in the design or operation of the firm’s quality
+                                control policies and procedures, or noncompliance with the firm’s
+                                system of quality control by an individual or individuals, as
+                                identified during the investigations into complaints and
+                                allegations.</p>
+               </li>
+            </ul>
+            <p class="- topic/p ">This includes establishing clearly defined channels for firm personnel to
+                        raise any concerns in a manner that enables them to come forward without
+                        fear of reprisal and documenting complaints and allegations and the
+                        responses to them.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require appropriate documentation to provide evidence of the operation of
+                        each element of its system of quality control. The form and content of
+                        documentation evidencing the operation of each of the elements of the system
+                        of quality control is a matter of judgment and depends on a number of
+                        factors, including the following, for example:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The size of the firm and the number of offices.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The nature and complexity of the firm’s practice and
+                                organization.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require retention of documentation providing evidence of the operation of
+                        the system of quality control for a period of time sufficient to permit
+                        those performing monitoring procedures and peer review to evaluate the
+                        firm’s compliance with its system of quality control, or for a longer period
+                        if required by law or regulation.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6d29dee1-6260-ece7-3a6b-6170ed4f459d_pra-sqcs_1.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.18</b> Some of the
+                monitoring procedures discussed in the previous list may be accomplished through the
+                performance of the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Engagement quality control review</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Review of engagement documentation, reports, and clients’ financial
+                        statements for selected engagements after the report release date</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Inspection <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-6d29dee1-6260-ece7-3a6b-6170ed4f459d-pra-sqcs-1-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Inspection</i> is a retrospective
+                                evaluation of the adequacy of the firm’s quality control policies
+                                and procedures, its personnel’s understanding of those policies and
+                                procedures, and the extent of the firm’s compliance with them.
+                                Although monitoring procedures are meant to be ongoing, they may
+                                include inspection procedures performed at a fixed point in time.
+                                Monitoring is a broad concept; inspection is one specific type of
+                                monitoring procedure.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="pra-sqcs_1_monitoring.dita#UUID-6d29dee1-6260-ece7-3a6b-6170ed4f459d/UUID-6d29dee1-6260-ece7-3a6b-6170ed4f459d-pra-sqcs-1-fn4"/>
+               </ph> procedures</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

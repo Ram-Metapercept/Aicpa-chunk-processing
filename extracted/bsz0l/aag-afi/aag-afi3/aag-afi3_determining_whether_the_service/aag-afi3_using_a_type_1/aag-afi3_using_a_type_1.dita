@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-b496f29b-8b46-ef4e-7287-8a3893a20241" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Using a Type 1 or Type 2 Report</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.49" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.49</b> A service
+                    organization may engage a service auditor to examine and report, under <xref format="dita" class="- topic/xref " href="../../../../ps/atc_attestation_standards_clarified/atc_section_300/atc_320/atc_320.dita#UUID-9b7e3aaf-ba38-0332-75d4-d287dc86c1c6">AT-C section 320</xref>, <i class="+ topic/ph hi-d/i ">Reporting on an
+                        Examination of Controls at a Service Organization Relevant to User Entities’
+                        Internal Control over Financial Reporting</i>, <ph class="- topic/ph ">
+            <fn callout="9" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn9" class="- topic/fn ">
+               <p class="- topic/p ">All AT-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                     <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffe983f" class="- topic/unknown ">AICPA Professional
+                                Standards</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_using_a_type_1.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-b496f29b-8b46-ef4e-7287-8a3893a20241/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn9"/>
+         </ph> on a service organization’s description of its system and on its
+                    controls relevant to user entities’ internal control over financial reporting.
+                    Such reports are used by user auditors to obtain an understanding of controls at
+                    the service organization that are relevant to user entities’ financial
+                    statements and also to assess risk. <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffe63a4" class="- topic/unknown ">AT-C Section 320</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.50" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.50</b> A service
+                    auditor may perform a type 1 or type 2 engagement. Those engagements and the
+                    related practitioner’s report are summarized as follows:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Report on management’s description of a service organization’s system
+                            and the suitability of the design of controls (referred to in this
+                            section as a type 1 report). A type 1 report comprises the
+                            following:</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Management’s description of the service organization’s
+                                    system</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">A written assertion by management of the service organization
+                                    about whether, in all material respects and based on suitable
+                                    criteria</p>
+                  <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">management’s description of the service organization’s
+                                            system fairly presents the service organization’s system
+                                            that was designed and implemented as of a specified
+                                            date</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the controls related to the control objectives stated
+                                            in management’s description of the service
+                                            organization’s system were suitably designed to achieve
+                                            those control objectives as of the specified date</p>
+                     </li>
+                  </ol>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">A service auditor’s report that expresses an opinion on the
+                                    matters in (ii)(1)–(2)</p>
+               </li>
+            </ol>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Report on management’s description of a service organization’s system
+                            and the suitability of the design and operating effectiveness of
+                            controls (referred to in this section as a type 2 report). A type 2
+                            report comprises the following:</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Management’s description of the service organization’s
+                                    system</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">A written assertion by management of the service organization
+                                    about whether in all material respects and based on suitable
+                                    criteria</p>
+                  <ol class="- topic/ol ">
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">management’s description of the service organization’s
+                                            system fairly presents the service organization’s system
+                                            that was designed and implemented throughout the
+                                            specified period</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the controls related to the control objectives stated
+                                            in management’s description of the service
+                                            organization’s system were suitably designed throughout
+                                            the specified period to achieve those control
+                                            objectives</p>
+                     </li>
+                     <li class="- topic/li ">
+                        <p class="- topic/p ">the controls related to the control objectives stated
+                                            in management’s description of the service
+                                            organization’s system operated effectively throughout
+                                            the specified period to achieve those control
+                                            objectives</p>
+                     </li>
+                  </ol>
+               </li>
+            </ol>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A service auditor’s report that</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">expresses an opinion on the matters in (ii)(1)–(3)</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">includes a description of the tests of controls and the
+                                    results thereof</p>
+               </li>
+            </ol>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.51" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.51</b> The Guide <xref format="dita" class="- topic/xref " href="../../../../aag-ssc.dita#UUID-0a580dd0-c662-66e2-b209-4b13b7928bc7">
+            <i class="+ topic/ph hi-d/i ">Service Organizations: Reporting on Controls at
+                            a Service Organization Relevant to User Entities’ Internal Control Over
+                            Financial Reporting</i>
+         </xref> provides detailed information
+                    about the nature of these engagements and the content of the reports. <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffeabfc" class="- topic/unknown ">AICPA Guide: Reporting on an Examination of Controls
+                        Relevant to Security, Availability, Processing Integrity, Confidentiality,
+                        or Privacy in a Production, Manufacturing, or Distribution System (SOC for
+                        Supply Chain)</unknown>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.52" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.52</b> If the user
+                    auditor plans to use a type 1 or type 2 report as audit evidence to support the
+                    user auditor’s understanding about the design and implementation of controls at
+                    the service organization, the user auditor should <ph class="- topic/ph ">
+            <fn callout="10" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn10" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .14 of AU-C section 402B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_using_a_type_1.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-b496f29b-8b46-ef4e-7287-8a3893a20241/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn10"/>
+         </ph>
+      </p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluate whether the type 1 report is as of a date or, in the case of
+                            a type 2 report, is for a period that is appropriate for the user
+                            auditor’s purposes.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluate the sufficiency and appropriateness of the evidence provided
+                            by the report for the understanding of the user entity’s internal
+                            control relevant to the audit.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">determine whether complementary user entity controls identified by the
+                            service organization are relevant in addressing the risks of material
+                            misstatement relating to the relevant assertions in the user entity’s
+                            financial statements and, if so, obtain an understanding of whether the
+                            user entity has designed and implemented such controls.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.53" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.53</b> As a practical
+                    matter, a type 1 or type 2 report is an efficient way for a user auditor to gain
+                    an understanding of the service organization’s controls over the services
+                    provided by the service organization; obtain information that will enable the
+                    user auditor to assess the risk of material misstatement for assertions about
+                    financial instruments; and, for a type 2 report, determine whether controls at
+                    the service organization are operating effectively.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.54" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.54</b> If the user
+                    auditor is unable to obtain sufficient appropriate audit evidence regarding the
+                    services provided by the service organization relevant to the user entity’s
+                    financial statements, the user auditor should modify the opinion in the
+                    auditor’s report in accordance with AU-C section 705B, <i class="+ topic/ph hi-d/i ">Modifications to the Opinion in the Independent Auditor’s
+                    Report</i>. <ph class="- topic/ph ">
+            <fn callout="11" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn11" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .20 of AU-C section 402B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_using_a_type_1.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-b496f29b-8b46-ef4e-7287-8a3893a20241/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn11"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

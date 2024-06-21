@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-31620b1d-466b-8f48-bffe-4337e0c8bd98" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Reporting on Fair Value Information Not Required by FASB ASC 825,
+                            <i class="+ topic/ph hi-d/i ">Financial Instruments</i>, Presented as a Complete
+                        Balance Sheet Presentation or a Specific Element of a Financial
+                        Statement</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Reporting on Fair Value Information Not Required
+                        by FASB ASC 825, <i class="+ topic/ph hi-d/i ">Financial Instruments</i>, Presented as a
+                        Complete Balance Sheet Presentation or a Specific Element of a Financial
+                        Statement</p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.23</b> Paragraph .19 of AU-C section 540B
+                        states that the auditor should obtain sufficient appropriate audit evidence
+                        about whether the disclosures in the financial statements related to
+                        accounting estimates are in accordance with the requirements of the
+                        applicable financial reporting framework. The presentation of financial
+                        statements in accordance with the applicable financial reporting framework
+                        includes adequate disclosure of material matters. The applicable financial
+                        reporting framework may permit or prescribe disclosures relating to
+                        accounting estimates, including fair value accounting estimates, and some
+                        entities may disclose voluntarily additional information in the notes to the
+                        financial statements. If such voluntary additional information is presented
+                        as part of the basic financial statements, in accordance with paragraph .59
+                        of AU-C section 700B, <i class="+ topic/ph hi-d/i ">Forming an Opinion and
+                            Reporting on Financial Statements</i>, such information should be
+                        covered by the auditor’s opinion if it cannot be clearly
+                        differentiated.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

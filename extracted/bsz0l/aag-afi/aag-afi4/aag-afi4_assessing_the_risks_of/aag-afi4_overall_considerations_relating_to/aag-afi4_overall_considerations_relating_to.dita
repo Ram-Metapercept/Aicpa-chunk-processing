@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7f3e3e8b-f740-1374-b484-328981d5835b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Overall Considerations Relating to Financial Instruments</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.03</b> Paragraph .02 of
+                    AU-C section 540B, <i class="+ topic/ph hi-d/i ">Auditing Accounting Estimates,
+                        Including Fair Value Accounting Estimates, and Related
+                        Disclosures</i>, explains that the degree of estimation uncertainty
+                    affects the risk of material misstatement of accounting estimates. The use of
+                    more complex financial instruments, such as those that have a high level of
+                    uncertainty and variability of future cash flows, may lead to an increased risk
+                    of material misstatement, particularly regarding valuation. Other matters
+                    affecting the risk of material misstatement include the</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">volume of financial instruments to which the entity is exposed.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">terms of the financial instrument, including whether the financial
+                            instrument itself includes other financial instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">nature of the financial instruments.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

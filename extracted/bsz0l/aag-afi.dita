@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE aicpa-topic
+  PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd">
+<aicpa-topic id="UUID-4da47d9c-e41f-2853-6884-21385ac9caf9">
+   <title>AICPA Audit Guide: Special Considerations in Auditing Financial Instruments</title>
+   <titlealts>
+      <navtitle>Special Considerations in Auditing Financial Instruments
+            [AAG-AFI]</navtitle>
+   </titlealts>
+   <abstract>
+      <p>AAG-AFI</p>
+   </abstract>
+   <body>
+   </body>
+   <related-links>
+      <linklist type="inline-links">
+         <desc>Inline Links</desc>
+         <link>
+            <linktext>Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions">
+         <desc>FAQs</desc>
+         <link>
+            <linktext>Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights">
+         <desc>Industry Insights</desc>
+         <link>
+            <linktext>Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links">
+         <desc>Examples</desc>
+         <link>
+            <linktext>Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links">
+         <desc>Templates</desc>
+         <link>
+            <linktext>Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

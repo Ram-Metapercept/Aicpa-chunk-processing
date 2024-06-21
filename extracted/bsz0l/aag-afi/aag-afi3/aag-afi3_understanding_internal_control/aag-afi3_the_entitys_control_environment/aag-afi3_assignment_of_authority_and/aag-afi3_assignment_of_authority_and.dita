@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-4454b8aa-694a-83bc-2f8a-d664b20ecb17" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Assignment of Authority and Responsibility</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.10</b> Providing
+                        direction through clearly stated policies approved by those charged with
+                        governance for the purchase, sale, and holding of financial instruments
+                        enables management to establish an effective approach to taking and managing
+                        business risks. These policies are most clear when they state the entity’s
+                        objectives with regard to its risk management activities and the financial
+                        instrument and hedging alternatives available to meet these objectives and
+                        when they reflect the following:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Level of management’s expertise</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Sophistication of the entity’s internal control and monitoring
+                                systems</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Entity’s asset and liability structure</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Entity’s capacity to maintain liquidity and absorb losses of
+                                capital</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Types of financial instruments that management believes will meet
+                                its objectives</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Uses of financial instruments that management believes will meet
+                                its objectives (for example, whether derivatives may be used for
+                                speculative purposes or only for hedging purposes)</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.11</b> Management
+                        may design policies aligned with its valuation capabilities and establish
+                        controls to ensure that these policies are adhered to by those employees
+                        responsible for the entity’s valuation. These may include</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">processes for the design and validation of methodologies used to
+                                produce valuations, including how measurement uncertainty is
+                                addressed.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">policies regarding maximizing the use of observable inputs and the
+                                types of information to be gathered to support valuations of
+                                financial instruments.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.12</b> In smaller
+                        entities, dealing in financial instruments may be rare, and management’s
+                        knowledge and experience may be limited. Nevertheless, establishing policies
+                        over financial instruments helps an entity determine its risk appetite and
+                        consider whether investing in particular financial instruments achieves a
+                        stated objective.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

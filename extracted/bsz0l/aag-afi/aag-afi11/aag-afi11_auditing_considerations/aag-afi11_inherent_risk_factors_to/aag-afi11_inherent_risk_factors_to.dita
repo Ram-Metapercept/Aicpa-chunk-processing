@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-0227aaac-727b-a378-9b14-9f6413fa7966" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Inherent Risk Factors to Consider for This Transaction in Assessing the
+                    Risks of Material Misstatement</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.37" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.37</b> The following
+                    inherent risk factors have been identified:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Because small amounts of cash are required to enter into the options,
+                            there is an increased inherent risk that the options will not be
+                            identified.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The complexity of accounting for the put options and hedging
+                            activities leads to an increased inherent risk that the transactions
+                            will not be accounted for in conformity with the applicable financial
+                            reporting framework.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The options are not exchange traded, which increases the inherent risk
+                            that valuations will be inappropriate.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Based on the preceding factors, the auditor determines inherent risk to be
+                    high.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

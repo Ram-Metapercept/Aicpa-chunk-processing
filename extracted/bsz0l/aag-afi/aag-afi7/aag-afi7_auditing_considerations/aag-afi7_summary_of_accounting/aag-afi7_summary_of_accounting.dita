@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-62d9a8be-ad86-552f-1c66-03c1ceca0251" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Summary of Accounting</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.13</b> At the date of reclassification from
+                    available for sale to held to maturity, BEV should reduce the carrying amount of
+                    the bond to its <i class="+ topic/ph hi-d/i ">fair value</i>, as defined by
+                    FASB ASC 820, <i class="+ topic/ph hi-d/i ">Fair Value Measurement</i>, through
+                    a charge to other comprehensive income and a credit to the carrying amount of
+                    the bond. The unrealized loss at that date should be amortized over the
+                    remaining life of the bond as a discount, thereby increasing the carrying amount
+                    of the bond over the remaining life of the bond so that it equals the bond’s
+                    face amount when the bond matures. The loss charged to other comprehensive
+                    income should continue to be reported in accumulated other comprehensive income
+                    but amortized over the remaining life of the bond through credits to other
+                    comprehensive income in amounts equal to the discount amortization. As a result
+                    of this accounting, each year, BEV will report in earnings interest at the
+                    bond’s 6% stated rate and other comprehensive income equal to the discount
+                    amortization.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

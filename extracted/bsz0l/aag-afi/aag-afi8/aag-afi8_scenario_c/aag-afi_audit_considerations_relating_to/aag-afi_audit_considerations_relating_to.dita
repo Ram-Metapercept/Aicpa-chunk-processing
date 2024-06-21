@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-52000193-df45-1d25-42bc-365d4fad3954" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Audit Considerations Relating to an Entity Using a Service
+                    Organization</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.30</b> In determining
+                    the nature and extent of audit evidence to be obtained for financial statement
+                    balances representing assets held or transactions processed by a service
+                    organization for a user entity, the following procedures may be considered by
+                    the user auditor:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Inspecting records and documents held by the
+                                user entity</i>. The reliability of this source of evidence
+                            is determined by the nature and extent of the accounting records and
+                            supporting documentation retained by the user entity. In some cases, the
+                            user entity may not maintain independent detailed records or
+                            documentation of specific transactions undertaken on its behalf.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Inspecting records and documents held by the
+                                service organization</i>. The user auditor’s access to the
+                            records of the service organization may be established as part of the
+                            contractual arrangements between the user entity and service
+                            organization. The user auditor may also use another auditor on its
+                            behalf to gain access to the user entity’s records maintained by the
+                            service organization or may ask the service organization through the
+                            user entity for access to the user entity’s records maintained by the
+                            service organization.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Obtaining confirmations of balances and
+                                transactions from the service organization</i>. When the user
+                            entity maintains independent records of balances and transactions,
+                            confirmation from the service organization corroborating those records
+                            usually constitutes reliable audit evidence concerning the existence of
+                            the transactions and assets concerned. For example, when multiple
+                            service organizations are used, such as an investment manager and a
+                            custodian, and these service organizations maintain independent records,
+                            the user auditor may confirm balances with these organizations in order
+                            to compare this information with the independent records of the user
+                            entity. If the user entity does not maintain independent records,
+                            information obtained in confirmations from the service organization is
+                            merely a statement of what is reflected in the records maintained by the
+                            service organization. Therefore, such confirmations do not, taken alone,
+                            constitute reliable audit evidence. In these circumstances, the user
+                            auditor may consider whether an alternative source of independent
+                            evidence can be identified. <ph class="- topic/ph ">
+                  <fn callout="9" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn9" class="- topic/fn ">
+                     <p class="- topic/p ">Paragraph .A27 of AU-C section 402B, <i class="+ topic/ph hi-d/i ">Audit Considerations Relating to an Entity Using a Service
+                                        Organization</i>.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi_audit_considerations_relating_to.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-52000193-df45-1d25-42bc-365d4fad3954/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn9"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Performing analytical procedures on the
+                                records maintained by the user entity or on the reports received
+                                from the service organization</i>. The effectiveness of
+                            analytical procedures is likely to vary by assertion and will be
+                            affected by the extent and detail of information available.</p>
+         </li>
+      </ol>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix E — Information About the Zero-Coupon Valuation Model (Ref: par.
+            1.39)</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Information About the Zero-Coupon Valuation Model (Ref:
+                <xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi1/aag-afi1_valuation_of_financial_instruments/aag-afi1_managements_valuation_process/aag-afi1_models/aag-afi1_models.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-7f388eb5-d15d-4de1-ca05-99a267c77bcc/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.39">par. 1.39</xref>)</p>
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+                informational purposes only.</i>
+      </p>
+      <p class="- topic/p ">This appendix provides an overview of how to evaluate fair values calculated by an
+            entity using the zero-coupon method. Although this model ordinarily may involve complex
+            calculations, the following illustrations focus only on the elements of the calculations
+            that are typically most relevant to auditors. Refer to guidance in AU-C section 500B,
+                <i class="+ topic/ph hi-d/i ">Audit Evidence</i>, <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8-aag-afi-appE-fn1" class="- topic/fn ">
+               <p class="- topic/p ">All AU-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                     <unknown id="UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8_N66175500c0962" class="- topic/unknown ">AICPA Professional
+                    Standards</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_appE.dita#UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8/UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8-aag-afi-appE-fn1"/>
+         </ph> when evaluating fair values derived by management’s specialist. <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8-aag-afi-appE-fn2" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for example,
+                    “AU-C section 200B”) denotes content that does not reflect the codification of
+                    Statement on Auditing Standards (SAS) Nos. 134–140 or the amendments to other
+                    SASs made by SAS Nos. 134–140 and subsequently issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_appE.dita#UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8/UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8-aag-afi-appE-fn2"/>
+         </ph>
+      </p>
+      <p class="- topic/p ">The following table discusses evaluating the fair value of interest rate swaps derived
+            using the zero-coupon method:</p>
+      <table outputclass="ruled" id="UUID-28e3166d-55fd-3f62-6487-33a74ec9b8d8_aag-afi_appE_table1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">What is it?</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The <i class="+ topic/ph hi-d/i ">zero-coupon method</i> is a present
+                            value model in which the net settlements from the swap are estimated and
+                            discounted back to their current value. Like any present value model,
+                            key variables include the following:</p>
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Timing of the cash flows</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Discount rate</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Estimated net settlement cash flows</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Who uses it?</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The zero-coupon method for estimating the fair value of swaps is not
+                            the only acceptable method. However, most other methods use a present
+                            value-based model, and the assumptions would be similar.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">What are the key assumptions?</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The timing of the cash flows usually is a contractual matter that will
+                            likely be easy to verify. For the zero-coupon method, the discount rates
+                            used are the spot interest rates implied by the current yield curve for
+                            hypothetical zero-coupon bonds due on the date of each future net
+                            settlement on the swap. These rates, too, will likely be easy to
+                            corroborate. Difficulties arise in estimating the amount of future cash
+                            flows.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">More about estimating future cash flows.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Suppose that ABC entered into an agreement to swap payments on a
+                            fixed-rate liability for a variable rate. If interest rates decline, ABC
+                            will receive a net positive cash flow from the swap because the amount
+                            received on the fixed rate will be greater than the amount due on the
+                            variable rate. The opposite is true if rates increase. Thus, the future
+                            net settlements are a function of the future price of the underlying, in
+                            this case, interest rates. The zero-coupon method simplifies the
+                            estimate of future cash flows by calculating the net settlement that
+                            would be required if future interest rates are equal to the rates
+                            implied by the current yield curve. Any changes in the yield curve are
+                            accounted for prospectively.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">How might the auditor audit the fair value of a swap derived using the
+                            zero-coupon method?</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The audit approach would be the same as for any other present
+                            value-based estimate. The auditor focuses on the discount rate and the
+                            estimate of future cash flows.</p>
+                     <p class="- topic/p ">Of the two, the future cash flows usually have the bigger effect on
+                            the final estimate of fair value.</p>
+                     <p class="- topic/p ">Understand the assumptions underlying the discount rate and, to the
+                            extent possible, verify the objective elements of this rate.</p>
+                     <p class="- topic/p ">Understand the assumptions underlying the estimate of future cash
+                            flows. Examine management’s documentation to see whether these
+                            assumptions are adequately supported.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

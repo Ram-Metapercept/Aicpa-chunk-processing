@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-8c9592b1-1539-aba5-071d-84a69a1a5753" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Inspection</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.21</b> Traded
+                            financial instruments typically are maintained in electronic form and
+                            street name and, accordingly, cannot be inspected. For example, even
+                            though stock certificates are on file at a depository (for example, the
+                            Depository Trust Company), those shares are allocated to broker-dealers,
+                            and the issuer has no record of who owns shares. The broker-dealers send
+                            documents such as proxy statements to stockholders. Confirmation of the
+                            security provides evidence about the existence of financial instruments.
+                            Evidence about existence also may be gathered by examining supporting
+                            documentation, such as</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">instructions to portfolio managers or directed
+                                    custodians.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">transaction confirmations.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">agreements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">contracts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">minutes of investment committees.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.22</b> If the
+                            physical inspection of financial instruments is possible, the auditor
+                            might consider the following:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">The timing of the
+                                        inspection</i>. Typically, financial instruments
+                                    would be inspected at the same time cash and other negotiable
+                                    assets (for example, bearer bonds) are counted. If financial
+                                    instruments, cash, and other negotiable assets cannot be counted
+                                    at the same time, the auditor might use other means to prevent
+                                    the substitution of one type of negotiable asset for another.
+                                    For example, bags, boxes, safes, or whole rooms may be sealed
+                                    and counted at a later time.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">What to look for</i>. The
+                                    following attributes normally can be observed when inspecting
+                                    financial instruments:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The name of the issuer</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The description of the security</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The name of the owner of the security</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Any evidence of pledging or restrictions on disposal
+                                            shown on the certificate</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The number of shares of stock or face amount of debt
+                                            financial instruments</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.23</b> As
+                            previously stated, some financial instruments do not involve an initial
+                            exchange of cash. Also, derivatives may be embedded in agreements and
+                            difficult to identify. Finally, financial instruments may be donated to
+                            entities such as not-for-profit organizations. When inspecting documents
+                            such as minutes, agreements, and contracts, the auditor’s overriding
+                            objective is to identify financial instruments that may not have been
+                            recognized in the accounting records of the entity.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

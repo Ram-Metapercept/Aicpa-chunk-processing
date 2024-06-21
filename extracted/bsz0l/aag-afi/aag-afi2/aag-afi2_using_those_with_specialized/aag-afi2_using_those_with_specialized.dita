@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-37e93ce0-747e-c994-5a38-867bb510b3e4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Using Those With Specialized Skills and Knowledge in the
+                Audit</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Using Those With Specialized Skills and Knowledge in the
+                Audit <ph class="- topic/ph ">
+            <fn callout="5" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn5" class="- topic/fn ">
+               <p class="- topic/p ">When such a person’s expertise is in auditing and accounting, regardless
+                        of whether the person is from within, or external to, the firm, this person
+                        is considered to be part of the engagement team and is subject to the
+                        requirements of AU-C section 220B, <i class="+ topic/ph hi-d/i ">Quality Control
+                            for an Engagement Conducted in Accordance With Generally Accepted
+                            Auditing Standards</i>. When such a person’s expertise is in a
+                        field other than accounting or auditing, such person is considered to be an
+                        auditor’s specialist, and the provisions of AU-C section 620B, <i class="+ topic/ph hi-d/i ">Using the Work of an Auditor’s Specialist</i>,
+                        apply. AU-C section 620B explains that distinguishing between specialized
+                        areas of accounting or auditing and expertise in another field will be a
+                        matter of professional judgment, but it notes that the distinction may be
+                        made between expertise in methods of accounting for financial instruments
+                        (accounting and auditing expertise) and expertise in complex valuation
+                        techniques for financial instruments (expertise in a field other than
+                        accounting or auditing).</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi2_using_those_with_specialized.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-37e93ce0-747e-c994-5a38-867bb510b3e4/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn5"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.09</b> A key consideration
+                in audits involving financial instruments, particularly complex financial
+                instruments, is the competence of the auditor. Paragraph .16 of AU-C section 220B,
+                    <i class="+ topic/ph hi-d/i ">Quality Control for an Engagement Conducted in
+                    Accordance With Generally Accepted Auditing Standards</i>, requires the
+                engagement partner to be satisfied that the engagement team and any auditor’s
+                specialists who are not part of the engagement team, collectively, have the
+                appropriate competence and capabilities to perform the audit engagement in
+                accordance with professional standards and applicable legal and regulatory
+                requirements to enable an auditor’s report to be issued that is appropriate in the
+                circumstances. Further, paragraphs .11–.15 of AU-C section 220B address the
+                auditor’s responsibilities with respect to relevant ethical requirements and
+                acceptance and continuance of client relationships and audit engagements. <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi2/aag-afi2_using_those_with_specialized/aag-afi2_using_those_with_specialized.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-37e93ce0-747e-c994-5a38-867bb510b3e4/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.10">Paragraph 2.10</xref> provides examples of the types of matters that may be
+                relevant to the auditor’s considerations in the context of financial
+                instruments.</p>
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.10</b> Accordingly,
+                auditing financial instruments may require the involvement of one or more
+                specialists in the areas of, for example</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding the financial instruments used by the entity and their
+                        characteristics, including their level of complexity. Using specialized
+                        skills and knowledge may be needed in checking whether all aspects of the
+                        financial instrument and related considerations have been captured in the
+                        financial statements and in evaluating whether adequate disclosure in
+                        accordance with the applicable financial reporting framework has been made
+                        when disclosure of risks is required.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding the applicable financial reporting framework, especially
+                        when areas are known to be subject to differing interpretations, or practice
+                        is inconsistent or developing.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding the legal, regulatory, and tax implications resulting from
+                        the financial instruments, including whether the contracts are enforceable
+                        by the entity (for example, reviewing the underlying contracts), which may
+                        require specialized skills and knowledge.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">assessing the risks inherent in a financial instrument.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">assisting the engagement team in gathering evidence to evaluate
+                        management’s valuations or to develop a point estimate or range, especially
+                        when fair value is determined by a complex model; when markets are inactive,
+                        and data and assumptions are difficult to obtain; when unobservable inputs
+                        are used; or when management has used a specialist.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluating IT controls, especially in entities with a high volume of
+                        financial instruments. In such entities, IT may be highly complex (for
+                        example, when significant information about those financial instruments is
+                        transmitted, processed, maintained, or accessed electronically). In
+                        addition, it may include relevant services provided by a service
+                        organization.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.11</b> The nature and use
+                of particular types of financial instruments, the complexities associated with
+                accounting and auditing requirements, and market conditions may lead to a need for
+                the engagement team to consult <ph class="- topic/ph ">
+            <fn callout="6" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn6" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .20<i class="+ topic/ph hi-d/i ">b</i> of AU-C section 220B
+                        requires the engagement partner to be satisfied that members of the
+                        engagement team have undertaken appropriate consultation during the course
+                        of the engagement, both within the engagement team and between the
+                        engagement team and others at the appropriate level within or outside the
+                        firm.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi2_using_those_with_specialized.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-37e93ce0-747e-c994-5a38-867bb510b3e4/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn6"/>
+         </ph> with other accounting and audit professionals from within or outside the
+                firm with relevant technical accounting or auditing expertise and experience, taking
+                into account factors such as the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The capabilities and competence of the engagement team, including the
+                        experience of the members of the engagement team</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The attributes of the financial instruments used by the entity</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The identification of unusual circumstances or risks in the engagement, as
+                        well as the need for professional judgment, particularly with respect to
+                        materiality and significant risks</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Market conditions</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

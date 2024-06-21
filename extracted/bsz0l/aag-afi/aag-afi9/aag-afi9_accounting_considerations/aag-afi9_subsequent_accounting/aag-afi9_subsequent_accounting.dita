@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-9f1c9aa8-77c1-e92a-c839-2cfdca5c3ee9" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Subsequent Accounting</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.10</b> Martin will
+                    accrete the basis of the bonds to $100,000 by their maturity date through
+                    credits to interest income. Unrealized appreciation in the bonds is the
+                    difference between their fair value and the straight bonds’ principal less
+                    unamortized discount. Whenever it issues financial statements, Martin will
+                    estimate the fair values of the hybrid instrument and option, subtract the two
+                    to determine the estimated fair value of the straight bonds, and recognize
+                    changes in the unrealized appreciation of the</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">option in earnings (assuming it is not designated in a qualifying
+                            hedging relationship).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">straight bonds in other comprehensive income.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.11</b> For example,
+                    assume that at the first measurement date after Martin purchased the bonds,
+                    using the with-and-without method used at the purchase date, Martin estimated
+                    the fair value of the straight bonds as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Based on quotes from dealers, the fair value of the hybrid instrument
+                            has increased by $15,750, from $124,250 to $140,000.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A specialist engaged by Martin estimated that the fair value of the
+                            option has increased by $6,475, from $58,525 to $65,000.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The fair value of the straight bonds therefore increased by $9,275,
+                            from $65,725 to $75,000.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">In addition, as of the first measurement date</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">the discount on the bonds has decreased by $3,500, from $34,275 to
+                            $30,775.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">interest of $4,998 was received, of which $1,998 was for the accrual
+                            at the date the bonds were purchased. The remaining $3,000 receipt
+                            relates to the current period.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">of the $9,275 total increase in the fair value of the straight bonds,
+                            $3,500 is recorded as discount amortization, with the remaining $5,775
+                            recorded as other comprehensive income. Total interest income recognized
+                            is $6,500, consisting of the $3,000 realized and $3,500 discount
+                            amortization. Based on annualized calculations, Martin concluded that
+                            the implicit yield is consistent with its initial YTM
+                            calculations.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.12</b> Martin would
+                    make the following entry:</p>
+      <table outputclass="ruled" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_table4" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <colspec colname="c3" align="right" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Cash</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$4,998</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Investment in conversion option on Larson stock</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">6,475</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Investment in Larson bonds</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">9,275</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">    Accrued interest receivable</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$1,998</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">    Interest income</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">6,500</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">    Earnings from unrealized appreciation</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">6,475</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">    Other comprehensive income from unrealized
+                                    appreciation</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">5,775</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

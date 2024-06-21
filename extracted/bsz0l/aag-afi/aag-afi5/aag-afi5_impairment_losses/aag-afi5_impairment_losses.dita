@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-b3f835d7-9c1a-49cf-1bde-f8471410420c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Impairment Losses</title>
+   <body class="- topic/body ">
+      <note type="important" class="- topic/note ">
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Update 5-3 <i class="+ topic/ph hi-d/i ">Auditing</i>: Auditing Accounting
+                    Estimates, Including Fair Value Accounting Estimates, and Related
+                    Disclosures</b>
+         </p>
+         <p outputclass="box" class="- topic/p ">In July 2020, the AICPA issued <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_540/ad_540.dita#UUID-5e295753-fd8e-ad8d-74c0-3d4d49ef0274">SAS No. 143</xref>, <i class="+ topic/ph hi-d/i ">Auditing Accounting Estimates
+                        and Related Disclosures</i> (AU-C sec. 540), which supersedes <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_540/ad_540.dita#UUID-5e295753-fd8e-ad8d-74c0-3d4d49ef0274">AU-C section 540A</xref>, <i class="+ topic/ph hi-d/i ">Auditing Accounting
+                        Estimates, Including Fair Value Accounting Estimates, and Related
+                        Disclosures</i>, and amends the following AU-C sections: <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N661755003c0ee" class="- topic/unknown ">AU-C Section 540</unknown>
+            <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N661755003e6e3" class="- topic/unknown ">AU-C Section 540</unknown>
+         </p>
+         <ul outputclass="ul bullet" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_200/ad_200.dita#UUID-a1c92cf4-004a-695b-1157-7fba820cf9c3">Section 200</xref>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N661755003fbe1" class="- topic/unknown ">AU-C Section 200</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_230/ad_230.dita#UUID-fc30ae30-57b7-c665-6108-6a72311bb2be">Section 230</xref>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N661755004127d" class="- topic/unknown ">AU-C Section 230</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_240/ad_240.dita#UUID-d7eb88e1-cfbf-0138-62fb-21f8f62285b3">Section 240</xref>, <i class="+ topic/ph hi-d/i ">Consideration of Fraud
+                                in a Financial Statement Audit</i>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N66175500427e7" class="- topic/unknown ">AU-C Section 240</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_260/ad_260.dita#UUID-00f9ad4d-7607-9441-867f-ab03ac091421">Section 260</xref>, <i class="+ topic/ph hi-d/i ">The Auditor’s
+                                Communication With Those Charged With Governance </i>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N6617550043c9a" class="- topic/unknown ">AU-C Section 260</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_501/ad_501.dita#UUID-57892464-e21e-7913-fac6-924deb8c9ec0">Section 501</xref>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N6617550045119" class="- topic/unknown ">AU-C Section 501</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_580/ad_580.dita#UUID-4dc1620f-f2e0-1dfc-7da9-389044f6362d">Section 580</xref>, <i class="+ topic/ph hi-d/i ">Written
+                                Representations</i>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N66175500465f6" class="- topic/unknown ">AU-C Section 580</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_700/ad_700.dita#UUID-fe1b90a6-0a1b-297b-54fb-b3d5bbc36b74">Section 700</xref>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N6617550047afb" class="- topic/unknown ">AU-C Section 700</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_701/ad_701.dita#UUID-5eff2735-8e08-95cb-54e4-debcd1f556df">Section 701</xref>
+                  <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N66175500499df" class="- topic/unknown ">AU-C Section 701</unknown>
+               </p>
+            </li>
+         </ul>
+         <p outputclass="box" class="- topic/p ">
+            <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_540/ad_540.dita#UUID-5e295753-fd8e-ad8d-74c0-3d4d49ef0274">SAS No. 143</xref> addresses the auditor’s responsibilities relating to
+                    accounting estimates, including fair value accounting estimates and related
+                    disclosures, in an audit of financial statements. <unknown id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_N661755004b113" class="- topic/unknown ">AU-C Section 540</unknown>
+         </p>
+         <p outputclass="box" class="- topic/p ">This SAS is effective for audits of financial statements for
+                    periods ending on or after December 15, 2023. A link to the final SAS and other
+                    resources can be found on the page “<xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+                        Resources</xref>,” which is available using the audit and attest link in the
+                    financial reporting center at aicpa.org.</p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.41" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.41</b> Regardless of the
+                valuation method used (including those investments reported based on an investee’s
+                financial results), applicable financial reporting frameworks may require
+                recognizing in earnings an impairment loss for a decline in fair value that is other
+                than temporary. Determining whether losses are other than temporary often involves
+                estimating the outcome of future events. Accordingly, judgment is required in
+                determining whether factors exist that indicate that an impairment loss has been
+                incurred at the end of the reporting period. These judgments are based on
+                subjective, as well as objective, factors, including knowledge and experience about
+                past and current events and assumptions about future events. The following are
+                examples of such factors:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Fair value is significantly below cost, and</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the decline is attributable to adverse conditions specifically
+                                related to the security or conditions in an industry or a geographic
+                                area.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the decline has existed for an extended period of time.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">management does not possess both the intent and ability to hold
+                                the security for a period of time sufficient to allow for any
+                                anticipated recovery in fair value.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The security has been downgraded by a rating agency.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The financial condition of the issuer or counterparty has
+                        deteriorated.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Dividends have been reduced or eliminated, or scheduled interest payments
+                        have not been made.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The entity recorded losses from the security subsequent to the end of the
+                        reporting period.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.42" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.42</b> AU-C section 501B,
+                    <i class="+ topic/ph hi-d/i ">Audit Evidence — Specific Considerations for Selected
+                    Items</i>, requires the auditor to (<i class="+ topic/ph hi-d/i ">a</i>)
+                evaluate management’s conclusion (including the relevance of the information
+                considered) about the need to recognize an impairment loss for a decline in a
+                security’s fair value below its cost or carrying amount and (<i class="+ topic/ph hi-d/i ">b</i>) obtain sufficient appropriate audit evidence supporting the
+                amount of any impairment adjustment recorded, including evaluating whether the
+                requirements of the applicable financial reporting framework have been complied
+                with. <ph class="- topic/ph ">
+            <fn callout="12" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn12" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .09 of AU-C section 501B, <i class="+ topic/ph hi-d/i ">Audit Evidence
+                            — Specific Considerations for Selected Items</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi5_impairment_losses.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-b3f835d7-9c1a-49cf-1bde-f8471410420c/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn12"/>
+         </ph> That includes evaluating (<i class="+ topic/ph hi-d/i ">a</i>) whether
+                management has considered relevant information in determining whether factors such
+                as those listed in <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.03">paragraph 5.03</xref> exist and (<i class="+ topic/ph hi-d/i ">b</i>)
+                management’s conclusions about the need to recognize an impairment loss. That
+                evaluation requires the auditor to obtain evidence about such factors that tend to
+                corroborate or conflict with management’s conclusions.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.43" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.43</b> The auditor is not
+                responsible for designing procedures to detect the presence of these factors per se.
+                Rather, the auditor might evaluate whether management has considered information
+                that would be relevant in determining whether such factors exist. For example, the
+                auditor would not be responsible for determining whether the financial condition of
+                the issuer of a security has deteriorated but, instead, would ask management how it
+                considered the issuer’s financial condition. Once the auditor has determined that
+                the entity considered relevant information, the auditor is responsible for
+                evaluating management’s conclusion about the need to recognize an impairment
+                loss.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.44" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.44</b> If the entity has
+                recognized an impairment loss, and the auditor agrees with that conclusion, the
+                auditor would</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">determine that the write-down of an investment to a new cost basis is
+                        accounted for as a realized loss.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">test the calculation of the loss recorded.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">determine that the new cost basis of investments previously written down
+                        is not changed for subsequent recoveries in fair value.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">review a summary of investments written down for completeness and unusual
+                        items.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluate management’s assessment of the credit rating of the
+                        counterparty.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">conclude on the adequacy of impairment adjustments recorded.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-30835e28-8973-1e20-5e97-a79c6135b460" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">AICPA.org Website</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">The AICPA encourages you to visit its website at <xref scope="external" format="html" class="- topic/xref " href="http://www.aicpa.org">aicpa.org</xref>, and the Financial Reporting
+                Center at <xref scope="external" format="html" class="- topic/xref " href="http://www.aicpa.org/frc">www.aicpa.org/frc</xref>. The
+                Financial Reporting Center supports members in the execution of high-quality
+                financial reporting. Whether you are a financial statement preparer or a member in
+                public practice, this center provides exclusive member-only resources for the entire
+                financial reporting process, and provides timely and relevant news, guidance and
+                examples supporting the financial reporting process, including accounting, preparing
+                financial statements and performing compilation, review, audit, attest or assurance
+                and advisory engagements. Certain content on the AICPA’s websites referenced in this
+                guide may be restricted to AICPA members only.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

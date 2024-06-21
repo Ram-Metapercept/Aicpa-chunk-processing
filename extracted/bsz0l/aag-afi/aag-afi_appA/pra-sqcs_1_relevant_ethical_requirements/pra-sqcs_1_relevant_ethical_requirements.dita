@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-5d6a51ed-cafd-18cc-eda7-20cccc073944" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Relevant Ethical Requirements</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-5d6a51ed-cafd-18cc-eda7-20cccc073944_pra-sqcs_1.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.10</b> The purpose of the
+                relevant ethical requirements element of a system of quality control is to provide
+                the firm with reasonable assurance that the firm and its personnel comply with
+                relevant ethical requirements when discharging professional responsibilities.
+                Relevant ethical requirements include independence, integrity, and objectivity.
+                Establishing and maintaining policies such as the following assist the firm in
+                obtaining this assurance:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require that personnel adhere to relevant ethical requirements such as
+                        those in regulations, interpretations, and rules of the AICPA, state CPA
+                        societies, state boards of accountancy, state statutes, the U.S. Government
+                        Accountability Office, and any other applicable regulators.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establish procedures to communicate independence requirements to firm
+                        personnel and, where applicable, others subject to them.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establish procedures to identify and evaluate possible threats to
+                        independence and objectivity, including the familiarity threat that may be
+                        created by using the same senior personnel on an audit or attest engagement
+                        over a long period of time, and to take appropriate action to eliminate
+                        those threats or reduce them to an acceptable level by applying
+                        safeguards.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require that the firm withdraw from the engagement if effective safeguards
+                        to reduce threats to independence to an acceptable level cannot be
+                        applied.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require written confirmation, at least annually, of compliance with the
+                        firm’s policies and procedures on independence from all firm personnel
+                        required to be independent by relevant requirements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Establish procedures for confirming the independence of another firm or
+                        firm personnel in associated member firms who perform part of the
+                        engagement. This would apply to national firm personnel, foreign firm
+                        personnel, and foreign-associated firms. <ph class="- topic/ph ">
+                  <fn callout="2" id="UUID-5d6a51ed-cafd-18cc-eda7-20cccc073944-pra-sqcs-1-fn2" class="- topic/fn ">
+                     <p class="- topic/p ">A <i class="+ topic/ph hi-d/i ">foreign-associated firm</i> is a
+                                firm domiciled outside of the United States and its territories that
+                                is a member of, correspondent with, or similarly associated with an
+                                international firm or international association of firms.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="pra-sqcs_1_relevant_ethical_requirements.dita#UUID-5d6a51ed-cafd-18cc-eda7-20cccc073944/UUID-5d6a51ed-cafd-18cc-eda7-20cccc073944-pra-sqcs-1-fn2"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require the rotation of personnel for audit or attest engagements where
+                        regulatory or other authorities require such rotation after a specified
+                        period.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

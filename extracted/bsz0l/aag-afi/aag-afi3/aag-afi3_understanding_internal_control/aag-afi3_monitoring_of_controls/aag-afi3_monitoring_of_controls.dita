@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-15601fe3-464f-0083-4133-0c22f1f7e7e1" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Monitoring of Controls</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.38" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.38</b> The entity’s
+                    ongoing monitoring activities are designed to detect and correct any
+                    deficiencies in the effectiveness of controls over transactions for financial
+                    instruments and their valuation. It is important that there is adequate
+                    supervision and review of financial instrument activity within the entity,
+                    including</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">all controls being subject to review (for example, the monitoring of
+                            operational statistics, such as the number of reconciling items or the
+                            difference between internal pricing and external pricing
+                            sources).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the need for robust IT controls and monitoring and validating their
+                            application.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the need to ensure that information resulting from different processes
+                            and systems is adequately reconciled. For example, there is little
+                            benefit in a valuation process if its output is not reconciled properly
+                            to the general ledger.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.39" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.39</b> In larger
+                    entities, sophisticated computer information systems generally keep track of
+                    financial instrument activities and are designed to ensure that settlements
+                    occur when due. More complex computer systems may generate automatic postings to
+                    clearing accounts to monitor cash movements, and controls over processing are
+                    put in place with the objective of ensuring that financial instrument activities
+                    are correctly reflected in the entity’s records. Computer systems may be
+                    designed to produce exception reports to alert management to situations when
+                    financial instruments have not been used within authorized limits or when
+                    transactions undertaken were not within the limits established for the chosen
+                    counterparties. However, even a sophisticated computer system may not ensure the
+                    completeness of the recording of financial instrument transactions. Accordingly,
+                    management frequently puts additional procedures in place to increase the
+                    likelihood that all transactions will be recorded.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-1f0b8ba5-4455-ffcf-3597-073b9bbc3d21" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Understanding the Accounting and Disclosure Requirements</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.05</b> Paragraph .08<i class="+ topic/ph hi-d/i ">a</i> of AU-C section 540B, <i class="+ topic/ph hi-d/i ">Auditing Accounting
+                    Estimates, Including Fair Value Accounting Estimates, and Related
+                    Disclosures</i>, <ph class="- topic/ph ">
+            <fn callout="4" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn4" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for example,
+                        “AU-C section 200B”) denotes content that does not reflect the codification
+                        of Statement on Auditing Standards (SAS) Nos. 134–140 or the amendments to
+                        other SASs made by SAS Nos. 134–140 and subsequently issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi2_understanding_the_accounting_and.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-1f0b8ba5-4455-ffcf-3597-073b9bbc3d21/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn4"/>
+         </ph> requires the auditor to obtain an understanding of the requirements of
+                the applicable financial reporting framework relevant to accounting estimates,
+                including related disclosures and any regulatory requirements. The requirements of
+                the applicable financial reporting framework regarding financial instruments may
+                themselves be complex and require extensive disclosures. Reading this Audit Guide is
+                not a substitute for a full understanding of all the requirements of the applicable
+                financial reporting framework.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

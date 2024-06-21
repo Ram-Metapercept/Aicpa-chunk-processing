@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-1dc79a22-1304-15e5-cee5-e5012ecccbcd" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">The Auditor’s Design of Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.28</b> The auditor
+                    gathers audit evidence that the broker-dealer has implemented the controls
+                    described in <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi8/aag-afi8_scenario_c/aag-afi_the_understanding_of_processes2/aag-afi_the_understanding_of_processes2.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-c427c312-299b-0f5e-55fe-51adcd36f8f2/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.23">paragraph 8.23</xref> and that those controls are operating effectively.
+                        <ph class="- topic/ph ">
+            <fn callout="7" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn7" class="- topic/fn ">
+               <p class="- topic/p ">The audit evidence can be obtained a variety of ways, such as a type 2
+                            service auditor’s report or special procedures performed by the
+                            broker-dealer’s internal or external auditors.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_the_auditors_design_of2.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-1dc79a22-1304-15e5-cee5-e5012ecccbcd/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn7"/>
+         </ph> The auditor then identifies the objectives for the audit of
+                    assertions about financial instruments and financial instrument transactions and
+                    designs related procedures: <ph class="- topic/ph ">
+            <fn callout="8" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn8" class="- topic/fn ">
+               <p class="- topic/p ">In <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi8/aag-afi8_scenario_a/aag-afi8_scenario_a.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-4a8ef84d-e2e7-0a74-31f2-8209e78e09f5">scenarios A</xref> and <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi8/aag-afi8_scenario_b/aag-afi8_scenario_b.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-4785567a-486c-ef14-0648-eddb1fe1aec3">B</xref>, the auditor concludes that audit risk can be reduced to
+                            an acceptable level without identifying controls placed in operation and
+                            gathering evidential matter about their operating effectiveness. In this
+                            scenario, however, the auditor concludes that identifying broker-dealer
+                            controls over the existence and completeness assertions and gathering
+                            evidential matter about their operating effectiveness is necessary to
+                            reduce audit risk to an acceptable level. The only difference in the
+                            nature of substantive procedures is that in this scenario, analytical
+                            procedures are the only procedures performed to determine whether all
+                            the securities that Lane owns and all its securities transactions have
+                            been recorded. However, in <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi8/aag-afi8_scenario_a/aag-afi8_scenario_a.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-4a8ef84d-e2e7-0a74-31f2-8209e78e09f5">scenarios A</xref> and <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi8/aag-afi8_scenario_b/aag-afi8_scenario_b.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-4785567a-486c-ef14-0648-eddb1fe1aec3">B</xref>, reconciliation procedures are also performed.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_the_auditors_design_of2.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-1dc79a22-1304-15e5-cee5-e5012ecccbcd/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn8"/>
+         </ph>
+      </p>
+      <table outputclass="ruled" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8_table3" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Audit Objective</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Procedure</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The recorded securities exist, and Lane has the rights and
+                                    obligations associated with ownership of the recorded financial
+                                    instruments.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Confirm with the broker-dealer the name of the
+                                            investee, the number of shares, whether the shares are
+                                            pledged, and that Lane is the owner.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The recorded financial instrument transactions
+                                    occurred.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Inspect supporting documentation, such as trade
+                                            confirmations or entries in the broker-dealer’s monthly
+                                            statements.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">All the financial instruments that Lane owns and all its
+                                    financial instrument transactions have been recorded.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Perform analytical procedures on dividends and
+                                            realized and unrealized gains and losses.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The financial instruments are recorded at their fair value,
+                                    determined by following the requirements of FASB ASC 320.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Obtain the per-share price quoted by the exchange at
+                                            the balance sheet date and compare the quoted price with
+                                            the price that Lane used.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Test the extension of the number of shares at the
+                                            quoted price.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Realized and unrealized holding gains and losses are properly
+                                    reported as earnings or other comprehensive income.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Evaluate management’s considerations in ensuring that
+                                            the requirements of FASB ASC 320 were satisfied.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Review journal entries for propriety.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The financial instruments are properly classified.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Gather audit evidence about the classification of the
+                                            financial instruments as available for sale.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Disclosures about financial instruments and financial
+                                    instrument transactions are adequate.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read the financial statements, and compare the
+                                            disclosures about financial instruments and financial
+                                            instrument transactions with the requirements of FASB
+                                            ASC 320-10-50.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

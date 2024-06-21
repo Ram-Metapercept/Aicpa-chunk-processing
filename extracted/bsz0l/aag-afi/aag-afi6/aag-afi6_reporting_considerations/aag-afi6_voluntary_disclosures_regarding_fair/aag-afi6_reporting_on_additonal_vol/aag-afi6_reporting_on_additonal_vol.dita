@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-e7c6ba67-0240-4287-a9f7-347690fce81f" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Reporting on Additional, Voluntary Fair Value Information Presented
+                        as Supplementary Information in Relation to the Financial Statements as a
+                        Whole</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.25</b> Voluntary
+                        disclosures regarding fair value information also may be presented as
+                        supplementary information, and the auditor may be engaged to report on
+                        whether the additional fair value information is fairly stated, in all
+                        material respects, in relation to the financial statements as a whole in
+                        accordance with AU-C section 725B, <i class="+ topic/ph hi-d/i ">Supplementary
+                            Information in Relation to the Financial Statements as a
+                            Whole</i>.</p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.26</b> In
+                        accordance with paragraph .05 of AU-C section 725B in order to opine as to
+                        whether the supplemental fair value information is fairly stated, in all
+                        material respects, in relation to the financial statements as a whole, the
+                        auditor should determine that all of the following conditions are
+                        met:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The supplementary information was derived from, and relates
+                                directly to, the underlying accounting and other records used to
+                                prepare the financial statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The supplementary information relates to the same period as the
+                                financial statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The auditor issued an audit report on the financial statements
+                                that contained neither an adverse opinion nor a disclaimer of
+                                opinion. (Paragraph .11 of AU-C section 725B addresses reporting
+                                while not opining on supplementary information when the report on
+                                the financial statements contains an adverse opinion or a disclaimer
+                                of opinion.)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The supplementary information will accompany the entity’s audited
+                                financial statements, or such audited financial statements will be
+                                made readily available by the entity.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.27</b> AU-C section
+                        725B requires the auditor to report on the additional fair value information
+                        in either (<i class="+ topic/ph hi-d/i ">a</i>) an other-matter paragraph
+                        in accordance with AU-C section 706B, <i class="+ topic/ph hi-d/i ">Emphasis-of-Matter Paragraphs and Other-Matter Paragraphs in the
+                            Independent Auditor’s Report</i>, or (<i class="+ topic/ph hi-d/i ">b</i>) in a separate report on the voluntary information.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

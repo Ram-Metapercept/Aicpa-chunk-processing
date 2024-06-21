@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE aicpa-map PUBLIC "-//PWC//DTD DITA AICPA Map//EN" "aicpa-map.dtd">
+<aicpa-map id="UUID-4da47d9c-e41f-2853-6884-21385ac9caf9">
+    <topicref href="aag-afi.dita" format="dita" navtitle="Special Considerations in Auditing Financial Instruments [AAG-AFI]">
+        <topicref href="aag-afi/aag-afi_preface.ditamap" format="ditamap" navtitle="Preface"/>
+        <topicref href="aag-afi/aag-afi_introduction.ditamap" format="ditamap" navtitle="Introduction" chunk="to-content"/>
+        <topicref href="aag-afi/aag-afi1.ditamap" format="ditamap" navtitle="Chapter 1 — Gaining an Understanding About Financial Instruments"/>
+        <topicref href="aag-afi/aag-afi2.ditamap" format="ditamap" navtitle="Chapter 2 — General Auditing Considerations"/>
+        <topicref href="aag-afi/aag-afi3.ditamap" format="ditamap" navtitle="Chapter 3 — Internal Control"/>
+        <topicref href="aag-afi/aag-afi4.ditamap" format="ditamap" navtitle="Chapter 4 — Assessing and Responding to the Risks of Material Misstatements"/>
+        <topicref href="aag-afi/aag-afi5.ditamap" format="ditamap" navtitle="Chapter 5 — Valuation of Financial Instruments"/>
+        <topicref href="aag-afi/aag-afi6.ditamap" format="ditamap" navtitle="Chapter 6 — Concluding on the Work Performed, Reporting Considerations, and Other Audit Considerations"/>
+        <topicref href="aag-afi/aag-afi7.ditamap" format="ditamap" navtitle="Chapter 7 — Case Study of Changing the Classification of a Security to Held to Maturity"/>
+        <topicref href="aag-afi/aag-afi8.ditamap" format="ditamap" navtitle="Chapter 8 — Case Study of How an Entity’s Use of a Service Organization Affects the Auditor’s Considerations in Auditing Financial Instruments"/>
+        <topicref href="aag-afi/aag-afi9.ditamap" format="ditamap" navtitle="Chapter 9 — Case Study of Separately Accounting for a Derivative Embedded in a Bond"/>
+        <topicref href="aag-afi/aag-afi10.ditamap" format="ditamap" navtitle="Chapter 10 — Case Study of the Use of an Interest Rate Swap to Hedge Existing Debt"/>
+        <topicref href="aag-afi/aag-afi11.ditamap" format="ditamap" navtitle="Chapter 11 — Case Study of the Use of a Foreign Currency Put Option to Hedge a Forecasted Sale Denominated in a Foreign Currency"/>
+        <topicref href="aag-afi/aag-afi_appA.ditamap" format="ditamap" navtitle="Appendix A — Overview of Statements on Quality Control Standards"/>
+        <topicref href="aag-afi/aag-afi_appB.ditamap" format="ditamap" navtitle="Appendix B — Illustrative Questions About the Entity’s Controls Over Its Financial Instrument Activities (Ref: par. 3.16)" chunk="to-content"/>
+        <topicref href="aag-afi/aag-afi_appC.ditamap" format="ditamap" navtitle="Appendix C — Examples of Control Objectives, Related Controls, and Illustrative Tests of Controls for Financial Instruments (Ref: par. 3.37)" chunk="to-content"/>
+        <topicref href="aag-afi/aag-afi_appD.ditamap" format="ditamap" navtitle="Appendix D — Information About the Black-Scholes Valuation Model (Ref: par. 1.39)" chunk="to-content"/>
+        <topicref href="aag-afi/aag-afi_appE.ditamap" format="ditamap" navtitle="Appendix E — Information About the Zero-Coupon Valuation Model (Ref: par. 1.39)" chunk="to-content"/>
+        <topicref href="aag-afi/aag-afi_appF.ditamap" format="ditamap" navtitle="Appendix F — Accounting for Financial Instruments"/>
+        <topicref href="aag-afi/aag-afi_appG.ditamap" format="ditamap" navtitle="Appendix G — Schedule of Changes Made to the Text From the Previous Edition" chunk="to-content"/>
+        <topicref href="aag-afi/aag-afi_index_of_pronouncements.ditamap" format="ditamap" navtitle="Index of Pronouncements and Other Technical Guidance"/>
+        <topicref href="aag-afi/aag-afi_subject_index.ditamap" format="ditamap" navtitle="Subject Index" chunk="to-content"/>
+    </topicref>
+</aicpa-map>

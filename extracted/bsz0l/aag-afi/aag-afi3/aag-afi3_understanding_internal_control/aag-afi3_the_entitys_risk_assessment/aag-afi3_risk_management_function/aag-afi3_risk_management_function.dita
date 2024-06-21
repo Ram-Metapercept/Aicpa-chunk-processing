@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-c8578143-c844-bf90-5734-be69d97648f5" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Risk Management Function</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.21</b> Some
+                        entities (for example, large financial institutions with a high volume of
+                        financial instrument transactions) may be required by law or regulation or
+                        may choose to establish a formal risk management function. This function is
+                        separated from those responsible for undertaking and managing financial
+                        instrument transactions. The function is responsible for reporting on and
+                        monitoring financial instrument activities and may include a formal risk
+                        committee established by those charged with governance. Examples of key
+                        responsibilities in this area may include</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">implementing the risk management policy set by those charged with
+                                governance (including analyses of the risks to which an entity may
+                                be exposed).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">designing risk limit structures and ensuring these risk limits are
+                                implemented in practice.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">developing stress scenarios and subjecting open position
+                                portfolios to sensitivity analysis, including reviews of unusual
+                                movements in positions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">reviewing and analyzing new financial instrument products.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.22</b> Financial
+                        instruments may have the associated risk that a loss might exceed the
+                        amount, if any, of the value of the financial instrument recognized on the
+                        balance sheet. For example, a sudden fall in the market price of a commodity
+                        may force an entity to realize losses to close a forward position in that
+                        commodity due to collateral, or margin, requirements. In some cases, the
+                        potential losses may be enough to cast substantial doubt on the entity’s
+                        ability to continue as a going concern. The entity may perform sensitivity
+                        analyses or value-at-risk analyses to assess the future hypothetical effects
+                        on financial instruments subject to market risks. However, value-at-risk
+                        analysis does not fully reflect the extent of the risks that may affect the
+                        entity; sensitivity and scenario analyses also may be subject to
+                        limitations.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.23</b> The volume
+                        and sophistication of financial instrument activity and relevant regulatory
+                        requirements will influence the entity’s consideration whether to establish
+                        a formal risk management function and how the function may be structured. In
+                        entities that have not established a separate risk management function (for
+                        example, entities with relatively few financial instruments or financial
+                        instruments that are less complex), reporting on and monitoring financial
+                        instrument activities may be a component of the accounting or finance
+                        function’s responsibility or management’s overall responsibility and may
+                        include a formal risk committee established by those charged with
+                        governance.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

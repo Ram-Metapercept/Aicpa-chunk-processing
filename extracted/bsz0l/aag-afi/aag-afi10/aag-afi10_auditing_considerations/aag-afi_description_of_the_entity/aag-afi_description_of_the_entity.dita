@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-ca1e800c-f3d1-1ff3-617f-df6878ea1aad" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Description of the Entity</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.17</b> Key factors in
+                    assessing JLM’s control environment are the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM’s management and board of directors instill high integrity and
+                            ethical values throughout all aspects of the entity.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM has in place a corporate compliance program specifically
+                            prohibiting fraud against the entity that states the penalties for fraud
+                            and requires employees to report fraud. In addition, a process exists to
+                            identify high-risk areas of potential fraud exposure for the
+                            entity.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM has in place a quality information system that provides
+                            system-generated information that gives management the ability to make
+                            appropriate decisions in managing and controlling the entity’s
+                            activities and to prepare reliable financial reports.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The board of directors is independent from management and holds
+                            frequent, timely meetings with the CFO, accounting officer, internal
+                            auditors, and external auditors.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Management provides sufficient, timely information to allow monitoring
+                            of management’s financing objectives and strategies and JLM’s financial
+                            position and operating results.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Management consults with the board of directors on all business risks.
+                            Such business risks are accepted only after the board of directors’
+                            study and approval. The board of directors approves all transactions
+                            that involve derivatives.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM’s organizational structure is appropriate to the entity’s size and
+                            activities and has the ability to provide information appropriate to
+                            manage the entity’s activities. The knowledge and experience of key
+                            managers are appropriate to their responsibilities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assignment of responsibility and delegation of authority are
+                            appropriate for the entity, given its size and the nature and complexity
+                            of activities. Authority has been delegated to deal with organizational
+                            goals and objectives, operating functions, and regulatory requirements,
+                            including responsibility for information systems and authorization for
+                            changes.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM’s investing and financing activities are monitored closely by the
+                            board of directors.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Management and the board of directors have a high commitment to
+                            competence when hiring employees. The investing and financing function
+                            is staffed with individuals who are knowledgeable about accounting for
+                            derivatives.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.18</b> Although the
+                    volume of derivatives transactions is low, the entity has established controls
+                    over them. Some of JLM’s key controls include the following:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Overall, controls over financial reporting of derivatives transactions
+                            adequately provide segregation of duties and management
+                            oversight.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM has in place written policies regarding derivatives transactions
+                            that were approved by the board of directors.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The board of directors approves all derivatives transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Controls are in place to ensure that derivatives designated as hedges
+                            meet the criteria for hedge accounting, both at inception and on an
+                            ongoing basis.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM’s CFO prepares an analysis for review
+                            by the board of directors that identifies</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the objective of the hedge and the strategy for accomplishing
+                                    the objective.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the nature of the risk being hedged.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the derivative hedging instrument.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the hedged item.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">how the entity will assess hedge effectiveness.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM’s investing and financing function maintains proper segregation of
+                            duties among dealing (committing JLM to the transaction), settlement
+                            (initiating cash payments and accepting cash receipts), and accounting
+                            (recording all transactions and the valuation of the derivative).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The board has approved a list of top-tier investment brokers that
+                            management may utilize for investment services.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">JLM has put in place controls and
+                            procedures for the prevention or detection of errors, including the
+                            following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Accounting entries for derivatives transactions are reviewed
+                                    by senior management of the investing and financing function and
+                                    subject to periodic review by the CFO.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Fair values are obtained from a broker-dealer and reviewed on
+                                    a monthly basis.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Adjustments to financial instruments’ general ledger accounts
+                                    are reviewed and approved by the controller.</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

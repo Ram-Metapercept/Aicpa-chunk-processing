@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-9a0b29c7-213f-fa6b-7083-a7cc56e045be" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">The Understanding of Processes and Controls the Auditor Needs to Assess
+                    the Risk of Material Misstatement</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.17</b> In order to
+                    assess the risks of material misstatements, the auditor would obtain the
+                    following understanding of processes and controls:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The investment adviser initiates trades within parameters set by Lane,
+                            and the investment adviser directs the broker-dealer to execute
+                            them.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer sends a confirmation of each trade to the investment
+                            adviser and Lane, which Lane usually receives within three business
+                            days.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lane records the trade in the applicable general ledger accounts when
+                            it receives the trade confirmation. <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">In this scenario, recording trades when Lane Components, Inc.
+                                    (Lane) receives the broker-dealer’s monthly statements may also
+                                    be an effective control for Lane.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi_the_understanding_of_processes1.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-9a0b29c7-213f-fa6b-7083-a7cc56e045be/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn4"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monthly, the broker-dealer sends the investment adviser and Lane a
+                            statement that includes trades, servicing transactions, a description of
+                            the financial instruments held, and the fair value of each of those
+                            financial instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Quarterly, the investment adviser provides Lane with a summary of
+                            trades it has initiated and the performance of the financial
+                            instruments’ portfolio. Monthly, Lane compares the information about
+                            trades and the components of its financial instruments’ portfolio shown
+                            in its accounting records (which are recorded based on confirmations and
+                            statements from the broker-dealer) with the information in the
+                            investment adviser’s monthly statement and identifies and investigates
+                            any significant differences.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">At the end of the year, Lane records any trades initiated by the
+                            investment adviser for which confirmations have not been received.
+                            Information for recording that information is obtained from Lane’s
+                            reconciliation of the investment adviser’s information with the
+                            broker-dealer’s information.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monthly, Lane records servicing transactions and changes in unrealized
+                            holding gains and losses based on information in the broker-dealer’s
+                            monthly statement. Lane compares the broker-dealer information with its
+                            expectations based on published information and investigates significant
+                            differences.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The broker-dealer’s execution of trades and holding of financial
+                            instruments are not part of Lane’s information system.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.18" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.18</b> With respect to
+                    whether obtaining an understanding of the controls of the investment adviser and
+                    broker-dealer is necessary to plan the audit, the auditor concludes there is a
+                    high degree of interaction between Lane’s activities and those of the
+                    broker-dealer and investment adviser. Lane is able to and elects to implement
+                    effective controls over the activities of the broker-dealer and the investment
+                    adviser, including the investment adviser’s controls over initiation of trades
+                    and the broker-dealer’s controls over servicing financial instruments. Lane
+                    performs the following procedures:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reconciles the investment adviser’s information with the
+                            broker-dealer’s information and investigates significant
+                            differences</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Compares broker-dealer information about servicing and fair values
+                            with its expectations based on published information and investigates
+                            significant differences</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

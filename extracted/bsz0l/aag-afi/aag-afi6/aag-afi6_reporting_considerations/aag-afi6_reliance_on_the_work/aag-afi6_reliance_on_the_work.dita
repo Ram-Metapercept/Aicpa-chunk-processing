@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Reliance on the Work of the Specialist</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.15</b> The auditor should not refer to the work
+                    of an auditor’s specialist in an auditor’s report containing an unmodified
+                    opinion. <ph class="- topic/ph ">
+            <fn callout="11" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn11" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .14 of AU-C section 620B, <i class="+ topic/ph hi-d/i ">Using the
+                                Work of an Auditor’s Specialist</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn11"/>
+         </ph> Reference to the specialist might be misunderstood to be a
+                    modification of the auditor’s opinion or division of responsibility, neither of
+                    which is intended.</p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.16</b> Circumstances may arise as a result of the
+                    valuation report or findings of the specialist wherein the auditor decides to
+                    modify the auditor’s report on the financial statements. Reference to, and
+                    identification of, the specialist may be made in the auditor’s report if, in the
+                    auditor’s judgment, the reference will facilitate an understanding of the reason
+                    for the modified opinion. In that circumstance, the auditor is required to
+                    indicate in the auditor’s report that such reference does not reduce the
+                    auditor’s responsibility for that opinion. <ph class="- topic/ph ">
+            <fn callout="12" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn12" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .15 of AU-C section 620B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn12"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.17" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.17</b> Situations may arise in which an entity
+                    lacks the sophistication to perform its own valuation. For example, an acquiring
+                    entity may refuse to engage a valuation specialist and makes its own estimate of
+                    the fair value of the assets acquired and liabilities assumed. In those
+                    circumstances, the auditor may recommend that the acquiring entity engage a
+                    qualified independent valuation specialist. If, in the auditor’s judgment, the
+                    valuation is not properly prepared, it may not provide sufficient audit evidence
+                    in support of the amounts assigned to assets acquired and liabilities assumed.
+                    AU-C section 705B describes the implications of the auditor’s inability to
+                    obtain sufficient appropriate audit evidence. See <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_modifications_to_the_auditors/aag-afi6_modifications_to_the_auditors.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-87b898b6-18eb-b02f-f3e5-088fcd8d67fe/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.18">paragraphs 6.18–.21</xref> for additional guidance.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

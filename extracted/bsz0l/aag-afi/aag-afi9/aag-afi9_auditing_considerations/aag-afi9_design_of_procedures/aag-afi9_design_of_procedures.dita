@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-1851ba37-f614-915c-b969-f91bf3f68ac9" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Design of Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.22</b> The auditor
+                    defined the following objectives and related procedures for the audit of
+                    assertions about the convertible bonds: <ph class="- topic/ph ">
+            <fn callout="9" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn9" class="- topic/fn ">
+               <p class="- topic/p ">In this case study, the entity properly accounted for the embedded
+                            derivative. However, if the entity had not separately accounted for the
+                            embedded derivative, the auditor could have detected it by reading the
+                            agreements supporting the bonds.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi9_design_of_procedures.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-1851ba37-f614-915c-b969-f91bf3f68ac9/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn9"/>
+         </ph>
+      </p>
+      <table outputclass="ruled" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9_table5" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Audit Objective</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Procedure</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The hybrid instrument was purchased during the reporting
+                                    period and exists at the end of the reporting period.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Examine the broker’s advice for the purchase and
+                                            Martin, Inc.’s (Martin’s) canceled check or other
+                                            evidence of Martin’s cash disbursement.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">At year-end, confirm existence, rights and
+                                            obligations, and the description of the convertible
+                                            bonds with the custodian bank that serves as safekeeping
+                                            agent.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The hybrid instrument was executed according to management’s
+                                    authorizations.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Compare the terms of the convertible bonds with the
+                                            investment guidelines approved by the board of
+                                            directors.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Examine signed authorization by the CFO.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The straight bonds and option were properly accounted for
+                                    separately.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read the underlying agreement, and compare its
+                                            provisions with the separation criteria prescribed by
+                                            paragraphs 2–3 of FASB <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i> (ASC)
+                                            815-15-25.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Both the host instrument and option are measured using
+                                    appropriate fair values.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Compare the fair values of the convertible bonds and
+                                            similar straight bonds with quoted prices published in
+                                            the <i class="+ topic/ph hi-d/i ">Wall Street
+                                                Journal.</i>
+                           </p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Ensure that total fair value of the separate
+                                            components does not exceed the fair value of the
+                                            convertible bonds.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Test the fair value calculation of the option by one
+                                            of the following:</p>
+                           <ul outputclass="ul emdash" class="- topic/ul ">
+                              <li class="- topic/li ">
+                                 <p class="- topic/p ">Testing management’s calculation and
+                                                  underlying assumptions</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p ">Reperforming the calculation</p>
+                              </li>
+                              <li class="- topic/li ">
+                                 <p class="- topic/p ">Engaging a specialist to recompute the value
+                                                  in accordance with the guidance provided in AU-C
+                                                  section 620B, <i class="+ topic/ph hi-d/i ">Using the
+                                                  Work of an Auditor’s Specialist</i>.</p>
+                              </li>
+                           </ul>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Ensure that the changes in fair value of the host
+                                            contract and embedded derivative are properly recorded
+                                            in comprehensive income and income, respectively.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Interest income has been properly recorded.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Perform analytical procedures to test the
+                                            reasonableness of interest income, including
+                                            amortization of the original discount.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Presentation is appropriate and disclosure adequate.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Compare the presentation and disclosure with the
+                                            requirements of FASB ASC 320 and 815.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

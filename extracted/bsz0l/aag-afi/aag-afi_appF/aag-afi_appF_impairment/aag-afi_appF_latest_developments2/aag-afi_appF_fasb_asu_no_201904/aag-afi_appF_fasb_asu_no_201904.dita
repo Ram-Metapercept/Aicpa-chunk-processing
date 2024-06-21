@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-5987492d-f5c4-54f8-a0fb-b33bcc815624" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">FASB ASU No. 2019-04</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">In April 2019, FASB issued ASU No. 2019-04 to clarify, correct, and
+                        improve various aspects of the guidance in ASU Nos. 2016-01, 2016-13, and
+                        2017-12 related to financial instruments. The discussion herein will only
+                        address those amendments related to ASU No. 2016-13. Amendments related to
+                        ASU No. 2016-01 and ASU No. 2017-12 will be addressed in separate sections
+                        of this appendix.</p>
+      <p class="- topic/p ">ASU No. 2019-04 clarifies certain aspects of the amendments in ASU No.
+                        2016-13 as follows:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Accrued interest</i>. The
+                                amendments to FASB ASC 326-20 allow an entity to do the
+                                following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Measure the allowance for credit losses on accrued
+                                        interest receivable balances separately from other
+                                        components of the amortized cost basis of associated
+                                        financial assets.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Make an accounting policy election not to measure an
+                                        allowance for credit losses on accrued interest receivable
+                                        amounts if an entity writes off the uncollectible accrued
+                                        interest receivable balance in a timely manner and makes
+                                        certain disclosures.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Make an accounting policy election to write off accrued
+                                        interest amounts by reversing interest income or recognizing
+                                        credit loss expense, or a combination of both. The entity
+                                        also is required to make certain disclosures.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Make an accounting policy election to present accrued
+                                        interest receivable balances and the related allowance for
+                                        credit losses for those accrued interest receivable balances
+                                        separately from the associated financial assets on the
+                                        balance sheet. If the accrued interest receivable balances
+                                        and the related allowance for credit losses are not
+                                        presented as a separate line item on the balance sheet, an
+                                        entity should disclose the amount of accrued interest
+                                        receivable balances and the related allowance for credit
+                                        losses and where the balance is presented.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Elect a practical expedient to disclose separately the
+                                        total amount of accrued interest included in the amortized
+                                        cost basis as a single balance to meet certain disclosure
+                                        requirements.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Transfers between classification or
+                                    categories for loans and debt securities.</i> The
+                                amendments require that an entity reverse in earnings any allowance
+                                for credit losses or valuation allowance previously measured on a
+                                loan or debt security, reclassify and transfer the loan or debt
+                                security to the new classification or category, and apply the
+                                applicable measurement guidance in accordance with the new
+                                classification or category.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Recoveries.</i> The amendments
+                                clarify that an entity should include recoveries when estimating the
+                                allowance for credit losses. In addition, expected recoveries of
+                                amounts previously written off and expected to be written off should
+                                be included in the valuation account and should not exceed the
+                                aggregate of amounts previously written off and expected to be
+                                written off by the entity. For collateral-dependent financial
+                                assets, an allowance for credit losses that is added to the
+                                amortized cost basis of the financial assets should not exceed
+                                amounts previously written off.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Conforming amendments.</i>
+                                Correction of incorrect cross-referencing and further clarification
+                                surrounding the equity method losses allocation guidance.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Clarification that reinsurance
+                                    recoverables are within the scope of FASB ASC 326-20.</i>
+                                The amendment clarifies FASB’s intent to include all reinsurance
+                                recoverables within the scope of FASB ASC 944 within the scope of
+                                FASB ASC 326-20, regardless of the measurement basis of those
+                                recoverables.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Projections of interest rate environments
+                                    for variable-rate financial instruments.</i> The
+                                amendments clarify FASB’s intent to provide flexibility in
+                                determining the allowance for credit losses by removing the
+                                prohibition of using projections of future interest rate
+                                environments when using a discounted cash flow method to measure
+                                expected credit losses on variable-rate financial instruments.
+                                Furthermore, an entity that uses projections or expectations of
+                                future interest rate environments in estimating expected cash flows
+                                should use the same assumptions in determining the effective
+                                interest rate used to discount those expected cash flows. The
+                                amendments also clarify that if an entity uses projections of future
+                                interest rate environments when using a discounted cash flow method
+                                to measure expected credit losses on variable-rate financial
+                                instruments, it also should adjust the effective interest rate to
+                                consider the timing (and changes in the timing) of expected cash
+                                flows resulting from expected prepayments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Consideration of prepayments in
+                                    determining the effective interest rate.</i> The
+                                amendments permit an entity to make an accounting policy election to
+                                adjust the effective interest rate used to discount expected future
+                                cash flows for expected prepayments on financial assets within the
+                                scope of FASB ASC 326-20 and on available-for-sale debt securities
+                                within the scope of FASB ASC 326-20 to appropriately isolate credit
+                                risk in determining the allowance for credit losses. Furthermore, an
+                                entity should not adjust the effective interest rate used to
+                                discount expected cash flows for subsequent changes in expected
+                                prepayment if the financial asset is restructured in a TDR.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Consideration of estimated costs to sell
+                                    when foreclosure is probable.</i> The amendments clarify
+                                the guidance in FASB ASC 326-20-35-4 by specifically requiring that
+                                an entity consider the estimated costs to sell if it intends to sell
+                                rather than operate the collateral when the entity determines that
+                                foreclosure on a financial asset is probable. Additionally, when an
+                                entity adjusts the fair value of collateral for the estimated costs
+                                to sell, the estimated costs to sell should be undiscounted if the
+                                entity intends to sell rather than operate the collateral.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Vintage disclosures — line-of-credit
+                                    arrangements converted to term loans.</i> The amendments
+                                require that an entity present the amortized cost basis of
+                                line-of-credit arrangements that are converted to term loans in a
+                                separate column.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Contractual extensions and
+                                    renewals.</i> The amendments clarify that an entity
+                                should consider extension or renewal options (excluding those that
+                                are accounted for as derivatives in accordance with FASB ASC 815,
+                                    <i class="+ topic/ph hi-d/i ">Derivatives and Hedging</i>) that
+                                are included in the original or modified contract at the reporting
+                                date and are not unconditionally cancellable by the entity.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

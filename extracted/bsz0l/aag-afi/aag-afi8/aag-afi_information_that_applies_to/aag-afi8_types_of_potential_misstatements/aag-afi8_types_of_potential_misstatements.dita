@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-b3602723-8975-4f0d-e1b5-23397136ef6c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Types of Potential Misstatements of the Entity’s Assertions About Its
+                    Financial Instruments and Financial Instrument Transactions</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.05</b> The auditor
+                    identifies the following seven types of potential misstatements of Lane’s
+                    assertions about its financial instrument transactions:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The recorded financial instruments do not exist, and the recorded
+                            financial instrument transactions did not occur.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lane does not have the rights and obligations associated with
+                            ownership of the recorded financial instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The entity’s financial instruments and financial instrument
+                            transactions were not recorded.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The fair value of the recorded financial instruments was determined
+                            incorrectly.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Realized and unrealized holding gains and losses are not properly
+                            reported as earnings.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Disclosures about financial instruments and financial instrument
+                            transactions are not adequate.</p>
+         </li>
+      </ol>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

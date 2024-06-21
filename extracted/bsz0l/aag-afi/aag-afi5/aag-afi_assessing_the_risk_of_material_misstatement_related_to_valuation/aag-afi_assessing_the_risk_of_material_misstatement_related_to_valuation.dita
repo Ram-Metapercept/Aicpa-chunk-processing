@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-2c5ff74b-4d07-bbe4-0a20-4a9d635c8194" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Assessing the Risk of Material Misstatement Related to
+                Valuation</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.04</b> When evaluating
+                whether the valuation techniques used by an entity are appropriate in the
+                circumstances and whether controls over valuation techniques are in place, the
+                factors considered by the auditor may include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether the valuation techniques are commonly used by other market
+                        participants and have been previously demonstrated to provide a reliable
+                        estimate of prices obtained from market transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether the valuation techniques operate as intended, and there are no
+                        flaws in their design, particularly under extreme conditions, and whether
+                        they have been objectively validated. Indicators of flaws include
+                        inconsistent movements relative to benchmarks.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether the valuation techniques take into account the risks inherent in
+                        the financial instrument being valued, including counterparty
+                        creditworthiness, and own credit risk in the case of valuation techniques
+                        used to measure financial liabilities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">how the valuation techniques are calibrated to the market, including the
+                        sensitivity of the valuation techniques to changes in variables.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether market variables and assumptions are used consistently and whether
+                        new conditions justify a change in the valuation techniques, market
+                        variables, or assumptions used.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether sensitivity analyses indicate that valuations would change
+                        significantly with only small or moderate changes in assumptions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the organizational structure, such as the existence of an internal
+                        department responsible for developing models to value certain instruments,
+                        particularly when Level 3 inputs are involved. For example, a model
+                        development function that is involved in assisting in pricing deals is less
+                        objective than one that is functionally and organizationally segregated from
+                        the sales function.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the competence and objectivity of those responsible for the development
+                        and application of the valuation techniques, including management’s relative
+                        experience with particular models that may be newly developed.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">The auditor (or auditor’s specialist) may also independently develop one or more
+                valuation techniques to compare his or her output with that of the valuation
+                techniques used by management.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

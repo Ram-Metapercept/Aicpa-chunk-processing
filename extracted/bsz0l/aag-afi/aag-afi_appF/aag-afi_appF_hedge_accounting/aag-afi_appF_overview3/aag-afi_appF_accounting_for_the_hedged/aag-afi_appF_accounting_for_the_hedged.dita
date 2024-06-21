@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-8bfd7b2b-8526-918c-7c70-3dd983b80a6b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Accounting for the Hedged Item in Fair Value Hedges of Interest
+                        Rate Risk</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">In some cases, current GAAP contains limitations on how an entity can
+                        designate the hedged item in a fair value hedge of interest rate risk. In
+                        other cases, current GAAP contains limitations on how an entity can measure
+                        changes in fair value of the hedged item attributable to interest rate risk
+                        in certain fair value hedging relationships. Those limitations may not align
+                        with an entity’s risk management strategies or the way in which interest
+                        rate risk can be hedged in the cash flow hedging model. To resolve those
+                        issues, the amendments in this ASU change the guidance for designating fair
+                        value hedges of interest rate risk and for measuring the change in fair
+                        value of the hedged item in fair value hedges of interest rate risk.
+                        Specifically, the amendments:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Permit an entity to measure the change in fair value of the hedged
+                                item on the basis of the benchmark rate component of the contractual
+                                coupon cash flows determined at hedge inception, rather than on the
+                                full contractual coupon cash flows as required by current
+                                GAAP.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Permit an entity to measure the hedged item in a partial-term fair
+                                value hedge of interest rate risk by assuming the hedged item has a
+                                term that reflects only the designated cash flows being hedged.
+                                Current GAAP does not allow this methodology when calculating the
+                                change in the fair value of the hedged item attributable to interest
+                                rate risk.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">For prepayable financial instruments, permit an entity to consider
+                                only how changes in the benchmark interest rate affect a decision to
+                                settle a debt instrument before its scheduled maturity in
+                                calculating the change in the fair value of the hedged item
+                                attributable to interest rate risk.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">For a closed portfolio of prepayable financial assets or one or
+                                more beneficial interests secured by a portfolio of prepayable
+                                financial instruments, permit an entity to designate an amount that
+                                is not expected to be affected by prepayments, defaults, and other
+                                events affecting the timing and amount of cash flows (the
+                                "last-of-layer" method). Under this designation, prepayment risk is
+                                not incorporated into the measurement of the hedged item.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-e47a4ddf-3d04-3f75-7649-a07e999c4821" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Design of Substantive Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.25</b> The auditor
+                    defined the following objectives and related procedures for the audit of
+                    assertions about the transaction:</p>
+      <table outputclass="ruled" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7_table4" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Audit Objective</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Procedure</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The bond exists and is owned by BEV.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Confirm existence and ownership with the
+                                            broker-dealer.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Management authorized the change in classification of the bond
+                                    from available for sale to held to maturity; this includes
+                                    considerations relative to the securities’ eligibility to be
+                                    classified as held to maturity.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Review minutes of meetings or any applicable internal
+                                            memorandums of relevant groups for evidence that
+                                            management authorized the change.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Absent written evidence in the minutes or other
+                                            documentation, perform other procedures to determine
+                                            whether the change was authorized, such as inquiry or
+                                            obtaining a representation in the management
+                                            representation letter.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The bond’s fair value at the date its classification was
+                                    changed was properly determined.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Test the fair value of the bond at the date of
+                                            reclassification by agreeing market price to independent
+                                            published sources.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Review any notes from periodic pricing meetings with
+                                            the traders or management of the entity to determine
+                                            whether steps were taken to properly value the
+                                            bond.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The difference between the bond’s fair value and its face
+                                    amount at the date the bond’s classification was changed was
+                                    properly recorded and amortized.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Recalculate the difference between the bond’s face
+                                            amount and fair value at the date the bond’s
+                                            classification was changed to held to maturity. Confirm
+                                            the assumptions used in the calculation, including the
+                                            notional amount and rate of the bond, because these
+                                            inputs are used to determine the face amount and fair
+                                            value.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Recalculate the amortization of the resulting
+                                            discount.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Management has the positive intent and ability to hold the
+                                    bond to maturity.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Review management’s cash flow forecasts, or perform
+                                            other procedures considered necessary to assess BEV’s
+                                            ability to hold the security to maturity.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Obtain a representation in the management
+                                            representation letter confirming management’s intent to
+                                            hold the security to maturity. <ph class="- topic/ph ">
+                                 <fn callout="8" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn8" class="- topic/fn ">
+                                    <p class="- topic/p ">A written representation of management’s
+                                                  intent and ability with regard to held-to-maturity
+                                                  securities does not constitute sufficient
+                                                  appropriate audit evidence. <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi6/aag-afi6_presentation_and_disclosure_of/aag-afi6_assertions_about_financial_instruments/aag-afi6_assertions_about_financial_instruments.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e82e029-dbd6-6b8d-bfea-26b00d2afdc6/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.07">Paragraphs 6.07–.08</xref> of this guide provide
+                                                  additional guidance on the types of auditing
+                                                  procedures the auditor might perform to
+                                                  corroborate management’s stated intent and ability
+                                                  to realize that intent.</p>
+                                 </fn>
+                                 <xref type="fn" class="- topic/xref " href="aag-afi_design_of_substantive_procedures.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-e47a4ddf-3d04-3f75-7649-a07e999c4821/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn8"/>
+                              </ph>
+                           </p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Presentation and disclosure are appropriate.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read the financial statements and compare the
+                                            presentation and disclosure with the requirements of
+                                            FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                                                Codification</i> 320, <i class="+ topic/ph hi-d/i ">Investments — Debt and Equity
+                                            Securities</i>.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

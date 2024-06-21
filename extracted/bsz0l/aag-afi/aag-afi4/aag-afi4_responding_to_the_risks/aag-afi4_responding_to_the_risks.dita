@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-9f75be50-cca9-7a54-0af8-803d196aafe7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Responding to the Risks of Material Misstatement</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.13</b> Paragraph .06 of
+                AU-C section 330B requires the auditor to design and perform further audit
+                procedures whose nature, timing, and extent are based on, and responsive to, the
+                assessed risks of material misstatement at the relevant assertion level. In
+                accordance with paragraph .A10 of AU-C section 500B, <i class="+ topic/ph hi-d/i ">Audit
+                    Evidence</i>, further audit procedures comprise tests of controls and
+                substantive procedures. <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9">Chapter 3</xref> of this guide provides guidance on obtaining an understanding
+                about internal control, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_responding_to_the_risks/aag-afi4_tests_of_controls/aag-afi4_tests_of_controls.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7e2fcdd8-2e6d-4d8c-906f-3c5010d2d778/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.14">paragraph 4.14</xref> provides guidance on tests of controls, and <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_responding_to_the_risks/aag-afi4_substantive_procedures/aag-afi4_substantive_procedures.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-454ac93a-91a5-362a-db6c-d358ef5db072/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.15">paragraphs 4.15–.34</xref> provide guidance on substantive procedures. <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi_appC/aag-afi_appC.dita#UUID-98424c7b-7ffc-0327-9322-911753222ce7">Appendix C</xref>, "Examples of Control Objectives, Related Controls, and
+                Illustrative Tests of Controls for Financial Instruments," of this guide provides
+                examples of control objectives, related controls, and illustrative tests of controls
+                for financial instruments.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

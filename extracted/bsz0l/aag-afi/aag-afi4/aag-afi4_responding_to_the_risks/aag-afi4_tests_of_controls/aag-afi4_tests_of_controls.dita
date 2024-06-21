@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7e2fcdd8-2e6d-4d8c-906f-3c5010d2d778" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Tests of Controls</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.14</b> In reaching a
+                    decision on the nature, timing, and extent of testing of controls, the auditor
+                    may consider factors such as the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The nature, frequency, and volume of financial instrument
+                            transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The strength of controls, including whether controls are appropriately
+                            designed to respond to the risks associated with an entity’s volume of
+                            financial instrument transactions and whether a governance framework
+                            over the entity’s financial instrument activities exists.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The importance of particular controls to the overall control
+                            objectives and processes in place at the entity, including the
+                            sophistication of the information systems to support financial
+                            instrument transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The monitoring of controls and identified deficiencies in control
+                            procedures.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The issues the controls are intended to address (for example, controls
+                            related to the exercise of judgments compared with controls over
+                            supporting data). Substantive procedures are likely to be more effective
+                            than relying on controls related to the exercise of judgment.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The competency of those involved in the control activities (for
+                            example whether the entity has adequate capacity, including during
+                            periods of stress, and ability to establish and verify valuations for
+                            the financial instruments to which it is exposed).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The frequency of performance of these control activities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The level of precision the controls are intended to achieve.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The evidence of performance of control activities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The timing of key financial instrument transactions (for example,
+                            whether they are close to period-end).</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

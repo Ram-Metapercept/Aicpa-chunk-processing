@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-ae8af82b-d36d-8eaf-5628-309251ef64c0" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Overview</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">On January 5, 2016, FASB issued Accounting Standards Update (ASU) No. 2016-01,
+                        <i class="+ topic/ph hi-d/i ">Financial Instruments — Overall (Subtopic 825-10):
+                        Recognition and Measurement of Financial Assets and Financial
+                        Liabilities</i>, to enhance the reporting model for financial
+                    instruments and to provide users of financial statements with more
+                    decision-useful information. Amendments in the ASU are intended to improve
+                    certain aspects of recognition, measurement, presentation, and disclosure of
+                    financial instruments.</p>
+      <p class="- topic/p ">The new guidance will accomplish the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require equity investments (except those accounted for under the
+                            equity method of accounting or those that result in consolidation of the
+                            investee) to be measured at fair value with changes in fair value
+                            recognized in net income.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Replace the impairment model for equity investments without readily
+                            determinable fair values with a qualitative impairment
+                            assessment.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Eliminate the requirement to disclose the fair values of financial
+                            assets and financial liabilities measured at amortized cost for
+                            nonpublic business entities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Eliminate the requirement for public business entities to disclose the
+                            methods and significant assumptions used to estimate fair value
+                            currently required to be disclosed for financial assets and financial
+                            liabilities measured at amortized cost on the balance sheet.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require public business entities to use the exit price notion when
+                            measuring the fair value of financial instruments for disclosure
+                            purposes.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require an entity to present separately in other comprehensive income
+                            (OCI) the portion of the total change in the fair value of a liability
+                            resulting from a change in instrument-specific credit risk when the
+                            entity has elected to measure the liability at fair value in accordance
+                            with the fair value option for financial instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Require separate presentation of financial assets and financial
+                            liabilities by measurement category and form of financial asset (that
+                            is, securities or loans and receivables) on the balance sheet or in
+                            accompanying notes to the financial statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Clarify that an entity should evaluate the need for a valuation
+                            allowance on a deferred tax asset related to available-for-sale debt
+                            securities in combination with an entity’s other deferred tax
+                            assets.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Eliminate an entity’s ability to estimate the disclosed fair values of
+                            financial assets and financial liabilities on the basis of entry
+                            prices.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

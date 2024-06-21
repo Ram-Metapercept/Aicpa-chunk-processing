@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-8ff008f8-5505-e90b-28b4-c7603973a267" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Procedures Relating to the Presentation and Disclosure of Financial
+                    Instruments</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.09</b> In relation to
+                    the presentation and disclosures of financial instruments, areas of particular
+                    importance include the following:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Financial reporting frameworks generally require additional
+                            disclosures regarding estimates and related risks and uncertainties to
+                            supplement and explain assets, liabilities, income, and expenses. The
+                            auditor’s focus may need to be on the disclosures relating to risks and
+                            sensitivity analysis. Information obtained during the auditor’s risk
+                            assessment procedures and testing of control activities may provide
+                            evidence in order for the auditor to conclude whether the disclosures in
+                            the financial statements are in accordance with the requirements of the
+                            applicable financial reporting framework, such as the following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The entity’s objectives and strategies for using financial
+                                    instruments, including the entity’s stated accounting
+                                    policies</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The entity’s control framework for managing its risks
+                                    associated with financial instruments</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The risks and uncertainties associated with the financial
+                                    instruments</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Information may come from systems outside traditional financial
+                            reporting systems, such as risk systems. Examples of procedures that the
+                            auditor may choose to perform in responding to assessed risks relative
+                            to disclosures include testing the</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">process used to derive the disclosed information.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">operating effectiveness of the controls over the data used in
+                                    the preparation of disclosures.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">In relation to financial instruments having significant risk,
+                                <ph class="- topic/ph ">
+                  <fn callout="8" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn8" class="- topic/fn ">
+                     <p class="- topic/p ">Paragraph .20 of AU-C section 540B requires the auditor to
+                                    perform further procedures on disclosures relating to accounting
+                                    estimates that give rise to significant risks to evaluate the
+                                    adequacy of the disclosure of estimation uncertainty in the
+                                    financial statements in the context of the applicable financial
+                                    reporting framework.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi6_procedures_relating_to_the.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-8ff008f8-5505-e90b-28b4-c7603973a267/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn8"/>
+               </ph> even when the disclosures are in accordance with the
+                            applicable financial reporting framework, the auditor may conclude that
+                            the disclosure of estimation uncertainty is inadequate in light of the
+                            circumstances and facts involved, and accordingly, the financial
+                            statements may not achieve fair presentation. AU-C section 705B,
+                                <i class="+ topic/ph hi-d/i ">Modifications to the Opinion in the
+                                Independent Auditor’s Report</i>, provides guidance on the
+                            implications for the auditor’s opinion when the auditor believes
+                            management’s disclosures in the financial statements are inadequate or
+                            misleading.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Auditors may also consider whether the disclosures are complete and
+                            understandable. (For example, all relevant information may be included
+                            in the financial statements [or accompanying reports], but it may be
+                            insufficiently drawn together to enable users of the financial
+                            statements to obtain an understanding of the position, or there may not
+                            be enough qualitative disclosure to give context to the amounts recorded
+                            in the financial statements). For example, even when an entity has
+                            included sensitivity analysis disclosures, the disclosure may not fully
+                            describe the risks and uncertainties that may arise because of changes
+                            in valuation, possible effects on debt covenants, collateral
+                            requirements, and the entity’s liquidity. Paragraph .12 of AU-C section
+                            260B, <i class="+ topic/ph hi-d/i ">The Auditor’s Communication With Those
+                                Charged With Governance</i>, contains requirements and
+                            guidance about communicating with those charged with governance,
+                            including the auditor’s views about qualitative aspects of the entity’s
+                            significant accounting practices, including accounting policies,
+                            accounting estimates, and financial statement disclosures.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.10</b> Consideration of
+                    the appropriateness of presentation (for example, on short-term and long-term
+                    classification) in substantive testing of financial instruments is relevant to
+                    the auditor’s evaluation of the presentation and disclosure.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-e7b0145f-7425-fe26-dd03-197442a4846e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Presentation and Disclosure About Financial Instruments</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Presentation and Disclosure About Financial Instruments
+                    <ph class="- topic/ph ">
+            <fn callout="8" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn8" class="- topic/fn ">
+               <p class="- topic/p ">
+                  <ph outputclass="shade grey" class="- topic/ph ">FASB ASU No. 2018-13, <i class="+ topic/ph hi-d/i ">Fair Value Measurement (Topic 820), Disclosure
+                                Framework — Changes to the Disclosure Requirements for Fair Value
+                                Measurement</i>, was issued in August 2018. The amendments
+                            resulting from this ASU are effective for all entities for fiscal years
+                            beginning after December 15, 2019, including interim periods within
+                            those fiscal years; however, certain disclosures are not required for
+                            nonpublic entities. Early adoption is permitted.</ph>
+               </p>
+               <p class="- topic/p ">
+                  <ph outputclass="shade grey" class="- topic/ph ">    The amendments in this ASU add,
+                            modify and remove disclosure requirements in FASB ASC 820, related to
+                            recurring and nonrecurring fair value measurements.</ph>
+               </p>
+               <p class="- topic/p ">
+                  <ph outputclass="shade grey" class="- topic/ph ">    Application of the guidance in this
+                            ASU is prospective for certain amendments and retrospective for other
+                            amendments. Prospective application is required for only the most recent
+                            interim or annual period presented in the initial fiscal year of
+                            adoption for the following: changes in unrealized gains and losses; the
+                            range and weighted average of significant unobservable inputs used to
+                            develop Level 3 fair value measurements; and, the narrative description
+                            of measurement uncertainty. Retrospective application to all periods
+                            presented upon their effective date is required for all other
+                            amendments.</ph>
+               </p>
+               <p class="- topic/p ">
+                  <ph outputclass="shade grey" class="- topic/ph ">    Readers are encouraged to consult
+                            the full text of this ASU on FASB's website at <xref scope="external" format="html" class="- topic/xref " href="http://www.fasb.org">www.fasb.org</xref>.</ph>
+               </p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi1_presentation_and_disclosure_about.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-e7b0145f-7425-fe26-dd03-197442a4846e/UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn8"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.57" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.57</b> Most financial
+                reporting frameworks require disclosures in the financial statements to enable users
+                of the financial statements to make meaningful assessments of the effects of the
+                entity’s financial instrument activities, including the risks and uncertainties
+                associated with financial instruments.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.58" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.58</b> Most frameworks
+                require the disclosure of quantitative and qualitative information (including
+                accounting policies) relating to financial instruments. The accounting requirements
+                for fair value measurements in financial statement presentations and disclosures are
+                extensive in most financial reporting frameworks and encompass more than just
+                valuation of the financial instruments. For example, qualitative disclosures about
+                financial instruments provide important contextual information about the
+                characteristics of the financial instruments and their future cash flows that may
+                help inform investors about the risks to which entities are exposed.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

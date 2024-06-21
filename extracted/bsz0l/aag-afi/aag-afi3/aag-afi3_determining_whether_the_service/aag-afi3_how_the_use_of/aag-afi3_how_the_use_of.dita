@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-a4d548c5-00f2-81a1-852a-c9cdaa3215c4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">How the Use of a Service Organization May Affect the User Auditor’s
+                    Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.43" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.43</b> Use of a service
+                    organization’s services that are part of a user entity’s information system may
+                    affect the nature, timing, and extent of the user auditor’s substantive
+                    procedures related to financial statement assertions about financial
+                    instruments. For example, if supporting documentation, such as derivative
+                    contracts or financial instruments’ purchase and sales advices, is located at a
+                    service organization, it may be necessary for the user auditor or another
+                    auditor to visit the service organization to inspect the documentation. Also, if
+                    investment advisers, holders of financial instruments, recordkeepers, and other
+                    service organizations electronically transmit, process, maintain, or access
+                    significant information about the user entity’s financial instruments, it may
+                    not be practicable or possible for the user auditor to obtain an understanding
+                    of the user entity’s internal control over financial instruments, assess the
+                    risk of material misstatement for financial statement assertions about financial
+                    instruments, and design and perform further audit procedures to address those
+                    risks without identifying controls placed into operation by the service
+                    organization or user entity and gathering sufficient appropriate evidence about
+                    the operating effectiveness of those controls.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.44" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.44</b> The case study
+                    in <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi8/aag-afi8.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11">chapter 8</xref>, "Case Study of How an Entity’s Use of a Service
+                    Organization Affects the Auditor’s Considerations in Auditing Financial
+                    Instruments," of this guide discusses the effect on the auditor’s consideration
+                    of the risk of material misstatement of financial statement assertions about
+                    financial instruments if one or more service organizations provides financial
+                    instrument services to the entity under a discretionary arrangement. Those
+                    discussions address the following two types of situations:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Two separate service organizations. In this situation, one service
+                            organization initiates transactions as an investment adviser, and a
+                            second service organization holds and services the financial
+                            instruments. The auditor may corroborate information provided by the two
+                            organizations. For example, the auditor may confirm holdings with the
+                            holder of the financial instruments and apply other substantive
+                            procedures to transactions reported by the user entity based on
+                            information provided by the investment adviser. Depending on the facts
+                            and circumstances, the auditor also may confirm transactions or holdings
+                            with the investment adviser and review the reconciliation of
+                            differences.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">One service organization. In this situation, one service organization
+                            initiates transactions as an investment adviser and also holds and
+                            services the financial instruments. All the information available to the
+                            auditor is based on one service organization’s information. Therefore,
+                            the auditor may have to obtain evidence about the operating
+                            effectiveness of the service organization’s controls. The auditor may be
+                            unable to obtain an understanding of the user entity’s internal control
+                            over financial instrument transactions; assess the risk of material
+                            misstatement for financial statement assertions about financial
+                            instruments; and design and perform further audit procedures, including
+                            substantive audit procedures, to address those risks without obtaining
+                            audit evidence about the operating effectiveness of relevant service
+                            organization controls. An example of such controls is establishing
+                            independent departments that provide the investment advisory services
+                            and the holding and servicing of financial instruments, then reconciling
+                            the information about the financial instruments provided by each
+                            department.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.45" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.45</b> If a user entity
+                    uses the services of one or more service organizations, and those services are
+                    part of the user entity’s information system for financial instruments, the user
+                    auditor may be unable to sufficiently limit audit risk for the completeness
+                    assertion with respect to financial instruments without obtaining audit evidence
+                    about the operating effectiveness of controls at the service organizations.
+                    Because derivatives transactions may not require an initial exchange of tangible
+                    consideration, they may not be recorded; therefore, testing reconciliations of
+                    information provided by two or more service organizations may not sufficiently
+                    limit audit risk for assertions about the completeness of derivatives.
+                    Accordingly, the auditor may need to perform additional audit procedures at the
+                    user entity to address completeness.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

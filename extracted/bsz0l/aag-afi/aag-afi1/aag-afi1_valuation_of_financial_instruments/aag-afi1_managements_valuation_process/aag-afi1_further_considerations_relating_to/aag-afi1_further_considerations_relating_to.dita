@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-38790f98-7cc2-8d0e-8c76-c626206eb3d2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Further Considerations Relating to Third-Party Pricing
+                        Sources</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.52" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.52</b> Understanding how the pricing sources calculated a price
+                        enables management to determine whether such information is suitable for use
+                        in its valuation, including as an input to a valuation technique and in what
+                        level of inputs the security should be categorized for disclosure purposes.
+                        For example, third-party pricing sources may value financial instruments
+                        using proprietary models, and it is important that management understands
+                        the methodology, assumptions, and data used.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.53" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.53</b> If fair
+                        value measurements obtained from third-party pricing sources are not based
+                        on the current prices of an active market, it will be necessary for
+                        management to evaluate whether the fair value measurements were derived in a
+                        manner that is consistent with the applicable financial reporting framework.
+                        Management’s understanding of the fair value measurement may include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">how the fair value measurement was determined (for example,
+                                whether the fair value measurement was determined by a valuation
+                                technique in order to assess whether it is consistent with the fair
+                                value measurement objective).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether the quotes are indicative prices, indicative spread, or
+                                binding offers.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">how frequently the fair value measurement is estimated by the
+                                third-party pricing sources in order to assess whether it reflects
+                                market conditions at the measurement date.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Understanding the bases on which third-party pricing sources have
+                        determined their quotes in the context of the particular financial
+                        instruments held by the entity assists management in evaluating the
+                        relevance and reliability of this evidence to support its valuations.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.54" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.54</b> Disparities
+                        may exist between price indicators from different sources. Understanding how
+                        the price indicators were derived and investigating these disparities
+                        assists management in corroborating the evidence used in developing its
+                        valuation of financial instruments in order to evaluate whether the
+                        valuation is reasonable. Simply taking the average of the quotes provided
+                        without doing further research may not be appropriate because one price in
+                        the range may be the most representative of fair value, and this may not be
+                        the average. To evaluate whether its valuations of financial instruments are
+                        reasonable, management may</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">consider whether actual transactions represent forced transactions
+                                rather than transactions between willing buyers and sellers. This
+                                may invalidate the price as a comparison.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">analyze the expected future cash flows of the instrument. This
+                                could be performed as an indicator of the most relevant pricing
+                                data.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">depending on the nature of what is unobservable, extrapolate from
+                                observed prices to unobserved ones (for example, there may be
+                                observed prices for maturities up to 10 years but not longer, but
+                                the 10-year price curve may be capable of being extrapolated beyond
+                                10 years as an indicator). Care is needed to ensure that
+                                extrapolation is not carried so far beyond the observable curve that
+                                its link to observable prices becomes too tenuous to be
+                                reliable.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">compare prices within a portfolio of financial instruments with
+                                each other to make sure they are consistent among similar financial
+                                instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">use more than one model to corroborate the results from each one,
+                                considering the data and assumptions used in each.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluate movements in the prices for related hedging instruments
+                                and collateral.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

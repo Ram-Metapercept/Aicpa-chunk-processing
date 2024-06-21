@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-17e31e2c-ffd7-9b8c-87d1-1551e15d08d1" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">About AICPA Audit Guides</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">This AICPA Audit Guide has been developed by the AICPA publications team to assist
+                practitioners in performing and reporting on their audit engagements.</p>
+      <p class="- topic/p ">An AICPA guide containing auditing guidance related to generally accepted auditing
+                standards (GAAS) is recognized as an interpretive publication, as defined in AU-C
+                section 200B, <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn1" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for example,
+                        “AU-C section 200B”) denotes content that does not reflect the codification
+                        of SAS Nos. 134–140 or the amendments to other SASs made by SAS Nos. 134–140
+                        and subsequently issued SASs.</p>
+               <p class="- topic/p ">    All AU-C sections can be found in AICPA <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">
+                     <i class="+ topic/ph hi-d/i ">Professional Standards</i>
+                  </xref>.
+                            <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff5953e" class="- topic/unknown ">AICPA Professional Standards</unknown>
+               </p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_preface_about_aicpa_audit_guides.dita#UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-17e31e2c-ffd7-9b8c-87d1-1551e15d08d1/UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn1"/>
+         </ph>
+         <i class="+ topic/ph hi-d/i ">Overall Objectives of the Independent Auditor and
+                    the Conduct of an Audit in Accordance With Generally Accepted Auditing
+                    Standards</i>. Interpretive publications are recommendations on the
+                application of GAAS in specific circumstances, including engagements for entities in
+                specialized industries.</p>
+      <p class="- topic/p ">Interpretive publications are issued under the authority of the AICPA Auditing
+                Standards Board (ASB) after all ASB members have been provided an opportunity to
+                consider and comment on whether the proposed interpretive publication is consistent
+                with GAAS. The members of the ASB have found the auditing guidance in this guide to
+                be consistent with existing GAAS.</p>
+      <p class="- topic/p ">Although interpretive publications are not auditing standards, AU-C section 200B
+                requires the auditor to consider applicable interpretive publications in planning
+                and performing the audit because interpretive publications are relevant to the
+                proper application of GAAS in specific circumstances. If the auditor does not apply
+                the auditing guidance in an applicable interpretive publication, the auditor should
+                document how the requirements of GAAS were complied with in the circumstances
+                addressed by such auditing guidance.</p>
+      <p class="- topic/p ">Throughout this guide, when appropriate, reference is made to Technical Questions
+                and Answers, which are considered other auditing publications. AU-C section 200B
+                indicates that in applying the auditing guidance included in an other auditing
+                publication, the auditor should, exercising professional judgment, assess the
+                relevance and appropriateness of such guidance to the circumstances of the audit.
+                Other auditing publications have no authoritative status; however, they may help the
+                auditor understand and apply GAAS. The auditor is not expected to be aware of the
+                full body of other auditing publications. Although the auditor determines the
+                relevance of these publications in accordance with paragraph .28 of AU-C section
+                200B, the auditor may presume that other auditing publications published by the
+                AICPA that have been reviewed by the AICPA Audit and Attest Standards staff are
+                appropriate. These other auditing publications are listed in <xref format="dita" class="- topic/xref " href="../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_appendixes/ad_appendix_f/ad_appendix_f.dita#UUID-c25a2b55-fa31-ca39-c3b5-b5a6ba2b1419">AU-C appendix F</xref>, <i class="+ topic/ph hi-d/i ">Other Auditing
+                    Publications</i>. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff5b9a3" class="- topic/unknown ">AU-C Appendix F</unknown>
+      </p>
+      <p class="- topic/p ">The ASB is the designated senior committee of the AICPA authorized to speak for
+                the AICPA on all matters related to auditing. Conforming changes made to the
+                auditing guidance contained in this guide are approved by the ASB chair (or his or
+                her designee) and the director of the AICPA Audit and Attest Standards staff.
+                Updates made to the auditing guidance in this guide exceeding that of conforming
+                changes are issued after all ASB members have been provided an opportunity to
+                consider and comment on whether the guide is consistent with existing GAAS.</p>
+      <p class="- topic/p ">AICPA Guides may include certain content presented as “supplement”, “appendix”, or
+                “exhibit.” A supplement is a reproduction, in whole or in part, of authoritative
+                guidance originally issued by a standard-setting body (including regulatory bodies)
+                and applicable to entities or engagements within the purview of that standard
+                setter, independent of the authoritative status of the applicable AICPA Guide. Both
+                appendixes and exhibits are included for informational purposes and have no
+                authoritative status.</p>
+      <p class="- topic/p ">Any auditing guidance in a guide appendix or exhibit (whether chapter or back
+                matter appendix or exhibit), though not authoritative, is considered an “other
+                auditing publication.” In applying such guidance, the auditor should, exercising
+                professional judgment, assess the relevance and appropriateness of such guidance to
+                the circumstances of the audit. Although the auditor determines the relevance of
+                other auditing guidance, auditing guidance in a guide appendix or exhibit has been
+                reviewed by the AICPA Audit and Attest Standards staff and the auditor may presume
+                that it is appropriate.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Assessing the Risks of Material Misstatement</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.01</b> The auditor’s
+                assessment of the identified risks at the assertion level in accordance with AU-C
+                section 315B, <i class="+ topic/ph hi-d/i ">Understanding the Entity and Its Environment
+                    and Assessing the Risks of Material Misstatement</i>, includes evaluating
+                the design and implementation of internal control. <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn2" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for example,
+                        “AU-C section 200B”) denotes content that does not reflect the codification
+                        of Statement on Auditing Standards (SAS) Nos. 134–140 or the amendments to
+                        other SASs made by SAS Nos. 134–140 and subsequently issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn2"/>
+         </ph> It provides a basis for considering the appropriate audit approach for
+                designing and performing further audit procedures in accordance with AU-C section
+                330B, <i class="+ topic/ph hi-d/i ">Performing Audit Procedures in Response to Assessed
+                    Risks and Evaluating the Audit Evidence Obtained</i>, including both
+                substantive procedures and tests of controls. The approach taken is influenced by
+                the auditor’s understanding of internal control relevant to the audit, including the
+                strength of the control environment and any risk management function, the size and
+                complexity of the entity’s operations, and whether the auditor’s assessment of the
+                risks of material misstatement include an expectation that controls are operating
+                effectively.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.02</b> The auditor’s
+                assessment of the risk of material misstatement at the assertion level may change
+                during the course of the audit as additional information is obtained. Remaining
+                alert during the audit (for example, when inspecting records or documents) may
+                assist the auditor in identifying arrangements or other information that may
+                indicate the existence of financial instruments that management has not previously
+                identified or disclosed to the auditor. Such records and documents may include, for
+                example</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">minutes of meetings of those charged with governance.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">specific invoices from, and correspondence with, the entity’s professional
+                        advisers.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

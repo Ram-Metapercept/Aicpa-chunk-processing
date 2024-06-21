@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-1c3a2a73-b98b-0e37-e3d2-01c0d9442c07" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">The Understanding of Processes and Controls the Auditor Needs to Plan
+                    the Audit</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.11</b> In obtaining an
+                    understanding of the entity and its environment, including its internal control
+                    , the auditor determines that</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lane initiates trades and directs the broker-dealer to execute
+                            them.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lane maintains records of the trades it directs the broker-dealer to
+                            execute.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the broker-dealer sends a confirmation of each trade to Lane, which
+                            Lane usually receives within three business days.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lane compares the information in the trade confirmation with its
+                            record of the trade that it directed the broker-dealer to execute and
+                            investigates significant differences.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lane records the trade in the applicable general ledger
+                            accounts.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">at the end of the year, Lane adjusts the general ledger accounts for
+                            trades it has initiated for which confirmations have not been received.
+                            Information for that adjustment is obtained from Lane’s record of trades
+                            it directed the broker-dealer to execute and the confirmations of those
+                            trades it received subsequent to year-end.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">monthly, the broker-dealer sends Lane a statement that includes
+                            trades, servicing transactions, a description of the financial
+                            instruments held, and the fair value of each of those financial
+                            instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">monthly, Lane compares the information about trades and the components
+                            of its financial instrument portfolio shown in its accounting records
+                            with the broker-dealer’s monthly statement and investigates significant
+                            differences.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">monthly, Lane records servicing transactions and changes in unrealized
+                            holding gains and losses based on information in the broker-dealer’s
+                            monthly statement. Lane compares the broker-dealer information with its
+                            expectations based on published information and investigates significant
+                            differences.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.12</b> Paragraph .05 of
+                    AU-C section 402B, <i class="+ topic/ph hi-d/i ">Audit Considerations Relating to an
+                        Entity Using a Service Organization</i>, does not apply to services
+                    that are limited to processing an entity’s transactions that are specifically
+                    authorized by the entity, such as the processing of checking account
+                    transactions by a bank or the processing of financial instrument transactions by
+                    a broker (that is, when the user entity retains responsibility for authorizing
+                    the transactions and maintaining the related accountability). <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn3" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for
+                            example, “AU-C section 200B”) denotes content that does not reflect the
+                            codification of Statement on Auditing Standards (SAS) Nos. 134–140 or
+                            the amendments to other SASs made by SAS Nos. 134–140 and
+                            subsequently-issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_the_understanding_of_processes.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-1c3a2a73-b98b-0e37-e3d2-01c0d9442c07/UUID-1911b3ac-218a-078f-9079-2004d1718a11-aag-afi8-fn3"/>
+         </ph> Because Lane retains responsibility for authorizing the transactions
+                    and maintaining the related accountability, AU-C section 402B is not applicable
+                    in <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi8/aag-afi8_scenario_a/aag-afi8_scenario_a.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-4a8ef84d-e2e7-0a74-31f2-8209e78e09f5">scenario A</xref>.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

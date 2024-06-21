@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-866ee379-92b5-145f-62e7-71d7a6f25abb" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Factors to Consider in Determining Whether and to What Extent to Test
+                    the Operating Effectiveness of Controls</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.09</b> An expectation
+                    that controls are operating effectively may be more common when dealing with an
+                    entity with well-established controls; therefore, testing controls may be an
+                    effective means of obtaining audit evidence. When an entity has a trading
+                    function, substantive procedures alone may not provide sufficient appropriate
+                    audit evidence due to the volume of contracts and the different systems used.
+                    Tests of controls, however, will not be sufficient on their own because the
+                    auditor is required by paragraph .18 of AU-C section 330B to design and perform
+                    substantive procedures for all relevant assertions related to each material
+                    class of transactions, account balance, and disclosure.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.10</b> Entities with a
+                    high volume of trading and use of financial instruments may have more
+                    sophisticated controls and an effective risk management function; therefore, the
+                    auditor may be more likely to test controls in obtaining evidence about the
+                    following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The occurrence, completeness, valuation, accuracy, and cutoff of the
+                            transactions</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The existence, rights and obligations, and completeness of account
+                            balances</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.11</b> In those
+                    entities with relatively few financial instrument transactions</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">management and those charged with governance may have only a limited
+                            understanding of financial instruments and how they affect the
+                            business.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the entity may only have a few different types of instruments, with
+                            little or no interaction between them.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">there is unlikely to be a complex control environment (for example,
+                            the controls described in <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi3/aag-afi3.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9">chapter 3</xref>, "Internal Control," of this guide may not be in
+                            place at the entity).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">management may use pricing information from third-party pricing
+                            sources to value their instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">controls over the use of pricing information from third-party pricing
+                            sources may be less sophisticated.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.12</b> When an entity
+                    has relatively few transactions involving financial instruments, it may be
+                    relatively easy for the auditor to obtain an understanding of the entity’s
+                    objectives for using the financial instruments and the characteristics of the
+                    instruments. In such circumstances, much of the audit evidence is likely to be
+                    substantive in nature; the auditor may perform the majority of the audit work at
+                    year-end; and third-party confirmations are likely to provide evidence in
+                    relation to the completeness, accuracy, and existence of the
+                    transactions.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

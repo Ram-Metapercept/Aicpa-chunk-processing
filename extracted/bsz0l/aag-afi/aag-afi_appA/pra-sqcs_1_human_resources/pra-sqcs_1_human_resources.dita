@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-4985bf8f-79ac-5946-ba22-1fde0220510e" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Human Resources</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-4985bf8f-79ac-5946-ba22-1fde0220510e_pra-sqcs_1.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.13</b> The purpose of the
+                human resources element of a system of quality control is to provide the firm with
+                reasonable assurance that it has sufficient personnel with the capabilities,
+                competence, and commitment to ethical principles necessary (<i class="+ topic/ph hi-d/i ">a</i>) to perform its engagements in accordance with professional
+                standards and regulatory and legal requirements, and (<i class="+ topic/ph hi-d/i ">b</i>) to enable the firm to issue reports that are appropriate in the
+                circumstances. Establishing and maintaining policies such as the following assist
+                the firm in obtaining this assurance:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Recruit and hire personnel of integrity who possess the characteristics
+                        that enable them to perform competently.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Determine capabilities and competencies required for an engagement,
+                        especially for the engagement partner, based on the characteristics of the
+                        particular client, industry, and kind of service being performed. Specific
+                        competencies necessary for an engagement partner are discussed in <xref format="dita" class="- topic/xref " href="../../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a_application_other_explanatory_material/topics/qm_10a_assignment_of_engagement_teams2.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_UUID-5c644ff7-2ca5-9b6c-e7de-b216c4003c5f/UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_qm_10a.a27">paragraph .A27</xref> of QM section 10A. <unknown id="UUID-4985bf8f-79ac-5946-ba22-1fde0220510e_N66175500bcbe9" class="- topic/unknown ">Assignment of Engagement Teams</unknown>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Determine the capabilities and competencies possessed by personnel.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assign the responsibility for each engagement to an engagement
+                        partner.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assign personnel based on the knowledge, skills, and abilities required in
+                        the circumstances and the nature and extent of supervision needed.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Have personnel participate in general and industry-specific continuing
+                        professional education and professional development activities that enable
+                        them to accomplish assigned responsibilities and satisfy applicable
+                        continuing professional education requirements of the AICPA, state boards of
+                        accountancy, and other regulators.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Select for advancement only those individuals who have the qualifications
+                        necessary to fulfill the responsibilities they will be called on to
+                        assume.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

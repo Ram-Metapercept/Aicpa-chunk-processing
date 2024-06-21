@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-669c7037-c458-2f03-9cef-d9b5218de3b2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Journal Entries</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.13</b> The journal
+                    entries JLM made are as follows:</p>
+      <table outputclass="ruled" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10_table2" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <colspec colname="c3" align="right" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c3" align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">February 1, 20X1</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c3" align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">JLM made a memorandum entry documenting the existence of the
+                                    hedging relationship. The financial records of JLM were not
+                                    otherwise affected as of this date because the interest rate
+                                    swap was issued at the market rate; therefore, no cash changed
+                                    hands.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c3" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">March 31, 20X1</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Interest expense</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Cash</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record interest expense on the bond obligation —
+                                    ($1,000,000 × 8.00%) × 3/12 = $20,000.</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Interest expense</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$417</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Cash</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$417</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the net cash payment on the interest rate swap as an
+                                    increase in interest expense — [($1,000,000 × 8%) × 2/12 =
+                                    $13,333 received] less [($1,000,000 × 8.25%) × 2/12 = $13,750
+                                    paid].</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Unrealized loss on interest rate swap</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Obligation under interest rate swap</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the reduction in the fair value of the interest rate
+                                    swap as a liability, with an offsetting charge to
+                                    earnings.</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Bond obligation</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$25,000</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Unrealized gain on bond obligation</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$25,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the reduction in the fair value of the bond
+                                    obligation due to a change in the benchmark interest rate, with
+                                    an offsetting credit to earnings.</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c3" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">June 30, 20X1</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Interest expense</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Cash</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record interest expense on the bond obligation —
+                                    ($1,000,000 × 8.00%) × 3/12 = $20,000.</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Interest expense</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$1,250</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Cash</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$1,250</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the net cash payment on the interest rate swap as an
+                                    increase in interest expense — [($1,000,000 × 8%) × 3/12 =
+                                    $20,000 received] less [($1,000,000 × 8.5%) × 3/12 = $21,250
+                                    paid].</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Unrealized loss on interest rate swap</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$15,000</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Obligation under interest rate swap</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$15,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the increase in the fair value of the liability
+                                    under the swap agreement, with an offsetting charge to
+                                    earnings.</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Bond obligation</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$15,000</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Unrealized gain on bond obligation</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$15,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the reduction in the fair value of the bond
+                                    obligation due to a change in the benchmark interest rate, with
+                                    an offsetting credit to earnings.</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

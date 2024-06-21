@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-70a9e115-2a78-47bb-db5d-6dc729a62378" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Evaluating Whether the Assumptions Used by Management Are
+                Reasonable</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.25</b> An assumption used
+                in a model may be deemed to be significant if a reasonable variation in the
+                assumption would materially affect the measurement of the financial instrument.
+                    <ph class="- topic/ph ">
+            <fn callout="10" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn10" class="- topic/fn ">
+               <p class="- topic/p ">See paragraph .A113 of AU-C section 540B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi5_evaluating_whether_the_assumptions.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-70a9e115-2a78-47bb-db5d-6dc729a62378/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn10"/>
+         </ph> Management may have considered alternative assumptions or outcomes by
+                performing a sensitivity analysis. The extent of subjectivity associated with
+                assumptions influences the degree of measurement uncertainty and may lead the
+                auditor to conclude that a significant risk exits (for example, in the case of Level
+                3 inputs).</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.26</b> For items valued by
+                the entity using a valuation model, the auditor does not function as an appraiser.
+                Rather, the auditor reviews the model and evaluates whether the assumptions used are
+                reasonable, and the model is appropriate, considering the entity’s circumstances.
+                For example, it may be inappropriate to use discounted cash flows for valuing an
+                equity investment in a start-up enterprise if no current revenues exist on which to
+                base the forecast of future earnings or cash flows.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.27</b> Audit procedures to
+                test the assumptions used by management, including those used as inputs to models,
+                may include evaluating whether</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">and, if so, how management has incorporated market inputs into the
+                        development of assumptions because it is generally preferable to seek to
+                        maximize the use of relevant observable inputs and minimize unobservable
+                        inputs.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the assumptions are consistent with observable market conditions and the
+                        characteristics of the financial asset or liability.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the sources of market-participant assumptions are relevant and reliable
+                        and how management has selected the assumptions to use when a number of
+                        different marketplace assumptions exist.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">sensitivity analyses indicate that valuations would change significantly
+                        with only small or moderate changes in assumptions.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">See paragraphs .A78–.A84 of AU-C section 540B for further considerations relative
+                to evaluating the assumptions used by management.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.28</b> The auditor’s
+                consideration of judgments about the future is based on information available at the
+                time at which the judgment is made. Subsequent events may result in outcomes that
+                are inconsistent with judgments that were reasonable at the time they were
+                made.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.29</b> Audit procedures
+                dealing with management’s assumptions are performed in the context of the audit of
+                the entity’s financial statements. The objective of the audit procedures is,
+                therefore, not intended to obtain sufficient appropriate audit evidence to provide
+                an opinion on the assumptions themselves. Rather, the auditor performs procedures to
+                evaluate whether the assumptions provide a reasonable basis for measuring fair
+                values in the context of an audit of the financial statements as a whole.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.30</b> Identifying those
+                assumptions that appear to be significant to the fair value measurement requires the
+                exercise of judgment by management. The auditor focuses attention on the significant
+                assumptions that management has identified. Generally, significant assumptions cover
+                matters that materially affect the fair value measurement and may include those that
+                are</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">sensitive to variation or uncertainty in amount or nature. (For example,
+                        assumptions about short-term interest rates may be less susceptible to
+                        significant variation compared with assumptions about long-term interest
+                        rates.)</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">susceptible to misapplication or bias.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.31</b> The auditor may
+                consider the sensitivity of the valuation to changes in significant assumptions,
+                including market conditions that may affect the value. When applicable, the auditor
+                may encourage management to use techniques such as sensitivity analysis to help
+                identify particularly sensitive assumptions. If management has not identified
+                particularly sensitive assumptions, the auditor considers whether to employ
+                techniques to identify those assumptions.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.32</b> The evaluation of
+                whether the assumptions provide a reasonable basis for the fair value measurements
+                relates to the whole set of assumptions, as well as each assumption individually.
+                Assumptions are frequently interdependent and, therefore, need to be internally
+                consistent. A particular assumption that may appear reasonable when taken in
+                isolation may not be reasonable when used in conjunction with other assumptions. The
+                auditor is required to obtain an understanding of how management makes the
+                accounting estimates and the data on which they are based. <ph class="- topic/ph ">
+            <fn callout="11" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn11" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .08<i class="+ topic/ph hi-d/i ">c</i> of AU-C section
+                        540B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi5_evaluating_whether_the_assumptions.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-70a9e115-2a78-47bb-db5d-6dc729a62378/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn11"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

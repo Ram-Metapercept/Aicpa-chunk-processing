@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-b22c652f-eda7-0947-a9f1-40887ae60a28" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">The Use of Assertions</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.04</b> Assertions used
+                    by the auditor to consider the different types of potential misstatements that
+                    may occur fall into the following three categories and may take the following
+                    forms: <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn3" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .A114 of AU-C section 315B, <i class="+ topic/ph hi-d/i ">Understanding the Entity and Its Environment and Assessing the
+                                Risks of Material Misstatement</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi4_the_use_of_assertions.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-b22c652f-eda7-0947-a9f1-40887ae60a28/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn3"/>
+         </ph>
+      </p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assertions about classes of transactions and events for the period
+                            under audit, such as the following:</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Occurrence</i>. Transactions
+                                    and events that have been recorded have occurred and pertain to
+                                    the entity.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Completeness</i>. All
+                                    transactions and events that should have been recorded have been
+                                    recorded.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Accuracy</i>. Amounts and other
+                                    data relating to recorded transactions and events have been
+                                    recorded appropriately.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Cutoff</i>. Transactions and
+                                    events have been recorded in the correct accounting
+                                    period.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Classification</i>.
+                                    Transactions and events have been recorded in the proper
+                                    accounts.</p>
+               </li>
+            </ol>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assertions about account balances at period-end, such as the
+                            following:</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Existence</i>. Assets,
+                                    liabilities, and equity interests exist.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Rights and obligations</i>. The
+                                    entity holds or controls the rights to assets, and liabilities
+                                    are the obligations of the entity.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Completeness</i>. All assets,
+                                    liabilities, and equity interests that should have been recorded
+                                    have been recorded.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Valuation and allocation</i>.
+                                    Assets, liabilities, and equity interests are included in the
+                                    financial statements at appropriate amounts, and any resulting
+                                    valuation or allocation adjustments are appropriately
+                                    recorded.</p>
+               </li>
+            </ol>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assertions about presentation and disclosure, such as the
+                            following:</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Occurrence and rights and
+                                        obligations</i>. Disclosed events, transactions, and
+                                    other matters have occurred and pertain to the entity.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Completeness</i>. All
+                                    disclosures that should have been included in the financial
+                                    statements have been included.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Classification and
+                                        understandability</i>. Financial information is
+                                    appropriately presented and described, and disclosures are
+                                    clearly expressed.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Accuracy and valuation</i>.
+                                    Financial and other information is disclosed fairly and in
+                                    appropriate amounts.</p>
+               </li>
+            </ol>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.05</b> Paragraph .A41
+                    of AU-C section 200B, <i class="+ topic/ph hi-d/i ">Overall Objectives of the
+                        Independent Auditor and the Conduct of an Audit in Accordance With Generally
+                        Accepted Auditing Standards</i>, states that the risks of material
+                    misstatement at the assertion level consist of two components: inherent risk and
+                    control risk. The following exhibit summarizes the examples of considerations
+                    that might affect the auditor’s assessment of the inherent risk for assertions
+                    about financial instruments.</p>
+      <table outputclass="ruled" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4_table1" class="- topic/table ">
+         <title class="- topic/title ">Exhibit 4-1 — Characteristics That Might Affect Inherent Risk</title>
+         <tgroup cols="4" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <colspec colname="c3" class="- topic/colspec "/>
+            <colspec colname="c4" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c4" align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Indications of</p>
+                  </entry>
+               </row>
+               <row valign="bottom" class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Characteristic</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Higher Risk</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Lower Risk</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Related Assertion</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Management’s objective</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Financial instruments used as hedges</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Financial instruments held as investments</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Rights and obligations, valuation, and presentation and
+                                    disclosure</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Management’s intent and ability</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Accounting treatment based on management’s intent and
+                                    ability</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Accounting treatment based on objective criteria</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Valuation and presentation and disclosure</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Complexity of financial instruments</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">More complex instrument (for example, futures contracts,
+                                    swaps, or stock appreciation rights)</p>
+                     <p class="- topic/p ">Collaterized mortgage obligations</p>
+                     <p class="- topic/p ">Stock warrants</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Less complex instrument (for example, common stock traded on
+                                    an exchange or U.S government agency debt)</p>
+                     <p class="- topic/p ">U.S. Treasury securities</p>
+                     <p class="- topic/p ">Common stock</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Rights and obligations, valuation, and presentation and
+                                    disclosure</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Relationship of the derivative to the hedged item or
+                                    underlying security</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Low degree of correlation</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">High degree of correlation</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Valuation and presentation and disclosure</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Exchange of cash at inception</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">No exchange of cash at inception</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Cash exchanged at inception</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Completeness and presentation and disclosure</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Freestanding versus embedded</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Embedded derivative</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Freestanding derivative</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Completeness and presentation and disclosure</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Credit risk</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">High counterparty credit risk</p>
+                     <p class="- topic/p ">High nonpayment risk</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Low counterparty credit risk</p>
+                     <p class="- topic/p ">Low nonpayment risk</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Valuation</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Market risk</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Volatile values or interest rates</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Stable values or interest rates</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Valuation</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Nature of security and related accounting principles</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Rapidly evolving</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Relatively stable</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">All</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Assumptions about future conditions</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Significant subjective assumptions</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Relatively few, objective, and verifiable assumptions</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">All</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

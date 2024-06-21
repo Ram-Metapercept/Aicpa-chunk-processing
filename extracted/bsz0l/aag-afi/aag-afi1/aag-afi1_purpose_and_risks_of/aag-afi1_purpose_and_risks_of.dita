@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-35a9a3fc-f81e-41ba-1edc-bb896fe3674b" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Purpose and Risks of Using Financial Instruments</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.04</b> Financial
+                instruments may be used for</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">hedging purposes (for example, to change an existing risk profile to which
+                        an entity is exposed). This includes</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the forward purchase or sale of currency to fix a future exchange
+                                rate.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">converting future interest rates to fixed rates or floating rates
+                                through the use of swaps.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">the purchase of option contracts to provide an entity with
+                                protection against a particular price movement, including contracts
+                                that may contain embedded derivatives.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">trading purposes (for example, to enable an entity to take a risk position
+                        to benefit from short-term market movements).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">investment purposes (for example, to enable an entity to benefit from
+                        long-term investment returns).</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.05</b> The use of financial
+                instruments can reduce exposures to certain business risks (for example, changes in
+                exchange rates, interest rates, and commodity prices or a combination of those
+                risks). On the other hand, the inherent complexities of some financial instruments
+                also may result in increased risk.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.06</b> Business risk
+                    <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn2" class="- topic/fn ">
+               <p class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">Business risk</i> is defined in paragraph
+                        .04 of AU-C section 315B, <i class="+ topic/ph hi-d/i ">Understanding the Entity
+                            and Its Environment and Assessing the Risks of Material
+                            Misstatement</i>.</p>
+               <p class="- topic/p ">    All AU-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                     <unknown id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_N661754ff9e5d6" class="- topic/unknown ">AICPA Professional
+                            Standards</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi1_purpose_and_risks_of.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-35a9a3fc-f81e-41ba-1edc-bb896fe3674b/UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn2"/>
+         </ph> and the risk of material misstatement increase when management and those
+                charged with governance</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">do not fully understand the risks of using financial instruments and have
+                        insufficient skills and experience to manage those risks.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">do not have the expertise to value them appropriately in accordance with
+                        the applicable financial reporting framework.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">do not have sufficient controls in place over financial instrument
+                        activities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">inappropriately hedge risks or speculate.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.07</b> Management’s failure
+                to fully understand the risks inherent in a financial instrument can have a direct
+                effect on management’s ability to manage these risks appropriately and may
+                ultimately threaten the viability of the entity.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.08</b> The following are
+                principal types of risk applicable to financial instruments. This list is not meant
+                to be exhaustive, and different terminology may be used to describe these risks or
+                classify the components of individual risks:</p>
+      <ul outputclass="ul none" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <b class="+ topic/ph hi-d/b ">Credit (or counterparty) risk. </b>
+               <ph class="- topic/ph ">
+                  <fn callout="3" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn3" class="- topic/fn ">
+                     <p class="- topic/p ">See the FASB ASC Master Glossary for definitions of <i class="+ topic/ph hi-d/i ">credit risk</i> for purposes of a hedged
+                                item in a fair value hedge and a hedged transaction in a cash flow
+                                hedge.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi1_purpose_and_risks_of.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-35a9a3fc-f81e-41ba-1edc-bb896fe3674b/UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn3"/>
+               </ph>
+               <i class="+ topic/ph hi-d/i ">Credit risk</i> is the risk that
+                        one party to a financial instrument will cause a financial loss to another
+                        party by failing to discharge an obligation, and it is often associated with
+                        default. Credit risk includes counterparty risk and settlement risk, which
+                        are defined as follows:</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Counterparty risk</i>. Connotes the
+                                exposure to the aggregate credit risk posed by all transactions with
+                                one counterparty.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">
+                     <i class="+ topic/ph hi-d/i ">Settlement risk</i>. The related
+                                exposure that a counterparty may fail to perform under a contract
+                                after the end user has delivered funds or assets according to its
+                                obligations. Settlement risk relates almost solely to
+                                over-the-counter (OTC) contracts (that is, nonexchange-traded
+                                instruments). One method for minimizing settlement risk is to enter
+                                into a master netting agreement that allows the parties to offset
+                                all their related payable and receivable positions at
+                                settlement.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <b class="+ topic/ph hi-d/b ">Market risk. </b>
+               <i class="+ topic/ph hi-d/i ">Market risk</i> is the risk that the fair value or future cash
+                        flows of a financial instrument will fluctuate because of changes in market
+                        prices. Market risk comprises currency risk, interest rate risk, and other
+                        price risk.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <b class="+ topic/ph hi-d/b ">Liquidity risk. </b>Liquidity risk includes
+                        the risk of not being able to buy or sell a financial instrument at an
+                        appropriate price in a timely manner due to a lack of marketability for that
+                        financial instrument.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <b class="+ topic/ph hi-d/b ">Operational risk.</b> Operational risk
+                        relates to the specific processing required for financial instruments.
+                        Operational risk may increase as the complexity of a financial instrument
+                        increases, and poor management of operational risk may increase other types
+                        of risk. Operational risk includes the risk</p>
+            <ul outputclass="ul bullet" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">that confirmation and reconciliation controls are inadequate,
+                                resulting in incomplete or inaccurate recording of financial
+                                instruments.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">that inappropriate documentation of transactions and insufficient
+                                monitoring of these transactions exist.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">that transactions are incorrectly recorded, processed, or risk
+                                managed and, therefore, do not reflect the economics of the overall
+                                trade.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">that undue reliance is placed by staff on the accuracy of
+                                valuation techniques without adequate review, and transactions are,
+                                therefore, incorrectly valued, or their risk is improperly
+                                measured.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">that the use of financial instruments is not adequately
+                                incorporated into the entity’s risk management policies and
+                                procedures.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">of loss resulting from inadequate or failed internal processes and
+                                systems or from external events, including the risk of fraud from
+                                both internal and external sources.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">that inadequate or nontimely maintenance of valuation techniques
+                                used to measure financial instruments exist.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">that losses may result from a legal or regulatory action that
+                                invalidates or otherwise precludes performance by the end user or
+                                its counterparty under the terms of the contract or related netting
+                                arrangements (that is, legal risk, which is a component of
+                                operational risk). For example, legal risk could arise from
+                                insufficient or incorrect documentation for the contract, an
+                                inability to enforce a netting arrangement in bankruptcy, adverse
+                                changes in tax laws, or statutes that prohibit entities from
+                                investing in certain types of financial instruments.</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.09</b> Other considerations
+                relevant to risks of using financial instruments include the risk</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">of fraud that may be increased if, for example, an employee in a position
+                        to perpetrate a financial fraud understands both the financial instruments
+                        and processes for accounting for them, but management and those charged with
+                        governance have a lesser degree of understanding.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">that master netting arrangements <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">An entity that undertakes a number of financial instrument
+                                transactions with a single counterparty may enter into a master
+                                netting arrangement with that counterparty. Such an agreement
+                                provides for a single net settlement of all financial instruments
+                                covered by the agreement in the event of default of any one
+                                contract. See FASB ASC 815-10-45 for information on offsetting
+                                amounts related to derivative instruments.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi1_purpose_and_risks_of.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-35a9a3fc-f81e-41ba-1edc-bb896fe3674b/UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn4"/>
+               </ph> may not be properly reflected in the financial
+                        statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">that some financial instruments may change between being assets or
+                        liabilities during their term and that such change may occur rapidly.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

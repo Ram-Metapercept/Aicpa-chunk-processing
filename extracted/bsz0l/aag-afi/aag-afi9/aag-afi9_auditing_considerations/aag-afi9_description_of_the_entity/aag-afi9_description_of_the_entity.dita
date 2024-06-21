@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-c1551b70-7510-2a87-0b45-a40f452e513f" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Description of the Entity</title>
+   <body class="- topic/body ">
+      <note type="important" class="- topic/note ">
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Update 9-1 <i class="+ topic/ph hi-d/i ">Auditing:</i> Audit
+                        Evidence</b>
+         </p>
+         <p outputclass="box" class="- topic/p ">In July 2020, the AICPA issued <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_500/ad_500.dita#UUID-a2a03c8f-6792-b3fb-05ee-361c8b6fcd4d">Statement on Auditing Standards (SAS) No. 142</xref>, <i class="+ topic/ph hi-d/i ">Audit Evidence</i>, which supersedes AU-C section
+                        500, <i class="+ topic/ph hi-d/i ">Audit Evidence</i>, and amends the
+                        following AU-C sections: <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N661755009a1c5" class="- topic/unknown ">AU-C Section 500</unknown>
+         </p>
+         <ul outputclass="ul" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_200/ad_200.dita#UUID-a1c92cf4-004a-695b-1157-7fba820cf9c3">Section 200</xref>, <i class="+ topic/ph hi-d/i ">Overall Objectives
+                                    of the Independent Auditor and the Conduct of an Audit in
+                                    Accordance With Generally Accepted Auditing Standards</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N661755009b60c" class="- topic/unknown ">AU-C Section 200</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_230/ad_230.dita#UUID-fc30ae30-57b7-c665-6108-6a72311bb2be">Section 230</xref>, <i class="+ topic/ph hi-d/i ">Audit
+                                    Documentation</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N661755009ca04" class="- topic/unknown ">AU-C Section 230</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_300_499/ad_315/ad_315.dita#UUID-c1ad38b6-1908-5a1f-9638-db3945a0f494">Section 315</xref>, <i class="+ topic/ph hi-d/i ">Understanding the
+                                    Entity and Its Environment and Assessing the Risks of Material
+                                    Misstatement</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N661755009ded2" class="- topic/unknown ">AU-C Section 315</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_300_499/ad_330/ad_330.dita#UUID-f0961b93-b0d8-60d4-229c-3b2092c908ef">Section 330</xref>, <i class="+ topic/ph hi-d/i ">Performing Audit
+                                    Procedures in Response to Assessed Risks and Evaluating the
+                                    Audit Evidence</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N661755009f422" class="- topic/unknown ">AU-C Section 330</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_501/ad_501.dita#UUID-57892464-e21e-7913-fac6-924deb8c9ec0">Section 501</xref>, <i class="+ topic/ph hi-d/i ">Audit Evidence —
+                                    Specific Considerations for Selected Items</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a085d" class="- topic/unknown ">AU-C Section 501</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_530/ad_530.dita#UUID-78db527a-d582-f320-3015-77f173bbfde9">Section 530</xref>, <i class="+ topic/ph hi-d/i ">Audit
+                                    Sampling</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a1ca7" class="- topic/unknown ">AU-C Section 530</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_540/ad_540.dita#UUID-5e295753-fd8e-ad8d-74c0-3d4d49ef0274">Section 540</xref>, <i class="+ topic/ph hi-d/i ">Auditing Accounting
+                                    Estimates, Including Fair Value Accounting Estimates, and
+                                    Related Disclosures</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a3138" class="- topic/unknown ">AU-C Section 540</unknown>
+               </p>
+            </li>
+         </ul>
+         <p outputclass="box" class="- topic/p ">SAS No. 142 explains what constitutes audit evidence in an
+                        audit of financial statements and sets out attributes of information that
+                        are taken into account by the auditor when evaluating information to be used
+                        as audit evidence.</p>
+         <p outputclass="box" class="- topic/p ">This SAS is effective for audits of financial statements for
+                        periods ending on or after December 15, 2022. A link to the final SAS and
+                        other resources can be found on the page “<xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+                            Resources</xref>,” which is available using the audit and attest link in
+                        the financial reporting center at aicpa.org.</p>
+      </note>
+      <note type="important" class="- topic/note ">
+         <p class="- topic/p ">
+            <b class="+ topic/ph hi-d/b ">Update 9-2 <i class="+ topic/ph hi-d/i ">Auditing</i>: Auditing
+                        Accounting Estimates, Including Fair Value Accounting Estimates, and Related
+                        Disclosures</b>
+         </p>
+         <p outputclass="box" class="- topic/p ">In July 2020, the AICPA issued <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_540/ad_540.dita#UUID-5e295753-fd8e-ad8d-74c0-3d4d49ef0274">SAS No. 143</xref>, <i class="+ topic/ph hi-d/i ">Auditing Accounting
+                            Estimates and Related Disclosures</i>, which supersedes <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_540/ad_540.dita#UUID-5e295753-fd8e-ad8d-74c0-3d4d49ef0274">AU-C section 540</xref>, <i class="+ topic/ph hi-d/i ">Auditing Accounting
+                            Estimates, Including Fair Value Accounting Estimates, and Related
+                            Disclosures</i>, and amends the following AU-C sections: <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a45d1" class="- topic/unknown ">AU-C Section 540</unknown>
+            <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a5a4f" class="- topic/unknown ">AU-C Section 540</unknown>
+         </p>
+         <ul outputclass="ul" class="- topic/ul ">
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_200/ad_200.dita#UUID-a1c92cf4-004a-695b-1157-7fba820cf9c3">Section 200</xref>, <i class="+ topic/ph hi-d/i ">Overall Objectives
+                                    of the Independent Auditor and the Conduct of an Audit in
+                                    Accordance With Generally Accepted Auditing Standards</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a6eb1" class="- topic/unknown ">AU-C Section 200</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_230/ad_230.dita#UUID-fc30ae30-57b7-c665-6108-6a72311bb2be">Section 230</xref>, <i class="+ topic/ph hi-d/i ">Audit
+                                    Documentation</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a82be" class="- topic/unknown ">AU-C Section 230</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_240/ad_240.dita#UUID-d7eb88e1-cfbf-0138-62fb-21f8f62285b3">Section 240</xref>, <i class="+ topic/ph hi-d/i ">Consideration of
+                                    Fraud in a Financial Statement Audit</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500a975a" class="- topic/unknown ">AU-C Section 240</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_200_299/ad_260/ad_260.dita#UUID-00f9ad4d-7607-9441-867f-ab03ac091421">Section 260</xref>, <i class="+ topic/ph hi-d/i ">The Auditor’s
+                                    Communication With Those Charged With Governance</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500aac8f" class="- topic/unknown ">AU-C Section 260</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_501/ad_501.dita#UUID-57892464-e21e-7913-fac6-924deb8c9ec0">Section 501</xref>, <i class="+ topic/ph hi-d/i ">Audit Evidence —
+                                    Specific Considerations for Selected Items</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500ac1b3" class="- topic/unknown ">AU-C Section 501</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_500_599/ad_580/ad_580.dita#UUID-4dc1620f-f2e0-1dfc-7da9-389044f6362d">Section 580</xref>, <i class="+ topic/ph hi-d/i ">Written
+                                    Representations</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500ad6a8" class="- topic/unknown ">AU-C Section 580</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_700/ad_700.dita#UUID-fe1b90a6-0a1b-297b-54fb-b3d5bbc36b74">Section 700</xref>, <i class="+ topic/ph hi-d/i ">Forming an Opinion
+                                    and Reporting on Financial Statements</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500aebef" class="- topic/unknown ">AU-C Section 700</unknown>
+               </p>
+            </li>
+            <li class="- topic/li ">
+               <p class="- topic/p ">
+                  <xref format="dita" class="- topic/xref " href="../../../../ps/ad_us_auditing_standards_aicpa_clarified/ad_section_700_799/ad_701/ad_701.dita#UUID-5eff2735-8e08-95cb-54e4-debcd1f556df">Section 701</xref>, <i class="+ topic/ph hi-d/i ">Communicating Key
+                                    Audit Matters in the Independent Auditor’s Report</i>
+                  <unknown id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_N66175500b0125" class="- topic/unknown ">AU-C Section 701</unknown>
+               </p>
+            </li>
+         </ul>
+         <p outputclass="box" class="- topic/p ">SAS No. 143 addresses the auditor’s responsibilities
+                        relating to accounting estimates, including fair value accounting estimates
+                        and related disclosures, in an audit of financial statements.</p>
+         <p outputclass="box" class="- topic/p ">This SAS is effective for audits of financial statements for
+                        periods ending on or after December 15, 2023. A link to the final SAS and
+                        other resources can be found on the page “<xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa.org/interestareas/frc/auditattest/auditing-standards-information-and-resources.html">Recently Issued Auditing and Attestation Standards: Information and
+                            Resources</xref>,” which is available using the audit and attest link in
+                        the financial reporting center at aicpa.org.</p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.13</b> Although Martin
+                    has invested in financial instruments in the past, it has not invested in a
+                    security with a feature that constitutes an embedded derivative. However,
+                    Martin’s board of directors exercises proper oversight and authorization of all
+                    investing activities. In regard to the convertible bond investment, the board
+                    took an active role in understanding the risks of the investment and how it was
+                    priced and, ultimately, approving the transaction.</p>
+      <p outputclass="ps_para_number" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">9.14</b> Martin also has
+                    other characteristics of a strong control environment:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Management has high integrity and ethical values.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Management philosophy and operating style are commensurate with the
+                            demands and needs of a well-regarded business organization.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Management carefully assigns authority and responsibility to
+                            appropriate personnel.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Human resource policies and procedures are designed in a way that the
+                            most qualified individuals are attracted to the organization, hired,
+                            trained, rewarded, and retained.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">The bonds are held and serviced by a well-known bank with an investment
+                    department that is widely respected.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

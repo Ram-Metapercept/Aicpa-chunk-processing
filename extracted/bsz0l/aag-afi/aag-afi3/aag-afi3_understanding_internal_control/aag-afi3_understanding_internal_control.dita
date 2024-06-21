@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Understanding Internal Control</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.01</b> AU-C section 315B,
+                    <i class="+ topic/ph hi-d/i ">Understanding the Entity and Its Environment and
+                    Assessing the Risks of Material Misstatement</i>, addresses the auditor’s
+                responsibility to identify and assess the risks of material misstatement in the
+                financial statements through understanding the entity and its environment, including
+                the entity’s internal control. <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn2" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for example,
+                        “AU-C section 200B”) denotes content that does not reflect the codification
+                        of Statement on Auditing Standards (SAS) Nos. 134–140 or the amendments to
+                        other SASs made by SAS Nos. 134–140 and subsequently issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn2"/>
+         </ph> Obtaining an understanding of the entity and its environment, including
+                the entity’s internal control, is a continuous, dynamic process of gathering,
+                updating, and analyzing information throughout the audit. The understanding obtained
+                enables the auditor to identify and assess the risks of material misstatement at the
+                financial statement and assertion levels, thereby providing a basis for designing
+                and implementing responses to the assessed risks of material misstatement. The
+                volume and variety of the financial instrument transactions of an entity typically
+                determine the nature and extent of controls that may exist at an entity. An
+                understanding of how financial instruments are monitored and controlled assists the
+                auditor in determining the nature, timing, and extent of audit procedures.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.02</b> AU-C section 315B
+                requires the auditor to obtain a sufficient understanding of internal control by
+                performing risk assessment procedures to</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluate the design of controls relevant to an audit of financial
+                        statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">determine whether they have been implemented.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">The auditor is required to use this knowledge to</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">identify types of potential misstatements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">consider factors that affect the risks of material misstatement.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">design tests of controls, when applicable, and substantive
+                        procedures.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.03</b> AU-C section 315B
+                explains that the division of internal control into the following five components,
+                for purposes of generally accepted accounting standards, provides a useful framework
+                for auditors when considering how different aspects of an entity’s internal control
+                may affect the audit:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The control environment</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The entity’s risk assessment process</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The information system, including the related business processes relevant
+                        to financial reporting and communication</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Control activities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monitoring of controls</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.04</b> The division does
+                not necessarily reflect how an entity designs, implements, and maintains internal
+                control or how it may classify any particular component. Auditors may use different
+                terminology or frameworks to describe the various aspects of internal control and
+                their effect on the audit other than those used in this section, provided that all
+                the components described in this section are addressed.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.05</b> This chapter
+                provides background information and examples of controls that may exist in an entity
+                that deals in a high volume of financial instrument transactions, whether for
+                trading or investing purposes. The examples are not meant to be exhaustive, and
+                entities may establish different control environments and processes depending on
+                their size, the industry in which they operate, and the extent of their financial
+                instrument transactions. The following four Technical Questions and Answers
+                (Q&amp;A) sections <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn3" class="- topic/fn ">
+               <p class="- topic/p ">
+                  <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../tpa.dita#UUID-918c674a-0785-2556-70d8-0c67e52c7298">Technical Questions and Answers</xref>
+                     <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffd9d78" class="- topic/unknown ">Technical Questions and
+                            Answers</unknown>
+                  </i> is not a source of established authoritative
+                        accounting principles as described in the FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                            Codification</i>
+                  <sup class="+ topic/ph hi-d/sup ">®</sup>, the authoritative
+                        source of U.S. generally accepted accounting principles for nongovernmental
+                        entities. This nonauthoritative material is based on selected practice
+                        matters identified by the staff of the AICPA <xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa.org/research/technicalhotline.html">Technical Hotline</xref> and various other bodies within the AICPA and
+                        has not been approved, disapproved, or otherwise acted upon by any senior
+                        technical committee of the AICPA.</p>
+               <p class="- topic/p ">    All Q&amp;A sections can be found in <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../tpa.dita#UUID-918c674a-0785-2556-70d8-0c67e52c7298">Technical Questions and Answers</xref>
+                     <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffdbcb0" class="- topic/unknown ">Technical Questions and
+                            Answers</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn3"/>
+         </ph> address internal control:</p>
+      <table outputclass="ruled" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3_table1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../tpa/tis_8000/tis_8200/tis_8200.dita#UUID-8f6d8c1f-655f-1884-8540-1059136f4689/UUID-8f6d8c1f-655f-1884-8540-1059136f4689_tis_8200.17">8200.17</xref>, “Obtaining an Understanding of Business
+                                Processes Relevant to Financial Reporting and Communication” <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffdd1f7" class="- topic/unknown ">Q&amp;A Section 8200</unknown>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">This Q&amp;A section addresses whether auditors are required to
+                                obtain an understanding of business processes relevant to financial
+                                reporting and communication in every audit engagement.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../tpa/tis_8000/tis_8200/tis_8200.dita#UUID-8f6d8c1f-655f-1884-8540-1059136f4689/UUID-8f6d8c1f-655f-1884-8540-1059136f4689_tis_8200.18">8200.18</xref>, “Obtaining an Understanding of Internal Control
+                                Relevant to the Audit” <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffe06f6" class="- topic/unknown ">Q&amp;A Section 8200</unknown>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">This Q&amp;A section addresses whether an understanding of
+                                internal control relevant to the audit should encompass more than
+                                control activities.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../tpa/tis_8000/tis_8200/tis_8200.dita#UUID-8f6d8c1f-655f-1884-8540-1059136f4689/UUID-8f6d8c1f-655f-1884-8540-1059136f4689_tis_8200.19">8200.19</xref>, “Obtaining an Understanding of the Controls
+                                Relevant to the Audit” <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffe1dc6" class="- topic/unknown ">Q&amp;A Section 8200</unknown>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">This Q&amp;A section addresses whether an understanding of
+                                controls relevant to the audit requires that the auditor evaluate
+                                the design of controls relevant to the audit and determine whether
+                                they have been implemented every year.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../tpa/tis_8000/tis_8200/tis_8200.dita#UUID-8f6d8c1f-655f-1884-8540-1059136f4689/UUID-8f6d8c1f-655f-1884-8540-1059136f4689_tis_8200.20">8200.20</xref>, “Control Activities That Are Always Relevant to
+                                the Audit” <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffe3439" class="- topic/unknown ">Q&amp;A Section 8200</unknown>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">This Q&amp;A section addresses the control activities that are
+                                always considered to be relevant in every audit.</p>
+                  </entry>
+               </row>
+               <row valign="top" class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../tpa/tis_8000/tis_8200/tis_8200.dita#UUID-8f6d8c1f-655f-1884-8540-1059136f4689/UUID-8f6d8c1f-655f-1884-8540-1059136f4689_tis_8200.21">8200.21</xref>, “Control Activities That May Be Relevant to the
+                                Audit” <unknown id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_N661754ffe4c5a" class="- topic/unknown ">Q&amp;A Section 8200</unknown>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">This Q&amp;A section addresses the control activities that may
+                                vary from audit engagement to audit engagement and may be relevant
+                                to the audit (based on the auditor’s judgment).</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.06</b> As in any control
+                system, it is sometimes necessary to duplicate controls at different control levels
+                (for example, preventative, detective, and monitoring) to avoid the risk of material
+                misstatement.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

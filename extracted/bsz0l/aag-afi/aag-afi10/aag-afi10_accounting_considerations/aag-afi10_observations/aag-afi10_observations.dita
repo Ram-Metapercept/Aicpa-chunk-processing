@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-11f87863-e3fe-48a6-7f78-7b0ff818a8e1" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Observations</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.14</b> JLM’s fixed-rate bond obligation together
+                    with the interest rate swap it entered into is economically equal to a
+                    variable-rate obligation as a result of entering into the interest rate swap.
+                    For example, interest expense for the quarter ended June 30, 20X1, was $21,250,
+                    consisting of $20,000 paid under the bond plus $1,250 paid under the swap. This
+                    equals interest on the bond at the variable rate of 8.5% ($1,000,000 × 8.5% ×
+                    3/12 = $21,250). Due to the fact that the benchmark interest rate increased
+                    during the first 5 months of the hedging relationship, the fair value of the
+                    interest rate swap decreased, resulting in JLM making net interest cash payments
+                    on the settlement dates.</p>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.15</b> The fair value of the bond obligation
+                    decreased as a result of the increase in the benchmark interest rate. The
+                    decrease in the fair value of the bond created unrealized gain that was
+                    partially offset by the unrealized loss from the decrease in the fair value of
+                    the swap (which resulted in recognizing a liability). The fair value change in
+                    the bond obligation was compared with the change in the fair value of the
+                    interest rate swap to determine hedge effectiveness (that is, within 80% to 125%
+                    of each other). Once determined, the change in the fair value of the bond
+                    obligation attributable to changes in the benchmark interest rate was recognized
+                    in earnings as an offset to the change in fair value of the interest rate
+                    swap.</p>
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.16</b> The results were that at March 31 and
+                    June 30, the changes in fair value of the interest rate swap were highly
+                    effective in offsetting the changes in fair value of the bond obligation
+                    attributable to changes in the benchmark interest rate. Furthermore, the hedge
+                    ineffectiveness (that is, $5,000 at March 31) was recognized currently in
+                    earnings.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-a3dcb338-75cc-88ff-ec76-d0dac52acad6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Amounts Excluded from the Assessment of Hedge
+                        Effectiveness</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Current GAAP permits an entity to exclude option premiums and forward
+                        points from the assessment of hedge effectiveness. The amendments in this
+                        ASU continue to allow an entity to exclude those components of a hedging
+                        instrument’s change in fair value from the assessment of hedge
+                        effectiveness. Additionally, the amendments permit an entity to exclude the
+                        portion of the change in fair value of a currency swap that is attributable
+                        to a cross-currency basis spread from the assessment of hedge
+                        effectiveness.</p>
+      <p class="- topic/p ">For all types of hedges, if an entity excludes certain portions of a
+                        hedging instrument’s change in fair value from the assessment of hedge
+                        effectiveness (excluded component), the amendments permit an entity to
+                        recognize in earnings the initial value of the excluded component using a
+                        systematic and rational method over the life of the hedging instrument. If
+                        an entity elects this method, any difference between the change in fair
+                        value of the excluded component and amounts recognized under the systematic
+                        and rational method is recognized in other comprehensive income, whereas for
+                        net investment hedges, the difference is recognized in the cumulative
+                        translation adjustment section of other comprehensive income. An entity also
+                        may elect to recognize all fair value changes in an excluded component
+                        currently in earnings, consistent with current GAAP.</p>
+      <p class="- topic/p ">For fair value and cash flow hedges, an entity should present amounts
+                        related to excluded components that are recognized in earnings in the same
+                        income statement line item that is used to present the earnings effect of
+                        the hedged item. For net investment hedges, the amendments do not specify a
+                        required presentation for excluded components.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-454ac93a-91a5-362a-db6c-d358ef5db072" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Substantive Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.15</b> Designing
+                    substantive procedures includes consideration of</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">the use of analytical procedures. <ph class="- topic/ph ">
+                  <fn callout="5" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn5" class="- topic/fn ">
+                     <p class="- topic/p ">Paragraph .06<i class="+ topic/ph hi-d/i ">b</i> of AU-C
+                                    section 315B requires the auditor to apply analytical procedures
+                                    as risk assessment procedures to assist in assessing the risks
+                                    of material misstatement in order to provide a basis for
+                                    designing and implementing responses to the assessed risks.
+                                    Paragraph .06 of AU-C section 520B, <i class="+ topic/ph hi-d/i ">Analytical Procedures</i>, requires the auditor to
+                                    use analytical procedures in forming an overall conclusion on
+                                    the financial statements. Analytical procedures may also be
+                                    applied at other stages of the audit.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi4_substantive_procedures.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-454ac93a-91a5-362a-db6c-d358ef5db072/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn5"/>
+               </ph> Although analytical procedures undertaken by the auditor can
+                            be effective as risk assessment procedures to provide the auditor with
+                            information about an entity’s business, they may be less effective as
+                            substantive procedures when performed alone because the complex
+                            interplay of the drivers of the valuation often mask any unusual trends
+                            that might arise.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">nonroutine transactions. Many financial transactions are negotiated
+                            contracts between an entity and its counterparty (often known as over
+                            the counter [OTC]). To the extent that financial instrument transactions
+                            are not routine and outside an entity’s normal activities, a substantive
+                            audit approach may be the most effective means of achieving the planned
+                            audit objectives. In instances when financial instrument transactions
+                            are not undertaken routinely, the auditor’s responses to assessed risk,
+                            including designing and performing audit procedures, take into
+                            consideration the entity’s possible lack of experience in this
+                            area.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">availability of evidence. For example, when the entity uses a
+                            third-party pricing source, evidence concerning the relevant financial
+                            statement assertions may not be available from the entity.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">procedures performed in other audit areas. Procedures performed in
+                            other financial statement areas may provide evidence about the
+                            completeness of financial instrument transactions. These procedures may
+                            include tests of subsequent cash receipts and payments and the search
+                            for unrecorded liabilities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the selection of items for testing. In some cases, the financial
+                            instrument portfolio will comprise instruments with varying complexity
+                            and risk. In such cases, judgmental selection of items may be
+                            useful.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.16</b> For example, in
+                    the case of an asset-backed security, in responding to the risks of material
+                    misstatement for such a security, the auditor may consider performing some of
+                    the following audit procedures related to the valuation assertion:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Examining contractual documentation to understand the terms of the
+                            security, the underlying collateral, and the rights of each class of
+                            security holder</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Inquiring about management’s process of estimating cash flows</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Evaluating the reasonableness of assumptions, such as prepayment
+                            rates, default rates, and loss reserves</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Obtaining an understanding of the method used to determine the cash
+                            flow "waterfall"</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Comparing the results of the fair value measurement with the
+                            valuations of other financial instruments with similar underlying
+                            collateral and terms</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reperforming calculations</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

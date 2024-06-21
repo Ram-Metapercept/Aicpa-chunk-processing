@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-5ea41a2c-1f17-349a-79d0-7a3a9a5d80ec" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Applicability of Quality Control Standards</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">
+         <xref format="dita" class="- topic/xref " href="../../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8">QM section 10A</xref>, <i class="+ topic/ph hi-d/i ">A Firm’s System of Quality
+                    Control</i>, <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn2" class="- topic/fn ">
+               <p class="- topic/p ">All QM sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                     <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff65cbe" class="- topic/unknown ">AICPA Professional
+                            Standards</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_preface_applicability_of_quality_control.dita#UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-5ea41a2c-1f17-349a-79d0-7a3a9a5d80ec/UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn2"/>
+         </ph> addresses a CPA firm’s responsibilities for its system of quality
+                control for its accounting and auditing practice. A system of quality control
+                consists of policies that a firm establishes and maintains to provide it with
+                reasonable assurance that the firm and its personnel comply with professional
+                standards, as well as applicable legal and regulatory requirements. The policies
+                also provide the firm with reasonable assurance that reports issued by the firm are
+                appropriate in the circumstances. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff63c40" class="- topic/unknown ">QM Section 10A</unknown>
+      </p>
+      <p class="- topic/p ">
+         <xref format="dita" class="- topic/xref " href="../../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8">QM section 10A</xref> applies to all CPA firms with respect to engagements in
+                their accounting and auditing practice. In <xref format="dita" class="- topic/xref " href="../../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a_definitions/qm_10a_definitions.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_UUID-423b6638-b4fe-d52b-9420-ae66ee11134b/UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8_qm_10a.13">paragraph .13</xref> of QM section 10A, an <i class="+ topic/ph hi-d/i ">accounting
+                    and auditing practice</i> is defined as <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff67095" class="- topic/unknown ">QM Section 10A</unknown>
+         <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff68480" class="- topic/unknown ">Definitions</unknown>
+      </p>
+      <lq class="- topic/lq ">
+         <p class="- topic/p ">a practice that performs engagements covered by this section, which are audit,
+                    attestation, compilation, review, and any other services for which standards
+                    have been promulgated by the AICPA Auditing Standards Board (ASB) or the AICPA
+                    Accounting and Review Services Committee (ARSC) under the “<xref format="dita" class="- topic/xref " href="../../../ps/code_of_professional_conduct_revised/et-cod_part1/et-cod1_300/et-cod1_300_001/et-cod1_300_001.dita#UUID-a781b161-ed8a-b9c3-478b-88ffc649763c_UUID-cec94ef5-5878-e164-9ccb-913170611e07">General Standards Rule</xref>” (ET sec.1.300.001) <ph class="- topic/ph ">
+               <fn callout="3" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn3" class="- topic/fn ">
+                  <p class="- topic/p ">All ET sections can be found in AICPA <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">
+                        <i class="+ topic/ph hi-d/i ">Professional
+                                Standards</i>
+                     </xref>. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff6d93c" class="- topic/unknown ">AICPA Professional Standards</unknown>
+                  </p>
+               </fn>
+               <xref type="fn" class="- topic/xref " href="aag-afi_preface_applicability_of_quality_control.dita#UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-5ea41a2c-1f17-349a-79d0-7a3a9a5d80ec/UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn3"/>
+            </ph> or the “<xref format="dita" class="- topic/xref " href="../../../ps/code_of_professional_conduct_revised/et-cod_part1/et-cod1_310/et-cod1_310_001/et-cod1_310_001.dita#UUID-0add6fdb-8d33-d9a5-c392-8ae75a1c9eaf_UUID-3c097ff5-6b6a-7e4d-65d5-1167be9fba08">Compliance With Standards Rule</xref>” (ET sec. 1.310.001) of the AICPA
+                    Code of Professional Conduct. Although standards for other engagements may be
+                    promulgated by other AICPA technical committees, engagements performed in
+                    accordance with those standards are not encompassed in the definition of an
+                        <i class="+ topic/ph hi-d/i ">accounting and auditing practice</i>. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff6b996" class="- topic/unknown ">1.300.001    General Standards Rule</unknown>
+            <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff6ecb6" class="- topic/unknown ">1.310.001    Compliance With Standards
+                    Rule</unknown>
+         </p>
+      </lq>
+      <p class="- topic/p ">In addition to the provisions of <xref format="dita" class="- topic/xref " href="../../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8">QM section 10A</xref>, readers should be aware of other sections within AICPA
+                    <i class="+ topic/ph hi-d/i ">
+            <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+            <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff71fb3" class="- topic/unknown ">AICPA Professional Standards</unknown>
+         </i>
+                that address quality control considerations, including the following provisions that
+                address engagement-level quality control matters for various types of engagements
+                that an accounting and auditing practice might perform: <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff70bcb" class="- topic/unknown ">QM Section 10A</unknown>
+      </p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">AU-C section 220B, <i class="+ topic/ph hi-d/i ">Quality Control for an
+                            Engagement Conducted in Accordance With Generally Accepted Auditing
+                            Standards</i>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <xref format="dita" class="- topic/xref " href="../../../ps/atc_attestation_standards_clarified/atc_section_100/atc_105/atc_105.dita#UUID-b0216308-1651-d1d0-86df-ccbfa3001093">AT-C section 105</xref>, <i class="+ topic/ph hi-d/i ">Concepts Common to All
+                            Attestation Engagements</i>
+               <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">All AT-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                           <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                           <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff753f5" class="- topic/unknown ">AICPA Professional
+                                        Standards</unknown>
+                        </i>.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi_preface_applicability_of_quality_control.dita#UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-5ea41a2c-1f17-349a-79d0-7a3a9a5d80ec/UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn4"/>
+               </ph>
+               <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff73449" class="- topic/unknown ">AT-C Section 105</unknown>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <xref format="dita" class="- topic/xref " href="../../../ps/arc_accounting_and_review_standards_clarified/arc_statements_on_standards_for_accounting_and_review_services_clarified/arc_60a/arc_60a.dita#UUID-4b61d4f0-2866-c819-f6a4-fd0cb7903b08">AR-C section 60A</xref>, <i class="+ topic/ph hi-d/i ">General Principles for
+                            Engagements Performed in Accordance With Statements on Standards for
+                            Accounting and Review Services</i>
+               <ph class="- topic/ph ">
+                  <fn callout="5" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn5" class="- topic/fn ">
+                     <p class="- topic/p ">All AR-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                           <xref format="dita" class="- topic/xref " href="../../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                           <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff79cc4" class="- topic/unknown ">AICPA Professional
+                                        Standards</unknown>
+                        </i>.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi_preface_applicability_of_quality_control.dita#UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-5ea41a2c-1f17-349a-79d0-7a3a9a5d80ec/UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709-aag-afi-preface-fn5"/>
+               </ph>
+               <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff768ee" class="- topic/unknown ">AR-C Section 60A</unknown>
+            </p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Because of the importance of engagement quality, this guide includes <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi_appA/aag-afi_appA.dita#UUID-850ffb8e-c36e-5737-b5ce-f90e45c5d764">appendix A</xref>, “Overview of Statements on Quality Control Standards,” which
+                summarizes key aspects of the quality control standard. This summarization should be
+                read in conjunction with <xref format="dita" class="- topic/xref " href="../../../ps/quality_management/qc_section__statements_on_quality_control_standards/qm_10a/qm_10a.dita#UUID-6ba0aadc-0a14-5c3a-ac41-04387813c2a8">QM section 10A</xref>, AU-C section 220B, and the quality control standards
+                issued by the PCAOB, as applicable. <unknown id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_N661754ff7b06d" class="- topic/unknown ">QM Section 10A</unknown>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

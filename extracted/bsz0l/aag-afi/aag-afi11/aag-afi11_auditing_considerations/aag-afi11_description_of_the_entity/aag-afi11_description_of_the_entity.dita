@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-63d4481d-de42-8941-6c57-fc538fdcf9e6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Description of the Entity</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.23</b> Austin-Jhanes
+                    is a U.S. manufacturer that sells its products both domestically and outside the
+                    United States. Its foreign sales are denominated in foreign currencies, although
+                    its functional currency is the U.S. dollar.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.24" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.24</b> The entity
+                    uses derivatives regularly to hedge forecasted foreign currency-denominated
+                    sales and purchases of raw materials. Derivatives are used to a lesser extent
+                    for management of U.S. interest rate risk (for example, converting fixed-rate
+                    debt to floating debt using interest rate swaps). (For purposes of this case
+                    study, only the accounting for the hedging of a forecasted foreign
+                    currency-denominated sale is illustrated.) Derivatives are not used for
+                    investment purposes.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.25</b> The board of
+                    directors has authorized management of Austin-Jhanes to enter into derivatives
+                    for hedging purposes, and the board receives periodic reports on the intent of
+                    usage, as well as hedge effectiveness.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.26</b> All
+                    derivatives transactions are executed through a centralized group of traders
+                    that reports to the CFO. The traders and CFO are very knowledgeable about
+                    derivatives. There is a formal risk management process for derivatives.
+                    Austin-Jhanes has systems in place to monitor the risks being hedged, as well as
+                    the ongoing effectiveness of the hedges. The trading desk executes derivatives
+                    transactions only with counterparties that have been approved after careful
+                    assessment of creditworthiness. There are limits on the credit exposure to any
+                    one counterparty and the extent to which derivatives can be used to hedge a
+                    given exposure.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.27</b> <i class="+ topic/ph hi-d/i ">Control environment</i>. Because of senior management’s
+                    integrity and ethical values, its commitment to competence, its active
+                    involvement with the business, its philosophy and operating style, and the
+                    operating structure it has imposed, Austin-Jhanes’ overall control environment
+                    is sound.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.28</b> <i class="+ topic/ph hi-d/i ">Risk assessment</i>. Austin-Jhanes’ CFO conducts weekly
+                    meetings with the derivatives traders to discuss the financial markets generally
+                    and to assess the entity’s position in derivatives, including ongoing hedge
+                    effectiveness. This discussion includes an assessment of the valuation of the
+                    derivatives, as well as the hedged exposures, with particular emphasis on
+                    derivatives and exposures that are not exchange traded or are traded in a broad
+                    interbank market. Sales forecasts, significant forecasted transactions, and
+                    other issues also are discussed in order to plan for required upcoming hedging
+                    activities. The use of new types of derivatives or the execution of transactions
+                    with new counterparties must be discussed with, and approved by, the CFO.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.29</b> <i class="+ topic/ph hi-d/i ">Control activities</i>. Control activities include,
+                    among other things, the following:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Controls have been implemented with respect to control objectives
+                            of</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">completeness of records.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">validity of records.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">restricted access to assets.</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Segregation of the accounting function from trade authorization and
+                            execution. The accounting department is responsible for cash and
+                            derivatives position reconciliations between the accounting and trading
+                            records and broker or counterparty statements. Quarterly, the controller
+                            reviews hedging activities for compliance with the requirements of FASB
+                            ASC 815, <i class="+ topic/ph hi-d/i ">Derivatives and
+                            Hedging</i>.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Data files with such information as counterparty limits are maintained
+                            apart from the traders. The CFO authorizes any changes to these
+                            files.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Austin-Jhanes’ derivatives trading system has an automated interface
+                            with the general ledger and updates the general ledger monthly.
+                            Movements of cash associated with derivatives transactions are
+                            authorized and executed by the treasurer’s department, which is separate
+                            from the derivatives trading group.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Austin-Jhanes’ derivatives trading, sales, accounting, and other
+                            transaction processing activities are highly automated. There are
+                            effective general computer controls at the data centers that process the
+                            entity’s transactions and other information.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.30</b> <i class="+ topic/ph hi-d/i ">Information and communication</i>. The CFO and
+                    controller receive monthly reports summarizing derivatives transactions for the
+                    period and the positions at the end of the month. (See the discussion of
+                    monitoring controls for descriptions of this and other reports.)</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.31</b> The CFO
+                    advises the audit committee at its quarterly meetings on the status of the
+                    entity’s derivatives positions, realized and unrealized gains, compliance with
+                    Austin-Jhanes’ derivatives policy, and any other information that would be
+                    useful for the audit committee in carrying out its responsibilities.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.32</b> The notes to
+                    the entity’s financial statements contain a description of the entity’s
+                    accounting policy for derivatives and other information required by the
+                    applicable financial reporting framework.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.33</b> <i class="+ topic/ph hi-d/i ">Monitoring</i>. The CFO and controller perform monthly
+                    reviews of Austin-Jhanes’ performance in using derivatives, including their
+                    effectiveness, and, in the case of hedges of forecasted transactions, whether
+                    the forecasted transaction continues to meet the requirements for hedge
+                    accounting.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.34" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.34</b> The CFO and
+                    controller receive monthly reports that provide information that enables them to
+                    identify any material breakdowns in controls, problems with the underlying
+                    systems, or possible material misstatements in the information. The reports
+                    include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">realized and unrealized gain or loss on derivatives and hedged
+                            exposures, as well as a statistical measurement of correlation of
+                            changes in their values.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">transaction volumes and trends.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">derivatives positions by exchange; counterpart; or type of instrument,
+                            with a comparison with established limits. The CFO receives notification
+                            as limits are approached. The system does not allow limits to be
+                            exceeded without the CFO’s approval.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">information on various reconciliations, including an aging of
+                            reconciling items and resolution status.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

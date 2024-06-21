@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_UUID-de3e1a5f-444e-4b37-0699-5af60e549eb3" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Design of the Procedures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">10.25</b> The auditor
+                    defined the following objectives and related procedures for the audit of
+                    assertions about the interest rate swap:</p>
+      <table outputclass="ruled" id="UUID-03554952-1db2-27ad-7e98-dd6e50f94a24_aag-afi10_table3" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Audit Objective</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Procedure</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">All derivatives JLM has entered into are reported in its
+                                    statement of financial position.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read minutes of the board of directors for approval of
+                                            derivatives transactions.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Confirm at year-end the existence, rights, and
+                                            obligations and description of the swap with the
+                                            broker-dealer.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Examine broker-dealer’s advice evidencing purchase or
+                                            issuance in JLM’s name.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Derivatives transactions are approved in accordance with JLM’s
+                                    investment policy.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read JLM’s investment policy, and compare the interest
+                                            rate swap with the policy to determine if the swap’s
+                                            terms are within the policy’s guidelines.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read minutes of the board of directors to determine if
+                                            approval to enter into the swap was obtained.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The fair values of the swap and bond are reasonable.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Obtain an understanding, and evaluate the relationship
+                                            between the broker-dealer and JLM.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Obtain an understanding of the methodology behind the
+                                            broker-dealer’s valuation. Alternatively, use a
+                                            valuation consultant to assist in evaluating the
+                                            reasonableness of the estimate of fair value, taking
+                                            into consideration the requirements of AU-C section
+                                            620B, <i class="+ topic/ph hi-d/i ">Using the Work of an
+                                                Auditor’s Specialist</i>.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The designation of the interest rate swap as a hedge meets the
+                                    applicable criteria for hedge accounting at inception and
+                                    ongoing, including the documentation requirement.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read the board of directors’ minutes that document the
+                                            formal designation of the swap as a hedge of the fair
+                                            value of the bond obligation.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Confirm (in the management representation letter) the
+                                            designation of the swap as a hedge at the date of
+                                            inception and each subsequent measurement date.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Examine documentation that supports the designation,
+                                            documentation, and risk management requirements of FASB
+                                                <i class="+ topic/ph hi-d/i ">Accounting Standards
+                                                Codification</i> (ASC) 815, <i class="+ topic/ph hi-d/i ">Derivatives and
+                                            Hedging</i>.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Recompute JLM’s calculation of hedge effectiveness
+                                            using the methodology prescribed by management, noting
+                                            whether the hedge effectiveness is assessed in a similar
+                                            manner to other hedging strategies of JLM.</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read board of directors’ minutes for documentation of
+                                            the board’s periodic review of hedging
+                                            effectiveness.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The journal entries required to record the effect of the
+                                    interest rate swap are appropriate.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Review journal entries in relation to supporting
+                                            documentation, including the broker-dealer’s advice and
+                                            cancelled checks for interest payments made on the bond
+                                            obligation and interest rate swap.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Presentation is appropriate and disclosure adequate.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <ul outputclass="ul bullet" class="- topic/ul ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Read the financial statements, and compare the
+                                            presentation and disclosure with the requirements of
+                                            FASB ASC 815.</p>
+                        </li>
+                     </ul>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

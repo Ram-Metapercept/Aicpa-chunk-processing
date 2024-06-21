@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-6cc0ec83-f22c-b0be-1910-5ada68d03f21" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Description of the Transaction</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.07</b> Austin-Jhanes
+                    is a U.S. manufacturing (and reporting) entity with sales to foreign purchasers.
+                    Its forecasted sales are denominated in foreign currency but do not represent
+                    firm commitments. As of September 30, 20X1, Austin-Jhanes forecasts that a
+                    specific foreign currency sale of FC 10 million will occur on March 31, 20X2. At
+                    the current spot rate of 2 FC/1 U.S. $, this expected sale equals $5 million.
+                    Austin-Jhanes’ historical experience with the foreign customer for the
+                    forecasted sale indicates the sale is probable. Management is concerned that
+                    between September 30, 20X1, and March 31, 20X2, the foreign currency will weaken
+                    relative to the dollar.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.08</b> Pursuant to
+                    its foreign exchange risk-management policy, Austin-Jhanes manages its currency
+                    risk by purchasing a foreign currency put option. It considers this transaction
+                    to be a cash flow hedge of a foreign currency-denominated transaction that is in
+                    accordance with FASB ASC 815, <i class="+ topic/ph hi-d/i ">Derivatives and
+                        Hedging</i>, subtopics 815−20, “Hedging — General,” and 815−30, “Cash
+                    Flow Hedges.” The terms of the purchased option are as follows:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="left" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Contract amount</p>
+                  </entry>
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">FC 10,000,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Expiration date</p>
+                  </entry>
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">March 31, 20X2</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Strike exchange rate (that is, the contract rate)</p>
+                  </entry>
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2 FC/1 U.S. $</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Spot exchange rate</p>
+                  </entry>
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2 FC/1 U.S. $</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Premium</p>
+                  </entry>
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.09</b> The option is
+                    purchased at the money (that is, at the spot rate). Therefore, the premium on
+                    September 30, 20X1, reflects the option’s time value only. The option is
+                    designated as a hedge of the forecasted sale, and management expects that at the
+                    hedge’s inception and through the period until the forecasted sale, the hedge
+                    will be highly effective. Accordingly, management expects that cash flows
+                    received on the exercised option will offset foreign exchange losses on the cash
+                    sale, thereby assuring net U.S. dollar receipts of $5 million (excluding the put
+                    option premium) on March 31, 20X2.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.10</b> Austin-Jhanes
+                    decides to assess effectiveness on the basis of the option’s <i class="+ topic/ph hi-d/i ">intrinsic value</i> that it defines as the value of the
+                    option that reflects the positive difference between the spot exchange rate and
+                    strike exchange rate. Because changes in the time value of the option have been
+                    excluded from the assessment of the hedge’s effectiveness, changes in these
+                    amounts will be included in earnings during the periods they occur.</p>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.11</b> During the
+                    period, the foreign currency weakened relative to the dollar. The spot rates for
+                    calculating the fair value of the option are as follows:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table2" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="center" class="- topic/colspec "/>
+            <colspec colname="c3" align="center" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Contract Rate</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Spot Rate</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">September 30, 20X1</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2.00</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2.00</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">December 31, 20X1</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2.00</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2.10</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">March 31, 20X2</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2.00</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2.30</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.12</b> The fair
+                    value, intrinsic value, and time value of the put option are as follows:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table3" class="- topic/table ">
+         <tgroup cols="4" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <colspec colname="c3" align="right" class="- topic/colspec "/>
+            <colspec colname="c4" align="right" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">(A)</i>
+                        <ph class="- topic/ph ">
+                           <fn callout="3" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn3" class="- topic/fn ">
+                              <p class="- topic/p ">The fair value may be based on observable prices,
+                                            recent transactions, third-party pricing services,
+                                            broker or dealer quotes, or models prepared by
+                                            management or management’s specialists. See additional
+                                            guidance on techniques that management may use to value
+                                            financial instruments in <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi1/aag-afi1_valuation_of_financial_instruments/aag-afi1_effects_of_inactive_markets/aag-afi1_effects_of_inactive_markets.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-58c3eab9-3ea9-b89c-2826-bfa56db7e9d6/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.33">paragraphs 1.33–.55</xref> of this guide.</p>
+                           </fn>
+                           <xref type="fn" class="- topic/xref " href="aag-afi11_description_of_the_transaction.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-6cc0ec83-f22c-b0be-1910-5ada68d03f21/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn3"/>
+                        </ph>
+                     </p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Fair Value</i>
+                     </p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">(B)</i>
+                        <ph class="- topic/ph ">
+                           <fn callout="4" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn4" class="- topic/fn ">
+                              <p class="- topic/p ">Intrinsic value is computed based on the changes in
+                                            spot rates as compared with the strike rate.</p>
+                           </fn>
+                           <xref type="fn" class="- topic/xref " href="aag-afi11_description_of_the_transaction.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-6cc0ec83-f22c-b0be-1910-5ada68d03f21/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn4"/>
+                        </ph>
+                     </p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Intrinsic Value</i>
+                     </p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">(A)–(B)</i>
+                     </p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Time Value</i>
+                     </p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">September 30, 20X1</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$ —</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">December 31, 20X1</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">248,095</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">238,095 <ph class="- topic/ph ">
+                           <fn callout="5" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn5" class="- topic/fn ">
+                              <p class="- topic/p ">Foreign currency [FC] 10,000,000 ÷ 2.00 = $5,000,000)
+                                            less (FC 10,000,000 ÷ 2.10 = $4,761,905) =
+                                            $238,095.</p>
+                           </fn>
+                           <xref type="fn" class="- topic/xref " href="aag-afi11_description_of_the_transaction.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-6cc0ec83-f22c-b0be-1910-5ada68d03f21/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn5"/>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">10,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">March 31, 20X2</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">652,174</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">652,174 <ph class="- topic/ph ">
+                           <fn callout="6" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn6" class="- topic/fn ">
+                              <p class="- topic/p ">(FC 10,000,000 ÷ 2.00 = $5,000,000) less (FC
+                                            10,000,000 ÷ 2.30 = $4,347,826) = $652,174. The increase
+                                            in intrinsic value is $414,079 ($652,174 less
+                                            $238,095).</p>
+                           </fn>
+                           <xref type="fn" class="- topic/xref " href="aag-afi11_description_of_the_transaction.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-6cc0ec83-f22c-b0be-1910-5ada68d03f21/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn6"/>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">—</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.13</b> Management
+                    used that information to prepare a hedge-effective analysis as follows:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table4" class="- topic/table ">
+         <tgroup cols="7" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <colspec colname="c3" class="- topic/colspec "/>
+            <colspec colname="c4" class="- topic/colspec "/>
+            <colspec colname="c5" class="- topic/colspec "/>
+            <colspec colname="c6" class="- topic/colspec "/>
+            <colspec colname="c7" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Date</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cumulative Change in the Option’s Intrinsic Value</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">For the Period</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cumulative Change in Expected Cash Flows Based on Changes in
+                                    the FC Spot Rate</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cumulative</p>
+                  </entry>
+                  <entry namest="c6" nameend="c7" align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Effectiveness Ratio</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">12/31/X1</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$238,095</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$(238,095)</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">1.00</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">1.00</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">3/31/X2</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">652,174</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">(652,174)</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">1.00</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">1.00</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c7" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Austin-Jhanes has determined that the hedging relationship
+                                    between the option contract and forecasted sales proceeds is
+                                    highly effective in achieving the offset in changes of cash
+                                    flows due to changes in foreign currency exchange rates.
+                                    Management has formally documented the hedging relationship, as
+                                    well as its objectives for entering into the hedge.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

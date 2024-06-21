@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-927615e0-0b19-4932-8686-d0f512c6ed9c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">FASB ASU No. 2019-04</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">In April 2019, FASB issued ASU No. 2019-04 to clarify, correct, and
+                        improve various aspects of the guidance in ASU Nos. 2016-01, 2016-13, and
+                        2017-12 related to financial instruments. The discussion herein will only
+                        address those amendments related to ASU No. 2017-12. Amendments related to
+                        ASU Nos. 2016-01 and ASU No. 2016-13 were addressed in previous sections of
+                        this appendix.</p>
+      <p class="- topic/p ">ASU No. 2019-04 clarifies certain aspects of the amendments in ASU No.
+                        2017-12 as follows:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Partial-term fair value hedges of interest
+                                    rate risk.</i> The amendments clarify that an entity may
+                                measure the change in fair value of a hedged item using an assumed
+                                term only for changes attributable to interest rate risk. They also
+                                clarify that an entity may measure the change in the fair value of
+                                the hedged item attributable to interest rate risk using an assumed
+                                term when the hedged item is designated in a hedge of both interest
+                                rate risk and foreign exchange risk. In that instance, the change in
+                                carrying value of the hedged item attributable to foreign exchange
+                                risk must continue to be measured based on changes in the spot
+                                exchange rate in accordance with FASB ASC 815-25-35-18. In addition,
+                                the amendments clarify that one or more separately designated
+                                partial-term fair value hedging relationships of a single financial
+                                instrument can be outstanding at the same time, and for
+                                forward-starting partial-term fair value hedges, the issuance of the
+                                hedged item is assumed to occur on the date in which the first
+                                hedged cash flow begins to accrue.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Amortization of fair value hedge basis
+                                    adjustments.</i> The amendments clarify that an entity
+                                may, but is not required to, begin to amortize a fair value hedge
+                                basis adjustment before the fair value hedging relationship is
+                                discontinued. If an entity elects to amortize the basis adjustment
+                                during an outstanding partial-term hedge, that basis adjustment
+                                should be fully amortized by the hedged item’s assumed maturity date
+                                in accordance with FASB ASC 815-25-35-13B.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Disclosure of fair value hedge basis
+                                    adjustments.</i> The amendments clarify that
+                                available-for-sale debt securities should be disclosed at their
+                                amortized cost and that fair value hedge basis adjustments related
+                                to foreign exchange risk should be excluded from the disclosures
+                                required by FASB ASC 815-10-50-4EE.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Consideration of the hedged contractually
+                                    specified interest rate under the hypothetical derivative
+                                    method.</i> The amendment clarifies that an entity should
+                                consider the contractually specified interest rate being hedged when
+                                applying the hypothetical derivative method.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Scope for not-for-profit
+                                    entities.</i> The amendments clarify that a
+                                not-for-profit entity that does not separately report earnings may
+                                not elect the amortization approach for amounts excluded from the
+                                assessment of effectiveness for fair value hedging
+                                relationships.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Hedge accounting provisions applicable to
+                                    certain private companies and not-for-profit
+                                    entities.</i> The amendments clarify that a private
+                                company that is not a financial institution as described in FASB ASC
+                                942-320-50-1 should document the analysis supporting a last-of-layer
+                                hedge designation concurrently with hedge inception. Not-for-profit
+                                entities (except for not-for-profit entities that have issued, or
+                                are a conduit bond obligor for, securities that are traded, listed,
+                                or quoted on an exchange or an over-the-counter market) qualify for
+                                the same subsequent quarterly hedge effectiveness assessment timing
+                                relief for which certain private companies qualify in accordance
+                                with FASB ASC 815-20-25-142.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Application of a first-payments-received
+                                    cash flow hedging technique to overall cash flows on a group of
+                                    variable interest payments.</i> The amendments clarify
+                                that the application of the first-payments-received cash flow
+                                hedging technique to changes in overall cash flows on a group of
+                                variable interest payments continues to be permitted.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Transition guidance update.</i> The
+                                amendment to FASB ASC 815-20-65-3(e)(1) clarifies that transition
+                                adjustments to amend the measurement methodology of the hedged item
+                                in a fair value hedge of interest rate risk should be made as of the
+                                date of initial application of ASU No. 2017-12. The date of initial
+                                application differs from the date of adoption if an entity adopts
+                                the amendments in ASU No. 2017-12 in an interim period. The
+                                amendments also clarify the following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">An entity may rebalance its fair value hedging
+                                        relationships of interest rate risk when it modifies the
+                                        measurement methodology used for the hedged item from total
+                                        contractual coupon cash flows to the benchmark rate
+                                        component of the contractual coupon cash flows by any
+                                        combination of increasing or decreasing the designated
+                                        notional of the hedging instrument or increasing or
+                                        decreasing the designated proportion of the hedged item.
+                                        However, the entity may not add new hedged items or hedging
+                                        instruments to the hedging relationship.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">An entity may transition from a quantitative method of
+                                        hedge effectiveness assessment to a method comparing the
+                                        hedging relationship’s critical terms in accordance with
+                                        paragraphs 84 and 85 of FASB ASC 815-20-25 or paragraphs
+                                        129–129A of FASB ASC 815-20-25 without dedesignating the
+                                        existing hedging relationship if the guidance in those
+                                        paragraphs is met.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">A debt security reclassified from held-to-maturity to
+                                        available-for-sale in accordance with FASB ASC
+                                        815-20-65-3(e)(7) does not call into question an entity’s
+                                        assertion to hold to maturity those debt securities that
+                                        continue to be classified as held-to-maturity, is not
+                                        required to be designated in a last-of-layer hedging
+                                        relationship, and may be sold by an entity after
+                                        reclassification.</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

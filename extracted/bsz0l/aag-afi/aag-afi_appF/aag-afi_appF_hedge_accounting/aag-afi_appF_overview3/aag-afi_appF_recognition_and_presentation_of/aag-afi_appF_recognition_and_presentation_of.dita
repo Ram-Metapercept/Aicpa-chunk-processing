@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-954d9527-641f-d502-a632-600358ab3789" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Recognition and Presentation of the Effects of Hedging
+                        Instruments</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">The amendments in this ASU also align the recognition and presentation of
+                        the effects of the hedging instrument and the hedged item in the financial
+                        statements to increase the understandability of the results of an entity’s
+                        intended hedging strategies.</p>
+      <p class="- topic/p ">The amendments in this ASU require an entity to present the earnings
+                        effect of the hedging instrument in the same income statement line item in
+                        which the earnings effect of the hedged item is reported. This presentation
+                        enables users of financial statements to better understand the results and
+                        costs of an entity’s hedging program. Also, relative to current GAAP, this
+                        approach simplifies the financial statement reporting for qualifying hedging
+                        relationships. The amendments in this ASU require the following recognition
+                        and presentation guidance for qualifying hedges:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">For fair value hedges, the entire change in the fair value of the
+                                hedging instrument included in the assessment of hedge effectiveness
+                                is presented in the same income statement line that is used to
+                                present the earnings effect of the hedged item. The timing of
+                                recognition of the change in fair value of a hedging instrument
+                                included in the assessment of hedge effectiveness is the same as
+                                under current GAAP, but the presentation of hedge results could
+                                change because current GAAP does not specify a required presentation
+                                of the change in fair value of the hedging instrument.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">For cash flow and net investment hedges, the entire change in the
+                                fair value of the hedging instrument included in the assessment of
+                                hedge effectiveness is recorded in other comprehensive income (for
+                                cash flow hedges) or in the currency translation adjustment section
+                                of other comprehensive income (for net investment hedges). Those
+                                amounts are reclassified to earnings in the same income statement
+                                line item that is used to present the earnings effect of the hedged
+                                item when the hedged item affects earnings. The timing of
+                                recognition of the change in fair value of a hedging instrument
+                                could change relative to current GAAP because hedge ineffectiveness
+                                no longer is recognized currently in earnings. The presentation of
+                                hedge results also could change because current GAAP does not
+                                specify a required presentation of the change in fair value of the
+                                hedging instrument in the income statement.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

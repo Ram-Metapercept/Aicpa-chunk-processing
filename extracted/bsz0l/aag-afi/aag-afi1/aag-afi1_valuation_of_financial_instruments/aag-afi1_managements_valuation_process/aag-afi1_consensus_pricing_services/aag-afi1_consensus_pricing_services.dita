@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-3d2a1fbe-981d-5be2-63d7-3fd9b7028f85" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Consensus Pricing Services</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.49" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.49</b> Some
+                        entities may use pricing data from consensus pricing services, which differ
+                        from other pricing services. Consensus pricing services obtain pricing
+                        information about an instrument from several participating entities
+                        (subscribers). Each subscriber submits prices to the pricing service. The
+                        pricing service treats this information confidentially and returns to each
+                        subscriber the consensus price, which is usually an arithmetical average of
+                        the data after a data-cleansing routine has been employed to eliminate
+                        outliers. For some markets, such as exotic derivatives, consensus prices
+                        might constitute the best available data. However, many factors are
+                        considered when assessing the representational faithfulness of the consensus
+                        prices, including, for example</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether the prices submitted by the subscribers reflect actual
+                                transactions or just indicative prices based on their own valuation
+                                techniques.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the number of sources from which prices have been obtained.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the quality of the sources used by the consensus pricing
+                                service.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether participants include leading market participants.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.50" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.50</b> Typically,
+                        consensus prices are only available to subscribers who have submitted their
+                        own prices to the service. Accordingly, not all entities will have direct
+                        access to consensus prices. Because a subscriber generally cannot know how
+                        the prices submitted were estimated, other sources of evidence in addition
+                        to information from consensus pricing services may be needed for management
+                        to support its valuation. In particular, this may be the case if the sources
+                        are providing indicative prices based on their own valuation techniques, and
+                        management is unable to obtain an understanding of how these sources
+                        calculated their prices.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-58c3eab9-3ea9-b89c-2826-bfa56db7e9d6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Effects of Inactive Markets</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.31</b> Measurement
+                    uncertainty increases and valuation is more complicated when the markets in
+                    which financial instruments or their component parts are traded become inactive.
+                    No clear point exists at which an active market becomes inactive, though
+                    financial reporting frameworks may provide guidance on this issue.
+                    Characteristics of an inactive market include a significant decline in the
+                    volume and level of trading activity, and available prices vary significantly
+                    over time or among market participants, or the prices are not current. However,
+                    assessing whether a market is inactive requires judgment.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.32</b> When markets are
+                    inactive, quoted prices may be stale (that is, out of date); may not represent
+                    prices at which market participants may trade; or may represent forced
+                    transactions (such as [<i class="+ topic/ph hi-d/i ">a</i>] when a seller is
+                    required to sell an asset to meet regulatory or legal requirements or needs to
+                    dispose of an asset immediately to create liquidity or [<i class="+ topic/ph hi-d/i ">b</i>] the existence of a single potential buyer as a result of the
+                    legal or time restrictions imposed). Accordingly, valuations may be developed
+                    based on level 2 and level 3 inputs. Under such circumstances, entities may
+                    have</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">a valuation policy that includes a process for determining whether
+                            level 1 inputs are available.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">an understanding of how particular prices or inputs from external
+                            sources used as inputs to valuation techniques were calculated in order
+                            to assess their reliability. For example, in an active market, a broker
+                            quote on a financial instrument that has not traded is likely to reflect
+                            actual transactions on a similar financial instrument, but as the market
+                            becomes less active, the broker quote may rely more on proprietary
+                            valuation techniques to determine prices.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">an understanding of how deteriorating business conditions affect the
+                            counterparty, as well as whether deteriorating business conditions in
+                            entities similar to the counterparty may indicate that the counterparty
+                            may not fulfill its obligations (that is, nonperformance risk).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">policies for adjusting for measurement uncertainties. Such adjustments
+                            can include model adjustments, lack of liquidity adjustments, credit
+                            risk adjustments, and other risk adjustments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the capability to calculate the range of realistic outcomes, given the
+                            uncertainties involved (for example by performing a sensitivity
+                            analysis).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">policies for identifying when a fair value measurement input moves to
+                            a different level of the fair value hierarchy.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.33</b> Particular
+                    difficulties may develop when severe curtailment or even cessation of trading in
+                    particular financial instruments exists. In these circumstances, financial
+                    instruments that have previously been valued using market prices may need to be
+                    valued using a model.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

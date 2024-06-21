@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-43b4fa72-fc97-bc5d-e042-30a8031f2251" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Confirmations</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.24" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.24</b> Paragraph
+                        .A4 of AU-C section 505B, <i class="+ topic/ph hi-d/i ">External
+                            Confirmations</i>, states that the design of a confirmation
+                        request may directly affect the confirmation response rate and the
+                        reliability and nature of the audit evidence obtained from responses. For
+                        example, a custodian would be able to confirm the existence of financial
+                        instruments but may be unable to confirm their valuation, the entity’s
+                        rights and obligations with respect to the financial instruments, or their
+                        completeness. Additionally, certain respondents’ accounting systems may
+                        facilitate the confirmation of single transactions rather than entire
+                        account balances, or respondents may not be able to confirm the balances of
+                        their installment loans, but they may be able to confirm whether their
+                        payments are up to date, the amount of the payment, and the key terms of
+                        their loans. Understanding the entity’s arrangements and transactions with
+                        third parties is key to determining the information to be confirmed.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.25</b> Paragraph
+                            .07<i class="+ topic/ph hi-d/i ">b</i> of AU-C section 505B requires
+                        the auditor to select the appropriate confirming party. AU-C section 505B
+                        further states that responses to confirmation requests provide more relevant
+                        and reliable audit evidence when confirmation requests are sent to a
+                        confirming party who the auditor believes is knowledgeable about the
+                        information to be confirmed. For example, a financial institution official
+                        who is knowledgeable about the transactions or arrangements for which
+                        confirmation is requested may be the most appropriate person at the
+                        financial institution from whom to request confirmation.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.26</b> When
+                        designing confirmations for financial instruments, auditors might consider
+                        confirming the following attributes, as applicable:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The name of the issuer</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The description of the financial instruments</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The name of the owner of the financial instruments or the parties
+                                to the financial instrument</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The terms of the financial instrument</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Any evidence of pledging or restrictions on disposal</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The investment certificate numbers on the documents</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The number of shares of stock or face amount of debt
+                                securities</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.27</b> Paragraph
+                        .12 of AU-C section 505B states that in the case of each nonresponse, the
+                        auditor should perform alternative audit procedures to obtain relevant and
+                        reliable audit evidence. Examples include the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Examining source documents, such as invoices or broker’s
+                                statements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Inspecting executed agreements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Examining cash receipts, disbursements, and trade confirmations
+                                subsequent to year-end</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.28</b> When an
+                        electronic confirmation process or system is used, the auditor’s
+                        consideration of the risks includes the consideration of risks that the
+                        electronic confirmation process is not secure or is improperly controlled.
+                            <ph class="- topic/ph ">
+            <fn callout="7" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn7" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .A13 of AU-C section 505B, <i class="+ topic/ph hi-d/i ">External Confirmations</i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi4_confirmations.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-43b4fa72-fc97-bc5d-e042-30a8031f2251/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn7"/>
+         </ph> An electronic confirmation system or process that creates a
+                        secure confirmation environment may mitigate the risks of interception or
+                        alteration. Creating a secure confirmation environment depends on the
+                        process or mechanism used by the auditor and respondent to minimize the
+                        possibility that the results will be compromised because of interception or
+                        alteration of the confirmation. If the auditor is satisfied that such a
+                        system or process is secure and properly controlled, evidence provided by
+                        responses received using the system or process may be considered reliable.
+                        Various means might be used to validate the source of the electronic
+                        information. For example, the use of encryption, electronic digital
+                        signatures, and procedures to verify website authenticity may improve the
+                        security of the electronic confirmation system or process. If a system or
+                        process that facilitates electronic confirmation between the auditor and
+                        respondent is in place, and the auditor plans to rely on the controls over
+                        such a system or process, an assurance trust services report (for example,
+                        Systrust) or another assurance report on that system or process may assist
+                        the auditor in assessing the design and operating effectiveness of the
+                        electronic and manual controls with respect to that system or process. Such
+                        an assurance report may address the risks described in paragraph .A13 of
+                        AU-C section 505B. If these risks are not adequately addressed in such a
+                        report, the auditor may perform additional procedures to address those
+                        risks. <ph class="- topic/ph ">
+            <fn callout="8" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn8" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .A15 of AU-C section 505B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi4_confirmations.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-43b4fa72-fc97-bc5d-e042-30a8031f2251/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn8"/>
+         </ph> For example, the auditor may determine that it is appropriate to
+                        address such risks by directly contacting the purported sender (for example,
+                        by telephone) to validate the identity of the sender of the response and to
+                        validate that the information received by the auditor corresponds to what
+                        was transmitted by the sender.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

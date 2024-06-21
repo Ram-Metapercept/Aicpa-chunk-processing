@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE aicpa-map PUBLIC "-//PWC//DTD DITA AICPA Map//EN" "aicpa-map.dtd">
-<aicpa-map id="UUID-7fd03ea1-9f8d-9559-2b2e-9d777be1f8cd_UUID-4361ffc8-c499-13ac-600b-9d30044a2959">
-    <topicref href="aag-brd5_additional_fair_value_considerations/aag-brd5_additional_fair_value_considerations.dita" format="dita" navtitle="Additional Fair Value Considerations" copy-to="Additional-Fair-Value-Considerations">
-        <topicref href="aag-brd5_additional_fair_value_considerations/aag-brd5_financial_instruments_listed_on.ditamap" format="ditamap" navtitle="Financial Instruments Listed on a Recognized Exchange" copy-to="Financial-Instruments-Listed-on-a-Recognized-Exchange" chunk="to-content"/>
-        <topicref href="aag-brd5_additional_fair_value_considerations/aag-brd5_financial_instruments_not_listed.ditamap" format="ditamap" copy-to="Financial-Instruments-Not-Listed" navtitle="Financial Instruments Not Listed on a Recognized Exchange but Having a Readily Available Market Price" chunk="to-content"/>
-        <topicref href="aag-brd5_additional_fair_value_considerations/aag-brd5_financial_instruments_not_having.ditamap" format="ditamap" copy-to="Financial-Instruments-Not-Having" navtitle="Financial Instruments Not Having a Readily Available Market Price" chunk="to-content"/>
-    </topicref>
-</aicpa-map>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-98424c7b-7ffc-0327-9322-911753222ce7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix C — Examples of Control Objectives, Related Controls, and Illustrative
+            Tests of Controls for Financial Instruments (Ref: par. 3.37)</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Examples of Control Objectives, Related Controls, and
+            Illustrative Tests of Controls for Financial Instruments (Ref: <xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_the_entitys_control_activities/aag-afi3_segregation_of_duties/aag-afi3_segregation_of_duties.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-5e006ecb-b55a-78f0-bf97-247b608374cf/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.37">par. 3.37</xref>)</p>
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+                informational purposes only.</i>
+      </p>
+      <p class="- topic/p ">The following table provides examples of control objectives, related controls, and
+            illustrative tests of controls for financial instruments. The illustrative tests of
+            controls may contain multiple tests addressing the same related controls. It is not
+            necessarily intended that all illustrative tests would be performed for each related
+            control; rather, they are included for example purposes.</p>
+      <table outputclass="ruled" id="UUID-98424c7b-7ffc-0327-9322-911753222ce7_aag-afi_appC_table1" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <colspec colname="c3" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Control Objective</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Related Controls</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Illustrative Tests of Controls</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Financial instrument transactions are initiated in accordance with
+                            management’s established policies and procedures.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Guidelines have been prescribed for acceptable risk and rate of return
+                            levels for the entity’s financial instruments. Financial instrument
+                            personnel must obtain approval to purchase financial instruments that do
+                            not conform with the prescribed guidelines. Supervisory personnel
+                            monitor financial instrument purchases to determine whether approval was
+                            obtained to purchase financial instruments that do not conform with the
+                            prescribed guidelines.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the monitoring by supervisory personnel to
+                            determine whether approval was obtained to purchase financial
+                            instruments that do not conform with the prescribed guidelines and
+                            testing some of the purchases the supervisory personnel reviewed.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Lists of authorized financial instrument dealers are maintained and
+                            updated periodically, and supervisory personnel periodically review
+                            documentation of financial instrument transactions to determine whether
+                            only authorized dealers were used.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the review by supervisory personnel of
+                            financial instrument transactions to determine whether only authorized
+                            dealers were used and testing some of the transactions the supervisory
+                            personnel reviewed.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Those charged with governance, generally through their finance, asset
+                            or liability, investment, or other committee, review reports of
+                            financial instrument transactions to determine whether the entity’s
+                            guidelines for financial instrument transactions are being complied
+                            with.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting minutes of meetings of those charged with governance or the
+                            finance, asset or liability, investment, or other committee for evidence
+                            of review of reports of financial instrument transactions and evidence
+                            of approval of changes in financial instrument policies.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Those charged with governance, generally through their finance, asset
+                            or liability, investment, or other committee, must approve changes in
+                            financial instrument policies, and approval must be documented.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting minutes of meetings of those charged with governance or the
+                            finance, asset or liability, investment, or other committee for evidence
+                            of review of reports of financial instrument transactions and evidence
+                            of approval of changes in financial instrument policies.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Information relating to financial instruments and financial instrument
+                            transactions is complete and accurate.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Duties among those who initiate financial instrument transactions,
+                            have access to financial instruments, and post or reconcile related
+                            accounting records are appropriately segregated, and supervisory
+                            personnel regularly review reconciliations of information provided by
+                            individuals performing these functions.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the review by supervisory personnel of
+                            reconciliations of information about financial instrument transactions
+                            provided by the segregated functions and testing some of the
+                            reconciliations they reviewed.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel periodically review documentation supporting the
+                            acquisition and transfer of financial instruments to ensure that
+                            classification of the financial instruments was made and documented at
+                            acquisition (and date of transfer, if applicable) and is in accordance
+                            with the entity’s financial instrument policies, management’s intent,
+                            and the applicable financial reporting framework.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the review by supervisory personnel of the
+                            documentation supporting the acquisition and transfer of financial
+                            instruments and inspecting a sample of the documentation they
+                            reviewed.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel periodically review accounting entries
+                            supporting financial instrument transactions.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the review by supervisory personnel of
+                            accounting entries and testing a sample of the entries they
+                            reviewed.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel periodically review trader (sales function) to
+                            operations (administrative and support services) reconciliations for
+                            open positions and profit and loss.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the review by supervisory personnel of
+                            accounting entries and testing a sample of the entries they
+                            reviewed.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel periodically analyze recorded interest and
+                            dividend income, including comparing actual yields during the period
+                            with expected yields based on previous results and current market
+                            trends, and investigate significant differences from the expected
+                            results.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the analysis by supervisory personnel of
+                            recorded interest and dividend income and testing the resolution of
+                            significant differences from their expectations.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Derivatives accounted for as hedges meet the designation,
+                            documentation, and assessment requirements of the applicable financial
+                            reporting framework.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Hedge documentation is prepared contemporaneous with the hedging
+                            transactions and reviewed by supervisory personnel for compliance with
+                            the requirements of the applicable financial reporting framework.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Obtaining hedge documentation prepared by the entity and all related
+                            contracts and agreements for the transaction. Compare the documentation
+                            to the applicable financial reporting framework requirements, noting
+                            contemporaneous preparation with the transaction and evidence of the
+                            review by supervisory personnel.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Financial instruments are on hand or held in custody or for
+                            safekeeping by others.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel periodically review recorded financial
+                            instruments, compare them with safekeeping ledgers and timely custodial
+                            confirmations, and investigate significant differences.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the review by supervisory
+                            personnel.</p>
+                     <p class="- topic/p ">Comparing reconciliations to custodial confirmations and general
+                            ledger accounts.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The carrying amount of debt, equity securities, and financial
+                            instruments is adjusted to fair value, when applicable, and changes in
+                            the fair value of those financial instruments are accounted for in
+                            conformity with the applicable financial reporting framework.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Duties of those committing the entity to underlying transactions are
+                            segregated from those responsible for undertaking the valuations of
+                            financial instruments.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Obtaining an understanding of the entity’s controls over the
+                            initiation of financial instrument transactions and the valuation of the
+                            financial instruments recorded by the transactions.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel periodically review the recorded fair values of
+                            financial instruments and investigate significant differences from the
+                            amounts expected.</p>
+                  </entry>
+                  <entry/>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inspecting documentation of the review by supervisory
+                            personnel.</p>
+                     <p class="- topic/p ">Testing their investigation of significant differences.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Service organizations are utilized for pricing services or other fair
+                            value determinations.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Obtaining an understanding of the role of the service organization in
+                            the calculation of fair value of financial instruments.</p>
+                     <p class="- topic/p ">Inspecting documentation of management’s review of the activities
+                            performed by the service organization.</p>
+                     <p class="- topic/p ">Obtaining and evaluating a report on the service organization
+                            controls.</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Specialists are engaged to determine fair value measurements.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Determining the nature, timing, and extent of the audit procedures to
+                            be performed in auditing the work of an auditor’s specialists.</p>
+                     <p class="- topic/p ">Evaluating the competence, capabilities, and objectivity of the
+                            auditor’s specialist.</p>
+                     <p class="- topic/p ">Obtaining an understanding of the field of expertise of the auditor’s
+                            specialists.</p>
+                     <p class="- topic/p ">Obtaining an agreement with the auditor’s specialists.</p>
+                     <p class="- topic/p ">Evaluating the adequacy of the work of the auditor’s
+                            specialists.</p>
+                     <p class="- topic/p ">Inspecting documentation of management’s and, when appropriate, those
+                            charged with governance’s review and approval of fair value measurements
+                            (estimates) determined by specialists.</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel monitor realized gains and losses to determine
+                            that appropriate amounts have been reclassified from accumulated other
+                            comprehensive income.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Testing a sample of financial instruments by agreeing published price
+                            quotations in an active market to fair value calculations utilized by
+                            the entity.</p>
+                     <p class="- topic/p ">Recalculating the amounts of the reclassifications.</p>
+                  </entry>
+                  <entry/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Financial instruments are monitored on an ongoing basis to recognize
+                            and measure events affecting related financial statement
+                            assertions.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Supervisory personnel regularly review recorded financial instruments
+                            to determine that events affecting their presentation and disclosure are
+                            considered, such as factors indicating impairment, loans of the
+                            financial instruments to other entities, or pledging financial
+                            instruments as collateral.</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Inquiring of supervisory personnel about whether financial instrument
+                            portfolios and related transactions, including impairments, are being
+                            monitored on a timely basis.</p>
+                     <p class="- topic/p ">Inspecting documentation of the review of recorded financial
+                            instruments and testing a sample of the financial instruments that
+                            supervisory personnel reviewed.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

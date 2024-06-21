@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-ab16d570-738f-d041-7ec8-a0b7d2d9101a" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Financial Reporting Requirements</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.24" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.24</b> In many
+                    financial reporting frameworks, financial instruments, including embedded
+                    derivatives, are often measured at fair value for the purpose of balance sheet
+                    presentation, calculating gain or loss, or disclosure. In general, the objective
+                    of fair value measurement is to arrive at the price at which an orderly
+                    transaction to sell an asset or transfer a liability would take place between
+                    market participants at the measurement date under current market conditions
+                    (that is, at an exit price at the measurement date from the perspective of the
+                    market participant that holds the asset or owes the liability). In meeting this
+                    objective, all relevant available market information is taken into
+                    account.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.25" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.25</b> Fair value
+                    measurements of financial assets and liabilities may arise both at the initial
+                    recording of transactions and later when there are changes in value. Changes in
+                    fair value measurements that occur over time may be treated in different ways
+                    under different financial reporting frameworks. For example, such changes may be
+                    recorded as gain or loss or in other comprehensive income. Also, depending on
+                    the applicable financial reporting framework, the whole financial instrument or
+                    only a component of it (for example, an embedded derivative when it is
+                    separately accounted for) may be required to be measured at fair value. <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi5/aag-afi5.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e">Chapter 5</xref>, "Valuation of Financial Instruments," of this guide
+                    provides further detailed guidance on valuation of financial instruments.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.26" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.26</b> Some financial
+                    reporting frameworks establish a fair value hierarchy to develop increased
+                    consistency and comparability in fair value measurements and related
+                    disclosures. <ph class="- topic/ph ">
+            <fn callout="5" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn5" class="- topic/fn ">
+               <p class="- topic/p ">FASB ASC 820-10-35-37 notes that the fair value hierarchy categorizes
+                            into three levels the inputs to valuation techniques used to measure
+                            fair value. The fair value hierarchy gives the highest priority to
+                            quoted prices (unadjusted) in active markets for identical assets or
+                            liabilities and the lowest priority to unobservable inputs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi1_financial_reporting_requirements.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-ab16d570-738f-d041-7ec8-a0b7d2d9101a/UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn5"/>
+         </ph> The inputs may be classified into different levels, such as</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">level 1 inputs</i>, which are quoted
+                            prices (unadjusted) in active markets for identical financial assets or
+                            liabilities that the entity can access at the measurement date.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">level 2 inputs</i>, which are inputs
+                            other than quoted prices included within level 1 that are observable for
+                            the financial asset or liability either directly or indirectly. If the
+                            financial asset or liability has a specified (contractual) term, a level
+                            2 input must be observable for substantially the full term of the
+                            financial asset or liability. Level 2 inputs include the
+                            following:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Quoted prices for similar financial assets or liabilities in
+                                    active markets</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Quoted prices for identical or similar financial assets or
+                                    liabilities in markets that are not active</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Inputs other than quoted prices that are observable for the
+                                    financial asset or liability (for example, interest rates and
+                                    yield curves observable at commonly quoted intervals, implied
+                                    volatilities, and credit spreads)</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Inputs that are derived principally from, or corroborated by,
+                                    observable market data by correlation or other means
+                                    (market-corroborated inputs)</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">level 3 inputs</i>, which are
+                            unobservable inputs for the financial asset or liability. Unobservable
+                            inputs are used to measure fair value to the extent that relevant
+                            observable inputs are not available, thereby allowing for situations in
+                            which there is little, if any, market activity for the financial asset
+                            or liability at the measurement date.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">In general, measurement uncertainty increases as a financial instrument moves
+                    from level 1 to level 2 or level 2 to level 3. Also, within level 2, there may
+                    be a wide range of measurement uncertainty depending on the observability of
+                    inputs, the complexity and valuation of the financial instrument, and other
+                    factors.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.27" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.27</b> Certain
+                    financial reporting frameworks may require or permit the entity to adjust for
+                    measurement uncertainties in order to adjust for risks that a market participant
+                    would make in the pricing to take account of the uncertainties of the risks
+                    associated with the pricing or cash flows of the financial instrument. Some
+                    examples are as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Model adjustments. Some models may have a known deficiency, or the
+                            result of calibration may highlight the deficiency for the fair value
+                            measurement in accordance with the financial reporting framework.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Credit-risk adjustments. Some models do not take into account credit
+                            risk, including counterparty risk or own credit risk.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Liquidity adjustments. Some models calculate a midmarket price, even
+                            though the financial reporting framework may require use of a
+                            liquidity-adjusted amount, such as a bid-offer spread. Another, more
+                            judgmental liquidity adjustment recognizes that some financial
+                            instruments are illiquid, which affects the valuation.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Other risk adjustments. A value measured using a model that does not
+                            take into account all other factors that market participants would
+                            consider in pricing the financial instrument may not represent fair
+                            value on the measurement date and, therefore, may need to be adjusted
+                            separately to comply with the applicable financial reporting
+                            framework.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Adjustments are not appropriate if they adjust the measurement and valuation
+                    of the financial instrument away from <i class="+ topic/ph hi-d/i ">fair
+                        value</i>, as defined by the applicable financial reporting framework
+                    (for example, for conservatism).</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.28" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.28</b> Paragraphs 5–20
+                    of FASB ASC 820-10-55 describe the use of present value techniques to measure
+                    fair value. Those paragraphs neither prescribe the use of a single specific
+                    present value technique nor limit the use of present value techniques to measure
+                    fair value to the techniques discussed therein. <i class="+ topic/ph hi-d/i ">Present
+                        value</i> (that is, an application of the income approach) is a tool
+                    used to link future amounts to a present amount using a discount rate. A fair
+                    value measurement of an asset or a liability using a present value technique
+                    captures all of the following elements from the perspective of market
+                    participants at the measurement date:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">An estimate of future cash flows for the asset or liability being
+                            measured.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Expectations about possible variations in the amount and timing of the
+                            cash flows representing the uncertainty inherent in the cash
+                            flows.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The time value of money, represented by the rate on risk-free monetary
+                            assets that have maturity dates or durations that coincide with the
+                            period covered by the cash flows and pose neither uncertainty in timing
+                            nor risk of default to the holder (that is, a risk-free interest rate).
+                            For present value computations denominated in nominal U.S. dollars, the
+                            yield curve for U.S. Treasury securities determines the appropriate
+                            risk-free interest rate.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The price for bearing the uncertainty inherent in the cash flows (that
+                            is, a risk premium).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Other factors that market participants would take into account in the
+                            circumstances.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">For a liability, the nonperformance risk relating to that liability,
+                            including the reporting entity’s (obligor’s) own credit risk.</p>
+         </li>
+      </ol>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

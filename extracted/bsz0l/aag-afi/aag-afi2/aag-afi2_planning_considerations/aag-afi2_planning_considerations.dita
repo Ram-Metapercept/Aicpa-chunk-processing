@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-d6db9d80-1054-92ea-2a08-29aaed3f35f4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Planning Considerations</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Planning Considerations <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn3" class="- topic/fn ">
+               <p class="- topic/p ">AU-C section 300B, <i class="+ topic/ph hi-d/i ">Planning an Audit</i>,
+                        addresses the auditor’s responsibility to plan an audit of financial
+                        statements.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi2_planning_considerations.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-d6db9d80-1054-92ea-2a08-29aaed3f35f4/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec-aag-afi2-fn3"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.04</b> The auditor’s focus
+                in planning the audit procedures related to financial instruments is primarily
+                on</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding the accounting and disclosure requirements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding the financial instruments to which the entity is exposed and
+                        their purpose and risks.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">determining whether specialized skills and knowledge are needed in the
+                        audit.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding and evaluating the system of internal control in light of
+                        the entity’s financial instrument transactions and the information systems
+                        that fall within the scope of the audit.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding the nature, role, and activities of the internal audit
+                        function.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">understanding management’s process for valuing financial instruments,
+                        including whether management has used a pricing source, valuation specialist
+                        or service organization.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">assessing and responding to the risk of material misstatement.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a126ed71-dc75-6cb6-d456-ef8e61740dba" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">S</title>
+   <body class="- topic/body ">
+      <table outputclass="ruled" id="UUID-a126ed71-dc75-6cb6-d456-ef8e61740dba_aag-afi_index_of_pronouncements_table4" class="- topic/table ">
+         <tgroup cols="4" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="left" class="- topic/colspec "/>
+            <colspec colname="c3" align="left" class="- topic/colspec "/>
+            <colspec colname="c4" align="right" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Title</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Paragraphs</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">SAS</p>
+                  </entry>
+                  <entry align="right" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 134, <i class="+ topic/ph hi-d/i ">Auditor Reporting and Amendments,
+                                    Including Amendments Addressing Disclosures in the Audit of
+                                    Financial Statements</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 135, <i class="+ topic/ph hi-d/i ">Omnibus Statement on Auditing
+                                    Standards — 2019</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 136, <i class="+ topic/ph hi-d/i ">Forming an Opinion and Reporting
+                                    on Financial Statements of Employee Benefit Plans Subject to
+                                    ERISA</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 137, <i class="+ topic/ph hi-d/i ">The Auditor’s Responsibilities
+                                    Relating to Other Information Included in Annual
+                                    Reports</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 138, <i class="+ topic/ph hi-d/i ">Amendments to the Description of
+                                    the Concept of Materiality</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 139, <i class="+ topic/ph hi-d/i ">Amendments to AU-C Sections 800,
+                                    805, and 810 to Incorporate Auditor Reporting Changes From SAS
+                                    No. 134</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 140, <i class="+ topic/ph hi-d/i ">Amendments to AU-C Sections 725,
+                                    730, 930, 935, and 940 to Incorporate Auditor Reporting Changes
+                                    From SAS Nos. 134 and 137</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 141, <i class="+ topic/ph hi-d/i ">Amendment to the Effective Date
+                                    of SAS Nos. 134–140</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_reliance_on_the_work/aag-afi6_reliance_on_the_work.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-3a4fd863-3b1a-9039-f821-de0f3af7004f/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.15">6.15</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 142, <i class="+ topic/ph hi-d/i ">Audit Evidence</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi2/aag-afi2.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.01">2.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi3/aag-afi3_understanding_internal_control/aag-afi3_understanding_internal_control.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-9f9dc0bd-2179-9ceb-95e2-fb8f8cd467a9/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.01">3.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_financial_reporting_requirements/aag-afi5_financial_reporting_requirements.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-cfa35432-73db-b0fc-3e29-587f4af80e0f/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.01">5.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.01">8.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_auditing_considerations/aag-afi9_description_of_the_entity/aag-afi9_description_of_the_entity.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-c1551b70-7510-2a87-0b45-a40f452e513f/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.13">9.13</xref>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" class="- topic/entry ">
+                     <p class="- topic/p ">No. 143, <i class="+ topic/ph hi-d/i ">Auditing Accounting Estimates and
+                                    Related Disclosures</i>
+                     </p>
+                  </entry>
+                  <entry align="right" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi2/aag-afi2.dita#UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec/UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.01">2.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi4/aag-afi4_assessing_the_risks_of/aag-afi4_assessing_the_risks_of.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-7073c93e-1be5-d0d9-df49-17c4472fc1fc/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.01">4.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_impairment_losses/aag-afi5_impairment_losses.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-b3f835d7-9c1a-49cf-1bde-f8471410420c/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.41">5.41</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_evaluating_the_sufficiency_and/aag-afi6_evaluating_the_sufficiency_and.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-f0ad74e3-5e1e-301c-1824-8a50c6c98c5a/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.01">6.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi6/aag-afi6_presentation_and_disclosure_of/aag-afi6_presentation_and_disclosure_of.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-9b243198-3eb6-c8f7-ea10-26cf8cf3eddb/UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.05">6.05</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_auditing_considerations/aag-afi7_description_of_the_entity/aag-afi7_description_of_the_entity.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-514f68ae-c044-4ab1-75ea-b25c7a297680/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.12">7.12</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi8/aag-afi8.dita#UUID-1911b3ac-218a-078f-9079-2004d1718a11/UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.01">8.01</xref>, <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi9/aag-afi9_auditing_considerations/aag-afi9_description_of_the_entity/aag-afi9_description_of_the_entity.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-c1551b70-7510-2a87-0b45-a40f452e513f/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_aag-afi9.13">9.13</xref>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

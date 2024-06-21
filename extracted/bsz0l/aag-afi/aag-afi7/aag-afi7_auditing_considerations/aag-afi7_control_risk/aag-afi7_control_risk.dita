@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-d67b8b95-ee9c-49a4-f1bd-49b45e17bb73" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Control Risk</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.20" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.20</b> BEV uses a
+                    broker-dealer to hold and service its financial instruments, including the
+                    investment in the bond. However, the fact that the entity uses a service
+                    organization to process some of its financial instrument transactions does not,
+                    in and of itself, require the auditor to obtain information about the
+                    broker-dealer’s controls. AU-C section 315B, <i class="+ topic/ph hi-d/i ">Understanding the Entity and Its Environment and Assessing the Risks of
+                        Material Misstatement</i>, addresses the auditor’s requirement to
+                    obtain an understanding of the entity and its environment as part of performing
+                    an audit in accordance with generally accepted auditing standards. <ph class="- topic/ph ">
+            <fn callout="7" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn7" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for
+                            example, “AU-C section 200B”) denotes content that does not reflect the
+                            codification of Statements on Auditing Standards (SAS) Nos. 134–140 or
+                            the amendments to other SASs made by SAS Nos. 134–140 and subsequently
+                            issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi7_control_risk.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-d67b8b95-ee9c-49a4-f1bd-49b45e17bb73/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn7"/>
+         </ph> Paragraph .A54 of AU-C section 315B states that an entity’s use of
+                    IT may affect any of the five components of internal control relevant to the
+                    achievement of the entity’s financial reporting, operations, or compliance
+                    objectives and its operating units or business functions. This understanding
+                    should be sufficient for the auditor to</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">identify the types of potential misstatement of the assertions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">consider factors that affect the risk that the potential misstatements
+                            would be material to the financial statements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">design substantive tests.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.21</b> The types of
+                    potential material misstatements relating to BEV’s investment in the bond relate
+                    primarily to the change in classification from available for sale to held to
+                    maturity, which is a risk that will not be addressed by the controls at the
+                    broker-dealer. BEV maintains all the information necessary to perform
+                    substantive procedures on investments. Accordingly, the auditor does not have to
+                    obtain an understanding of controls in operation at the broker-dealer in order
+                    to plan the audit.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.22</b> Because the
+                    purchase and subsequent reclassification of the bond was considered to be an
+                    isolated transaction, control risk was assessed as high.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

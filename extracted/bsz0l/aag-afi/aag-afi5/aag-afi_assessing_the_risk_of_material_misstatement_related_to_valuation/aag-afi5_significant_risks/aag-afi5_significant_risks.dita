@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-ef398563-2f01-14c9-03f6-0a735818b9f4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Significant Risks</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.05</b> The auditor’s
+                    risk assessment process may lead the auditor to identify one or more significant
+                    risks relating to the valuation of financial instruments when any of the
+                    following circumstances exist:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">High measurement uncertainty related to the valuation of financial
+                            instruments (for example, those with unobservable inputs) <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">When the auditor determines that the high estimation
+                                    uncertainty related to the valuation of complex financial
+                                    instruments gives rise to a significant risk, AU-C section 540B,
+                                        <i class="+ topic/ph hi-d/i ">Auditing Accounting Estimates,
+                                        Including Fair Value Accounting Estimates, and Related
+                                        Disclosures</i>, requires the auditor to perform
+                                    substantive procedures and evaluate the adequacy of the
+                                    disclosure of his or her estimation uncertainty. See paragraphs
+                                    .11, .15, and .20 of AU-C section 540B.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi5_significant_risks.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-ef398563-2f01-14c9-03f6-0a735818b9f4/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn4"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lack of sufficient evidence to support management’s valuation of its
+                            financial instruments</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lack of management understanding of its financial instruments or
+                            expertise necessary to value such instruments properly, including the
+                            ability to determine whether valuation adjustments are needed</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Lack of management understanding of complex requirements in the
+                            applicable financial reporting framework relating to measurement and
+                            disclosure of financial instruments and the inability of management to
+                            make the judgments required to properly apply those requirements</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The significance of valuation adjustments made to valuation technique
+                            outputs when the applicable financial reporting framework requires or
+                            permits such adjustments.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.06</b> For accounting
+                    estimates that give rise to significant risks, in addition to other substantive
+                    procedures performed to meet the requirements of AU-C section 330B, <i class="+ topic/ph hi-d/i ">Performing Audit Procedures in Response to Assessed Risks and
+                        Evaluating the Audit Evidence Obtained</i>, paragraph .15<i class="+ topic/ph hi-d/i ">a</i>–<i class="+ topic/ph hi-d/i ">c</i> of AU-C
+                    section 540B requires the auditor to evaluate the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">How management has considered alternative assumptions or outcomes and
+                            why it has rejected them or how management has otherwise addressed
+                            measurement uncertainty in making the accounting estimate</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether the significant assumptions used by management are
+                            reasonable</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">When relevant to the reasonableness of the significant assumptions
+                            used by management or the appropriate application of the applicable
+                            financial reporting framework, management’s intent to carry out specific
+                            courses of action and its ability to do so</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.07</b> As markets
+                    become inactive, the change in circumstances may lead to a move from valuation
+                    by market price to valuation by model or may result in a change from one
+                    particular model to another. Reacting to changes in market conditions may be
+                    difficult if management does not have policies in place prior to their
+                    occurrence. Management may also not possess the expertise necessary to develop a
+                    model on an urgent basis or select the valuation technique that may be
+                    appropriate in the circumstances. Even when valuation techniques have been
+                    consistently used, a need exists for management to examine the continuing
+                    appropriateness of the valuation techniques and assumptions used for determining
+                    valuation of financial instruments. Further, valuation techniques may have been
+                    selected in times when reasonable market information was available, but that
+                    information may not provide reasonable valuations in times of unanticipated
+                    stress.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.08</b> The
+                    susceptibility to management bias, whether intentional or unintentional,
+                    increases with the subjectivity of the valuation and the degree of measurement
+                    uncertainty. For example, management may tend to ignore observable marketplace
+                    assumptions or data and instead use its own internally-developed assumptions if
+                    those assumptions yield more favorable results. Even without fraudulent intent,
+                    there may be a natural temptation to bias judgments toward the most favorable
+                    end of what may be a wide spectrum rather than the point in the spectrum that
+                    might be considered to be most consistent with the applicable financial
+                    reporting framework. Changing the valuation technique from period to period
+                    without a clear and an appropriate reason for doing so may also be an indicator
+                    of management bias. Although some form of management bias is inherent in
+                    subjective decisions relating to the valuation of financial instruments, when
+                    there is intention to mislead, management bias is fraudulent in nature.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

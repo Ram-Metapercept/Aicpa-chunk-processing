@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-72ee4708-332f-c1c4-efb6-f7c78e7d7b5c" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Determining Whether the Service Organization’s Services Are Part of the
+                User Entity’s Information System</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.40" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.40</b> Entities that engage
+                in financial instrument transactions frequently outsource tasks related to those
+                transactions to other entities (for example, broker-dealers, investment advisers,
+                and custodians). AU-C section 402B refers to such entities as service organizations
+                and defines a <i class="+ topic/ph hi-d/i ">service organization</i> as an
+                organization or a segment of an organization that provides services to user entities
+                that are relevant to those user entities’ internal control over financial reporting.
+                A <i class="+ topic/ph hi-d/i ">user entity</i> is defined as an entity that uses a
+                service organization and whose financial statements are being audited. A <i class="+ topic/ph hi-d/i ">user auditor</i> is defined as an auditor who audits and
+                reports on the financial statements of a user entity.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.41" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.41</b> AU-C section 402B
+                addresses the user auditor’s responsibility for obtaining sufficient appropriate
+                audit evidence in an audit of the financial statements of a user entity. Services
+                provided by a service organization are relevant to an audit of a user entity’s
+                financial statements when those services and the controls over them affect the user
+                entity’s information system, including related business processes relevant to
+                financial reporting. An entity’s information system relevant to financial reporting
+                objectives includes the entity’s accounting system and consists of the procedures
+                and records designed and established to</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">initiate, authorize, record, process, and report entity transactions (as
+                        well as events and conditions) and maintain accountability for the related
+                        assets, liabilities, and equity.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">resolve incorrect processing of transactions (for example, automated
+                        suspense files and procedures followed to clear suspense items out on a
+                        timely basis).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">process and account for system overrides or bypasses to controls.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">transfer information from transaction processing systems to the general
+                        ledger.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">capture information relevant to financial reporting for events and
+                        conditions other than transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">ensure that information required to be disclosed by the applicable
+                        financial reporting framework is accumulated, recorded, processed,
+                        summarized, and appropriately reported in the financial statements.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.42" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.42</b> The following are
+                examples of services provided by a service organization that may be part of a user
+                entity’s information system as they relate to the user entity’s financial statement
+                assertions about financial instruments:</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The initiation of the purchase or sale of equity securities by a service
+                        organization acting as investment adviser or manager</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The initiation of hedged positions by a service organization acting in a
+                        capacity to reduce that entity’s risk and performing the transactions
+                        through the entity’s information system</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The initiation of a settlement for an event, such as a corporate action by
+                        an organization providing outsourced administrative services</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Services that are ancillary to holding <ph class="- topic/ph ">
+                  <fn callout="4" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn4" class="- topic/fn ">
+                     <p class="- topic/p ">Maintaining custody of securities, either in physical or
+                                electronic form, is referred to as holding securities, and
+                                performing ancillary services is referred to as servicing
+                                securities.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi3_determining_whether_the_service.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-72ee4708-332f-c1c4-efb6-f7c78e7d7b5c/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn4"/>
+               </ph> an entity’s financial instruments, such as</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">collecting dividend and interest income and distributing that
+                                income to the entity</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">receiving notification of corporate actions</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">receiving notification of security purchase and sale
+                                transactions</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">receiving payments from purchasers and disbursing proceeds to
+                                sellers for security purchase and sale transactions</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">maintaining records of financial instrument transactions for the
+                                entity</p>
+               </li>
+            </ul>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">A pricing service providing fair values of financial instruments through
+                        paper documents for financial statement reporting</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">An example of a service provided by a service organization that would not be part
+                of an entity’s information system is the processing of financial instrument
+                transactions by a broker when the entity retains responsibility for authorizing
+                transactions and maintaining the related accountability.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

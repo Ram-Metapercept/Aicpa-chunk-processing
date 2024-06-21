@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e3feef2-5c6a-55eb-134e-54d5722fc291" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Additional Considerations About Hedging Activities</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.11</b> To account for a
+                    derivative as a hedge, FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                        Codification</i> (ASC) 815 requires management, at the inception of
+                    the hedge, to designate the derivative as a hedge and contemporaneously formally
+                    document <ph class="- topic/ph ">
+            <fn callout="9" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn9" class="- topic/fn ">
+               <p class="- topic/p ">FASB ASC 815-20-25 requires formal documentation of prescribed aspects
+                            of hedging relationships at the inception of the hedge.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi6_additional_considerations_about_hedging.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e3feef2-5c6a-55eb-134e-54d5722fc291/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn9"/>
+         </ph> the hedging relationship, the entity’s risk management objective and
+                    strategy for undertaking the hedge, and the method of assessing the
+                    effectiveness of the hedge. In addition, to qualify for hedge accounting, FASB
+                    ASC 815 requires that management have an expectation, both at the inception of
+                    the hedge and on an ongoing basis, that the hedging relationship will be highly
+                    effective in achieving the hedging strategy. <ph class="- topic/ph ">
+            <fn callout="10" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn10" class="- topic/fn ">
+               <p class="- topic/p ">FASB ASC 815, <i class="+ topic/ph hi-d/i ">Derivatives and
+                                Hedging</i>, requires management to periodically reassess the
+                            effectiveness of hedging relationships whenever financial statements or
+                            earnings are reported and at least every three months. It also requires
+                            that all assessments of effectiveness be consistent with the risk
+                            management strategy documented for the particular hedging
+                            relationship.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi6_additional_considerations_about_hedging.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e3feef2-5c6a-55eb-134e-54d5722fc291/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn10"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.12" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.12</b> The auditor may
+                    gather audit evidence to determine whether management complied with the hedge
+                    accounting requirements of FASB ASC 815, including designation and documentation
+                    requirements. In addition, the auditor may gather audit evidence to support
+                    management’s expectation at the inception of the hedge that the hedging
+                    relationship will be highly effective and management’s periodic assessment of
+                    the ongoing effectiveness of the hedging relationship as required by FASB ASC
+                    815.</p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.13</b> When the entity
+                    designates a derivative as a fair value hedge, FASB ASC 815-25 requires that the
+                    entity adjust the carrying amount of the hedged item for the change in the
+                    hedged item’s fair value that is attributable to the hedged risk. The auditor
+                    may gather audit evidence supporting the recorded change in the hedged item’s
+                    fair value that is attributable to the hedged risk. Additionally, the auditor
+                    may gather audit evidence to determine whether management has properly applied
+                    FASB ASC 815-25 to the hedged item.</p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.14</b> For a cash flow
+                    hedge of a forecasted transaction, FASB ASC 815-20 requires management to
+                    determine that the forecasted transaction is probable of occurring. Those
+                    principles require that the likelihood the transaction will take place not be
+                    based solely on management’s intent. Instead, the transaction’s probability
+                    should be supported by observable facts and the attendant circumstances, such as
+                    the</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">frequency of similar past transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">financial and operational ability of the entity to carry out the
+                            transaction.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">extent of loss that could result if the transaction does not
+                            occur.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">likelihood that transactions with substantially different
+                            characteristics might be used to achieve the same business
+                            purpose.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Paragraph .26 of AU-C section 330B requires the auditor to perform audit
+                    procedures to evaluate whether the overall presentation of the financial
+                    statements, including the related disclosures, is in accordance with the
+                    applicable financial reporting framework. This includes evaluating management’s
+                    determination of whether a forecasted transaction is probable.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

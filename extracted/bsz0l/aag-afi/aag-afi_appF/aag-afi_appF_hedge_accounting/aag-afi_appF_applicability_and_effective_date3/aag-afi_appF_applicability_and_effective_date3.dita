@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-9ec04228-8d8b-8fd1-b637-3545cbed83f4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Applicability and Effective Date</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">ASU No. 2017-12 applies to any entity that elects to apply hedge accounting in
+                    accordance with current GAAP and is effective (as amended by FASB ASU No.
+                    2019-10) as follows:</p>
+      <table outputclass="ruled" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_aag-afi_appF_table4" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <colspec colname="c3" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Fiscal Years Beginning After</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Interim Periods Within Fiscal Years Beginning After</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Public business entities</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">December 15, 2018</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">December 15, 2018</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">All other entities</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">December 15, 2020</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">December 15, 2021</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p class="- topic/p ">Early application is permitted in any interim period after issuance of this
+                    ASU. All transition requirements and elections should be applied to hedging
+                    relationships existing (that is, hedging relationships in which the hedging
+                    instrument has not expired, been sold, terminated, or exercised or the entity
+                    has not removed the designation of the hedging relationship) on the date of
+                    adoption. The effect of adoptions should be reflected as of the beginning of the
+                    fiscal year of adoption (that is, the initial application date).</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

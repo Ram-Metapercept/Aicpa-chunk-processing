@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-c53644ba-4daa-5562-1928-3e10d7779155" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">FASB ASU No. 2019-11, Codification Improvements to Topic 326,
+                        Financial Instruments — Credit Losses</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">In November 2019, FASB issued ASU No. 2019-11 to clarify, correct errors
+                        in, or improve the codification.</p>
+      <p class="- topic/p ">ASU No. 2019-04 clarifies certain aspects of the amendments in ASU No.
+                        2016-13 as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Expected recoveries for PCD
+                                    assets</i>. The amendments clarify that the allowance for
+                                credit losses for PCD assets should include in the allowance for
+                                credit losses expected recoveries of amounts previously written off
+                                and expected to be written off by the entity and should not exceed
+                                the aggregate of amounts of the amortized cost basis previously
+                                written off and expected to be written off by an entity.</p>
+            <p class="- topic/p ">In addition, the amendments clarify that when a method other than
+                                a discounted cash flow method is used to estimate expected credit
+                                losses, expected recoveries should not include any amounts that
+                                result in an acceleration of the noncredit discount. An entity may
+                                include increases in expected cash flows after acquisition.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Transition relief for TDRs.</i> The
+                                amendments provide transition relief by permitting entities an
+                                accounting policy election to adjust the effective interest rate on
+                                existing TDRs using prepayment assumptions on the date of adoption
+                                of FASB ASC 326 rather than the prepayment assumptions in effect
+                                immediately before the restructuring.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Disclosures related to accrued interest
+                                    receivables.</i> The amendments extend the disclosure
+                                relief for accrued interest receivable balances to additional
+                                relevant disclosures involving amortized cost basis.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Financial assets secured by collateral
+                                    maintenance provisions.</i> The amendments clarify that
+                                an entity should assess whether it reasonably expects the borrower
+                                will be able to continually replenish collateral securing the
+                                financial asset to apply the practical expedient.</p>
+            <p class="- topic/p ">The amendments clarify that an entity applying the practical
+                                expedient should estimate expected credit losses for any difference
+                                between the amount of the amortized cost basis that is greater than
+                                the fair value of the collateral securing the financial asset (that
+                                is, the unsecured portion of the amortized cost basis). An entity
+                                may determine that the expectation of nonpayment for the amount of
+                                the amortized cost basis equal to the fair value of the collateral
+                                securing the financial asset is zero.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Conforming amendment to FASB ASC
+                                    805-20.</i> The amendment to FASB ASC 805-20 clarifies
+                                the guidance by removing the cross-reference to FASB ASC 310-30 in
+                                FASB ASC 805-20-50-1 and replacing it with a cross-reference to the
+                                guidance on PCD assets in FASB ASC 326-20.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

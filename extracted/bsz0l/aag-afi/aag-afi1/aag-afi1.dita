@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Chapter 1 — Gaining an Understanding About Financial Instruments</title>
+   <body class="- topic/body ">
+      <note type="notice" outputclass="box-border shade grey" class="- topic/note ">
+         <p outputclass="ps_box_shade" class="- topic/p ">
+            <i class="+ topic/ph hi-d/i ">Gray shaded text in this chapter reflects guidance issued
+                    but not yet effective as of the date of this guide, September 1, 2020, but
+                    becoming effective on or prior to December 31, 2020, exclusive of any option to
+                    early adopt ahead of the mandatory effective date. Unless otherwise indicated,
+                    all unshaded text reflects guidance that was already effective as of the date of
+                    this guide.</i>
+         </p>
+      </note>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.01" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.01</b> Different definitions of
+                <i class="+ topic/ph hi-d/i ">financial instruments</i> may exist among financial
+            reporting frameworks. For example, accounting principles generally accepted in the
+            United States of America define a <i class="+ topic/ph hi-d/i ">financial
+                instrument</i> as cash, evidence of an ownership interest in an entity, or a
+            contract that both</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">imposes on one entity a contractual obligation to either</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">deliver cash or another financial instrument to a second entity</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">exchange other financial instruments on potentially unfavorable terms
+                            with a second entity</p>
+               </li>
+            </ol>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">conveys to that second entity a contractual right to either</p>
+            <ol outputclass="i" class="- topic/ol ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">receive cash or another financial instrument from the first entity
+                            or</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">exchange other financial instruments on potentially favorable terms
+                            with the first entity. <ph class="- topic/ph ">
+                        <fn callout="1" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn1" class="- topic/fn ">
+                           <p class="- topic/p ">The FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                                        Codification</i> Master Glossary.</p>
+                        </fn>
+                        <xref type="fn" class="- topic/xref " href="aag-afi1.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb/UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn1"/>
+                     </ph>
+                  </p>
+               </li>
+            </ol>
+         </li>
+      </ol>
+      <p class="- topic/p ">This definition encompasses a wide range of financial instruments, from simple loans
+            and deposits to complex derivatives, structured products, and some commodity
+            contracts.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.02" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.02</b> Financial instruments
+            vary in complexity, though the complexity of the financial instrument can come from
+            different sources, such as</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">a very high volume of individual cash flows in which a lack of homogeneity
+                    requires analysis of each one or a large number of grouped cash flows to
+                    evaluate (for example, collateralized debt obligations).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">complex formulas for determining the cash flows.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">uncertainty or variability of future cash flows, such as that arising from
+                    credit risk, volatility associated with option contracts, or financial
+                    instruments with lengthy contractual terms.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">The higher the variability of cash flows to changes in market conditions, the more
+            likely the complexity and uncertainty of the fair value measurement of the financial
+            instrument. In addition, sometimes, financial instruments that, ordinarily, are
+            relatively easy to value become complex to value because of particular circumstances
+            (for example, instruments for which the market has become inactive or that have lengthy
+            contractual terms). Derivatives and structured products become more complex when they
+            are a combination of individual financial instruments.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.03</b> Another source of
+            complexity is the volume of financial instruments held or traded. Although a "plain
+            vanilla" interest rate swap may not be complex, an entity holding a large number of them
+            may use a sophisticated information system to identify, value, and transact these
+            instruments.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

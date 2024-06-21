@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Appendix D — Information About the Black-Scholes Valuation Model (Ref: par.
+            1.39)</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Information About the Black-Scholes Valuation Model (Ref:
+                <xref format="dita" class="- topic/xref " href="../../aag-afi/aag-afi1/aag-afi1_valuation_of_financial_instruments/aag-afi1_managements_valuation_process/aag-afi1_models/aag-afi1_models.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-7f388eb5-d15d-4de1-ca05-99a267c77bcc/UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.39">par. 1.39</xref>)</p>
+      <p class="- topic/p ">
+         <i class="+ topic/ph hi-d/i ">This appendix is nonauthoritative and is included for
+                informational purposes only.</i>
+      </p>
+      <p class="- topic/p ">This appendix provides an overview of how to evaluate fair values calculated by an
+            entity using the Black-Scholes option pricing model. Although this model ordinarily may
+            involve complex calculations, the following illustrations focus only on the elements of
+            the calculations that are typically most relevant to auditors. Refer to guidance in AU-C
+            section 500B, <i class="+ topic/ph hi-d/i ">Audit Evidence</i>, <ph class="- topic/ph ">
+            <fn callout="1" id="UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6-aag-afi-appD-fn1" class="- topic/fn ">
+               <p class="- topic/p ">All AU-C sections can be found in AICPA <i class="+ topic/ph hi-d/i ">
+                     <xref format="dita" class="- topic/xref " href="../../ps.dita#UUID-31e5d376-7dc9-0bde-c2d8-e38aa3d16588">Professional Standards</xref>
+                     <unknown id="UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6_N66175500bf545" class="- topic/unknown ">AICPA Professional
+                    Standards</unknown>
+                  </i>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_appD.dita#UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6/UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6-aag-afi-appD-fn1"/>
+         </ph> when evaluating fair values derived by management’s specialist. <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6-aag-afi-appD-fn2" class="- topic/fn ">
+               <p class="- topic/p ">Each AU-C section in this guide designated with a “B” suffix (for example,
+                    “AU-C section 200B”) denotes content that does not reflect the codification of
+                    Statement on Auditing Standards (SAS) Nos. 134–140 or the amendments to other
+                    SASs made by SAS Nos. 134–140 and subsequently issued SASs.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi_appD.dita#UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6/UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6-aag-afi-appD-fn2"/>
+         </ph>
+      </p>
+      <p class="- topic/p ">The following table discusses evaluating fair values derived using the Black-Scholes
+            option pricing model:</p>
+      <table outputclass="ruled" id="UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6_aag-afi_appD_table1" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" class="- topic/colspec "/>
+            <colspec colname="c2" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">What is it?</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The <i class="+ topic/ph hi-d/i ">Black-Scholes option pricing
+                                model</i> is a mathematical model for estimating the price of
+                            options. To estimate fair value, the model uses five variables:</p>
+                     <ol outputclass="a" class="- topic/ol ">
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Time to expiration of the option</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Exercise or strike price of the option</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Risk-free interest rate</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Price of the underlying stock</p>
+                        </li>
+                        <li class="- topic/li ">
+                           <p class="- topic/p ">Volatility of the price of the underlying stock</p>
+                        </li>
+                     </ol>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Who uses it?</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">The Black-Scholes model is not the only model for estimating the price
+                            of options (some others are the Monte-Carlo simulation and binomial
+                            trees); however, Black-Scholes is the best known and most widely used.
+                            Computer versions of this model are widely available, and virtually any
+                            broker who trades options has access to them.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">What are the key assumptions?</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Strictly speaking, the Black-Scholes model applies only to
+                            European-style options (in which the buyer of the option can exercise
+                            the option only on the expiration date) that pay no dividends.
+                            Adjustments should be made to the model to address other
+                            situations.</p>
+                     <p class="- topic/p ">Of the five variables used in the model, the first three (time to
+                            expiration, strike price, and risk-free interest rate) are easy to
+                            corroborate. The fourth variable — the price of the underlying stock —
+                            also may be easy to verify if the stock is publicly traded. If the stock
+                            is not publicly traded, then its price must be estimated.</p>
+                     <p class="- topic/p ">Typically, the fifth factor — volatility of the underlying stock — is
+                            the most subjective and difficult to estimate of the five
+                            variables.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">More about volatility</p>
+                  </entry>
+                  <entry align="left" valign="top" class="- topic/entry ">
+                     <p class="- topic/p ">Price volatility can be viewed in the context of the bell-shaped
+                            curve. In a bell-shaped curve, the mean and median of a population are
+                            at the apex of the curve. The standard deviation describes the shape of
+                            the curve. Approximately 68% of the values in a normal distribution are
+                            within ± 1 standard deviation of the mean, 95% of the values are within
+                            ± 2 standard deviations, and 99.7% of the values are included within 3
+                            standard deviations. The standard deviation describes 2 factors: the
+                            dispersion of the data and the probability that any specified outcome
+                            will fall within the standard deviation selected. The greater the
+                            standard deviation, the flatter the bell-shaped curve and the more
+                            dispersed the data.</p>
+                     <p class="- topic/p ">
+                        <i class="+ topic/ph hi-d/i ">Volatility</i> is nothing more than the
+                            standard deviation of the price of a particular stock. Usually, it is
+                            expressed as a percentage of the stock value. For example, assume that
+                            the stock of XYZ is trading at $40, and its volatility is 20%. Over the
+                            course of 1 year, its trading range would be projected to be within 20%
+                            of its current price approximately 68% of the time. That is,
+                            approximately 68% of the time, the stock would trade between $32 and
+                            $48. Going out to 2 standard deviations, 95% of the time, the stock
+                            would trade between $24 and $56.</p>
+                     <p class="- topic/p ">Annual volatility can be adjusted to a daily rate. The Black-Scholes
+                            model does this by dividing the annual volatility by the square root of
+                            the number of trading periods. In any year, there are approximately 256
+                            trading days (this excludes weekends and holidays), and the square root
+                            of 256 is 16. To convert an annual volatility rate to a daily rate,
+                            divide it by 16. Thus, if the annual volatility was 20%, the daily
+                            volatility would equal 20% ÷ 16, or 1.25%. In the example of XYZ Company
+                            stock trading at $40 per share, standard deviation on the first day
+                            would be $0.50 ($40 × 1.25%). At the end of the first day of trading,
+                            there is approximately a 68% chance that the value of the stock will be
+                            between $39.50 and $40.50 per share.</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">How might the auditor audit a Black-Scholes-derived value?</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Understand how the five variables affect the estimate of the value of
+                            the stock option. The following table summarizes the effects.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <table outputclass="ruled" id="UUID-8c7b2c15-f2c7-d718-bbc9-fd55b389c3c6_aag-afi_appD_table2" class="- topic/table ">
+         <tgroup cols="6" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="center" class="- topic/colspec "/>
+            <colspec colname="c3" align="center" class="- topic/colspec "/>
+            <colspec colname="c4" align="center" class="- topic/colspec "/>
+            <colspec colname="c5" align="center" class="- topic/colspec "/>
+            <colspec colname="c6" align="center" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry namest="c2" nameend="c3" align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Call</u>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry namest="c5" nameend="c6" align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Put</u>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Variable</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">If the variable</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">The option price</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">If the variable</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">The option price</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Time to expiration</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Exercise price</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Decreases</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Risk-free interest rate</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Decreases</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Stock price</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Decreases</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Volatility</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Increases</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c6" class="- topic/entry ">
+                     <p class="- topic/p ">Understand what, if any, adjustments to the Black-Scholes model were
+                            made. Identify the key assumptions underlying those adjustments.</p>
+                     <p class="- topic/p ">Test the assumptions used in the model for which objective evidence
+                            exists.</p>
+                     <p class="- topic/p ">If the stock is not publicly traded, the price of the stock needs to
+                            be estimated. Test the process and method used to make this estimate.
+                            Determine whether the estimate is adequately supported. If possible,
+                            compare the estimated stock price with stock prices of comparable
+                            companies in the same industry.</p>
+                     <p class="- topic/p ">Assess the assumed volatility for reasonableness. If the stock is
+                            publicly traded, volatility ordinarily correlates to the historical
+                            price movement of the stock: approximately 68% of the values of the
+                            stock should fall within 1 standard deviation of the median. The auditor
+                            may consider recalculating the volatility assumptions by referring to
+                            historical stock price movements. If the stock is not traded publicly,
+                            compare the assumed volatility with other entities in the same industry.
+                            FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                                Codification</i> 718, <i class="+ topic/ph hi-d/i ">Compensation —
+                                Stock Compensation</i>, requires companies to disclose the
+                            volatility used to value employee stock options, and these disclosures
+                            could be a source of information.</p>
+                     <p class="- topic/p ">Determine how sensitive the estimate of fair value is to changes in
+                            volatility. Ask the entity to run the model several times using
+                            different volatility rates while all other variables are held constant.
+                            This will indicate how sensitive the estimate is to assumptions about
+                            volatility. Evaluate the results of this test in light of materiality.
+                            For example, if large changes in the volatility rate do not produce a
+                            material effect on the financial statements, the auditor may be able to
+                            reduce audit risk to an acceptable level with a minimum of other test
+                            work.</p>
+                     <p class="- topic/p ">As an alternative to these procedures, the auditor may recalculate the
+                            option price using a different model and assumptions the auditor deems
+                            appropriate.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-3d14934a-c99d-8888-3fce-b948217b5002" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Categories of Disclosures</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.59" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.59</b> Disclosure
+                    requirements include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">quantitative disclosures that are derived from the amounts included in
+                            the financial statements (for example, categories of financial assets
+                            and liabilities).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">quantitative disclosures that require significant judgment (for
+                            example, sensitivity analysis for each type of market risk to which the
+                            entity is exposed).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">qualitative disclosures (for example, those that describe the entity’s
+                            governance over financial instruments; objectives; controls, policies,
+                            and processes for managing each type of risk arising from financial
+                            instruments; and the methods used to measure the risks).</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.60" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.60</b> The more
+                    sensitive the valuation to movements in a particular variable, the more likely
+                    it is that disclosure will be necessary to indicate the uncertainties
+                    surrounding the valuation. Financial reporting frameworks may also require
+                    disclosure of sensitivity analyses, including the effects of changes in
+                    assumptions used in the entity’s valuation techniques. For example, the
+                    additional disclosures required for financial instruments with fair value
+                    measurements that are categorized within level 3 inputs of the fair value
+                    hierarchy are aimed at informing users of financial statements about the effects
+                    of those fair value measurements that use the most subjective inputs.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.61" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.61</b> Financial
+                    reporting frameworks may require disclosure of information that enables users of
+                    the financial statements to evaluate the nature and extent of the risks arising
+                    from financial instruments to which the entity is exposed at the reporting date.
+                    The extent of disclosure depends on the extent of the entity’s exposure to risks
+                    arising from financial instruments. This includes qualitative disclosures
+                    about</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">the exposures to risk and how they arise, including the possible
+                            effects on an entity’s future liquidity and collateral
+                            requirements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the entity’s objectives, policies, and processes for managing the risk
+                            and the methods used to measure the risk.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">any changes in exposures to risk or objectives, policies, or processes
+                            for managing risk from the previous period.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

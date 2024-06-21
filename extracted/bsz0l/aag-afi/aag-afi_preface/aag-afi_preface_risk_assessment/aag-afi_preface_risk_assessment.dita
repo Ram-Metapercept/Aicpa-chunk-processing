@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-ac5d1513-a36d-c60c-59dc-9ffd29707709_UUID-045161be-050f-09a1-1c0a-05fcc1250ace" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Risk Assessment — AICPA Enhancing Audit Quality Areas of
+                Focus</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Identifying, assessing, and responding to risks of material misstatement are the
+                core of every audit. However, there is evidence that a high percentage of audit
+                engagements do not reflect proper assessment of risk or linkage of the assessment to
+                planned further audit procedures in accordance with AU-C section 315B, <i class="+ topic/ph hi-d/i ">Understanding the Entity and Its Environment and Assessing the
+                    Risks of Material Misstatement</i>, and AU-C section 330B, <i class="+ topic/ph hi-d/i ">Performing Audit Procedures in Response to Assessed Risks and
+                    Evaluating the Audit Evidence Obtained</i>.</p>
+      <p class="- topic/p ">In connection with its Enhancing Audit Quality (EAQ) initiative, the AICPA has
+                developed a webpage dedicated to risk assessment resources intended to help auditors
+                perform more effective risk assessment and appropriately link the risk assessment to
+                further audit procedures in compliance with professional standards. Certain
+                resources are available at no cost, including a risk assessment template, an
+                internal inspection aid, and staff training workshop. These and other current risk
+                assessment resources can be accessed at <xref scope="external" format="html" class="- topic/xref " href="https://www.aicpa.org/content/aicpa/eaq/aicpa-risk-assessment-resources.html">https://www.aicpa.org/content/aicpa/eaq/aicpa-risk-assessment-resources.html</xref>.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

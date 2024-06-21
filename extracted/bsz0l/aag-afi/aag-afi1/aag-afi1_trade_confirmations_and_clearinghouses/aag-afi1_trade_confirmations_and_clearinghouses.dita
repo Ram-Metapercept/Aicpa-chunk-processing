@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-e5472492-461e-cc3c-4c6c-00a079d2b8b7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Trade Confirmations and Clearinghouses</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.15</b> Generally, the terms
+                of financial instruments are documented in legal agreements and confirmations
+                exchanged between counterparties. Clearinghouses serve to monitor the exchange of
+                confirmations by matching trades and settling them. A central clearinghouse is
+                associated with an exchange, and entities that clear through clearinghouses
+                typically have processes to manage the information delivered to the
+                clearinghouse.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.16</b> Not all transactions
+                are settled through such an exchange. In many other markets, an established practice
+                of agreeing the terms of transactions exists before settlement begins. To be
+                effective, this process needs to be run separately from those who trade the
+                financial instruments to minimize the risk of fraud. In other markets, transactions
+                are confirmed after settlement has begun, and sometimes, confirmation backlogs
+                result in settlement beginning before all terms have been fully agreed. This
+                presents additional risk because the transacting entities need to rely on
+                alternative means of agreeing trades, such as the following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Enforcing rigorous reconciliations between the records of those trading
+                        the financial instruments and those settling them (strong segregation of
+                        duties between the two are important), combined with strong supervisory
+                        controls over those trading the financial instruments to ensure the
+                        integrity of the transactions</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Reviewing summary documentation from counterparties that highlights the
+                        key terms, even if the full terms have not been agreed</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Thorough review of traders’ profits and losses to ensure that they
+                        reconcile to what the administrative and support services have
+                        calculated</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

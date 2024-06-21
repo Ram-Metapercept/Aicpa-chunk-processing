@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-681888e2-836a-6c39-2656-c6882474ce18" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Journal Entries</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.20" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.20</b> The journal
+                    entries Austin-Jhanes made are as follows:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table5" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <colspec colname="c3" align="right" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">September 30, 20X1</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Cash</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$20,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the purchased option as an asset.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">December 31, 20X1</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Loss on hedging activity <ph class="- topic/ph ">
+                           <fn callout="7" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn7" class="- topic/fn ">
+                              <p class="- topic/p ">
+                                 <ph outputclass="shade grey" class="- topic/ph ">“Pending content” in
+                                                FASB ASC 815-20-45-1A provides that, for qualifying
+                                                fair value and cash flow hedges, an entity should
+                                                present both of the following in earnings in the
+                                                same income statement line item that is used to
+                                                present the earnings effect of the hedged item:
+                                                  (<i class="+ topic/ph hi-d/i ">a</i>) the change
+                                                in the fair value of the hedging instrument that is
+                                                included in the assessment of hedge effectiveness,
+                                                and (<i class="+ topic/ph hi-d/i ">b</i>) amounts
+                                                excluded from the assessment of hedge effectiveness
+                                                in accordance with paragraphs 83A–83B of FASB ASC
+                                                815-20-25. </ph>
+                              </p>
+                           </fn>
+                           <xref type="fn" class="- topic/xref " href="aag-afi11_journal_entries.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-681888e2-836a-6c39-2656-c6882474ce18/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn7"/>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$10,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$10,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the reduction in the time value of the option
+                                    through a charge to earnings.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$238,095</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Other comprehensive income</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$238,095</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the increase in the option’s intrinsic value through
+                                    a credit to other comprehensive income.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">March 31, 20X2</b>
+                     </p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Loss on hedging activity <ph class="- topic/ph ">
+                           <fn callout="8" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn8" class="- topic/fn ">
+                              <p class="- topic/p ">
+                                 <ph outputclass="shade grey" class="- topic/ph ">See <xref format="dita" class="- topic/xref " href="../../../../aag-afi/aag-afi11/aag-afi11_accounting_considerations/aag-afi11_journal_entries/aag-afi11_journal_entries.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-681888e2-836a-6c39-2656-c6882474ce18/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn7">footnote 7</xref>.</ph>
+                              </p>
+                           </fn>
+                           <xref type="fn" class="- topic/xref " href="aag-afi11_journal_entries.dita#UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_UUID-681888e2-836a-6c39-2656-c6882474ce18/UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736-aag-afi11-fn8"/>
+                        </ph>
+                     </p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$10,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$10,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the reduction in the time value of the option
+                                    through a charge to earnings.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$414,079</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Other comprehensive income</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$414,079</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the increase in the intrinsic value of the option
+                                    through a credit to other comprehensive income.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cash</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$4,347,826</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Sales</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$4,347,826</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the FC 10,000,000 sale at a spot rate of 2.30 FC/1
+                                    U.S. $.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cash</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$652,174</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$652,174</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the net cash settlement of the option at its
+                                    maturity.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Other comprehensive income</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$652,174</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Other income</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$652,174</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To transfer the gain on the hedging activity to earnings when
+                                    the forecasted transaction affects earnings.</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.21</b> The effects of
+                    the transaction on Austin-Jhanes’ statement of financial position are as
+                    follows:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table6" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">DR (CR)</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c2" align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">September 30, 20X1</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cash</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$(20,000)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">20,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c2" align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">December 31, 20X1</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cash</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$(20,000)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Foreign currency option</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">248,095</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Accumulated other comprehensive income</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">(238,095)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Retained earnings</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">10,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c2" align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">March 31, 20X2</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cash</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$4,980,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Retained earnings</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">(4,980,000)</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">11.22</b> The effects of
+                    the transaction on Austin-Jhanes’ earnings are as follows:</p>
+      <table outputclass="ruled" id="UUID-799d96c5-afd4-f8e0-6b3e-b8f5fd164736_aag-afi11_table7" class="- topic/table ">
+         <tgroup cols="2" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">DR (CR)</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c2" align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Period Ended December 31, 20X1</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Loss on hedging activity resulting
+                                        from a decrease of the time value of the option</u>
+                     </p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">$10,000</u>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c2" align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <b class="+ topic/ph hi-d/b ">Period Ended March 31, 20X2</b>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Other Income</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">(5,000,000)</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">Loss on hedging activity resulting
+                                        from a decrease of the time value of the option</u>
+                     </p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u "> 10,000</u>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">$(4,990,000)</u>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="left" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">
+                           <b class="+ topic/ph hi-d/b ">Cumulative impact</b>
+                        </u>
+                     </p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u ">$(4,980,000)</u>
+                     </p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-22008eca-2047-7ce2-95de-fa3ba34fbda6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Understanding the Nature, Role, and Activities of the Internal Audit
+                Function</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.55" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.55</b> In many large
+                entities, the internal audit function may perform work that enables senior
+                management and those charged with governance to review and evaluate the entity’s
+                controls relating to the use of financial instruments. The internal audit function
+                may assist in identifying the risks of material misstatement due to fraud or error.
+                However, the knowledge and skills required of an internal audit function to
+                understand and perform procedures to provide assurance to management or those
+                charged with governance on the entity’s use of financial instruments are generally
+                quite different from those needed for other parts of the business. The extent to
+                which the internal audit function has the knowledge and skills to cover, and has in
+                fact covered, the entity’s financial instrument activities, as well as the
+                competence and objectivity of the internal audit function, is a relevant
+                consideration in the external auditor’s determination of whether the internal audit
+                function is likely to be relevant to the overall audit strategy and audit
+                plan.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.56" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.56</b> Areas where the work
+                of the internal audit function may be particularly relevant are as follows:
+                    <ph class="- topic/ph ">
+            <fn callout="12" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn12" class="- topic/fn ">
+               <p class="- topic/p ">Work performed by functions such as the risk management function, model
+                        review functions, and product control may also be relevant.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_understanding_the_nature_role.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-22008eca-2047-7ce2-95de-fa3ba34fbda6/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn12"/>
+         </ph>
+      </p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Developing a general overview of the extent of the use of financial
+                        instruments</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Evaluating the appropriateness of policies and procedures and management’s
+                        compliance with them</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Evaluating the operating effectiveness of financial instrument control
+                        activities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Evaluating systems relevant to financial instrument activities</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Assessing whether new risks relating to financial instruments are
+                        identified, assessed, and managed</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

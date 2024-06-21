@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-66f0fa82-5ba8-a6d8-5922-b3ff299ebabb" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">FASB ASU No. 2019-04, Codification Improvements to Topic 326,
+                        Financial Instruments — Credit Losses, Topic 815, Derivatives and Hedging,
+                        and Topic 825, Financial Instruments</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">In April 2019, FASB issued ASU No. 2019-04 to clarify, correct, and
+                        improve various aspects of the guidance in ASU Nos. 2016-01, 2016-13,
+                            <i class="+ topic/ph hi-d/i ">Financial Instruments — Credit Losses (Topic
+                            326): Measurement of Credit Losses on Financial Instruments</i>,
+                        and 2017-12, <i class="+ topic/ph hi-d/i ">Derivatives and Hedging (Topic 815):
+                            Targeted Improvements to Accounting for Hedging Activities</i>,
+                        related to financial instruments. The discussion herein will only address
+                        those amendments related to ASU No. 2016-01. Amendments related to ASU Nos.
+                        2016-13 and ASU No. 2017-12 will be addressed in subsequent sections of this
+                        appendix.</p>
+      <p class="- topic/p ">ASU No. 2019-04 clarifies certain aspects of the amendments in ASU No.
+                        2016-01 as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Scope clarifications for FASB ASC 320-10
+                                    and FASB ASC 321-10.</i> The amendments clarify the scope
+                                of FASB ASC 320-10 and FASB ASC 321-10 by specifically naming health
+                                and welfare plans accounted for in accordance with FASB ASC 965,
+                                    <i class="+ topic/ph hi-d/i ">Plan Accounting — Health and Welfare
+                                    Benefit Plans,</i> in the paragraphs limiting the scope
+                                of those subtopics.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Held-to-maturity debt securities fair
+                                    value disclosures.</i> The amendments to the disclosure
+                                requirements addressed in FASB ASC 320-10-50-5 and FASB ASC
+                                942-320-50-3 and the additions of paragraphs 5A–5B of FASB ASC
+                                320-10-50 and paragraph 3A of FASB ASC 942-320-50 clarify FASB’s
+                                intent to exempt entities other than public business entities from
+                                fair value disclosure requirements for financial instruments not
+                                measured at fair value on the balance sheet.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Applicability of FASB ASC 820 to the
+                                    measurement alternative.</i> The amendments specifically
+                                require that an entity remeasure an equity security without readily
+                                determinable fair value at fair value when an orderly transaction is
+                                identified for an identical or similar investment of the same issuer
+                                in accordance with FASB ASC 820. That is, the amendments clarify
+                                that the measurement alternative is a nonrecurring fair value
+                                measurement. Additionally, the amendments clarify that an entity
+                                should adhere to the applicable disclosure requirements in FASB ASC
+                                820 for a nonrecurring fair value measurement.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Remeasurement of equity securities at
+                                    historical exchange rates.</i> The amendments clarify
+                                that equity securities without readily determinable fair values
+                                accounted for under the measurement alternative in accordance with
+                                FASB ASC 321-10-35-2 are required to follow FASB ASC 830-10-45-18,
+                                which requires remeasurement at historical exchange rates. In
+                                addition, the amendments clarify that the rate used should be the
+                                historical exchange rate as of the later of the acquisition date or
+                                the most recent date on which the equity security was adjusted to
+                                fair value in accordance with paragraphs 2–3 of FASB ASC 321-10-35,
+                                if applicable. In addition, the amendments to FASB ASC 830-10-45-18
+                                are not intended to change items that should be remeasured at
+                                historical exchange rates.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

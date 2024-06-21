@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-c6d1eaf7-c387-2f31-15b0-7bbfa48a82d2" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">An Example of a Common Financial Instrument</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.42" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.42</b> The
+                        following describes how models may be applied to value a common financial
+                        instrument, known as an asset-backed security. <ph class="- topic/ph ">
+            <fn callout="6" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn6" class="- topic/fn ">
+               <p class="- topic/p ">An <i class="+ topic/ph hi-d/i ">asset-backed security</i> is a
+                                financial instrument that is backed by a pool of underlying assets
+                                (known as the collateral, such as credit card receivables or vehicle
+                                loans) and that derives value and income from those underlying
+                                assets.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi1_an_example_of_a.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-c6d1eaf7-c387-2f31-15b0-7bbfa48a82d2/UUID-6fb2258c-c136-40b1-b87c-df36644428fb-aag-afi1-fn6"/>
+         </ph> Because asset-backed securities are often valued based on level
+                        2 or level 3 inputs, they are frequently valued using models and involve
+                        understanding the</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">type of security, considering the underlying collateral and the
+                                terms of the security. The underlying collateral is used to estimate
+                                the timing and amounts of cash flows, such as mortgage or credit
+                                card interest and principal payments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">terms of the security. This includes evaluating contractual cash
+                                flow rights, such as the order of repayment, and any default events.
+                                The order of repayment, often known as seniority, refers to terms
+                                that require that some classes of security holders (senior debt) are
+                                repaid before others (subordinated debt). The rights of each class
+                                of security holder to the cash flows, frequently referred to as the
+                                cash flow "waterfall," together with assumptions of the timing and
+                                amount of cash flows, are used to derive a set of estimated cash
+                                flows for each class of security holder. The expected cash flows are
+                                then discounted to derive an estimated fair value.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.43" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.43</b> The cash
+                        flows of an asset-backed security may be affected by prepayments of the
+                        underlying collateral and potential default risk and resulting estimated
+                        loss reserves. Prepayment assumptions, if applicable, are generally based on
+                        evaluating market interest rates for similar collateral to the rates on the
+                        collateral underlying the security. For example, if market interest rates
+                        for mortgages have declined, then the underlying mortgages in a security may
+                        experience higher prepayment rates than originally expected. Estimating
+                        potential default and loss reserve involves close evaluation of the
+                        underlying collateral and borrowers to estimate default rates. For example,
+                        when the underlying collateral comprises residential mortgages, loss
+                        reserves may be affected by estimates of residential housing prices over the
+                        term of the security.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

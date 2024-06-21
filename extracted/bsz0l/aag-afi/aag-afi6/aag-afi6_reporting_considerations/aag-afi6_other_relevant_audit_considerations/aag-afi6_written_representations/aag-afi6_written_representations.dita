@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-037d338b-8763-fa1c-8800-d8a3f2668b85" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Written Representations</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.29" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.29</b> Paragraph
+                        .16 of AU-C section 580B, <i class="+ topic/ph hi-d/i ">Written
+                            Representations</i>, requires the auditor to obtain written
+                        representations from management and, when appropriate, those charged with
+                        governance about whether they believe significant assumptions used in making
+                        accounting estimates are reasonable. AU-C section 580B also states that
+                        written representations from management do not provide sufficient
+                        appropriate audit evidence on their own about any of the matters with which
+                        they deal. If the auditor is otherwise unable to obtain sufficient
+                        appropriate audit evidence, this may constitute a limitation on the scope of
+                        the audit that may have implications for the auditor’s report. <ph class="- topic/ph ">
+            <fn callout="14" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn14" class="- topic/fn ">
+               <p class="- topic/p ">See <xref format="dita" class="- topic/xref " href="../../../../../aag-afi/aag-afi6/aag-afi6_reporting_considerations/aag-afi6_modifications_to_the_auditors/aag-afi6_departures_from_the_applicable/aag-afi6_departures_from_the_applicable.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-1041c88f-6097-cfe3-3e57-9e123cae100d/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn13">footnote 13</xref>.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi6_written_representations.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-037d338b-8763-fa1c-8800-d8a3f2668b85/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn14"/>
+         </ph> (See AU-C section 705B.)</p>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.30</b> Paragraph
+                        .19 of AU-C section 580B requires that if, in addition to such required
+                        representations, the auditor determines it is necessary to obtain one or
+                        more written representations to support other audit evidence relevant to the
+                        financial statements or one or more specific assertions in the financial
+                        statements, the auditor should request such other written representations.
+                        Depending on the volume and degree of complexity of financial instrument
+                        activities, written representations to support other evidence obtained about
+                        financial instruments may also include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">management’s objectives with respect to financial instruments (for
+                                example, whether they are used for hedging, asset or liability
+                                management, or investment purposes).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">representations about the appropriateness of the presentation of
+                                the financial statements (for example, the recording of financial
+                                instrument transactions as sales or financing transactions).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">representations about the financial statement disclosures
+                                concerning financial instruments (for example, that the records
+                                reflect all financial instrument transactions, and all embedded
+                                derivative instruments have been identified).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether all transactions have been conducted at arm’s length and
+                                market value.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the terms of transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the appropriateness of the valuations of financial
+                                instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether any side agreements associated with any financial
+                                instruments exist.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether the entity has entered into any written options.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">management’s intent and ability to carry out certain actions.
+                                    <ph class="- topic/ph ">
+                  <fn callout="15" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn15" class="- topic/fn ">
+                     <p class="- topic/p ">Paragraph .A82 of AU-C section 540B provides examples of
+                                        procedures that may be appropriate in the
+                                        circumstances.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi6_written_representations.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-037d338b-8763-fa1c-8800-d8a3f2668b85/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn15"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">whether subsequent events require adjustment to the valuations and
+                                disclosures included in the financial statements.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Accounting Considerations</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Accounting Considerations <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn2" class="- topic/fn ">
+               <p class="- topic/p ">For simplicity, this case study ignores income tax consequences.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn2"/>
+         </ph>
+         <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn3" class="- topic/fn ">
+               <p class="- topic/p ">
+                  <ph outputclass="shade grey" class="- topic/ph ">In April 2019, FASB issued ASU No.
+                            2019-04, <i class="+ topic/ph hi-d/i ">Codification Improvements to Topic 326,
+                                Financial Instruments — Credit Losses, Topic 815, Derivatives and
+                                Hedging</i>, and <i class="+ topic/ph hi-d/i ">Topic 825, Financial
+                                Instruments</i> to clarify and improve areas of guidance
+                            related to recently-issued ASU Nos. 2016-13, <i class="+ topic/ph hi-d/i ">Financial Instruments — Credit Losses (Topic 326): Measurement of
+                                Credit Losses on Financial Instruments</i>, 2017-12,
+                                <i class="+ topic/ph hi-d/i ">Derivatives and Hedging (Topic 815):
+                                Targeted Improvements to Accounting for Hedging
+                                Activities</i>, and 2016-01, <i class="+ topic/ph hi-d/i ">Financial Instruments — Overall (Subtopic 825-10): Recognition and
+                                Measurement of Financial Assets and Financial
+                            Liabilities</i>. The ASU identifies the following five topic
+                            categories:</ph>
+               </p>
+               <ul outputclass="ul bullet" class="- topic/ul ">
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph outputclass="shade grey" class="- topic/ph ">Topic 1: Codification
+                                    Improvements Resulting from the June 11, 2018 and November 1,
+                                    2018 Credit Losses Transition Resource Group (TRG)
+                                    Meetings</ph>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph outputclass="shade grey" class="- topic/ph ">Topic 2: Codification
+                                    Improvements to Update 2016-13</ph>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph outputclass="shade grey" class="- topic/ph ">Topic 3: Codification
+                                    Improvements to Update 2017-12 and Other Hedging
+                                    Items</ph>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph outputclass="shade grey" class="- topic/ph ">Topic 4: Codification
+                                    Improvements to Update 2016-01</ph>
+                     </p>
+                  </li>
+                  <li class="- topic/li ">
+                     <p class="- topic/p ">
+                        <ph outputclass="shade grey" class="- topic/ph ">Topic 5: Codification
+                                    Improvements Resulting from the November 1, 2018 Credit Losses
+                                    TRG Meeting</ph>
+                     </p>
+                  </li>
+               </ul>
+               <p class="- topic/p ">Each topic category contains a variety of issues and the effective dates
+                        for each issue depend on the topic category. “Pending Content” from Topic 1,
+                        Issue 1B of the ASU is addressed in <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi7/aag-afi7_accounting_considerations/aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.05">paragraph 7.05</xref> of this guide. The amendments in Issue 1B are
+                        effective as follows: for entities that have not yet adopted the amendments
+                        in ASU No. 2016-13, the effective dates and transition requirements are the
+                        same as those for that ASU; for entities that have adopted the amendments in
+                        ASU No. 2016-13, the effective dates are for fiscal years beginning after
+                        December 15, 2019, including interim periods within those fiscal years.
+                        Early adoption is permitted. See the ASU, available at <xref scope="external" format="html" class="- topic/xref " href="https://fasb.org">fasb.org</xref>, for application
+                        details.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn3"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.03" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.03</b> BEV manufactures
+                parts for high-performance bicycles. Several years ago, BEV purchased a 6%, AA-rated
+                bond of a publicly traded copper mining company at its $800,000 face amount. The
+                intent of BEV’s management was to invest in a relatively stable security that would
+                be available to finance BEV’s plant expansion that they anticipated would take place
+                within a short period of time. Accordingly, the bond was classified as available for
+                sale.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.04" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.04</b> For the last 2
+                years, competition for BEV’s products has increased dramatically, and as a result,
+                BEV has failed to continue to grow. At the end of the current year, management
+                dropped its plans to expand the plant, decided to hold the bond to maturity, and
+                changed the classification of the bond to held to maturity. Several months before
+                the change in classification, the bond’s fair value began to decline. By the time
+                the classification was changed, the bond’s fair value had declined by $150,000, from
+                $800,000 <ph class="- topic/ph ">
+            <fn callout="4" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn4" class="- topic/fn ">
+               <p class="- topic/p ">For simplicity, this case study assumes that at the end of the prior year,
+                        the bond’s fair value equaled its $800,000 face amount.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn4"/>
+         </ph> to $650,000.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.05" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.05</b> According to FASB
+                    <i class="+ topic/ph hi-d/i ">Accounting Standards Codification</i> (ASC) 320,
+                    <i class="+ topic/ph hi-d/i ">Investments — Debt Securities</i>, BEV should
+                record the unrealized loss through the date of change in classification through a
+                $150,000 charge to other comprehensive income and a $150,000 credit directly to the
+                bond. The $650,000 fair value at the date the classification is changed becomes the
+                bond’s new cost basis. With the exception of a decline in fair value that is other
+                than temporary, changes in the fair value of the bond after the change in
+                classification should only be recognized when they are realized. However, any
+                decline in value that is other than temporary should be recognized in accordance
+                with the requirements of paragraphs 34A–34E of FASB ASC 320-10-35. The measurement
+                of the decline in value (impairment) should not include partial recoveries after the
+                balance sheet date. The fair value of the bond would then become the new cost basis
+                and should not be adjusted for subsequent recoveries in fair value. However, the
+                amortized cost basis should be adjusted for accretion and amortization as discussed
+                in FASB ASC 320-10-35-35.</p>
+      <p outputclass="ps_para_number" class="- topic/p ">
+         <ph outputclass="shade grey" class="- topic/ph ">Based on “Pending Content” (added by Accounting
+                    Standards Update No. 2019-04, <i class="+ topic/ph hi-d/i ">Codification Improvements
+                        to Topic 326, Financial Instruments — Credit Losses, Topic 815, Derivatives
+                        and Hedging, and Topic 825, Financial Instruments</i>) in paragraph
+                    10B of FASB ASC 320-10-35, BEV should reclassify and transfer the debt security
+                    to the held-to-maturity category at its amortized cost basis of $650,000 (which
+                    is reduced by any previous write-offs but excludes any allowance for credit
+                    losses) plus or minus the amount of remaining unrealized holding loss reported
+                    in accumulated other comprehensive income. BEV should evaluate the debt security
+                    for an allowance for credit losses by following the guidance in FASB ASC 326-20,
+                        <i class="+ topic/ph hi-d/i ">Financial Instruments — Credit Losses-Measured at
+                        Amortized Cost</i>. BEV should continue to report the unrealized
+                    holding loss at the date of the transfer in a separate component of
+                    shareholders’ equity, such as accumulated other comprehensive income; the loss
+                    should be amortized over the remaining life of the security as an adjustment of
+                    yield in a manner consistent with the amortization of any premium or
+                    discount.</ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.06</b> When a bond is
+                reclassified as held to maturity, the unrealized appreciation or depreciation in its
+                value at the date of reclassification continues to be reported as a separate
+                component of equity (such as accumulated other comprehensive income). However, it is
+                treated as a premium or discount and amortized over future years as a yield
+                adjustment. The bond’s amortized cost basis, which is its carrying amount, is its
+                $800,000 face amount less the unamortized portion of the $150,000 unrealized loss at
+                the date of reclassification. <ph class="- topic/ph ">
+            <fn callout="5" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn5" class="- topic/fn ">
+               <p class="- topic/p ">It may also be viewed as the $650,000 fair value at the date of
+                        reclassification plus cumulative amortization of the $150,000 unrealized
+                        loss at the date of reclassification.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi7_accounting_considerations.dita#UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_UUID-2b6edddb-334a-4b1a-9237-0e6ab8ff91a6/UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6-aag-afi7-fn5"/>
+         </ph> Therefore, when the bond matures, its carrying amount will be its face
+                amount. In financial statements after the reclassification, BEV’s financial
+                statements should disclose, among other things, the bond’s amortized cost basis, its
+                fair value, and the unrealized appreciation or depreciation in its value. The
+                unrealized appreciation or depreciation disclosed in the financial statements should
+                be the difference between the bond’s fair value and its new amortized cost basis
+                (that is, the fair value at the date of reclassification adjusted for unamortized
+                premium or discount).</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.07</b> BEV could use the
+                following entries to record the change in classification of the bond from available
+                for sale to held to maturity:</p>
+      <table outputclass="ruled" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7_table1" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <colspec colname="c3" align="right" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Other comprehensive income</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$150,000</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Investment in available-for-sale bond</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$150,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To recognize the decline in the bond’s fair value through the date
+                                its classification was changed</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Investment in held-to-maturity bond</p>
+                  </entry>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$650,000</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">    Investment in available-for-sale bond</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$650,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">To record the change in the bond’s classification</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.08</b> The $150,000
+                unrealized holding loss related to the bond at the time of the reclassification
+                would continue to be reported in accumulated other comprehensive income. Each year,
+                BEV will receive $48,000 in cash from the issuer of the bond, which is 6% of the
+                bond’s $800,000 face amount. An effective interest rate of 11.08393% would discount
+                5 annual payments of $48,000 and an $800,000 principal payment at the end of the
+                fifth year to the bond’s $650,000 carrying amount when the classification is
+                changed. Accordingly, the difference between the result of applying this rate to the
+                bond’s carrying amount and the $48,000 stated interest should be recorded as
+                amortization of the discount. As the following table illustrates, the substance of
+                the accounting is that each year, cash increases $48,000; the bond’s carrying amount
+                increases by the discount amortization; and equity increases by the result of
+                applying 11.08393% to the carrying amount of the bond at the beginning of the
+                year:</p>
+      <table outputclass="ruled" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7_table2" class="- topic/table ">
+         <tgroup cols="5" class="- topic/tgroup ">
+            <colspec colname="c1" align="center" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <colspec colname="c3" align="right" class="- topic/colspec "/>
+            <colspec colname="c4" align="right" class="- topic/colspec "/>
+            <colspec colname="c5" align="right" class="- topic/colspec "/>
+            <thead class="- topic/thead ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Year</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Carrying Amount of the Bond</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Cash Received</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Discount Amortization</p>
+                  </entry>
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">Total Increase in Equity</p>
+                  </entry>
+               </row>
+            </thead>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">1</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$650,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$48,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$24,046</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$72,046</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">2</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">674,046</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">48,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">26,711</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">74,711</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">3</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">700,757</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">48,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">29,671</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">77,671</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">4</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">730,428</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">48,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">32,960</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">80,960</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry align="center" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">5</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">763,388</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">48,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">36,612</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">
+                        <u class="+ topic/ph hi-d/u "> 84,612</u>
+                     </p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry valign="bottom" class="- topic/entry "/>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$800,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$240,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$150,000</p>
+                  </entry>
+                  <entry align="right" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">$390,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry namest="c1" nameend="c5" valign="bottom" class="- topic/entry ">
+                     <p class="- topic/p ">The $390,000 cumulative increase in equity over the 5 remaining
+                                years the bond is outstanding equals the $240,000 interest received
+                                plus the amortization of the $150,000 unrealized loss at the date of
+                                reclassification.</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.09" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.09</b> The increase in
+                equity should be split between interest income and other comprehensive income.
+                Because BEV will not realize the $150,000 unrealized loss charged to other
+                comprehensive income, the effective rate of return on the bond reported in earnings
+                is equal to the bond’s stated interest rate. Therefore, interest income equals
+                interest received. In substance, the excess of the increase in equity over the
+                interest income equals the amortization of the discount and is reported as other
+                comprehensive income. The 3 entries for the first year would be as follows:</p>
+      <table outputclass="ruled" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7_table3" class="- topic/table ">
+         <tgroup cols="3" class="- topic/tgroup ">
+            <colspec colname="c1" align="left" class="- topic/colspec "/>
+            <colspec colname="c2" align="right" class="- topic/colspec "/>
+            <colspec colname="c3" align="right" class="- topic/colspec "/>
+            <tbody class="- topic/tbody ">
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Cash</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">$48,000</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">    Interest income</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">$48,000</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">To record interest received</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Discount on investment in held-to-maturity bond</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">$24,046</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">    Interest income</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">$24,046</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">To record amortization of the discount on the held-to-maturity
+                                bond</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">Interest income</p>
+                  </entry>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">$24,046</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">    Other comprehensive income</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">$24,046</p>
+                  </entry>
+               </row>
+               <row class="- topic/row ">
+                  <entry class="- topic/entry ">
+                     <p class="- topic/p ">To record amortization of the unrealized loss included in
+                                accumulated other comprehensive income</p>
+                  </entry>
+                  <entry class="- topic/entry "/>
+                  <entry class="- topic/entry "/>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.10" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.10</b> Paragraphs 17–35 of
+                FASB ASC 320-10-35 address the determination regarding when an investment is
+                considered impaired, whether that impairment is other than temporary, and the
+                measurement of an impairment loss. FASB ASC 320-10-35 also includes accounting
+                considerations subsequent to the recognition of an other-than-temporary impairment
+                and requires certain disclosures about unrealized losses that have not been
+                recognized as other-than-temporary impairments.</p>
+      <p outputclass="ps_para_number" class="- topic/p ">“Pending Content” in paragraphs 17–35 of FASB ASC 320-10-35
+                is superseded upon adoption of by ASU No. 2016-13, <i class="+ topic/ph hi-d/i ">Financial
+                    Instruments — Credit Losses (Topic 326): Measurement of Credit Losses on
+                    Financial Instruments</i>.</p>
+      <p outputclass="ps_para_number" id="UUID-9a1b63a3-6faf-2f41-2eaf-f88a20adbbe6_aag-afi7.11" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">7.11</b> At the end of the
+                fifth year, when the principal is collected, the</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">discount will have been amortized, and the carrying amount of the bond
+                        will be $800,000, which is the principal due on the bond.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">$150,000 unrealized loss in accumulated other comprehensive income will
+                        have been eliminated through credits to other comprehensive income.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

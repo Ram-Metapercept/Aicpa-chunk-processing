@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-5e006ecb-b55a-78f0-bf97-247b608374cf" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Segregation of Duties</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.30" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.30</b> Segregation
+                        of duties and the assignment of personnel is an important control activity,
+                        particularly when exposed to financial instruments. Financial instrument
+                        activities may be segregated into a number of functions, including the
+                        following:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Executing the transaction (dealing). In entities with a high
+                                volume of financial instrument transactions, this may be done by the
+                                sales function.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Initiating cash payments and accepting cash receipts
+                                (settlements).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Sending out trade confirmations and reconciling the differences
+                                between the entity’s records and replies from counterparties, if
+                                any.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Recording correctly all transactions in the accounting
+                                records.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monitoring risk limits. In entities with a high volume of
+                                financial instrument transactions, this may be performed by the risk
+                                management function.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Monitoring positions and valuing financial instruments.</p>
+         </li>
+      </ol>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.31" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.31</b> Many
+                        organizations choose to segregate the duties of those investing in financial
+                        instruments, those valuing financial instruments, those settling financial
+                        instruments, and those accounting for the financial instruments.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.32" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.32</b> When an
+                        entity is too small to achieve proper segregation of duties, the role of
+                        management and those charged with governance in monitoring financial
+                        instrument activities is of particular importance.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.33" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.33</b> A feature of
+                        some entities’ internal control is an independent price verification (IPV)
+                        function. This department is responsible for separately verifying the price
+                        of some financial instruments and may use alternative data sources,
+                        methodologies, and assumptions. The IPV provides an objective look at the
+                        pricing that has been developed in another part of the entity.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.34" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.34</b> Ordinarily,
+                        the risk management function establishes policies on valuation and other
+                        functions (for example, administrative and support services) and may be
+                        responsible for ensuring adherence to the policy. Entities with a greater
+                        use of financial instruments may perform daily valuations of their financial
+                        instrument portfolio and examine the contribution to profit or loss of
+                        individual financial instrument valuations as a test of the reasonableness
+                        of valuations.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.35" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.35</b> Regular
+                        reconciliation of the entity’s records to external banks’ and custodians’
+                        records enables the entity to ensure transactions are properly recorded.
+                        Appropriate segregation of duties between those transacting the trades and
+                        those reconciling them is important, as is a rigorous process for reviewing
+                        reconciliations and clearing reconciling items.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.36" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.36</b> Controls may
+                        also be established that require traders to identify whether a complex
+                        financial instrument may have unique features (for example, embedded
+                        derivatives). In such circumstances, there may be a separate function that
+                        evaluates complex financial instrument transactions at their initiation
+                        (which may be known as a product control group) working in connection with
+                        an accounting policy group to ensure that the transaction is accurately
+                        recorded. Although smaller entities may not have product control groups, an
+                        entity may have a process in place relating to the review of complex
+                        financial instrument contracts at the point of origination in order to
+                        ensure that they are accounted for appropriately in accordance with the
+                        applicable financial reporting framework.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.37" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.37</b> <xref format="dita" class="- topic/xref " href="../../../../../aag-afi/aag-afi_appC/aag-afi_appC.dita#UUID-98424c7b-7ffc-0327-9322-911753222ce7">Appendix C</xref>, "Examples of Control Objectives, Related Controls,
+                        and Illustrative Tests of Controls for Financial Instruments," of this guide
+                        provides examples of control objectives, related controls, and illustrative
+                        tests of controls for financial instruments.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

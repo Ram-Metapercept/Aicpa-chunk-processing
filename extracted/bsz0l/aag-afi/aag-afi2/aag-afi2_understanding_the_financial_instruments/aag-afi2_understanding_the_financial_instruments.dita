@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_UUID-bd7e3993-2321-8480-e01c-f19d5d2c4878" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Understanding the Financial Instruments</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.06</b> The characteristics
+                of financial instruments may obscure certain elements of risk and exposure.
+                Obtaining an understanding of the instruments in which the entity has invested or to
+                which it is exposed, including the characteristics of the instruments, helps the
+                auditor identify whether</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">important aspects of a transaction are missing or inaccurately
+                        recorded.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the risks inherent in them are fully understood and managed by the
+                        entity.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the instruments are valued using an appropriate valuation
+                        technique.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the financial instruments are appropriately classified into current and
+                        noncurrent assets and liabilities.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.07</b> Examples of matters
+                that the auditor may consider when obtaining an understanding of the entity’s
+                financial instruments include</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">the types of financial instruments to which the entity is exposed.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the purpose for which they are used.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">management’s and, when appropriate, those charged with governance’s
+                        understanding of the financial instruments, their use, and the accounting
+                        requirements.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">their exact terms and characteristics so that their implications can be
+                        fully understood and, in particular, when transactions are linked, the
+                        overall effect of the financial instrument transactions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">how they fit into the entity’s overall risk management strategy.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">Inquiries of the internal audit function and risk management function, if such
+                functions exist, and discussions with those charged with governance may assist the
+                auditor in obtaining this understanding.</p>
+      <p outputclass="ps_para_number" id="UUID-8f5b7bc3-56ec-1810-d55d-d2418eec8eec_aag-afi2.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">2.08</b> In some cases, a
+                contract, including a contract for a nonfinancial instrument, may contain a
+                derivative. Some financial reporting frameworks permit or require such embedded
+                derivatives to be separated from the host contract in some circumstances.
+                Understanding management’s process for identifying and accounting for embedded
+                derivatives will assist the auditor in understanding the risks to which the entity
+                is exposed.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

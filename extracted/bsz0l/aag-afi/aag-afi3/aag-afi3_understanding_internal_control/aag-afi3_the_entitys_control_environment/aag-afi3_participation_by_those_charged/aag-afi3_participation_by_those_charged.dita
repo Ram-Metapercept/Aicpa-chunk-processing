@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-3a5d8790-a4c7-32cc-ebb7-d702fcc482ea" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Participation by Those Charged With Governance</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.08</b> Paragraph
+                        .A79 of AU-C section 315B addresses elements of the control environment that
+                        may be relevant when obtaining an understanding of the control environment
+                        and identifies the following attributes of those charged with
+                        governance:</p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">their independence from management.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">their experience and stature.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the extent of their involvement and the information they receive
+                                and the scrutiny of activities.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">the appropriateness of their actions, including the degree to
+                                which difficult questions are raised and pursued with
+                                management.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">their interaction with internal and external auditors.</p>
+         </li>
+      </ol>
+      <p class="- topic/p ">Those charged with governance oversee and concur with management’s
+                        establishment of the entity’s overall risk appetite and provide oversight
+                        over the entity’s financial instrument activities. An entity’s policies for
+                        the purchase, sale, and holding of financial instruments are aligned with
+                        its attitude toward risk and the expertise of those involved in financial
+                        instrument activities. In addition, an entity may establish governance
+                        structures and control processes aimed at</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">communicating investment decisions and assessments of all material
+                                measurement uncertainty to those charged with governance, as well
+                                as</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluating the entity’s overall risk appetite when engaging in
+                                financial instrument transactions.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

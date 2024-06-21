@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-85396219-6243-037c-227f-7b14497d88e7" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Obtaining an Understanding of the Services Provided by a Service
+                    Organization, Including Internal Control</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.46" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.46</b> When auditing
+                    the financial statements of an entity that uses a service organization, the user
+                    auditor is required to obtain an understanding of how the entity uses the
+                    services of the service organization in the entity’s operations, including the
+                    following:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">The nature of the services provided by the service organization and
+                            the significance of those services to the user entity, including their
+                            effect on the user entity’s internal control</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The nature and materiality of the transactions processed or accounts
+                            or financial reporting processes affected by the service
+                            organization</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The degree of interaction between the activities of the service
+                            organization and those of the user entity</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">The nature of the relationship between the user entity and service
+                            organization, including the relevant contractual terms for the
+                            activities undertaken by the service organization <ph class="- topic/ph ">
+                  <fn callout="5" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn5" class="- topic/fn ">
+                     <p class="- topic/p ">Paragraph .09 of AU-C section 402B, <i class="+ topic/ph hi-d/i ">Audit Considerations Relating to an Entity Using a Service
+                                        Organization</i>.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi3_obtaining_an_understanding_of.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-85396219-6243-037c-227f-7b14497d88e7/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn5"/>
+               </ph>
+            </p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.47" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.47</b> The user auditor
+                    is required to evaluate the design and implementation of relevant controls at
+                    the user entity that relate to the service provided by a service organization.
+                        <ph class="- topic/ph ">
+            <fn callout="6" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn6" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .10 of AU-C section 402B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_obtaining_an_understanding_of.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-85396219-6243-037c-227f-7b14497d88e7/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn6"/>
+         </ph> If there is a high degree of interaction between the user entity and
+                    service organization, the user entity may be able to implement effective
+                    controls over the services provided by the service organization, and the user
+                    auditor may not need to obtain information about controls at the service
+                    organization. If the user entity has not implemented effective controls over the
+                    service organization’s services, and the transactions processed or accounts or
+                    financial reporting processes affected by the service organization are material
+                    to the user entity’s financial statements, the user auditor will need to gain an
+                    understanding of relevant controls at the service organization.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.48" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.48</b> A user auditor
+                    is required to determine whether a sufficient understanding of the nature and
+                    significance of the services provided by the service organization and their
+                    effect on the user entity’s internal control relevant to the audit has been
+                    obtained to provide a basis for the identification and assessment of risks of
+                    material misstatement. <ph class="- topic/ph ">
+            <fn callout="7" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn7" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .11 of AU-C section 402B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_obtaining_an_understanding_of.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-85396219-6243-037c-227f-7b14497d88e7/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn7"/>
+         </ph> If the user auditor is unable to obtain (from the user entity) a
+                    sufficient understanding of the nature and significance of the services provided
+                    by the service organization and its effect on the user entity’s financial
+                    statements as they relate to financial instrument transactions, the user auditor
+                    is required to obtain that understanding from one or more of the following
+                    procedures: <ph class="- topic/ph ">
+            <fn callout="8" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn8" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .12 of AU-C section 402B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi3_obtaining_an_understanding_of.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-85396219-6243-037c-227f-7b14497d88e7/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9-aag-afi3-fn8"/>
+         </ph>
+      </p>
+      <ol outputclass="a" class="- topic/ol ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Obtaining and reading a type 1 or type 2 report, if available</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Contacting the service organization through the user entity to obtain
+                            specific information</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Visiting the service organization and performing procedures that will
+                            provide the necessary information about the relevant controls at the
+                            service organization</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Using another auditor to perform procedures that will provide the
+                            necessary information about the relevant controls at the service
+                            organization</p>
+         </li>
+      </ol>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

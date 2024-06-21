@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-36b93069-418f-360e-617e-fd22a8bcb986_UUID-c88975a2-2d99-c32f-de09-a339597f916a" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">FASB ASU No. 2020-03, Codification Improvements to Financial
+                        Instruments</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">In March 2020, FASB issued ASU No. 2020-03 to clarify or improve the
+                        codification.</p>
+      <p class="- topic/p ">ASU No. 2020-03 clarifies or addresses specific issues as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Fair value option disclosures (issue
+                                    1)</i>. The amendments clarify that all entities are
+                                required to provide the fair value option disclosures in paragraphs
+                                24–32 of FASB ASC 825-10-50.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Applicability of portfolio exception in
+                                    FASB ASC 820 to nonfinancial items (issue 2).</i> FASB
+                                ASC 820-10-35-2A(g) and FASB ASC 820-10-35-18L are amended to
+                                include the phrase nonfinancial items accounted for as derivatives
+                                under FASB ASC 815 to be consistent with the previous amendments to
+                                FASB ASC 820-10-35 that were made by ASU No. 2018-09, <i class="+ topic/ph hi-d/i ">Codification Improvements</i>.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Disclosures for depository and lending
+                                    institutions (issue 3).</i> The amendments clarify that
+                                the disclosure requirements in FASB ASC 320 apply to the disclosure
+                                requirements in FASB ASC 942, <i class="+ topic/ph hi-d/i ">Financial
+                                    Services — Depository and Lending</i> for depository and
+                                lending institutions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Cross-reference to line-of-credit or
+                                    revolving-debt arrangements guidance in FASB ASC 470-50 (issue
+                                    4).</i> The amendments improve the understandability of
+                                the guidance.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Cross-reference to new asset value
+                                    practical expedient in FASB ASC 820-10 (issue 5).</i> The
+                                amendments improve the understandability of the guidance.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Interaction of FASB ASC 842 and FASB ASC
+                                    326 (issue 6)</i>. The amendments clarify that the
+                                contractual term of a new investment in a lease determined in
+                                accordance with FASB ASC 842 should be the contractual term used to
+                                measure expected credit losses under FASB ASC 326.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">
+               <i class="+ topic/ph hi-d/i ">Interaction of FASB ASC 326 and FASB ASC
+                                    860-20 (issue 7)</i>. The amendments to FASB ASC 860-20
+                                clarify that when an entity regains control of financial assets
+                                sold, an allowance for credit losses should be recorded in
+                                accordance with FASB ASC 326.</p>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

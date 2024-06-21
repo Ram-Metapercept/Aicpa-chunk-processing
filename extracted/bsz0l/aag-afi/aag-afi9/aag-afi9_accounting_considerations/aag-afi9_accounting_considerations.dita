@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-cfe77faf-3cda-1c54-2572-bb90395955e4" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Accounting Considerations</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Accounting Considerations <ph class="- topic/ph ">
+            <fn callout="2" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn2" class="- topic/fn ">
+               <p class="- topic/p ">For simplicity, this case study ignores income tax consequences.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi9_accounting_considerations.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-cfe77faf-3cda-1c54-2572-bb90395955e4/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn2"/>
+         </ph>
+         <ph class="- topic/ph ">
+            <fn callout="3" id="UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn3" class="- topic/fn ">
+               <p class="- topic/p ">FASB Accounting Standards Update (ASU) No. 2016-13, <i class="+ topic/ph hi-d/i ">Financial Instruments — Credit Losses (Topic 326):
+                            Measurement of Credit Losses on Financial Instruments</i> was
+                        issued in June 2016. The ASU is effective for fiscal years of public
+                        business entities (PBEs) that are SEC filers in fiscal years beginning after
+                        December 15, 2019, including interim periods within those fiscal years. For
+                        all other entities, the amendments in ASU No. 2016-13 are effective for
+                        fiscal years beginning after December 15, 2022, including interim periods
+                        within those fiscal years, consistent with the amended effective date in ASU
+                        No. 2019-10, <i class="+ topic/ph hi-d/i ">Financial Instruments — Credit Losses
+                            (Topic 326), Derivatives and Hedging (Topic 815), and Leases (Topic
+                            842): Effective Dates</i>. Early application is permitted for all
+                        entities as of the fiscal years beginning after December 15, 2018, including
+                        interim periods within those fiscal years.</p>
+               <p class="- topic/p ">ASU No. 2016-13 creates FASB <i class="+ topic/ph hi-d/i ">Accounting Standards
+                            Codification</i> (ASC) 326, <i class="+ topic/ph hi-d/i ">Financial
+                            Instruments — Credit Losses</i>, to amend guidance on reporting
+                        credit losses for assets held at amortized cost basis and available for sale
+                        debt securities. For assets held at amortized cost basis, FASB ASC 326
+                        eliminates the probable initial recognition threshold in current generally
+                        accepted accounting principles (GAAP) and, instead, requires an entity to
+                        reflect its current estimate of all expected credit losses. The allowance
+                        for credit losses is a valuation account that is deducted from the amortized
+                        cost basis of the financial assets to present the net amount expected to be
+                        collected.</p>
+               <p class="- topic/p ">For available for sale debt securities, credit losses should be measured
+                        in a manner similar to current GAAP. However, FASB ASC 326 will require that
+                        credit losses be presented as an allowance rather than as a write-down. ASU
+                        No. 2016-13 affects entities holding financial assets and net investment in
+                        leases that are not accounted for at fair value through net income. The
+                        amendments affect loans, debt securities, trade receivables, net investments
+                        in leases, off-balance-sheet credit exposures, reinsurance receivables, and
+                        any other financial assets not excluded from the scope that have the
+                        contractual right to receive cash. This also changed guidance in FASB ASC
+                        325-40, which is related to initial and subsequent measurement.</p>
+               <p class="- topic/p ">Readers are encouraged to consult the full text of this ASU on FASB's
+                        website at <xref scope="external" format="html" class="- topic/xref " href="https://www.fasb.org">www.fasb.org</xref>.</p>
+               <p class="- topic/p ">For more information on ASU No. 2016-13, see <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi_appF/aag-afi_appF.dita#UUID-36b93069-418f-360e-617e-fd22a8bcb986">appendix F</xref>, "Accounting for Financial Instruments," of this
+                        guide.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi9_accounting_considerations.dita#UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48_UUID-cfe77faf-3cda-1c54-2572-bb90395955e4/UUID-cd3834e3-9ff9-6054-6464-0912a1d75d48-aag-afi9-fn3"/>
+         </ph>
+      </p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

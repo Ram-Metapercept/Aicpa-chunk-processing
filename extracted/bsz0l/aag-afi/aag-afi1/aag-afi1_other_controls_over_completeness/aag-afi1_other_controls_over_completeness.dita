@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_UUID-82eee068-5667-66ab-875f-d61361372a8d" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Other Controls Over Completeness, Accuracy, and Existence</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.21" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.21</b> The complexity inherent in some financial
+                instruments means it will not always be obvious how they should be recorded in the
+                entity’s systems. In such cases, management may set up control processes to monitor
+                policies that prescribe how particular types of transactions are measured, recorded,
+                and accounted for. These policies are typically established and reviewed in advance
+                by suitably qualified personnel who are capable of understanding the full effects of
+                the financial instruments being booked.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.22" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.22</b> Some transactions may be cancelled or amended
+                after initial execution. Application of appropriate controls relating to
+                cancellation or amendment can mitigate the risks of material misstatement due to
+                fraud or error. In addition, an entity may have a process in place to reconfirm
+                trades that are cancelled or amended.</p>
+      <p outputclass="ps_para_number" id="UUID-6fb2258c-c136-40b1-b87c-df36644428fb_aag-afi1.23" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">1.23</b> In financial institutions with a high volume
+                of trading, a senior employee typically reviews daily profits and losses on
+                individual traders’ books to evaluate whether they are reasonable based on the
+                employee’s knowledge of the market. Doing so may enable management to determine that
+                particular trades were not completely or accurately recorded or may identify fraud
+                by a particular trader. It is important that transaction authorization procedures
+                exist that support the more senior review.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

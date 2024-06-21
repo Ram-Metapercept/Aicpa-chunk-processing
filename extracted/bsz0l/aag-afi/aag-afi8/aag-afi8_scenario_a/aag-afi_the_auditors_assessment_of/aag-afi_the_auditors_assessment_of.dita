@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_UUID-bb263355-1ccd-e0f8-b03f-3a12a8c016d8" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">The Auditor’s Assessment of Control Risk</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.13" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.13</b> The auditor concludes that audit risk can
+                    be reduced to an acceptable level without testing Lane’s controls over financial
+                    instruments and financial instrument transactions. In addition, the auditor
+                    concludes that the number of financial instruments and financial instrument
+                    transactions is small enough that gathering audit evidence about the operating
+                    effectiveness of Lane’s controls sufficient to support an assessment of control
+                    risk as low or moderate is not likely to significantly improve audit
+                    efficiency.</p>
+      <p outputclass="ps_para_number" id="UUID-1911b3ac-218a-078f-9079-2004d1718a11_aag-afi8.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">8.14</b> However, if the number of transactions
+                    increases in future years, the auditor will reconsider that conclusion. For
+                    example, the auditor may be able to reduce the number of trades tested by
+                    gathering audit evidence about the operating effectiveness of Lane’s control
+                    that involves comparing the information in the trade confirmation with its
+                    record of the trade it directed the broker-dealer to execute and investigating
+                    significant differences. Audit evidence might be gathered by inspecting the
+                    documentation of the comparisons of trades, noting the timeliness of the
+                    comparison, and inspecting the documentation of the analysis of results and
+                    investigation of significant differences.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-65617d37-a196-f834-3ec3-7bc7947675f3" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Use of Service Organizations</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.14" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.14</b> Entities may use service organizations
+                        (for example, asset managers) to initiate the purchase or sale of financial
+                        instruments, maintain records of transactions for the entity, or value
+                        financial instruments. Some entities may be dependent on these service
+                        organizations to provide the basis of reporting for the financial
+                        instruments held. However, if management does not have an understanding
+                        about the controls in place at a service organization, the auditor may not
+                        be able to obtain sufficient appropriate audit evidence to rely on controls
+                        at that service organization. AU-C section 402B, <i class="+ topic/ph hi-d/i ">Audit Considerations Relating to an Entity Using a Service
+                            Organization</i>, establishes requirements for the auditor to
+                        obtain sufficient appropriate audit evidence when an entity uses the
+                        services of one or more service organizations. <xref format="dita" class="- topic/xref " href="../../../../../aag-afi/aag-afi3/aag-afi3_determining_whether_the_service/aag-afi3_determining_whether_the_service.dita#UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_UUID-72ee4708-332f-c1c4-efb6-f7c78e7d7b5c/UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.40">Paragraphs 3.40–.54</xref> provide further guidance about the use of a
+                        service organization.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.15" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.15</b> The use of service organizations may
+                        strengthen or weaken the control environment for financial instruments. For
+                        example, a service organization’s personnel may have more experience with
+                        financial instruments than the entity’s management or more robust internal
+                        control over financial reporting. The use of the service organization also
+                        may allow for greater segregation of duties. On the other hand, the service
+                        organization may have a poor control environment.</p>
+      <p outputclass="ps_para_number" id="UUID-d3d67b1e-aa0b-c680-ff9a-a1229c2d70f9_aag-afi3.16" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">3.16</b> <xref format="dita" class="- topic/xref " href="../../../../../aag-afi/aag-afi_appB/aag-afi_appB.dita#UUID-772977e9-0ae2-840f-1653-ba2e0646e888">Appendix B</xref>, "Illustrative Questions About the Entity’s Controls
+                        Over Its Financial Instrument Activities," of this guide provides an
+                        illustration of questions that may be helpful to the auditor in obtaining an
+                        understanding of an entity’s controls over its financial instrument
+                        activities.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

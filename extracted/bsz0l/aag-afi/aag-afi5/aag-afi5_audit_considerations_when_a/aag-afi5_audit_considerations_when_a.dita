@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-d0295277-6491-f473-5948-e19ce1088ade" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Audit Considerations When a Management’s Specialist Is Used by the
+                Entity</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.45" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.45</b> As discussed in
+                    <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi1/aag-afi1.dita#UUID-6fb2258c-c136-40b1-b87c-df36644428fb">chapter 1</xref> of this guide, management may engage a valuation specialist to
+                value some or all of the entity’s financial instruments. Such specialists may be
+                brokers, investment bankers, pricing services that also provide valuation services,
+                or other specialized valuation firms.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.46" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.46</b> Paragraph .08 of
+                AU-C section 500B contains requirements for the auditor when evaluating evidence
+                from a specialist engaged by management. The extent of the auditor’s procedures in
+                relation to management’s specialist and that specialist’s work depend on the
+                significance of the specialist’s work for the auditor’s purposes. Evaluating the
+                appropriateness of management’s specialist’s work assists the auditor in assessing
+                whether the prices or valuations supplied by management’s specialist provide
+                sufficient appropriate audit evidence to support the valuations. Examples of
+                procedures the auditor may perform include</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluating the competence, capabilities, and objectivity of management’s
+                        specialist (for example, his or her relationship with the entity, reputation
+                        and standing in the market, experience with the particular types of
+                        instruments, and understanding of the relevant financial reporting framework
+                        applicable to the valuations).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">obtaining an understanding of the work of management’s specialist (for
+                        example, by assessing the appropriateness of the valuation technique[s] used
+                        and the key market variables and assumptions used in the valuation
+                        technique[s]).</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">evaluating the appropriateness of that specialist’s work as audit
+                        evidence. At this point, the focus is on the appropriateness of the
+                        specialist’s work at the level of the individual financial instrument. For a
+                        sample of the relevant instruments, it may be appropriate to develop an
+                        estimate independently (see <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_developing_a_point_estimate/aag-afi5_developing_a_point_estimate.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-200ace4e-5f6c-c9ba-3790-9f0170078846/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.48">paragraphs 5.48–.49</xref> on developing a point estimate or range)
+                        using different data and assumptions, then compare that estimate with that
+                        of management’s specialist.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">other procedures that may include</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">modeling different assumptions to derive assumptions in another
+                                model, then considering the reasonableness of those derived
+                                assumptions.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">comparing management’s point estimates with the auditor’s point
+                                estimates to determine if management’s estimates are consistently
+                                higher or lower.</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.47" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.47</b> Assumptions may be
+                made or identified by management’s specialist to assist management in valuing its
+                financial instruments. Such assumptions, when used by management, become
+                management’s assumptions that the auditor needs to consider in the same manner as
+                management’s other assumptions.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

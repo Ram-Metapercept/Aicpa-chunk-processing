@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-200ace4e-5f6c-c9ba-3790-9f0170078846" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Developing a Point Estimate or Range</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.48" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.48</b> An auditor may develop a valuation technique
+                and adjust the inputs and assumptions used in the valuation technique to develop a
+                range for use in evaluating the reasonableness of management’s valuation. The
+                guidance in this chapter may assist the auditor in developing a point estimate or
+                range. In accordance with paragraph .13<i class="+ topic/ph hi-d/i ">d</i>(i) of
+                AU-C section 540B, if the auditor uses assumptions or methodologies that differ from
+                management’s, the auditor should obtain an understanding of management’s assumptions
+                or methodologies sufficient to establish that the auditor’s range takes into account
+                relevant variables and to evaluate any significant differences from management’s
+                valuation. The auditor may find it useful to use the work of an auditor’s specialist
+                to evaluate the reasonableness of management’s valuation.</p>
+      <p outputclass="ps_para_number" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.49" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">5.49</b> In some cases, the auditor may conclude that
+                sufficient evidence cannot be obtained from the auditor’s attempts to obtain an
+                understanding of management’s assumptions or methodology (for example, when a
+                third-party pricing source uses internally developed models and software and does
+                not allow access to relevant information). In such cases, the auditor may not be
+                able to obtain sufficient appropriate audit evidence about the valuation if the
+                auditor is unable to perform other procedures to respond to the risks of material
+                misstatement, such as developing a point estimate or range to evaluate management’s
+                point estimate, as discussed in <xref format="dita" class="- topic/xref " href="../../../aag-afi/aag-afi5/aag-afi5_audit_considerations_when_a/aag-afi5_audit_considerations_when_a.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-d0295277-6491-f473-5948-e19ce1088ade/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_aag-afi5.47">paragraph 5.47</xref>. <ph class="- topic/ph ">
+            <fn callout="13" id="UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn13" class="- topic/fn ">
+               <p class="- topic/p ">Paragraph .13<i class="+ topic/ph hi-d/i ">d</i> of AU-C section
+                        540B.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi5_developing_a_point_estimate.dita#UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e_UUID-200ace4e-5f6c-c9ba-3790-9f0170078846/UUID-9c9d2fc6-de9e-07fe-6cf4-51903c91da0e-aag-afi5-fn13"/>
+         </ph> AU-C section 705B, <i class="+ topic/ph hi-d/i ">Modifications to the Opinion
+                    in the Independent Auditor’s Report</i>, describes the implications of
+                the auditor’s inability to obtain sufficient appropriate audit evidence.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

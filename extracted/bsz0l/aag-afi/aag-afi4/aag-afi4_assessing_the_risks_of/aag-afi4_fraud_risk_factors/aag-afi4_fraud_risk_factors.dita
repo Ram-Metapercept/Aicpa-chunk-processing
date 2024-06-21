@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-b51b4045-335e-7b36-1033-2875dbcd7aff" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Fraud Risk Factors</title>
+   <body class="- topic/body ">
+      <p class="- topic/p ">Fraud Risk Factors <ph class="- topic/ph ">
+            <fn callout="4" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn4" class="- topic/fn ">
+               <p class="- topic/p ">AU-C section 240B, <i class="+ topic/ph hi-d/i ">Consideration of Fraud in a
+                                Financial Statement Audit</i>, addresses fraud risk
+                            factors.</p>
+            </fn>
+            <xref type="fn" class="- topic/xref " href="aag-afi4_fraud_risk_factors.dita#UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_UUID-b51b4045-335e-7b36-1033-2875dbcd7aff/UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a-aag-afi4-fn4"/>
+         </ph>
+      </p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.06" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.06</b> Incentives for
+                    fraudulent financial reporting by employees may exist when compensation
+                    arrangements are dependent on returns made from the use of financial
+                    instruments. Understanding how an entity’s compensation policies interact with
+                    its risk appetite and the incentives this may create for its management and
+                    traders may be important in assessing the risk of fraud.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.07</b> Difficult
+                    financial market conditions may give rise to increased incentives for management
+                    or employees to engage in fraudulent financial reporting to, for example</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">protect personal bonuses.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">hide employee or management fraud or error.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">avoid breaching regulatory, liquidity, or borrowing limits.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">avoid reporting losses.</p>
+         </li>
+      </ul>
+      <p class="- topic/p ">For example, at times of market instability, unexpected losses may arise from
+                    extreme fluctuations in market prices, from unanticipated declines in asset
+                    prices, through trading misjudgments, or for other reasons. In addition,
+                    financing difficulties create pressures on management concerned about the
+                    solvency of the business.</p>
+      <p outputclass="ps_para_number" id="UUID-a7c0fece-7c16-a46d-8615-e5009fdbd44a_aag-afi4.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">4.08</b> Misappropriation
+                    of assets and fraudulent financial reporting may often involve override of
+                    controls that otherwise may appear to be operating effectively. This may include
+                    override of controls over data, assumptions, and detailed process controls that
+                    allow losses and theft to be hidden. For example, difficult market conditions
+                    may increase pressure to conceal or offset trades as management attempts to
+                    recover losses.</p>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>

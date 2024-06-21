@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE aicpa-topic PUBLIC "-//PWC//DTD AICPA DITA Topic//EN" "aicpa-topic.dtd"><aicpa-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e82e029-dbd6-6b8d-bfea-26b00d2afdc6" ditaarch:DITAArchVersion="1.3" domains="(topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic aicpa-d)                            (topic markup-d xml-d)   " class="- topic/topic aicpa-topic/aicpa-topic ">
+   <title class="- topic/title ">Assertions About Financial Instruments Based on Management’s Intent and
+                    Ability</title>
+   <body class="- topic/body ">
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.07" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.07</b> Financial
+                    reporting frameworks may require that management’s intent and ability be
+                    considered in valuing certain financial instruments, as follows:</p>
+      <ul outputclass="ul bullet" class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether debt securities are classified as held to maturity and
+                            reported at their cost depends on management’s intent and ability to
+                            hold them to their maturity, as well as management’s assessment of
+                            whether it is more likely than not that they will be required to sell
+                            the security before the recovery of its amortized cost basis.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether equity securities are reported using the equity method depends
+                            on management’s ability to significantly influence the investee.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">Whether equity securities are classified as trading or available for
+                            sale depends on management’s intent and objectives in investing in the
+                            financial instruments.</p>
+         </li>
+      </ul>
+      <p outputclass="ps_para_number" id="UUID-74bfa951-889d-2381-c12d-652714e3320c_aag-afi6.08" class="- topic/p ">
+         <b class="+ topic/ph hi-d/b ">6.08</b> In evaluating
+                    management’s intent and ability, the auditor might</p>
+      <ul class="- topic/ul ">
+         <li class="- topic/li ">
+            <p class="- topic/p ">obtain an understanding of the process used by management to classify
+                            financial instruments as trading, available for sale, or held to
+                            maturity.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">for an investment accounted for using the equity method, inquire of
+                            management regarding whether the entity has the ability to exercise
+                            significant influence over the operating and financial policies of the
+                            investee and evaluate the attendant circumstances that serve as a basis
+                            for management’s conclusions.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">if the entity accounts for the investment contrary to the presumption
+                            established by the applicable financial reporting framework for use of
+                            the equity method, obtain sufficient appropriate audit evidence about
+                            whether that presumption has been overcome and whether appropriate
+                            disclosure is made regarding the reasons for not accounting for the
+                            investment in keeping with that presumption.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">consider whether management’s activities corroborate or conflict with
+                            its stated intent. For example, the auditor might evaluate an assertion
+                            that management intends to hold debt securities to their maturity by
+                            examining evidence such as documentation of management’s strategies and
+                            sales and other historical activities with respect to those financial
+                            instruments and similar financial instruments.</p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">determine whether the applicable financial reporting framework
+                            requires management to document its intentions and specify the content
+                            and timeliness of that documentation. <ph class="- topic/ph ">
+                  <fn callout="6" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn6" class="- topic/fn ">
+                     <p class="- topic/p ">Paragraphs 1–2 of FASB <i class="+ topic/ph hi-d/i ">Accounting
+                                        Standards Codification</i> (ASC) 320-10-25 require an
+                                    investor to classify and document the classification of debt
+                                    securities into one of three categories at their acquisition:
+                                    held to maturity, available for sale, or trading.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi6_assertions_about_financial_instruments.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e82e029-dbd6-6b8d-bfea-26b00d2afdc6/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn6"/>
+               </ph> The auditor might inspect the documentation and obtain audit
+                            evidence about its timeliness. Unlike the formal documentation required
+                            for hedging activities, audit evidence supporting the classification of
+                            debt and equity securities may be more informal. <ph class="- topic/ph ">
+                  <fn callout="7" id="UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn7" class="- topic/fn ">
+                     <p class="- topic/p ">FASB ASC 825-10-05-5 permits entities to choose to measure
+                                    many financial instruments and certain other items at fair value
+                                    that are not currently required to be measured at fair value.
+                                    FASB ASC 825-10-50 also establishes presentation and disclosure
+                                    requirements designed to facilitate comparisons between entities
+                                    that choose different measurement attributes for similar types
+                                    of assets and liabilities. FASB ASC 825-10-50 does not eliminate
+                                    disclosure requirements included in other accounting standards,
+                                    including requirements for disclosures about fair value
+                                    measurements included in FASB ASC 820, <i class="+ topic/ph hi-d/i ">Fair Value Measurement</i>.</p>
+                  </fn>
+                  <xref type="fn" class="- topic/xref " href="aag-afi6_assertions_about_financial_instruments.dita#UUID-74bfa951-889d-2381-c12d-652714e3320c_UUID-7e82e029-dbd6-6b8d-bfea-26b00d2afdc6/UUID-74bfa951-889d-2381-c12d-652714e3320c-aag-afi6-fn7"/>
+               </ph>
+            </p>
+         </li>
+         <li class="- topic/li ">
+            <p class="- topic/p ">determine whether management’s activities, contractual agreements, or
+                            the entity’s financial condition provide evidence of its ability, as
+                            follows:</p>
+            <ul outputclass="ul emdash" class="- topic/ul ">
+               <li class="- topic/li ">
+                  <p class="- topic/p ">The entity’s financial position, working capital needs,
+                                    operating results, debt agreements, guarantees, alternate
+                                    sources of liquidity, and other relevant contractual
+                                    obligations, as well as laws and regulations, may provide
+                                    evidence about an entity’s ability to hold debt financial
+                                    instruments to their maturity.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Management’s cash flow projections may suggest that it does
+                                    not have the ability to hold debt financial instruments to their
+                                    maturity.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">Management’s inability to obtain information from an investee
+                                    may suggest that it does not have the ability to significantly
+                                    influence the investee.</p>
+               </li>
+               <li class="- topic/li ">
+                  <p class="- topic/p ">If the entity asserts that it maintains effective control over
+                                    financial instruments transferred under a repurchase agreement,
+                                    the contractual agreement may be such that the entity actually
+                                    surrendered control over the financial instruments and,
+                                    therefore, should account for the transfer as a sale instead of
+                                    a secured borrowing.</p>
+               </li>
+            </ul>
+         </li>
+      </ul>
+   </body>
+   <related-links class="- topic/related-links ">
+      <linklist type="inline-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Inline Links</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Inline Links here</linktext>
+         </link>
+      </linklist>
+      <linklist type="frequently-asked-questions" class="- topic/linklist ">
+         <desc class="- topic/desc ">FAQs</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add FAQs here</linktext>
+         </link>
+      </linklist>
+      <linklist type="industry-insights" class="- topic/linklist ">
+         <desc class="- topic/desc ">Industry Insights</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Industry Insights here</linktext>
+         </link>
+      </linklist>
+      <linklist type="example-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Examples</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Examples here</linktext>
+         </link>
+      </linklist>
+      <linklist type="templates-links" class="- topic/linklist ">
+         <desc class="- topic/desc ">Templates</desc>
+         <link class="- topic/link ">
+            <linktext class="- topic/linktext ">Add Templates here</linktext>
+         </link>
+      </linklist>
+   </related-links>
+</aicpa-topic>
